@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "color_title",
+      "value": "വർണ്ണം"
+    },
+    {
+      "name": "donate",
+      "value": "സംഭാവന"
+    },
+    {
+      "name": "exposure_time",
+      "value": "എക്‌സ്പോഷർ സമയം"
+    },
+    {
+      "name": "focal_length",
+      "value": "ഫോക്കൽ ദൈർഘ്യം"
+    },
+    {
+      "name": "history",
+      "value": "ചരിത്രം"
+    },
+    {
+      "name": "information",
+      "value": "വിവരം"
+    },
+    {
+      "name": "install",
+      "value": "ഇൻസ്റ്റാൾ"
+    },
+    {
+      "name": "ok",
+      "value": "ശരി"
+    },
+    {
+      "name": "password",
+      "value": "പാസ്‌വേഡ്"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "വലുപ്പം"
+    },
+    {
+      "name": "sort_size",
+      "value": "വലുപ്പം"
+    },
+    {
+      "name": "text",
+      "value": "ടെക്സ്റ്റ്"
+    },
+    {
+      "name": "version",
+      "value": "പതിപ്പ്"
+    }
+  ]
+}

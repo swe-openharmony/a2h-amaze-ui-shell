@@ -1,0 +1,1384 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "தகவல்"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "அமேஸ் கோப்பு மேலாளர் பற்றிய தகவல்கள்"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "FAB மற்றும் இதர சிறிய இடைமுக கூறுகளுக்கு வண்ணத்தை அமைக்க"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "கோடுகளின் வண்ணம்"
+    },
+    {
+      "name": "accessed",
+      "value": "அனுகியது"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "குறுக்குவழியை சேர்"
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "புத்தகக்குறியில் சேர்"
+    },
+    {
+      "name": "advanced_search",
+      "value": "மேம்பட்டதேடல்"
+    },
+    {
+      "name": "album",
+      "value": "தொகுப்பு ஏடு"
+    },
+    {
+      "name": "anonymous",
+      "value": "பெயரில்லாத"
+    },
+    {
+      "name": "aperture_value",
+      "value": "துளைமதிப்பு"
+    },
+    {
+      "name": "apks",
+      "value": "ஏபிகேகள்"
+    },
+    {
+      "name": "app_name",
+      "value": "அமேஸ் கோப்பு மேலாளர்"
+    },
+    {
+      "name": "apps",
+      "value": "நிரல் மேலாளர்"
+    },
+    {
+      "name": "archive",
+      "value": "சுருக்ககாப்பு"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "சுருக்ககாப்பை பிரிக்கும் கோப்புறை"
+    },
+    {
+      "name": "archive_summary",
+      "value": "சுருக்ககாப்பு கோப்புகள் இந்த கோப்புறையில் பிரித்தெடுக்கப்படும். சுருக்ககாப்பு இருக்கும் அடைவிலேயே இயல்பாக பிரித்தெடுக்கும்."
+    },
+    {
+      "name": "archive_text",
+      "value": "இது ஒரு சுருக்ககாப்பு. என்ன செயல் செய்ய விரும்புகிறீர்கள்?"
+    },
+    {
+      "name": "artist",
+      "value": "கலைஞர்"
+    },
+    {
+      "name": "ascending",
+      "value": "ஏறுமுகப்படுத்தல்"
+    },
+    {
+      "name": "audio",
+      "value": "கேட்பொலி"
+    },
+    {
+      "name": "author",
+      "value": "ஆசிரியர்"
+    },
+    {
+      "name": "authors",
+      "value": "பதிப்பாளர்ககள்"
+    },
+    {
+      "name": "back_summary",
+      "value": "விருப்ப பின் ஊடுருவலை பட்டியலில் மேலே செயல்படுத்துகிறது"
+    },
+    {
+      "name": "back_title",
+      "value": "பின் ஊடுருவல்"
+    },
+    {
+      "name": "backup",
+      "value": "காப்பு"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "பசுயூ"
+    },
+    {
+      "name": "bitrate",
+      "value": "துண்டு விகிதம்"
+    },
+    {
+      "name": "blue",
+      "value": "நீலம்"
+    },
+    {
+      "name": "bluetooth",
+      "value": "ப்ளூடூத்"
+    },
+    {
+      "name": "bookmark_lost",
+      "value": "புத்தகக்குறி காணப்படவில்லை, மறுஉருவாக்குகிறது…"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "புத்தகக்குறிகள் சேர்க்கப்பட்டது"
+    },
+    {
+      "name": "calculating",
+      "value": "கணக்கிடப்படுகிறது"
+    },
+    {
+      "name": "camera_brand",
+      "value": "புகைப்படக்கருவி நிறுவனம்"
+    },
+    {
+      "name": "camera_model",
+      "value": "புகைப்படக்கருவி வகை"
+    },
+    {
+      "name": "cancel",
+      "value": "ரத்து செய்"
+    },
+    {
+      "name": "cancelled",
+      "value": "தவிர்க்ப்பட்டது"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s காலியாக இருக்கக்கூடாது"
+    },
+    {
+      "name": "changelog",
+      "value": "மாற்ற பதிவு"
+    },
+    {
+      "name": "channels",
+      "value": "தகவல் தொடர்புத்தளம்"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "சீனம்"
+    },
+    {
+      "name": "choose_color",
+      "value": "வண்ணத்தை தேர்வுசெய்க"
+    },
+    {
+      "name": "circular_icons",
+      "value": "வட்ட படவுருக்களை பயன்படுத்து"
+    },
+    {
+      "name": "circular_images",
+      "value": "நிழற்படங்கள் மற்றும் காணொளிகளுக்கு வட்ட படவுருக்களை பயன்படுத்து"
+    },
+    {
+      "name": "clear",
+      "value": "சுத்தம் செய்க"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "பாதை பிடிப்பு பலகைக்கு நகலெடுக்கப்பட்டது"
+    },
+    {
+      "name": "close",
+      "value": "மூடு"
+    },
+    {
+      "name": "codec",
+      "value": "இருவழி குறிமுறை மாற்றி"
+    },
+    {
+      "name": "color_summary",
+      "value": "பல்வேறு இடைமுக கூறுகளுக்கு வண்ணத்தை அமைக்க"
+    },
+    {
+      "name": "color_title",
+      "value": "வண்ணம்"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "வண்ணமய ஊடுருவல் பட்டை"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "முறைமை ஊடுருவல் பட்டை வண்ண அமைப்பால் வண்ணமயமாக்கப்பட்டாலும் இல்லாவிட்டாலும்"
+    },
+    {
+      "name": "colorize",
+      "value": "வண்ண படவுரு"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "நிலையான படவுரு வண்ணத்தை அமைகிறது. அடைவு படவுரு வண்ண விருப்பம் மேலோங்காது."
+    },
+    {
+      "name": "comment",
+      "value": "விமர்சனம்"
+    },
+    {
+      "name": "compress",
+      "value": "நெருக்கி அழுத்திவை"
+    },
+    {
+      "name": "compressing",
+      "value": "நெருக்கி அழுத்திவைக்கப்பட்டது"
+    },
+    {
+      "name": "compression_complete",
+      "value": "முழுமையாக சுருக்கப்பட்டது"
+    },
+    {
+      "name": "connection_name",
+      "value": "இணைப்பின் பெயர்"
+    },
+    {
+      "name": "container",
+      "value": "கொள்கலன்"
+    },
+    {
+      "name": "contributors",
+      "value": "பங்களிப்பாளர்கள்"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "எப்டீபி சேவையகம்"
+    },
+    {
+      "name": "copied",
+      "value": "நகலெடுக்கப்பட்டது"
+    },
+    {
+      "name": "copy",
+      "value": "நகல்"
+    },
+    {
+      "name": "copy_complete",
+      "value": "முழுமையாக நகலெடுக்கப்பட்டது"
+    },
+    {
+      "name": "copy_error",
+      "value": "சில கோப்புகள் %s யில் வெற்றி அடையவில்லை"
+    },
+    {
+      "name": "copying",
+      "value": "நகலெடுகிறது"
+    },
+    {
+      "name": "create",
+      "value": "உருவாக்கு"
+    },
+    {
+      "name": "created",
+      "value": "உருவாக்கப்பட்டது"
+    },
+    {
+      "name": "creatingfile",
+      "value": "கோப்பை உருவாக்குகிறது"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "கோப்புறையை உருவாக்குகிறது"
+    },
+    {
+      "name": "creator",
+      "value": "உ ருவாக்கியவர்"
+    },
+    {
+      "name": "current_speed",
+      "value": "தற்போதைய வேகம்"
+    },
+    {
+      "name": "cut",
+      "value": "வெட்டு"
+    },
+    {
+      "name": "dark",
+      "value": "திட கருமை நிறம்"
+    },
+    {
+      "name": "database",
+      "value": "தரவுத்தளம்"
+    },
+    {
+      "name": "databasereader",
+      "value": "தரவுத்தள வசிப்பாளர்"
+    },
+    {
+      "name": "date",
+      "value": "தேதி"
+    },
+    {
+      "name": "date_modified",
+      "value": "தேதி மாற்றியமைக்கப்பட்டது"
+    },
+    {
+      "name": "date_taken",
+      "value": "எடுக்கப்பட்ட தேதி"
+    },
+    {
+      "name": "daytime",
+      "value": "பகல் நேரம்"
+    },
+    {
+      "name": "default_string",
+      "value": "இயல்புநிலை"
+    },
+    {
+      "name": "delbook",
+      "value": "புத்தகக்குறியை அழி"
+    },
+    {
+      "name": "delete",
+      "value": "அழி"
+    },
+    {
+      "name": "deleting",
+      "value": "அழிக்கிறது"
+    },
+    {
+      "name": "descending",
+      "value": "இறங்குமுகப்படுத்தல்"
+    },
+    {
+      "name": "details",
+      "value": "விளக்கம்"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "அடைவுகள்"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "கோப்புகள்"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "நீங்கள் பின்வரும் கோப்புகளை அழிக்க விரும்புகிறீர்களா?"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "உறுதி செய்தல்"
+    },
+    {
+      "name": "dimensions",
+      "value": "பரிணாமங்கள்"
+    },
+    {
+      "name": "directorysort",
+      "value": "அடைவு வரிசைபாடு முறை"
+    },
+    {
+      "name": "documents",
+      "value": "ஆவணங்கள்"
+    },
+    {
+      "name": "doforall",
+      "value": "அனைத்து உருப்படிகளுக்கும் செய்க"
+    },
+    {
+      "name": "doit",
+      "value": "செய்து முடி"
+    },
+    {
+      "name": "domain",
+      "value": "டொமைன்"
+    },
+    {
+      "name": "donate",
+      "value": "பண உதவி"
+    },
+    {
+      "name": "done",
+      "value": "முடிந்தது"
+    },
+    {
+      "name": "drawer_close",
+      "value": "ஊடுருவல் பட்டியை மூடு"
+    },
+    {
+      "name": "drawer_open",
+      "value": "ஊடுருவல் பட்டியை திற"
+    },
+    {
+      "name": "duration",
+      "value": "காலஅளவு"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "டச்சு"
+    },
+    {
+      "name": "easter_egg_title",
+      "value": "ஸ்டூடியோ முறை"
+    },
+    {
+      "name": "edit",
+      "value": "மாற்று"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "ரூட் முறையை இயக்கு"
+    },
+    {
+      "name": "entername",
+      "value": "பெயரை உள்ளீடு"
+    },
+    {
+      "name": "enterpath",
+      "value": "பாதையை உள்ளீடு"
+    },
+    {
+      "name": "enterzipname",
+      "value": "ஜிப்  பெயரை உள்ளீடவும்"
+    },
+    {
+      "name": "error",
+      "value": "பிழை"
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "பிழை:கோப்பு காணப்படவில்லை"
+    },
+    {
+      "name": "error_io",
+      "value": "I/O பிழை"
+    },
+    {
+      "name": "exit",
+      "value": "வெளியேறு"
+    },
+    {
+      "name": "exposure_time",
+      "value": "வெளிக்காட்டும் நேரம்"
+    },
+    {
+      "name": "extract",
+      "value": "பிரித்தல்"
+    },
+    {
+      "name": "extract_complete",
+      "value": "முழுமையாக பிரித்தெடுக்கிகிறது"
+    },
+    {
+      "name": "extracting",
+      "value": "பிரித்தெடுக்கிறது"
+    },
+    {
+      "name": "feedback",
+      "value": "பின்னூட்டம் அனுப்பு"
+    },
+    {
+      "name": "file",
+      "value": "கோப்பு"
+    },
+    {
+      "name": "file_empty",
+      "value": "கோப்பு காலியாக உள்ளது"
+    },
+    {
+      "name": "fileexist",
+      "value": "இதே பெயரில் கோப்பு ஏற்கனவே உள்ளது"
+    },
+    {
+      "name": "files",
+      "value": "கோப்புகள்"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "கோப்புகள் மேலே"
+    },
+    {
+      "name": "find",
+      "value": "பக்கத்தில் தேடு"
+    },
+    {
+      "name": "flash_fired",
+      "value": "மின்வெட்டோளி நெருப்பு"
+    },
+    {
+      "name": "focal_length",
+      "value": "குவிய நீளம்"
+    },
+    {
+      "name": "folder",
+      "value": "கோப்புறை"
+    },
+    {
+      "name": "folders",
+      "value": "கோப்புறைகள்"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "கோப்புறைகள் மேலே"
+    },
+    {
+      "name": "format",
+      "value": "அமைப்பு"
+    },
+    {
+      "name": "frame_rate",
+      "value": "சட்டவிகிதம்"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "ப்ரெஞ்சு"
+    },
+    {
+      "name": "ftp",
+      "value": "எப்டீபி சேவையகம்"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "நீங்கள் வைபை உடன் இணைத்து உள்ளதா என உறுதிசெய்யவும்"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "எப்டிபி சேவையகம் தொடங்குகிறது"
+    },
+    {
+      "name": "ftp_notif_starting_title",
+      "value": "எப்டீபி சேவையகம்"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "நிறுத்து"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "%s யில்"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "அமேஸ் எப்டிபி சேவையகம் இயங்கிக்கொண்டு இருக்கிறது"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "தகுதியற்ற போர்ட் எண் தேர்வுசெய்யப்பட்டது"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "FTP PORT வெற்றிகரமாக மாற்றப்பபட்டது"
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "FTP port ஐ தேர்ந்த்தேடு"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "இயங்கவில்லை"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "இயங்குகிறது"
+    },
+    {
+      "name": "general",
+      "value": "பொது"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "ஜெர்மன்"
+    },
+    {
+      "name": "goback",
+      "value": "பின்னே செல்"
+    },
+    {
+      "name": "grant",
+      "value": "வழங்கு"
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "மேலும் தொடர நிரலுக்கு நினைவாக அனுமதி தேவை. இந்த உரையை ரத்துச்செய்தால் நிரலில் இருந்து வெளியேற்றப்படுவீர்கள்"
+    },
+    {
+      "name": "grantfailed",
+      "value": "அனுமதி வழங்கப்படவில்லை"
+    },
+    {
+      "name": "grantper",
+      "value": "அனுமதி வழங்கு"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "கிரேக்கம்"
+    },
+    {
+      "name": "green",
+      "value": "பச்சை"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "கட்ட பார்வையில் வரிசையின் எண்ணிக்கை"
+    },
+    {
+      "name": "gridview",
+      "value": "கட்ட பார்வை"
+    },
+    {
+      "name": "height",
+      "value": "உயரம்"
+    },
+    {
+      "name": "hidden",
+      "value": "மறைக்கப்பட்ட கோப்பு மற்றும் கோப்புறைகளை காண்பி"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "மறைத்த கோப்புகள்"
+    },
+    {
+      "name": "hide",
+      "value": "மறை"
+    },
+    {
+      "name": "history",
+      "value": "வரலாறு"
+    },
+    {
+      "name": "home",
+      "value": "முகப்பு"
+    },
+    {
+      "name": "icon",
+      "value": "படவுரு"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "படவுருகளுக்கு வண்ணத்தை அமை"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "படவுறு வண்ணம்"
+    },
+    {
+      "name": "image",
+      "value": "நிழற்பபடம்"
+    },
+    {
+      "name": "image_iso",
+      "value": "ISO வேக மதிப்பீடு"
+    },
+    {
+      "name": "image_type",
+      "value": "படத்தின் வகை"
+    },
+    {
+      "name": "images",
+      "value": "உருவம்"
+    },
+    {
+      "name": "in_safe",
+      "value": "போதுமான இடவசதி இல்லை"
+    },
+    {
+      "name": "information",
+      "value": "தகவல்"
+    },
+    {
+      "name": "install",
+      "value": "நிறுவு"
+    },
+    {
+      "name": "invalid",
+      "value": "தவறான %s"
+    },
+    {
+      "name": "invalid_name",
+      "value": "தவறான பெயர்"
+    },
+    {
+      "name": "ip",
+      "value": "முகவரி"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "இத்தாலியன்"
+    },
+    {
+      "name": "item",
+      "value": "உருப்படி"
+    },
+    {
+      "name": "items",
+      "value": "உருப்படிகள்"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "ஜப்பானியம்"
+    },
+    {
+      "name": "keywords",
+      "value": "முக்கிய வார்த்த்தைகள்"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "கொரியன்"
+    },
+    {
+      "name": "lastModified",
+      "value": "கடைசியாக மாற்றியது"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "கடைசியாக மாற்றப்பட்டதை காண்பி"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "கோப்பு கடைசியாக மாற்றப்பட்ட தேதி மற்றும் நேரத்தை காண்பி"
+    },
+    {
+      "name": "light",
+      "value": "திட வெண்மை நிறம்"
+    },
+    {
+      "name": "listview",
+      "value": "பட்டியல் பார்வை"
+    },
+    {
+      "name": "loading",
+      "value": "ஏற்றப்படுகிறது…"
+    },
+    {
+      "name": "location",
+      "value": "இடம்"
+    },
+    {
+      "name": "match_content",
+      "value": "தகவலை பொருத்திப்பார்"
+    },
+    {
+      "name": "match_content_summary",
+      "value": "அமைத்தால், வழக்கமான உச்சரிப்பு கோப்பின் பெயருடன் பொருத்திப்பார்க்கப்படும்,\n        இல்லையேல் வேறுமாதிரி செயல்படும்."
+    },
+    {
+      "name": "md5",
+      "value": "md5:"
+    },
+    {
+      "name": "medium_text",
+      "value": "நடுத்தர உரை"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "இதரம்"
+    },
+    {
+      "name": "modified",
+      "value": "மாற்றியமைக்கப்பட்டது"
+    },
+    {
+      "name": "moved",
+      "value": "நகர்த்தப்பட்டது"
+    },
+    {
+      "name": "moving",
+      "value": "நகர்த்துகிறது"
+    },
+    {
+      "name": "name",
+      "value": "பெயர்"
+    },
+    {
+      "name": "needs_access",
+      "value": "எழுத அணுகல் தேவைப்படுகிறது"
+    },
+    {
+      "name": "needs_access_summary",
+      "value": "தயவுசெய்து பின்வருவத்தின் ரூட் அடைவை தேர்வுசெய்க \\\\t"
+    },
+    {
+      "name": "needs_access_summary1",
+      "value": "\\\\t இயக்கத்திற்கு எழுத அணுகல் வழங்க"
+    },
+    {
+      "name": "newfile",
+      "value": "புதிய கோப்பு"
+    },
+    {
+      "name": "newfolder",
+      "value": "புதிய கோப்புறை"
+    },
+    {
+      "name": "no",
+      "value": "இல்லை"
+    },
+    {
+      "name": "no_app_found",
+      "value": "இந்த கோப்பினை திறக்கக்கூடிய நிரல் இல்லை"
+    },
+    {
+      "name": "no_device_found",
+      "value": "சாதனம் காணப்பபடவில்லை"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "கோப்பு மேலெழுதப்படவில்லை"
+    },
+    {
+      "name": "no_files",
+      "value": "கோப்புகள் இல்லை"
+    },
+    {
+      "name": "none_on_top",
+      "value": "மேலே எதுவுமில்லை"
+    },
+    {
+      "name": "not_allowed",
+      "value": "அனுமதி இல்லை"
+    },
+    {
+      "name": "of",
+      "value": "உடைய"
+    },
+    {
+      "name": "ok",
+      "value": "சரி"
+    },
+    {
+      "name": "open",
+      "value": "திற"
+    },
+    {
+      "name": "open_as",
+      "value": "இந்த முறையில் திறக்க"
+    },
+    {
+      "name": "open_parent",
+      "value": "முதன்மை அடைவை திற"
+    },
+    {
+      "name": "open_with",
+      "value": "வேறு முறையில் திற"
+    },
+    {
+      "name": "opening",
+      "value": "திறத்தல்"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "செயல்முறை தோல்வி"
+    },
+    {
+      "name": "optimized",
+      "value": "உ கந்த அளவாக்கியது"
+    },
+    {
+      "name": "orange",
+      "value": "ஆரஞ்சு"
+    },
+    {
+      "name": "otg_access",
+      "value": "OTG சாதனத்தின் ரூட் தேர்வு"
+    },
+    {
+      "name": "other",
+      "value": "பிற"
+    },
+    {
+      "name": "out_of",
+      "value": "வெளியே"
+    },
+    {
+      "name": "overwrite",
+      "value": "மேலெழுது"
+    },
+    {
+      "name": "package_installer",
+      "value": "நிரல் தொகுப்பு நிறுவுனர்"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "இது ஒரு நிரல் தொகுப்பு நிறுவி. என்ன செயல் செய்ய விரும்புகிறீர்கள்?"
+    },
+    {
+      "name": "pages",
+      "value": "பக்கங்களின் எண்ணிக்கை"
+    },
+    {
+      "name": "paper_size",
+      "value": "இதழின் அளவு"
+    },
+    {
+      "name": "password",
+      "value": "கடவுச்சொல்"
+    },
+    {
+      "name": "paste",
+      "value": "ஒட்டு"
+    },
+    {
+      "name": "path",
+      "value": "பாதை"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "பேபால் ஐடி பிடிப்புபலகைக்கு நகலெடுக்கப்பட்டது"
+    },
+    {
+      "name": "permission",
+      "value": "அனுமதிகள்"
+    },
+    {
+      "name": "permission_execute",
+      "value": "செயல்படுத்தம்"
+    },
+    {
+      "name": "permission_group",
+      "value": "குழு"
+    },
+    {
+      "name": "permission_other",
+      "value": "பிற"
+    },
+    {
+      "name": "permission_owner",
+      "value": "உரிமையாளர்"
+    },
+    {
+      "name": "permission_read",
+      "value": "படித்தல்"
+    },
+    {
+      "name": "permission_write",
+      "value": "எழுதுதல்"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "கோப்பை எடுக்கவும்"
+    },
+    {
+      "name": "play",
+      "value": "ப்ளே ஸ்டோர்"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "போலிஷ்"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "போர்த்துக்கீசியம்"
+    },
+    {
+      "name": "press_again",
+      "value": "வெளியேற மீண்டும் அழுத்தவும்"
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "இடது தாவலின் பெரிய இடைமுக கூறுகளுக்கு வண்ணத்தை அமைக்க"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "முதன்மை வண்ணம் (இடது தாவல்)"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "வலது தாவலின் பெரிய இடைமுக கூறுகளுக்கு வண்ணத்தை அமைக்க"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "முதன்மை வண்ணம் (வலது தாவல்)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "செயல்பாடு பார்வையகம்"
+    },
+    {
+      "name": "processing_file",
+      "value": "செயலாக்கோப்பு"
+    },
+    {
+      "name": "producer",
+      "value": "தயாரிப்பாளர்"
+    },
+    {
+      "name": "properties",
+      "value": "பண்புகள்"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "நீங்கள் இந்த தாவலுக்கு தற்போதைய பாதையை முகப்பாக அமைக்கவேண்டுமா?"
+    },
+    {
+      "name": "quick",
+      "value": "விரைவு அணுகல்"
+    },
+    {
+      "name": "random",
+      "value": "சுழற்சிமுறை வண்ணம்"
+    },
+    {
+      "name": "random_summary",
+      "value": "தொடங்கும்போது சுழற்சிமுறை வண்ணம் அமைகிறது"
+    },
+    {
+      "name": "rate",
+      "value": "நிரலை மதிப்பீடு"
+    },
+    {
+      "name": "recent",
+      "value": "சமீபத்திய கோப்புகள்"
+    },
+    {
+      "name": "regular_expression",
+      "value": "வழக்கமான உச்சரிப்பு"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "பாஷ் பாணி வழக்கமான உச்சரிப்பை பயன்படுத்தி தேடவும்"
+    },
+    {
+      "name": "rename",
+      "value": "மறுபெயரிடு"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "புத்தகக்குறிகளை மாற்றியமை"
+    },
+    {
+      "name": "renaming",
+      "value": "மறுபெயரிடுகிறது"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "பிழைகளை அறிவி அல்லது புதிய அம்சத்திற்கு வேண்டுகோள்விடுக்க"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "பிழைகளின் அறிவித்தல்"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "ரோமானியன்"
+    },
+    {
+      "name": "root_directory",
+      "value": "ரூட்"
+    },
+    {
+      "name": "root_failure",
+      "value": "ரூட் அணுகல் கிடைக்கப்பெறவில்லை"
+    },
+    {
+      "name": "root_mode",
+      "value": "ரூட் ஆய்வாளர்"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "ரூட் செய்யப்பட்ட சாதனத்திற்கு மட்டும். நீங்கள் நிச்சயமாக இருந்தால் மட்டும் இதை சோதித்து பார்க்கவும்."
+    },
+    {
+      "name": "root_pref",
+      "value": "அனுமதிகளை காண்பி"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "கோப்பு மற்றும் கோப்புறைகளின் அனுமதிகளை காண்பி"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "இரஷ்யன்"
+    },
+    {
+      "name": "sample_rate",
+      "value": "மாதிரி விகிதம்"
+    },
+    {
+      "name": "save",
+      "value": "சேமி"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "தொடங்கும்போது, அதிகமாக பார்க்கப்பட்ட கோப்புறை ஒவ்வொரு தாவலிலும் காட்டப்படும்"
+    },
+    {
+      "name": "save_paths",
+      "value": "பாதைகளை நினைவுகொள்க"
+    },
+    {
+      "name": "saving",
+      "value": "சேமிக்கிறது"
+    },
+    {
+      "name": "search",
+      "value": "தேடுதல்"
+    },
+    {
+      "name": "search_hint",
+      "value": "தேட உள்ளீடவும்…"
+    },
+    {
+      "name": "searching_devices",
+      "value": "சாதனத்தை தேடுகிறது"
+    },
+    {
+      "name": "security",
+      "value": "பாதுகாப்பு"
+    },
+    {
+      "name": "select",
+      "value": "தேர்ந்தெடு"
+    },
+    {
+      "name": "select_all",
+      "value": "அனைத்தையும் தேர்ந்தெடு"
+    },
+    {
+      "name": "select_intent",
+      "value": "தேர்ந்தெடு"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "செர்பியன்"
+    },
+    {
+      "name": "server_address",
+      "value": "சர்வர் ஐபி முகவரி"
+    },
+    {
+      "name": "set",
+      "value": "அமை"
+    },
+    {
+      "name": "set_as_home",
+      "value": "முகப்பாக அமை"
+    },
+    {
+      "name": "set_random",
+      "value": "நிரலை மறுதொடங்கிய பிறகு மாற்றங்கள் அமலுக்கு வரும்"
+    },
+    {
+      "name": "setting",
+      "value": "அமைப்புகள்"
+    },
+    {
+      "name": "share",
+      "value": "பகிர்"
+    },
+    {
+      "name": "share_limit",
+      "value": "100 கோப்புகளுக்கு மேல் பகிரமுடியாது"
+    },
+    {
+      "name": "show_dividers",
+      "value": "வகுப்புகளை காண்பி"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "அளவீடு"
+    },
+    {
+      "name": "size_pref",
+      "value": "அளவை காண்பி"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "கோப்புறைகளில் கோப்புகளின் அளவையும் உருபடிகளின் எண்ணிக்கையும் காண்பி"
+    },
+    {
+      "name": "skip",
+      "value": "தவிர்"
+    },
+    {
+      "name": "smb_connection",
+      "value": "SMB தொடர்பு"
+    },
+    {
+      "name": "smb_launch_error",
+      "value": "இந்த கோப்பை திறக்க நீங்கள் இதை உங்கள் நினைவாகத்திற்கு நகலெடுக்க வேண்டும்"
+    },
+    {
+      "name": "software",
+      "value": "மென்பொருள்"
+    },
+    {
+      "name": "sort",
+      "value": "வரிசைப்படுத்து"
+    },
+    {
+      "name": "sort_by",
+      "value": "வரிசை முறை"
+    },
+    {
+      "name": "sort_name",
+      "value": "பெயர்"
+    },
+    {
+      "name": "sort_size",
+      "value": "அளவீடு"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "ஸ்பேனிஷ்"
+    },
+    {
+      "name": "start_ftp",
+      "value": "தொடங்கு"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "நிறுத்து"
+    },
+    {
+      "name": "stopping",
+      "value": "நிறுத்துகிறது"
+    },
+    {
+      "name": "subject",
+      "value": "பாடம்"
+    },
+    {
+      "name": "support_development",
+      "value": "வளர்ச்சிக்கு ஆதரவு"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "தமிழ்"
+    },
+    {
+      "name": "text",
+      "value": "உரை"
+    },
+    {
+      "name": "textreader",
+      "value": "உரை வாசிப்பாளர்"
+    },
+    {
+      "name": "theme",
+      "value": "அடிப்படை வண்ணம்"
+    },
+    {
+      "name": "thumb",
+      "value": "சிறுபடவுருகளை காண்பி"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "நிரல்கள் மற்றும் படங்களின் சிறுபடவுருகளை காண்பி"
+    },
+    {
+      "name": "title",
+      "value": "தலைப்பு"
+    },
+    {
+      "name": "total",
+      "value": "மொத்தம்:"
+    },
+    {
+      "name": "translate_summary",
+      "value": "அமெஸ்ஸை உன் மொழிக்கு மாற்று"
+    },
+    {
+      "name": "translate_title",
+      "value": "மொழிபெயர்ப்பு"
+    },
+    {
+      "name": "translators",
+      "value": "மொழிபெயர்ப்பாளர்கள்"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "துருக்கியம்"
+    },
+    {
+      "name": "type",
+      "value": "வகை"
+    },
+    {
+      "name": "ui",
+      "value": "இடைமுகம்"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "உக்ரேனியன்"
+    },
+    {
+      "name": "unin_system_apk",
+      "value": "இது முறைமை நிரல், இதை நீக்கினால் முறைமை நிலையற்றதாகிவிடும்.\\\\nதொடரவேண்டுமா?"
+    },
+    {
+      "name": "uninstall",
+      "value": "நிறுவல் நீக்கம்"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "சேமிக்கப்படாத மாற்றங்கள்"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "நீங்கள் சேமிக்கப்படாத மாற்றங்கள் உள்ளன, வெளியேறுவதற்கு முன் அவைகளை நீங்கள்  விரும்புகிறீர்கள்?"
+    },
+    {
+      "name": "username",
+      "value": "பயனர் பெயர்"
+    },
+    {
+      "name": "version",
+      "value": "பதிப்பு"
+    },
+    {
+      "name": "video",
+      "value": "காணொலி"
+    },
+    {
+      "name": "videos",
+      "value": "காணொலிகள்"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "வியட்நாமியர்"
+    },
+    {
+      "name": "view",
+      "value": "பார்த்தல்"
+    },
+    {
+      "name": "waiting_content",
+      "value": "செயல் முடிவடைய காத்திருக்கிறது"
+    },
+    {
+      "name": "waiting_title",
+      "value": "காத்திருத்தல்"
+    },
+    {
+      "name": "want_help",
+      "value": "உதவி தேவையா?"
+    },
+    {
+      "name": "warning",
+      "value": "எச்சரிக்கை"
+    },
+    {
+      "name": "width",
+      "value": "அகலம்"
+    },
+    {
+      "name": "written",
+      "value": "எழுதியது"
+    },
+    {
+      "name": "xda_summary",
+      "value": "Q&A, உதவி & பழுது நீக்கம்"
+    },
+    {
+      "name": "xda_title",
+      "value": "XDA உறைகள்"
+    },
+    {
+      "name": "year",
+      "value": "வருடம்"
+    },
+    {
+      "name": "yes",
+      "value": "ஆம்"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "ஜிப் பார்வையாளர்"
+    }
+  ]
+}

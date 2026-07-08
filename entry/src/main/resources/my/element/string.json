@@ -1,0 +1,2572 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "About"
+    },
+    {
+      "name": "about_amaze",
+      "value": "Material design file manager for Android"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "About Amaze File Manager"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "Set color to FAB and other small UI elements"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "Accent Color"
+    },
+    {
+      "name": "accessed",
+      "value": "Accessed"
+    },
+    {
+      "name": "add_item",
+      "value": "Add Item"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "Add Shortcut"
+    },
+    {
+      "name": "add_shortcut_not_supported_by_launcher",
+      "value": "Shortcuts creation is not supported by your launcher."
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "Add to Bookmarks"
+    },
+    {
+      "name": "advanced",
+      "value": "Advanced"
+    },
+    {
+      "name": "advanced_search",
+      "value": "Advanced Search"
+    },
+    {
+      "name": "album",
+      "value": "Album"
+    },
+    {
+      "name": "always",
+      "value": "Always"
+    },
+    {
+      "name": "amaze_audio_player",
+      "value": "Amaze Music Player"
+    },
+    {
+      "name": "amaze_utils_installed_alias",
+      "value": "Thank you for installing Amaze File Utilities. You're being redirected to the app."
+    },
+    {
+      "name": "analyse_storage",
+      "value": "Analyse Storage"
+    },
+    {
+      "name": "android_data_prompt_saf_access",
+      "value": "Since Android 10, Android had imposed restrictions on certain directories, and they need to access with Storage Access Framework.\\n\\nPlease allow Amaze to access the directory from the system's file manager by tapping \"Allow Access\"."
+    },
+    {
+      "name": "android_data_prompt_saf_access_title",
+      "value": "Grant SAF access"
+    },
+    {
+      "name": "anonymous",
+      "value": "Anonymous"
+    },
+    {
+      "name": "aperture_value",
+      "value": "Aperture Value"
+    },
+    {
+      "name": "apks",
+      "value": "APKs"
+    },
+    {
+      "name": "app_name",
+      "value": "Amaze ဖိုင်မန်နေဂျာ"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "App/UI crashed"
+    },
+    {
+      "name": "appearance",
+      "value": "Appearance"
+    },
+    {
+      "name": "appearance_summary",
+      "value": "Customize the theme, colors and appearance of the file manager"
+    },
+    {
+      "name": "apps",
+      "value": "အပ်ပလီကေးရှင်း မန်နေဂျာ"
+    },
+    {
+      "name": "archive",
+      "value": "Archive"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "Archive Extract Folder"
+    },
+    {
+      "name": "archive_password_prompt",
+      "value": "Please enter archive password:"
+    },
+    {
+      "name": "archive_summary",
+      "value": "Archive files will be extracted to this folder. Default value is the directory in which archive is present."
+    },
+    {
+      "name": "archive_text",
+      "value": "This is an archive. What action would you like to perform?"
+    },
+    {
+      "name": "archive_unsupported_or_corrupt",
+      "value": "Cannot open archive \"%s\". Either we cannot open the archive, or the archive was damaged."
+    },
+    {
+      "name": "artist",
+      "value": "Artist"
+    },
+    {
+      "name": "ascending",
+      "value": "Ascending"
+    },
+    {
+      "name": "audio",
+      "value": "Audio"
+    },
+    {
+      "name": "authenticate_password",
+      "value": "Enter password"
+    },
+    {
+      "name": "author",
+      "value": "Author"
+    },
+    {
+      "name": "authors",
+      "value": "Authors"
+    },
+    {
+      "name": "back_summary",
+      "value": "Enables custom back navigation at top of the list"
+    },
+    {
+      "name": "back_title",
+      "value": "Back navigation"
+    },
+    {
+      "name": "backup",
+      "value": "Backup လုပ်ရန်"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "Basque"
+    },
+    {
+      "name": "behavior",
+      "value": "Behavior"
+    },
+    {
+      "name": "behavior_summary",
+      "value": "Modify behaviors such as advanced search and whether to open files as a new task"
+    },
+    {
+      "name": "bitrate",
+      "value": "Bitrate"
+    },
+    {
+      "name": "black",
+      "value": "Black (for OLED)"
+    },
+    {
+      "name": "blue",
+      "value": "Blue"
+    },
+    {
+      "name": "bluetooth",
+      "value": "Bluetooth"
+    },
+    {
+      "name": "bookmark_exists",
+      "value": "Bookmark exists"
+    },
+    {
+      "name": "bookmark_lost",
+      "value": "Bookmark not found, recreating…"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "Bookmarks Added"
+    },
+    {
+      "name": "byte_singular",
+      "value": "byte"
+    },
+    {
+      "name": "bytes",
+      "value": "bytes"
+    },
+    {
+      "name": "calculating",
+      "value": "calculating"
+    },
+    {
+      "name": "camera_brand",
+      "value": "Camera Brand"
+    },
+    {
+      "name": "camera_model",
+      "value": "Camera Model"
+    },
+    {
+      "name": "cancel",
+      "value": "လုပ်ဆောင်ချက်ပြန်ဖျက်ရန်"
+    },
+    {
+      "name": "cancel_recommended",
+      "value": "Cancel (Recommended)"
+    },
+    {
+      "name": "cancelled",
+      "value": "Cancelled"
+    },
+    {
+      "name": "cannot_delete_file",
+      "value": "Cannot delete file"
+    },
+    {
+      "name": "cannot_delete_file_with_reason",
+      "value": "Cannot delete file - %s"
+    },
+    {
+      "name": "cannot_extract_archive",
+      "value": "Cannot extract archive \"%s\": %s"
+    },
+    {
+      "name": "cannot_overwrite",
+      "value": "Cannot overwrite file."
+    },
+    {
+      "name": "cannot_read_directory",
+      "value": "Cannot read directory %s - %s"
+    },
+    {
+      "name": "cannot_rename_file",
+      "value": "Cannot rename file %s - %s"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s cannot be empty"
+    },
+    {
+      "name": "change",
+      "value": "Change"
+    },
+    {
+      "name": "changelog",
+      "value": "Changelog"
+    },
+    {
+      "name": "channel_description_ftp",
+      "value": "Amaze File Manager FTP Server's Notifications"
+    },
+    {
+      "name": "channel_description_normal",
+      "value": "Amaze File Manager's Notifications"
+    },
+    {
+      "name": "channel_name_ftp",
+      "value": "Amaze FTP Server"
+    },
+    {
+      "name": "channel_name_normal",
+      "value": "Amaze Notifications"
+    },
+    {
+      "name": "channels",
+      "value": "Channels"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "Chinese"
+    },
+    {
+      "name": "choose_color",
+      "value": "Choose color"
+    },
+    {
+      "name": "choose_different_app",
+      "value": "Choose different application"
+    },
+    {
+      "name": "choose_folder",
+      "value": "Choose This Folder"
+    },
+    {
+      "name": "choose_operation",
+      "value": "Choose operation to perform"
+    },
+    {
+      "name": "circular_icons",
+      "value": "Use circular icons"
+    },
+    {
+      "name": "circular_images",
+      "value": "Use circular icons for images and videos"
+    },
+    {
+      "name": "clear",
+      "value": "Clear"
+    },
+    {
+      "name": "clear_open_file",
+      "value": "Clear cache"
+    },
+    {
+      "name": "clear_open_file_summary",
+      "value": "Clears selected default file opening apps"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "Path copied to clipboard"
+    },
+    {
+      "name": "close",
+      "value": "Close"
+    },
+    {
+      "name": "cloud_box",
+      "value": "Box"
+    },
+    {
+      "name": "cloud_connection",
+      "value": "Cloud Connection"
+    },
+    {
+      "name": "cloud_connection_new",
+      "value": "New Cloud Connection"
+    },
+    {
+      "name": "cloud_drive",
+      "value": "Google Drive™"
+    },
+    {
+      "name": "cloud_drive_tooltip",
+      "value": "Create a Google Drive™ connection for managing files from within Amaze File Manager."
+    },
+    {
+      "name": "cloud_dropbox",
+      "value": "Dropbox"
+    },
+    {
+      "name": "cloud_error_failed_restart",
+      "value": "Failed to load the connection.\n        Please open Amaze Cloud once."
+    },
+    {
+      "name": "cloud_error_fdroid",
+      "value": "Amaze Cloud Plugin not supported with F-Droid version. Please use Play Store version of Amaze."
+    },
+    {
+      "name": "cloud_error_plugin",
+      "value": "Amaze Cloud plugin not found. Please download from Play Store."
+    },
+    {
+      "name": "cloud_fail_authenticate",
+      "value": "Failed to authenticate"
+    },
+    {
+      "name": "cloud_get",
+      "value": "Get Cloud plugin"
+    },
+    {
+      "name": "cloud_onedrive",
+      "value": "OneDrive"
+    },
+    {
+      "name": "cloud_remove",
+      "value": "Do you want to remove the cloud connection?"
+    },
+    {
+      "name": "cloud_share_copied",
+      "value": "Sharable link copied to clipboard"
+    },
+    {
+      "name": "cloud_token_lost",
+      "value": "Token lost, please sign-in again"
+    },
+    {
+      "name": "codec",
+      "value": "Codec"
+    },
+    {
+      "name": "color_summary",
+      "value": "Set color to various UI components"
+    },
+    {
+      "name": "color_title",
+      "value": "Color"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "Colored Navigation bar"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "Whether or not the system navigation bar is colored with the skin"
+    },
+    {
+      "name": "colorize",
+      "value": "Colorize Icons"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "Sets static icon color. Doesn't override directory icon color preference."
+    },
+    {
+      "name": "comment",
+      "value": "Comment"
+    },
+    {
+      "name": "compress",
+      "value": "Compress"
+    },
+    {
+      "name": "compress_file_suggest_zip_extension",
+      "value": "It's recommended to use \".zip\" as the file extension."
+    },
+    {
+      "name": "compressed",
+      "value": "Compressed"
+    },
+    {
+      "name": "compressed_explorer_fragment_error_open_uri",
+      "value": "Error opening URI \"%s\" for reading."
+    },
+    {
+      "name": "compressing",
+      "value": "Compressing"
+    },
+    {
+      "name": "compression_complete",
+      "value": "Compression Complete"
+    },
+    {
+      "name": "confirmation",
+      "value": "Confirmation"
+    },
+    {
+      "name": "connection_exists",
+      "value": "Connection already exists"
+    },
+    {
+      "name": "connection_name",
+      "value": "Connection name"
+    },
+    {
+      "name": "container",
+      "value": "Container"
+    },
+    {
+      "name": "contributors",
+      "value": "Contributors"
+    },
+    {
+      "name": "contributors_1_summary",
+      "value": "Translation"
+    },
+    {
+      "name": "contributors_2_summary",
+      "value": "Icon and banners"
+    },
+    {
+      "name": "contributors_3_summary",
+      "value": "Theme Engine"
+    },
+    {
+      "name": "contributors_4_summary",
+      "value": "Shade behind FAB"
+    },
+    {
+      "name": "contributors_5_summary",
+      "value": "Color transition when swiping tabs"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "FTP ဆာဗာ"
+    },
+    {
+      "name": "contributors_7_summary",
+      "value": "Firing up an interactive shell"
+    },
+    {
+      "name": "copied",
+      "value": "copied"
+    },
+    {
+      "name": "copy",
+      "value": "Copy"
+    },
+    {
+      "name": "copy_complete",
+      "value": "Copy Complete"
+    },
+    {
+      "name": "copy_error",
+      "value": "Some files weren't successfully %s"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Copy formatted report"
+    },
+    {
+      "name": "copy_low_memory",
+      "value": "Running out of memory, please clear some RAM"
+    },
+    {
+      "name": "copying",
+      "value": "Copying"
+    },
+    {
+      "name": "copyingapks",
+      "value": "Copying %d APK files to %s"
+    },
+    {
+      "name": "crash_report_copied",
+      "value": "Crash report copied to clipboard"
+    },
+    {
+      "name": "create",
+      "value": "CREATE"
+    },
+    {
+      "name": "create_bookmark",
+      "value": "Create bookmark"
+    },
+    {
+      "name": "create_file_suggest_txt_extension",
+      "value": "It's recommended to use \".txt\" as the file extension."
+    },
+    {
+      "name": "create_hidden_file_warn",
+      "value": "The created file will be hidden in the file list."
+    },
+    {
+      "name": "created",
+      "value": "Created"
+    },
+    {
+      "name": "creatingfile",
+      "value": "Creating File"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "Creating Folder"
+    },
+    {
+      "name": "creator",
+      "value": "Creator"
+    },
+    {
+      "name": "crypt_decrypt",
+      "value": "Decrypt"
+    },
+    {
+      "name": "crypt_decrypted",
+      "value": "Decrypted"
+    },
+    {
+      "name": "crypt_decrypting",
+      "value": "Decrypting"
+    },
+    {
+      "name": "crypt_decryption_fail",
+      "value": "Failed to decrypt"
+    },
+    {
+      "name": "crypt_decryption_fail_password",
+      "value": "Wrong password!"
+    },
+    {
+      "name": "crypt_encrypt",
+      "value": "Encrypt"
+    },
+    {
+      "name": "crypt_encrypted",
+      "value": "Encrypted"
+    },
+    {
+      "name": "crypt_encrypting",
+      "value": "Encrypting"
+    },
+    {
+      "name": "crypt_encryption_fail",
+      "value": "Failed to encrypt"
+    },
+    {
+      "name": "crypt_fingerprint_authenticate",
+      "value": "Touch sensor to continue"
+    },
+    {
+      "name": "crypt_fingerprint_no_permission",
+      "value": "Fingerprint permissions missing"
+    },
+    {
+      "name": "crypt_fingerprint_no_security",
+      "value": "No lockscreen security found"
+    },
+    {
+      "name": "crypt_fingerprint_not_enrolled",
+      "value": "No fingerprint enrolled"
+    },
+    {
+      "name": "crypt_pref_fingerprint_summary",
+      "value": "Use fingerprint to authenticate encryption"
+    },
+    {
+      "name": "crypt_pref_fingerprint_title",
+      "value": "Fingerprint"
+    },
+    {
+      "name": "crypt_pref_master_password_summary",
+      "value": "Set a master password for encryption.\n        Leave empty to remove."
+    },
+    {
+      "name": "crypt_pref_master_password_title",
+      "value": "Master Password"
+    },
+    {
+      "name": "crypt_warning_key",
+      "value": "Be advised, when you change your security pattern from\n        System settings, you won't be able to decrypt this content."
+    },
+    {
+      "name": "current_speed",
+      "value": "Current Speed"
+    },
+    {
+      "name": "custom",
+      "value": "Custom"
+    },
+    {
+      "name": "customize",
+      "value": "Customize"
+    },
+    {
+      "name": "cut",
+      "value": "Cut"
+    },
+    {
+      "name": "dark",
+      "value": "Material Dark"
+    },
+    {
+      "name": "database",
+      "value": "Database"
+    },
+    {
+      "name": "databasereader",
+      "value": "Database Reader"
+    },
+    {
+      "name": "date",
+      "value": "ရက်စွဲ"
+    },
+    {
+      "name": "date_modified",
+      "value": "Date Modified"
+    },
+    {
+      "name": "date_taken",
+      "value": "Date Taken"
+    },
+    {
+      "name": "daytime",
+      "value": "Daytime"
+    },
+    {
+      "name": "default_string",
+      "value": "Default"
+    },
+    {
+      "name": "delbook",
+      "value": "Delete Bookmark"
+    },
+    {
+      "name": "delete",
+      "value": "Delete"
+    },
+    {
+      "name": "deleting",
+      "value": "Deleting"
+    },
+    {
+      "name": "descending",
+      "value": "Descending"
+    },
+    {
+      "name": "deselect_all",
+      "value": "Deselect All"
+    },
+    {
+      "name": "details",
+      "value": "Details"
+    },
+    {
+      "name": "developers",
+      "value": "Developers"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "Directories"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "Files"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "Deleting the items below will permanently remove them from your device and they cannot be recovered."
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Delete items permanently?"
+    },
+    {
+      "name": "dimensions",
+      "value": "Dimensions"
+    },
+    {
+      "name": "directory",
+      "value": "Directory"
+    },
+    {
+      "name": "directorysort",
+      "value": "Directory Sort Mode"
+    },
+    {
+      "name": "disable",
+      "value": "Disable"
+    },
+    {
+      "name": "disableIpcSignature",
+      "value": "Disable IPC signing check (For legacy SMBv1 servers - UNSAFE!)"
+    },
+    {
+      "name": "disable_player_intent_filters",
+      "value": "Disable player intent filters"
+    },
+    {
+      "name": "disable_player_intent_filters_summary",
+      "value": "Disables Amaze inbuilt media players from file chooser"
+    },
+    {
+      "name": "documents",
+      "value": "Documents"
+    },
+    {
+      "name": "doforall",
+      "value": "Do for all items"
+    },
+    {
+      "name": "doit",
+      "value": "Do it"
+    },
+    {
+      "name": "domain",
+      "value": "Domain"
+    },
+    {
+      "name": "donate",
+      "value": "Donate"
+    },
+    {
+      "name": "donation_thanks",
+      "value": "Thank you for the donation, this keeps us motivated! (:"
+    },
+    {
+      "name": "done",
+      "value": "Done"
+    },
+    {
+      "name": "download",
+      "value": "Download"
+    },
+    {
+      "name": "drag_and_drop_preference",
+      "value": "Select drag and drop preference (Experimental)"
+    },
+    {
+      "name": "drag_to_move_copy",
+      "value": "Touch and drag to move or copy files"
+    },
+    {
+      "name": "drag_to_select",
+      "value": "Touch and drag to select files"
+    },
+    {
+      "name": "drawer_close",
+      "value": "အညွှန်းကိုပိတ်ရန်"
+    },
+    {
+      "name": "drawer_open",
+      "value": "အညွှန်းကိုဖွင့်ရန်"
+    },
+    {
+      "name": "duration",
+      "value": "Duration"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "Dutch"
+    },
+    {
+      "name": "edit",
+      "value": "Edit"
+    },
+    {
+      "name": "edit_bookmark",
+      "value": "Edit bookmark"
+    },
+    {
+      "name": "enable_marquee_filename",
+      "value": "Enable marquee effect for file names"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "Enable Root Mode"
+    },
+    {
+      "name": "encrypt_file_must_end_with_aes",
+      "value": "Encrypted files must use \".aes\" as the file extension."
+    },
+    {
+      "name": "encrypt_file_must_end_with_aze",
+      "value": "Encrypted files must use \".aze\" as the file extension."
+    },
+    {
+      "name": "encrypt_file_save_as",
+      "value": "Save Encrypted File As…"
+    },
+    {
+      "name": "encrypt_folder_save_as",
+      "value": "Save Encrypted Folder As…"
+    },
+    {
+      "name": "encrypt_option_use_aescrypt_desc",
+      "value": "<p>AESCrypt is an open source file encryption format based on AES encryption. It is also portable, can be decrypted with AESCrypt programs on other platforms.</p>\n        <p><a href=\"https://www.aescrypt.com\" target=\"_blank>AESCrypt website</a></p>"
+    },
+    {
+      "name": "encrypt_option_use_aze",
+      "value": "Use Amaze Encryption Format"
+    },
+    {
+      "name": "encrypt_option_use_azecrypt_desc",
+      "value": "<p>Amaze's Encryption Format is also based on AES encryption; but different from AESCrypt format, it can only be decrypted by this device; also you must not uninstall Amaze File Manager from this device nor change the way you lock screen, otherwise you will have no way to recover the encrypted file.</p>"
+    },
+    {
+      "name": "encryption_fail_copy",
+      "value": "Failed to update encryption entry in database"
+    },
+    {
+      "name": "entername",
+      "value": "နာမည်ထည့်ရန်"
+    },
+    {
+      "name": "enterpath",
+      "value": "Enter Path"
+    },
+    {
+      "name": "enterzipname",
+      "value": "Enter Zip Name"
+    },
+    {
+      "name": "error",
+      "value": "Error"
+    },
+    {
+      "name": "error_aescrypt_decrypt_failed",
+      "value": "Cannot decrypt '%1$s': '%2$s'"
+    },
+    {
+      "name": "error_archive_cannot_extract",
+      "value": "Cannot extract archive entry \"%s\" to \"%s\"."
+    },
+    {
+      "name": "error_archive_password_incorrect",
+      "value": "Wrong archive password."
+    },
+    {
+      "name": "error_bad_archive_with_info",
+      "value": "%s\" is a corrupted archive.\\nMessage from extractor: \"%s"
+    },
+    {
+      "name": "error_bad_archive_without_info",
+      "value": "\"%s\" is a corrupted archive."
+    },
+    {
+      "name": "error_cannot_find_way_open",
+      "value": "Could not find way to open the file"
+    },
+    {
+      "name": "error_cannot_get_package_info",
+      "value": "Unable to get package info from file \"%s\". Either the specified file is not an APK, or the package file is corrupt."
+    },
+    {
+      "name": "error_cant_decompress_that_file",
+      "value": "Cannot process the requested archive"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Details:"
+    },
+    {
+      "name": "error_empty_archive",
+      "value": "\"%s\" is an empty archive."
+    },
+    {
+      "name": "error_fetching_google_play_product_list",
+      "value": "Error fetching product list from Google Play."
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "Error: File Not Found"
+    },
+    {
+      "name": "error_file_too_large",
+      "value": "Error: File Too Large"
+    },
+    {
+      "name": "error_google_play_cannot_update_myself",
+      "value": "Per Google Play policy mandates, apps are not allowed to update itself on its own. Please update app from Google Play."
+    },
+    {
+      "name": "error_io",
+      "value": "I/O Error"
+    },
+    {
+      "name": "error_permission_denied",
+      "value": "Permission denied"
+    },
+    {
+      "name": "error_report_button_telegram",
+      "value": "Report this error via telegram"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Report this error via e-mail"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Please check whether an issue discussing your crash already exists."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Report on GitHub"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Error report"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Report"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Sorry, something went wrong."
+    },
+    {
+      "name": "error_unsupported_v5_rar",
+      "value": "RAR archive \"%s\" is unsupported RAR v5 archive."
+    },
+    {
+      "name": "exit",
+      "value": "Exit"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Exposure Time"
+    },
+    {
+      "name": "extract",
+      "value": "Extract"
+    },
+    {
+      "name": "extract_complete",
+      "value": "Extraction complete"
+    },
+    {
+      "name": "extracted",
+      "value": "Extracted"
+    },
+    {
+      "name": "extracting",
+      "value": "Extracting"
+    },
+    {
+      "name": "failed_cloud_api_key",
+      "value": "Failed to authenticate Cloud plug-in"
+    },
+    {
+      "name": "failed_cloud_new_connection",
+      "value": "Failed to add new Cloud connection"
+    },
+    {
+      "name": "failed_install_apk",
+      "value": "Failed to install"
+    },
+    {
+      "name": "failed_no_connection",
+      "value": "Failed to load files. Please check your connection."
+    },
+    {
+      "name": "failed_smb_decrypt_path",
+      "value": "Failed to load SMB connection"
+    },
+    {
+      "name": "feedback",
+      "value": "Send Feedback"
+    },
+    {
+      "name": "field_empty",
+      "value": "Field can't be empty"
+    },
+    {
+      "name": "file",
+      "value": "File"
+    },
+    {
+      "name": "file_empty",
+      "value": "ဖိုင်သည်အလွတ်ဖြစ်နေသည်"
+    },
+    {
+      "name": "file_read_only",
+      "value": "The file opened is a read-only."
+    },
+    {
+      "name": "file_too_long",
+      "value": "The file is too long and cannot be edited, however you can read the first %d characters"
+    },
+    {
+      "name": "fileexist",
+      "value": "File with same name already exists"
+    },
+    {
+      "name": "filename",
+      "value": "ဖိုင်နာမည်"
+    },
+    {
+      "name": "files",
+      "value": "Files"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "Files On Top"
+    },
+    {
+      "name": "find",
+      "value": "Find in page"
+    },
+    {
+      "name": "flash_fired",
+      "value": "Flash Fired"
+    },
+    {
+      "name": "focal_length",
+      "value": "Focal Length"
+    },
+    {
+      "name": "folder",
+      "value": "Folder"
+    },
+    {
+      "name": "folderfilecount",
+      "value": "%1$d folders and %2$d files"
+    },
+    {
+      "name": "folders",
+      "value": "Folders"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "Folders On Top"
+    },
+    {
+      "name": "format",
+      "value": "Format"
+    },
+    {
+      "name": "frame_rate",
+      "value": "Frame Rate"
+    },
+    {
+      "name": "free",
+      "value": "free space"
+    },
+    {
+      "name": "free_of",
+      "value": "\"%s\\n%s free of %s"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "French"
+    },
+    {
+      "name": "ftp",
+      "value": "FTP ဆာဗာ"
+    },
+    {
+      "name": "ftp_connection",
+      "value": "FTP Connection"
+    },
+    {
+      "name": "ftp_login",
+      "value": "Login"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "Make sure you're connected to Wi-Fi"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "FTP Server is starting"
+    },
+    {
+      "name": "ftp_notif_starting_title",
+      "value": "FTP ဆာဗာ"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "STOP"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "at %s"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "Amaze FTP Server running"
+    },
+    {
+      "name": "ftp_path",
+      "value": "Shared Path"
+    },
+    {
+      "name": "ftp_path_change_error_invalid",
+      "value": "Invalid path"
+    },
+    {
+      "name": "ftp_path_change_success",
+      "value": "FTP path changed successfully"
+    },
+    {
+      "name": "ftp_path_hint",
+      "value": "Path to the root of directory to share"
+    },
+    {
+      "name": "ftp_port",
+      "value": "Port"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "Invalid port number selected"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "FTP port changed successfully"
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "FTP port"
+    },
+    {
+      "name": "ftp_preference_saf_filesystem",
+      "value": "Enable this for support for using device external storage on newer Android versions"
+    },
+    {
+      "name": "ftp_preference_saf_filesystem_title",
+      "value": "Use legacy filesystem"
+    },
+    {
+      "name": "ftp_prompt_accept_first_start_saf_access",
+      "value": "Since this is your first run of the FTP server, and you are using the device's internal storage as shared folder, please allow Amaze to access the storage using SAF.\\n\\n\n\nYou only need to do this once, until the next time you select a new location for sharing."
+    },
+    {
+      "name": "ftp_prompt_accept_first_start_saf_access_title",
+      "value": "Grant SAF access for FTP server"
+    },
+    {
+      "name": "ftp_prompt_restart_server",
+      "value": "You will need to restart the FTP server for changes to take effect."
+    },
+    {
+      "name": "ftp_readonly",
+      "value": "Read-only access"
+    },
+    {
+      "name": "ftp_seconds",
+      "value": "Seconds"
+    },
+    {
+      "name": "ftp_server_fallback_path_reset_prompt",
+      "value": "FTP server shared path had been reset to internal storage as you are switching back to legacy filesystem implementation. Please select a new path using the menu on the top right as necessary."
+    },
+    {
+      "name": "ftp_server_open_settings",
+      "value": "Open settings"
+    },
+    {
+      "name": "ftp_server_prompt_connect_to_network",
+      "value": "Connect to a network or enable AP"
+    },
+    {
+      "name": "ftp_server_reset_notify",
+      "value": "FTP server shared path had been reset to internal storage"
+    },
+    {
+      "name": "ftp_server_root_filesystem_warning",
+      "value": "You are choosing a path which requires root access, which enables read/write operations in the whole filesystem on your device, and it is dangerous - careless mistakes could brick your device!\\n\\nAre you sure?"
+    },
+    {
+      "name": "ftp_server_root_unavailable",
+      "value": "You are choosing a path which requires root access. Please enable root explorer in settings if your device is rooted."
+    },
+    {
+      "name": "ftp_status_no_connection",
+      "value": "No Connection"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "Not Running"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "Running"
+    },
+    {
+      "name": "ftp_status_secure_connection",
+      "value": "Secure Connection"
+    },
+    {
+      "name": "ftp_status_title",
+      "value": "Status"
+    },
+    {
+      "name": "ftp_timeout",
+      "value": "Idle timeout"
+    },
+    {
+      "name": "ftps_connection",
+      "value": "FTP over SSL Connection"
+    },
+    {
+      "name": "general",
+      "value": "General"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "German"
+    },
+    {
+      "name": "go",
+      "value": "Go"
+    },
+    {
+      "name": "goback",
+      "value": "Go Back"
+    },
+    {
+      "name": "got_it",
+      "value": "Got it!"
+    },
+    {
+      "name": "grant",
+      "value": "Grant"
+    },
+    {
+      "name": "grant_all_files_permission",
+      "value": "Since Android 11, Google requests File Managers to request user permission for managing all files on the device. Details here.\n        \\n\\nAmaze File Manager needs this permission too. After pressing \"Grant\"here, please select Allow access to manage all files option on the next screen.\n        \\n\\nCanceling this dialog will exit the app."
+    },
+    {
+      "name": "grant_apkinstall_permission",
+      "value": "App needs permission to install apps continue."
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "App needs storage permission to continue. Canceling this dialog will exit the app."
+    },
+    {
+      "name": "grantfailed",
+      "value": "Permission not granted"
+    },
+    {
+      "name": "grantper",
+      "value": "Grant permission"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "Greek"
+    },
+    {
+      "name": "green",
+      "value": "Green"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "Number of columns in grid view"
+    },
+    {
+      "name": "gridview",
+      "value": "Grid View"
+    },
+    {
+      "name": "hash_sha256",
+      "value": "SHA-256"
+    },
+    {
+      "name": "height",
+      "value": "Height"
+    },
+    {
+      "name": "hidden",
+      "value": "Show Hidden Files and Folders"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "Hidden Files"
+    },
+    {
+      "name": "hide",
+      "value": "Hide"
+    },
+    {
+      "name": "hide_media",
+      "value": "Hide from media browsers"
+    },
+    {
+      "name": "history",
+      "value": "History"
+    },
+    {
+      "name": "home",
+      "value": "Home"
+    },
+    {
+      "name": "icon",
+      "value": "အိုင်ကွန်"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "Set color to icons"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "Icon Color"
+    },
+    {
+      "name": "image",
+      "value": "Image"
+    },
+    {
+      "name": "image_iso",
+      "value": "ISO Speed Rating"
+    },
+    {
+      "name": "image_type",
+      "value": "Image Type"
+    },
+    {
+      "name": "image_viewer",
+      "value": "Amaze Image Viewer"
+    },
+    {
+      "name": "images",
+      "value": "Images"
+    },
+    {
+      "name": "in_safe",
+      "value": "Insufficient space"
+    },
+    {
+      "name": "info_labels",
+      "value": "What:\\\\nRequest:\\\\nGMT Time:\\\\nPackage:\\\\nVersion:\\\\nOS version:\\\\nDevice:\\\\nModel:\\\\nProduct:"
+    },
+    {
+      "name": "information",
+      "value": "Information"
+    },
+    {
+      "name": "install",
+      "value": "Install"
+    },
+    {
+      "name": "intellihide_toolbar_summary",
+      "value": "Automatically hide toolbar while scrolling"
+    },
+    {
+      "name": "intellihide_toolbar_title",
+      "value": "Intellihide Toolbar"
+    },
+    {
+      "name": "intent_save_as",
+      "value": "Save as…"
+    },
+    {
+      "name": "invalid",
+      "value": "Invalid %s"
+    },
+    {
+      "name": "invalid_name",
+      "value": "နာမည်ကိုလက်မခံပါ"
+    },
+    {
+      "name": "ip",
+      "value": "Address"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "Italian"
+    },
+    {
+      "name": "item",
+      "value": "item"
+    },
+    {
+      "name": "items",
+      "value": "items"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "Japanese"
+    },
+    {
+      "name": "just_once",
+      "value": "Just Once"
+    },
+    {
+      "name": "keywords",
+      "value": "Keywords"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "Korean"
+    },
+    {
+      "name": "lastModified",
+      "value": "Last Modified"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "Show Last Modified Date and Time"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "Show the date and time of last modification"
+    },
+    {
+      "name": "legacy_listing_summary",
+      "value": "If enabled, uses legacy method to list files"
+    },
+    {
+      "name": "legacy_listing_title",
+      "value": "Use legacy listing for root"
+    },
+    {
+      "name": "libraries",
+      "value": "Libraries"
+    },
+    {
+      "name": "license",
+      "value": "License"
+    },
+    {
+      "name": "light",
+      "value": "Material Light"
+    },
+    {
+      "name": "listview",
+      "value": "List View"
+    },
+    {
+      "name": "loading",
+      "value": "Loading…"
+    },
+    {
+      "name": "local_inet_addr_error",
+      "value": "Error getting local inet address"
+    },
+    {
+      "name": "location",
+      "value": "Location"
+    },
+    {
+      "name": "match_content",
+      "value": "Match content"
+    },
+    {
+      "name": "match_content_summary",
+      "value": "If set, regular expression will be matched with entire file name,\n        will look for occurrence otherwise."
+    },
+    {
+      "name": "md5",
+      "value": "MD5"
+    },
+    {
+      "name": "medium_text",
+      "value": "Medium Text"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "Miscellaneous"
+    },
+    {
+      "name": "modified",
+      "value": "Modified"
+    },
+    {
+      "name": "monofont",
+      "value": "Monospace Font"
+    },
+    {
+      "name": "move",
+      "value": "Move"
+    },
+    {
+      "name": "moved",
+      "value": "moved"
+    },
+    {
+      "name": "moving",
+      "value": "Moving"
+    },
+    {
+      "name": "multiple_invalid_archive_entries",
+      "value": "Some files in the archive cannot be extracted; archive may be damaged or came from malicious source."
+    },
+    {
+      "name": "name",
+      "value": "နာမည်"
+    },
+    {
+      "name": "needs_access",
+      "value": "Write Access Required"
+    },
+    {
+      "name": "needs_access_summary",
+      "value": "Please choose the root directory of \\t"
+    },
+    {
+      "name": "needs_access_summary1",
+      "value": "\\tto grant write access to operate"
+    },
+    {
+      "name": "newfile",
+      "value": "New File"
+    },
+    {
+      "name": "newfolder",
+      "value": "New Folder"
+    },
+    {
+      "name": "no",
+      "value": "No"
+    },
+    {
+      "name": "no_app_found",
+      "value": "No App found to open this file"
+    },
+    {
+      "name": "no_app_found_intent",
+      "value": "No app found to handle this intent. Do you have DocumentsUI installed?"
+    },
+    {
+      "name": "no_applications",
+      "value": "No applications"
+    },
+    {
+      "name": "no_bitcoin_app",
+      "value": "Please install a Bitcoin Wallet app"
+    },
+    {
+      "name": "no_device_found",
+      "value": "No devices found"
+    },
+    {
+      "name": "no_file_error",
+      "value": "Something went wrong, there's nothing to open"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "No File Overwritten"
+    },
+    {
+      "name": "no_files",
+      "value": "No Files"
+    },
+    {
+      "name": "no_items",
+      "value": "No items"
+    },
+    {
+      "name": "no_name",
+      "value": "ဖိုင်နာမည်ပါရန်လိုသည်"
+    },
+    {
+      "name": "no_obtainable_info",
+      "value": "There's no info about this file"
+    },
+    {
+      "name": "none_on_top",
+      "value": "None On Top"
+    },
+    {
+      "name": "not_allowed",
+      "value": "Not Allowed"
+    },
+    {
+      "name": "of",
+      "value": "of"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "open",
+      "value": "ဖွင့်ရန်"
+    },
+    {
+      "name": "open_as",
+      "value": "Open As"
+    },
+    {
+      "name": "open_file_confirmation",
+      "value": "Are you sure you want to open following file?\\n\\nName:\\n%s\\n\\nLocation:\\n%s\\n\\nSize:\\n%s\\n\\nMD5:\\n%s\\n\\nSHA256:\\n%s\\n\\n"
+    },
+    {
+      "name": "open_parent",
+      "value": "Open Parent Directory"
+    },
+    {
+      "name": "open_with",
+      "value": "Open with"
+    },
+    {
+      "name": "open_with_amaze",
+      "value": "Open with Amaze"
+    },
+    {
+      "name": "operation_fail_following",
+      "value": "Operation failed for following files"
+    },
+    {
+      "name": "operation_not_supported",
+      "value": "Operation not supported"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "Operation Unsuccessful"
+    },
+    {
+      "name": "optimized",
+      "value": "Optimized"
+    },
+    {
+      "name": "orange",
+      "value": "Orange"
+    },
+    {
+      "name": "otg_access",
+      "value": "Select the root of OTG device"
+    },
+    {
+      "name": "other",
+      "value": "Other"
+    },
+    {
+      "name": "out_of",
+      "value": "out of"
+    },
+    {
+      "name": "overwrite",
+      "value": "Overwrite"
+    },
+    {
+      "name": "package_installer",
+      "value": "Package Installer"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "This is a package installer. What action would you like to perform?"
+    },
+    {
+      "name": "pages",
+      "value": "Number of Pages"
+    },
+    {
+      "name": "paper_size",
+      "value": "Paper Size"
+    },
+    {
+      "name": "password",
+      "value": "Password"
+    },
+    {
+      "name": "password_no_match",
+      "value": "Password doesn't match"
+    },
+    {
+      "name": "password_repeat",
+      "value": "Repeat password"
+    },
+    {
+      "name": "password_unchanged",
+      "value": "(unchanged)"
+    },
+    {
+      "name": "paste",
+      "value": "Paste"
+    },
+    {
+      "name": "path",
+      "value": "Path"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "PayPal ID copied to clipboard"
+    },
+    {
+      "name": "permission",
+      "value": "Permissions"
+    },
+    {
+      "name": "permission_execute",
+      "value": "Execute"
+    },
+    {
+      "name": "permission_group",
+      "value": "Group"
+    },
+    {
+      "name": "permission_other",
+      "value": "Other"
+    },
+    {
+      "name": "permission_owner",
+      "value": "Owner"
+    },
+    {
+      "name": "permission_read",
+      "value": "Read"
+    },
+    {
+      "name": "permission_write",
+      "value": "Write"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "Pick a file"
+    },
+    {
+      "name": "play",
+      "value": "ပလေးစတိုး"
+    },
+    {
+      "name": "please_wait",
+      "value": "Please Wait"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "Polish"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "Portuguese"
+    },
+    {
+      "name": "preference_delete_confirmation",
+      "value": "Delete confirmation"
+    },
+    {
+      "name": "preference_delete_confirmation_summary",
+      "value": "Ask for confirmation before deleting files. Disabling this is highly discouraged!"
+    },
+    {
+      "name": "preference_newstack_summary",
+      "value": "Allows you to open files in separate tasks. Access them from system recents screen."
+    },
+    {
+      "name": "preference_newstack_title",
+      "value": "Open files as new task"
+    },
+    {
+      "name": "preselected_configs_title",
+      "value": "Preselected configs"
+    },
+    {
+      "name": "press_again",
+      "value": "ထွက်ရန်နောက်တစ်ကြိမ်နှိပ်ပါ"
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "Set color to large UI elements for the left tab"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "Primary Color (Left Tab)"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "Set color to large UI elements for the right tab"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "Primary Color (Right Tab)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "Process Viewer"
+    },
+    {
+      "name": "processed",
+      "value": "Processed"
+    },
+    {
+      "name": "processing",
+      "value": "Processing…"
+    },
+    {
+      "name": "processing_file",
+      "value": "Processing file"
+    },
+    {
+      "name": "producer",
+      "value": "Producer"
+    },
+    {
+      "name": "properties",
+      "value": "Properties"
+    },
+    {
+      "name": "properties_copied_clipboard",
+      "value": "copied to clipboard"
+    },
+    {
+      "name": "protocol_ftps",
+      "value": "Secure FTP"
+    },
+    {
+      "name": "question_delete_bookmark",
+      "value": "Delete bookmark?"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "Do you want to set current path as home for this tab?"
+    },
+    {
+      "name": "quick",
+      "value": "Quick access"
+    },
+    {
+      "name": "quick_desc",
+      "value": "Files recently accessed through Amaze"
+    },
+    {
+      "name": "random",
+      "value": "Random Skin"
+    },
+    {
+      "name": "random_summary",
+      "value": "Sets random primary color at startup"
+    },
+    {
+      "name": "rate",
+      "value": "Rate the app"
+    },
+    {
+      "name": "recent",
+      "value": "Recent files"
+    },
+    {
+      "name": "recent_desc",
+      "value": "Recently created or modified files"
+    },
+    {
+      "name": "regular_expression",
+      "value": "Regular Expression"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "Search using a BASH style regular expression"
+    },
+    {
+      "name": "remember",
+      "value": "Remember for next time"
+    },
+    {
+      "name": "rename",
+      "value": "နာမည်ပြင်ရန်"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "Modify Bookmark"
+    },
+    {
+      "name": "renaming",
+      "value": "Renaming"
+    },
+    {
+      "name": "reopen_from_source",
+      "value": "Can't, please reopen from last app"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "Report bugs or request new feature"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "Report Bugs"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "Romanian"
+    },
+    {
+      "name": "root_directory",
+      "value": "Root"
+    },
+    {
+      "name": "root_failure",
+      "value": "Root Access not granted"
+    },
+    {
+      "name": "root_mode",
+      "value": "Root Explorer"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "For rooted device only. Check it only if you are sure about it."
+    },
+    {
+      "name": "root_pref",
+      "value": "Show Permissions"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "Show Permissions of Files and Folders"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "Russian"
+    },
+    {
+      "name": "saf_otg_explanation",
+      "value": "You'll now go to Android's filesystem for security reasons. Please select the USB device from the list on the left."
+    },
+    {
+      "name": "sample_rate",
+      "value": "Sample Rate"
+    },
+    {
+      "name": "save",
+      "value": "သိမ်းရန်"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "When starting up, the most recently viewed folder for each tab will be displayed"
+    },
+    {
+      "name": "save_paths",
+      "value": "Remember paths"
+    },
+    {
+      "name": "saved_multi_files",
+      "value": "%d files saved."
+    },
+    {
+      "name": "saved_single_file",
+      "value": "File saved as '%s'."
+    },
+    {
+      "name": "saving",
+      "value": "Saving"
+    },
+    {
+      "name": "scp_connection",
+      "value": "SCP/SFTP Connection"
+    },
+    {
+      "name": "scp_default_path",
+      "value": "Default Path (Optional)"
+    },
+    {
+      "name": "scp_port",
+      "value": "Port"
+    },
+    {
+      "name": "search",
+      "value": "Search"
+    },
+    {
+      "name": "search_hint",
+      "value": "Type to search…"
+    },
+    {
+      "name": "search_results",
+      "value": "Search results of %s"
+    },
+    {
+      "name": "searching",
+      "value": "Searching %s"
+    },
+    {
+      "name": "searching_devices",
+      "value": "Searching for devices"
+    },
+    {
+      "name": "security",
+      "value": "Security"
+    },
+    {
+      "name": "security_error",
+      "value": "File could not be opened using this app"
+    },
+    {
+      "name": "security_summary",
+      "value": "Set up password and encryption"
+    },
+    {
+      "name": "select",
+      "value": "ရွေးရန်"
+    },
+    {
+      "name": "select_all",
+      "value": "Select All"
+    },
+    {
+      "name": "select_by_date",
+      "value": "Select by date"
+    },
+    {
+      "name": "select_by_type",
+      "value": "Select by type"
+    },
+    {
+      "name": "select_color_config",
+      "value": "Select color config"
+    },
+    {
+      "name": "select_intent",
+      "value": "Select"
+    },
+    {
+      "name": "select_inverse",
+      "value": "Select Inverse"
+    },
+    {
+      "name": "select_save_location",
+      "value": "Select location to save"
+    },
+    {
+      "name": "select_similar",
+      "value": "Select similar"
+    },
+    {
+      "name": "send_email_to",
+      "value": "Send an e-mail to"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "Serbian"
+    },
+    {
+      "name": "server_address",
+      "value": "Server IP Address"
+    },
+    {
+      "name": "service_timer",
+      "value": "Time elapsed"
+    },
+    {
+      "name": "set",
+      "value": "Set"
+    },
+    {
+      "name": "set_as_home",
+      "value": "Set As Home"
+    },
+    {
+      "name": "set_random",
+      "value": "Changes will take place after you restart the app"
+    },
+    {
+      "name": "setting",
+      "value": "ဆက်တင်"
+    },
+    {
+      "name": "share",
+      "value": "Share"
+    },
+    {
+      "name": "share_limit",
+      "value": "Can't share more than 100 files"
+    },
+    {
+      "name": "share_logs",
+      "value": "Share logs"
+    },
+    {
+      "name": "share_logs_summary",
+      "value": "Share captured logs via email / telegram"
+    },
+    {
+      "name": "showHeaders",
+      "value": "Show Headers"
+    },
+    {
+      "name": "show_bookmarks_pref",
+      "value": "Bookmarks"
+    },
+    {
+      "name": "show_bookmarks_pref_title",
+      "value": "Show bookmarks"
+    },
+    {
+      "name": "show_dividers",
+      "value": "Show Dividers"
+    },
+    {
+      "name": "show_quick_access_pref",
+      "value": "Quick accesses"
+    },
+    {
+      "name": "show_quick_access_pref_title",
+      "value": "Show quick accesses"
+    },
+    {
+      "name": "show_system_apps",
+      "value": "Show system apps"
+    },
+    {
+      "name": "sidebar_bookmarks_title",
+      "value": "Sidebar bookmarks"
+    },
+    {
+      "name": "sidebar_preferences",
+      "value": "Sidebar"
+    },
+    {
+      "name": "sidebar_quick_access_title",
+      "value": "Sidebar quick access"
+    },
+    {
+      "name": "signin_with_google_title",
+      "value": "Authenticate to use Google Drive™"
+    },
+    {
+      "name": "size",
+      "value": "size of folder"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Size"
+    },
+    {
+      "name": "size_pref",
+      "value": "Show Sizes"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "Show size of files and number of items in folders"
+    },
+    {
+      "name": "skip",
+      "value": "Skip"
+    },
+    {
+      "name": "smb_connection",
+      "value": "SMB Connection"
+    },
+    {
+      "name": "smb_launch_error",
+      "value": "You will need to copy this file to storage to open it"
+    },
+    {
+      "name": "smb_server",
+      "value": "Server IP Address"
+    },
+    {
+      "name": "smb_share",
+      "value": "Share path"
+    },
+    {
+      "name": "software",
+      "value": "Software"
+    },
+    {
+      "name": "some_files_failed_invalid_operation",
+      "value": "Some files failed due to invalid operation"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Sorry, that should not have happened."
+    },
+    {
+      "name": "sort",
+      "value": "Sort"
+    },
+    {
+      "name": "sort_by",
+      "value": "Sort By"
+    },
+    {
+      "name": "sort_name",
+      "value": "နာမည်"
+    },
+    {
+      "name": "sort_only_this",
+      "value": "Only this folder"
+    },
+    {
+      "name": "sort_size",
+      "value": "Size"
+    },
+    {
+      "name": "source_summary",
+      "value": "View our source code on GitHub"
+    },
+    {
+      "name": "source_title",
+      "value": "Source code"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "Spanish"
+    },
+    {
+      "name": "ssh_authentication_failure_key",
+      "value": "Logon failure: Unable to authenticate with supplied username and private key."
+    },
+    {
+      "name": "ssh_authentication_failure_password",
+      "value": "Logon failure: Unable to authenticate with supplied username and password."
+    },
+    {
+      "name": "ssh_connect_failed",
+      "value": "Unable to connect to %1$s:%2$d: %3$s"
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_message",
+      "value": "IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!\\n\\nSomeone could be eavesdropping on you right now (man-in-the-middle attack)! It is also possible that the host key has just been changed. The fingerprint for the public key sent by the remote host does not match the one stored in Amaze.\\n\\nPlease contact your system administrator or setup a new connection to continue connecting to the server."
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_prompt",
+      "value": "IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!\\n\\nSomeone could be eavesdropping on you right now (man-in-the-middle attack)! It is also possible that the host key has just been changed. The fingerprint for the public key sent by the remote host does not match the one stored in Amaze.\\n\\nYou may proceed with updating host fingerprint or cancel updating SSH connection settings."
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_title",
+      "value": "WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!"
+    },
+    {
+      "name": "ssh_host_key_verification_prompt",
+      "value": "The authenticity of host '%1$s' can't be established.\\n\\n%2$s key fingerprint is %3$s.\\n\\nPlease tap \"Yes\" to confirm identity; otherwise, please tap \"No\"."
+    },
+    {
+      "name": "ssh_host_key_verification_prompt_title",
+      "value": "Verify Host"
+    },
+    {
+      "name": "ssh_key_invalid_passphrase",
+      "value": "Invalid key passphrase."
+    },
+    {
+      "name": "ssh_key_prompt_passphrase",
+      "value": "Please enter key passphrase."
+    },
+    {
+      "name": "ssh_pem_key_parse_error",
+      "value": "Unable to read selected PEM: %s"
+    },
+    {
+      "name": "ssh_select_pem",
+      "value": "Select private key for authentication"
+    },
+    {
+      "name": "ssh_select_pem_button",
+      "value": "SSH Private Key"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Start"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "Stop"
+    },
+    {
+      "name": "stopping",
+      "value": "Stopping"
+    },
+    {
+      "name": "storage_internal",
+      "value": "ဖုန်း၏မန်မိုရီ"
+    },
+    {
+      "name": "storage_sd_card",
+      "value": "SD card"
+    },
+    {
+      "name": "subject",
+      "value": "Subject"
+    },
+    {
+      "name": "support_development",
+      "value": "Support Development"
+    },
+    {
+      "name": "system",
+      "value": "System (follow system theme)"
+    },
+    {
+      "name": "system_apps",
+      "value": "System apps"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "Tamil"
+    },
+    {
+      "name": "text",
+      "value": "Text"
+    },
+    {
+      "name": "text_editor",
+      "value": "Text editor settings"
+    },
+    {
+      "name": "textreader",
+      "value": "Text Reader"
+    },
+    {
+      "name": "theme",
+      "value": "Theme"
+    },
+    {
+      "name": "thumb",
+      "value": "Show Thumbnails"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "Show Thumbnails of apps and images"
+    },
+    {
+      "name": "time_remaining",
+      "value": "Time remaining"
+    },
+    {
+      "name": "title",
+      "value": "Title"
+    },
+    {
+      "name": "total",
+      "value": "Total:"
+    },
+    {
+      "name": "transfer_rate",
+      "value": "Transfer rate"
+    },
+    {
+      "name": "translate_summary",
+      "value": "Translate Amaze in your language"
+    },
+    {
+      "name": "translate_title",
+      "value": "Translate"
+    },
+    {
+      "name": "translators",
+      "value": "Translators"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "Turkish"
+    },
+    {
+      "name": "type",
+      "value": "Type"
+    },
+    {
+      "name": "typeable_paths_summary",
+      "value": "Long press path bar to type a custom path"
+    },
+    {
+      "name": "typeable_paths_title",
+      "value": "Custom paths"
+    },
+    {
+      "name": "ui",
+      "value": "Interface"
+    },
+    {
+      "name": "ui_summary",
+      "value": "Control what information to show, customize the sidebar, and toggle UI preferences"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "Ukrainian"
+    },
+    {
+      "name": "unavailable",
+      "value": "Unavailable"
+    },
+    {
+      "name": "unin_system_apk",
+      "value": "This is a system app, deleting it might lead to system un-stability.\\nProceed?"
+    },
+    {
+      "name": "uninstall",
+      "value": "ဖျက်ရန်"
+    },
+    {
+      "name": "unknown",
+      "value": "unknown"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Oops, something went wrong!"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "Unsaved Changes"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "You have unsaved changes, do you want to save them before exiting?"
+    },
+    {
+      "name": "update",
+      "value": "UPDATE"
+    },
+    {
+      "name": "update_host_key",
+      "value": "Update Host Key"
+    },
+    {
+      "name": "used",
+      "value": "used space"
+    },
+    {
+      "name": "used_by_others",
+      "value": "used by others"
+    },
+    {
+      "name": "user_apps",
+      "value": "User apps"
+    },
+    {
+      "name": "username",
+      "value": "Username"
+    },
+    {
+      "name": "version",
+      "value": "Version"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "video_player",
+      "value": "Amaze Video Player"
+    },
+    {
+      "name": "videos",
+      "value": "Videos"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "ဗီယက်နမ်ဘာသာ"
+    },
+    {
+      "name": "view",
+      "value": "View"
+    },
+    {
+      "name": "waiting_content",
+      "value": "Waiting for operation to complete"
+    },
+    {
+      "name": "waiting_title",
+      "value": "Waiting"
+    },
+    {
+      "name": "want_help",
+      "value": "Need help?"
+    },
+    {
+      "name": "warning",
+      "value": "Warning"
+    },
+    {
+      "name": "warning_confirm",
+      "value": "Got it!"
+    },
+    {
+      "name": "warning_never_show",
+      "value": "Don't inform again"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Info:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "What happened:"
+    },
+    {
+      "name": "width",
+      "value": "Width"
+    },
+    {
+      "name": "wifip2p",
+      "value": "Wi-Fi P2P"
+    },
+    {
+      "name": "written",
+      "value": "Written"
+    },
+    {
+      "name": "xda_summary",
+      "value": "Q&A, Help & Troubleshooting"
+    },
+    {
+      "name": "xda_title",
+      "value": "XDA thread"
+    },
+    {
+      "name": "year",
+      "value": "Year"
+    },
+    {
+      "name": "yes",
+      "value": "Yes"
+    },
+    {
+      "name": "your_comment",
+      "value": "Your comment (in English):"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "Zip Viewer"
+    }
+  ]
+}

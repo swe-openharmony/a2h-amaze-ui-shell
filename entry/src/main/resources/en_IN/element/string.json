@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "color_title",
+      "value": "Colour"
+    },
+    {
+      "name": "default_string",
+      "value": "Default"
+    },
+    {
+      "name": "donate",
+      "value": "Donate"
+    },
+    {
+      "name": "exit",
+      "value": "Exit"
+    },
+    {
+      "name": "history",
+      "value": "History"
+    },
+    {
+      "name": "install",
+      "value": "Install"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "skip",
+      "value": "Skip"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Start"
+    }
+  ]
+}

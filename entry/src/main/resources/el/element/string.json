@@ -1,0 +1,2712 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Σχετικά"
+    },
+    {
+      "name": "about_amaze",
+      "value": "Διαχειριστής αρχείων σχεδιασμού υλικού για Android"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "Περί του Amaze File Manager"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "Ορίστε το χρώμα του επιπλέοντος κουμπιού + και άλλων μικρών στοιχείων"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "Δευτερεύον χρώμα"
+    },
+    {
+      "name": "accessed",
+      "value": "Προσβάσιμη"
+    },
+    {
+      "name": "add_item",
+      "value": "Προσθήκη στοιχείου"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "Προσθήκη συντόμευσης"
+    },
+    {
+      "name": "add_shortcut_not_supported_by_launcher",
+      "value": "Η δημιουργία συντομεύσεων δεν υποστηρίζεται από τον εκκινητή σας."
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "Προσθήκη σε σελιδοδείκτη"
+    },
+    {
+      "name": "advanced",
+      "value": "Προχωρημένες"
+    },
+    {
+      "name": "advanced_search",
+      "value": "Σύνθετη Αναζήτηση"
+    },
+    {
+      "name": "album",
+      "value": "Άλμπουμ"
+    },
+    {
+      "name": "always",
+      "value": "Πάντα"
+    },
+    {
+      "name": "amaze_audio_player",
+      "value": "Amaze Music Player"
+    },
+    {
+      "name": "amaze_utils_installed_alias",
+      "value": "Σας ευχαριστούμε που εγκαταστήσατε το Amaze File Utilities. Σας ανακατευθύνουμε στην εφαρμογή."
+    },
+    {
+      "name": "analyse_storage",
+      "value": "Ανάλυση Αποθήκευσης"
+    },
+    {
+      "name": "android_data_prompt_saf_access_title",
+      "value": "Χορήγηση πρόσβασης SAF"
+    },
+    {
+      "name": "anonymous",
+      "value": "Ανώνυμος"
+    },
+    {
+      "name": "aperture_value",
+      "value": "Μέγεθος Διαφράγματος"
+    },
+    {
+      "name": "apks",
+      "value": "Apks"
+    },
+    {
+      "name": "app_name",
+      "value": "Amaze Διαχειριστής Αρχείων"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "Διεπ/Εφαρμ. κατέρρευσε"
+    },
+    {
+      "name": "appearance",
+      "value": "Εμφάνιση"
+    },
+    {
+      "name": "appearance_summary",
+      "value": "Προσαρμόστε το θέμα, τα χρώματα και την εμφάνιση του διαχειριστή αρχείων"
+    },
+    {
+      "name": "apps",
+      "value": "Διαχειριστής εφαρμογών"
+    },
+    {
+      "name": "archive",
+      "value": "Αρχειοθέτηση"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "Φάκελος εξαγωγής"
+    },
+    {
+      "name": "archive_password_prompt",
+      "value": "Παρακαλώ εισάγετε τον κωδικό αρχειοθήκης:"
+    },
+    {
+      "name": "archive_summary",
+      "value": "Τα συμπιεσμένα αρχεία θα αποσυμπιέζονται σε αυτόν το φάκελο. Η αρχική επιλογή είναι ο φάκελος στον οποίο βρίσκεται το αρχείο συμπίεσης."
+    },
+    {
+      "name": "archive_text",
+      "value": "Αυτό είναι ένα συμπιεσμένο αρχείο. Τι ενέργεια θέλετε να κάνετε;"
+    },
+    {
+      "name": "archive_unsupported_or_corrupt",
+      "value": "Δεν είναι δυνατό το άνοιγμα της αρχειοθήκης \"%s\". Είτε δεν μπορεί να ανοίξει, είτε έχει καταστραφεί."
+    },
+    {
+      "name": "artist",
+      "value": "Καλλιτέχνης"
+    },
+    {
+      "name": "ascending",
+      "value": "Αύξουσα"
+    },
+    {
+      "name": "audio",
+      "value": "Ήχος"
+    },
+    {
+      "name": "authenticate_password",
+      "value": "Εισαγωγή κωδικού πρόσβασης"
+    },
+    {
+      "name": "author",
+      "value": "Συντάκτης"
+    },
+    {
+      "name": "authors",
+      "value": "Δημιουργοί"
+    },
+    {
+      "name": "back_summary",
+      "value": "Ενεργοποιεί κατ' επιλογή πλοήγηση προς τα πίσω στην κορυφή της λίστας"
+    },
+    {
+      "name": "back_title",
+      "value": "Πλοήγηση πίσω"
+    },
+    {
+      "name": "backup",
+      "value": "Αντίγραφο ασφαλείας"
+    },
+    {
+      "name": "backup_summary",
+      "value": "Εξαγωγή/Εισαγωγή ρυθμίσεων Amaze"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "Βασκικά"
+    },
+    {
+      "name": "behavior",
+      "value": "Συμπεριφορά"
+    },
+    {
+      "name": "behavior_summary",
+      "value": "Τροποποιήστε συμπεριφορές όπως η προηγμένη αναζήτηση και το αν θα ανοίγετε αρχεία ως νέα εργασία."
+    },
+    {
+      "name": "bitrate",
+      "value": "Ρυθμός δεδομένων"
+    },
+    {
+      "name": "black",
+      "value": "Μαύρο (για OLED)"
+    },
+    {
+      "name": "blue",
+      "value": "Μπλε"
+    },
+    {
+      "name": "bluetooth",
+      "value": "Bluetooth"
+    },
+    {
+      "name": "bookmark_exists",
+      "value": "Ο Σελιδοδείκτης υπάρχει"
+    },
+    {
+      "name": "bookmark_lost",
+      "value": "Δεν βρέθηκε σελιδοδείκτης, επαναδημιουργία…"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "Οι σελιδοδείκτες προστέθηκαν"
+    },
+    {
+      "name": "byte_singular",
+      "value": "byte"
+    },
+    {
+      "name": "bytes",
+      "value": "bytes"
+    },
+    {
+      "name": "calculating",
+      "value": "υπολογισμός"
+    },
+    {
+      "name": "camera_brand",
+      "value": "Μάρκα Κάμερας"
+    },
+    {
+      "name": "camera_model",
+      "value": "Μοντέλο Κάμερας"
+    },
+    {
+      "name": "cancel",
+      "value": "ΑΚΥΡΟ"
+    },
+    {
+      "name": "cancel_recommended",
+      "value": "Ακύρωση (Συνιστάται)"
+    },
+    {
+      "name": "cancelled",
+      "value": "Ακυρώθηκε"
+    },
+    {
+      "name": "cannot_delete_file",
+      "value": "Αδύνατη η διαγραφή αρχείου"
+    },
+    {
+      "name": "cannot_delete_file_with_reason",
+      "value": "Αδύνατη η διαγραφή αρχείου - %s"
+    },
+    {
+      "name": "cannot_extract_archive",
+      "value": "Αδύνατη η εξαγωγή της αρχειοθήκης \"%s\": %s"
+    },
+    {
+      "name": "cannot_overwrite",
+      "value": "Αδύνατη η αντικατάσταση αρχείου."
+    },
+    {
+      "name": "cannot_read_directory",
+      "value": "Αδύνατη η ανάγνωση του καταλόγου %s - %s"
+    },
+    {
+      "name": "cannot_rename_file",
+      "value": "Αδύνατη η μετονομασία αρχείου %s - %s"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s δεν είναι δυνατό να είναι κενό"
+    },
+    {
+      "name": "change",
+      "value": "Αλλαγή"
+    },
+    {
+      "name": "changelog",
+      "value": "Αρχείο αλλαγών"
+    },
+    {
+      "name": "channel_description_ftp",
+      "value": "Ειδοποιήσεις διακομιστή FTP του Amaze File Manager"
+    },
+    {
+      "name": "channel_description_normal",
+      "value": "Ειδοποιήσεις του Amaze File Manager"
+    },
+    {
+      "name": "channel_name_ftp",
+      "value": "Amaze Διακομιστής FTP"
+    },
+    {
+      "name": "channel_name_normal",
+      "value": "Ειδοποιήσεις Amaze"
+    },
+    {
+      "name": "channels",
+      "value": "Κανάλια"
+    },
+    {
+      "name": "checking_conflicts",
+      "value": "Έλεγχος για διενέξεις"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "Κινέζικα"
+    },
+    {
+      "name": "choose_color",
+      "value": "Επιλέξτε χρώμα"
+    },
+    {
+      "name": "choose_different_app",
+      "value": "Επιλογή διαφορετικής εφαρμογής"
+    },
+    {
+      "name": "choose_folder",
+      "value": "Επιλέξτε αυτό το φάκελο"
+    },
+    {
+      "name": "choose_operation",
+      "value": "Επιλέξτε λειτουργία για εκτέλεση"
+    },
+    {
+      "name": "circular_icons",
+      "value": "Χρήση κυκλικών εικονιδίων"
+    },
+    {
+      "name": "circular_images",
+      "value": "Χρήση κυκλικών εικονιδίων για εικόνες και βίντεο"
+    },
+    {
+      "name": "clear",
+      "value": "Καθαρισμός"
+    },
+    {
+      "name": "clear_open_file",
+      "value": "Εκκαθάριση cache"
+    },
+    {
+      "name": "clear_open_file_summary",
+      "value": "Καθαρίζει τις επιλεγμένες προεπιλεγμένες εφαρμογές ανοίγματος αρχείων"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "Η διαδρομή αντιγράφτηκε"
+    },
+    {
+      "name": "close",
+      "value": "Κλείσιμο"
+    },
+    {
+      "name": "cloud_box",
+      "value": "Box"
+    },
+    {
+      "name": "cloud_connection",
+      "value": "Σύνδεση Cloud"
+    },
+    {
+      "name": "cloud_connection_credentials_cleared",
+      "value": "Εκκαθάριση διαπιστευτηρίων σύνδεσης Cloud"
+    },
+    {
+      "name": "cloud_connection_credentials_cleared_msg",
+      "value": "Δυστυχώς, δεν μπορέσαμε να μεταφέρουμε τα διαπιστευτήρια σύνδεσής σας στο cloud στο νέο σχήμα της βάσης δεδομένων και έπρεπε να τα αφαιρέσουμε από την εφαρμογή. Παρακαλούμε δημιουργήστε ξανά τη σύνδεση στο cloud."
+    },
+    {
+      "name": "cloud_connection_new",
+      "value": "Νέα σύνδεση Cloud"
+    },
+    {
+      "name": "cloud_drive",
+      "value": "Google Drive™"
+    },
+    {
+      "name": "cloud_drive_tooltip",
+      "value": "Δημιουργήστε μια σύνδεση Google Drive™ για τη διαχείριση αρχείων από το Amaze File Manager."
+    },
+    {
+      "name": "cloud_dropbox",
+      "value": "Dropbox"
+    },
+    {
+      "name": "cloud_error_failed_restart",
+      "value": "Απέτυχε να φορτώσει τη σύνδεση.\\n         Παρακαλούμε ανοίξτε το Amaze Cloud μία φορά."
+    },
+    {
+      "name": "cloud_error_fdroid",
+      "value": "Το Amaze Cloud Plugin δεν υποστηρίζεται από την έκδοση F-Droid. Παρακαλούμε χρησιμοποιήστε την έκδοση του Play Store του Amaze."
+    },
+    {
+      "name": "cloud_error_plugin",
+      "value": "Το πρόσθετο Amaze Cloud δεν βρέθηκε. Παρακαλώ κατεβάστε το από το Play Store."
+    },
+    {
+      "name": "cloud_fail_authenticate",
+      "value": "Απέτυχε ο έλεγχος ταυτότητας"
+    },
+    {
+      "name": "cloud_get",
+      "value": "Αποκτήστε το Cloud plugin"
+    },
+    {
+      "name": "cloud_onedrive",
+      "value": "OneDrive"
+    },
+    {
+      "name": "cloud_remove",
+      "value": "Θέλετε να καταργήσετε τη σύνδεση cloud;"
+    },
+    {
+      "name": "cloud_share_copied",
+      "value": "Η κοινόχρηστη σύνδεση αντιγράφηκε στο πρόχειρο"
+    },
+    {
+      "name": "cloud_token_lost",
+      "value": "Το διακριτικό χάθηκε. Πραγματοποιήστε ξανά είσοδο"
+    },
+    {
+      "name": "codec",
+      "value": "Κωδικοποιητής"
+    },
+    {
+      "name": "color_summary",
+      "value": "Ορίστε το χρώμα διαφόρων στοιχείων της διεπαφής χρήστη"
+    },
+    {
+      "name": "color_title",
+      "value": "Χρώμα"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "Έγχρωμη μπάρα πλοήγησης"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "Αν θα είναι η μπάρα πλοήγησης του συστήματος χρωματισμένη σύμφωνα με το θέμα."
+    },
+    {
+      "name": "colorize",
+      "value": "Χρωματισμός εικονιδίων"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "Ορίζει στατικό χρώμα εικονιδίων. Δεν παρακάμπτει την επιλογή χρώματος των εικονιδίων φακέλων."
+    },
+    {
+      "name": "comment",
+      "value": "Σχόλιο"
+    },
+    {
+      "name": "complete_paste_warning",
+      "value": "Ολοκληρώστε πρώτα τη λειτουργία επικόλλησης"
+    },
+    {
+      "name": "compress",
+      "value": "Συμπίεση"
+    },
+    {
+      "name": "compress_file_suggest_zip_extension",
+      "value": "Συνιστάται η χρήση \".zip\" ως επέκταση αρχείου."
+    },
+    {
+      "name": "compressed",
+      "value": "Συμπιέστηκε"
+    },
+    {
+      "name": "compressed_explorer_fragment_error_open_uri",
+      "value": "Σφάλμα ανοίγματος URI \"%s\" για ανάγνωση."
+    },
+    {
+      "name": "compressing",
+      "value": "Συμπιέζει"
+    },
+    {
+      "name": "compression_complete",
+      "value": "Συμπίεση Επιτυχής"
+    },
+    {
+      "name": "confirmation",
+      "value": "Επιβεβαίωση"
+    },
+    {
+      "name": "connection_exists",
+      "value": "Υπάρχει ήδη σύνδεση"
+    },
+    {
+      "name": "connection_name",
+      "value": "Όνομα σύνδεσης"
+    },
+    {
+      "name": "container",
+      "value": "Περιεχόμενο"
+    },
+    {
+      "name": "contributors",
+      "value": "Συντελεστές"
+    },
+    {
+      "name": "contributors_1_summary",
+      "value": "Μετάφραση"
+    },
+    {
+      "name": "contributors_2_summary",
+      "value": "Εικονίδιο και banners"
+    },
+    {
+      "name": "contributors_3_summary",
+      "value": "Μηχανή Θεμάτων"
+    },
+    {
+      "name": "contributors_4_summary",
+      "value": "Σκιά πίσω από το FAB"
+    },
+    {
+      "name": "contributors_5_summary",
+      "value": "Εναλλαγή χρωμάτων κατά την σάρωση καρτελών"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "Διακομιστής FTP"
+    },
+    {
+      "name": "contributors_7_summary",
+      "value": "Εκκίνηση ενός διαδραστικού κελύφους"
+    },
+    {
+      "name": "copied",
+      "value": "αντιγράφηκε"
+    },
+    {
+      "name": "copy",
+      "value": "Αντιγραφή"
+    },
+    {
+      "name": "copy_complete",
+      "value": "Αντιγραφή Ολοκληρώθηκε"
+    },
+    {
+      "name": "copy_error",
+      "value": "Ορισμένα αρχεία δεν ήταν επιτυχώς %s"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Αντιγραφή μορφοποιημένης αναφοράς"
+    },
+    {
+      "name": "copy_low_memory",
+      "value": "Η μνήμη εξαντλήθηκε. Ελευθερώστε μνήμη."
+    },
+    {
+      "name": "copying",
+      "value": "Αντιγραφή"
+    },
+    {
+      "name": "copyingapks",
+      "value": "Αντιγραφή  %d αρχείων APK σε %s"
+    },
+    {
+      "name": "crash_report_copied",
+      "value": "Αντιγράφηκε η αναφορά κατάρρευσης στο πρόχειρο"
+    },
+    {
+      "name": "create",
+      "value": "ΔΗΜΙΟΥΡΓΙΑ"
+    },
+    {
+      "name": "create_bookmark",
+      "value": "Δημιουργία σελιδοδείκτη"
+    },
+    {
+      "name": "create_file_suggest_txt_extension",
+      "value": "Συνιστάται η χρήση \".txt\" ως επέκταση αρχείου."
+    },
+    {
+      "name": "create_hidden_file_warn",
+      "value": "Το αρχείο που δημιουργήθηκε θα είναι κρυφό στη λίστα αρχείων."
+    },
+    {
+      "name": "created",
+      "value": "Δημιουργήθηκε"
+    },
+    {
+      "name": "creatingfile",
+      "value": "Δημιουργία Αρχείου"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "Δημιουργία Φακέλου"
+    },
+    {
+      "name": "creator",
+      "value": "Δημιουργός"
+    },
+    {
+      "name": "crypt_decrypt",
+      "value": "Αποκρυπτογράφηση"
+    },
+    {
+      "name": "crypt_decrypted",
+      "value": "Αποκρυπτογραφημένο"
+    },
+    {
+      "name": "crypt_decrypting",
+      "value": "Αποκρυπτογράφηση"
+    },
+    {
+      "name": "crypt_decryption_fail",
+      "value": "Αποτυχία αποκρυπτογράφησης"
+    },
+    {
+      "name": "crypt_decryption_fail_password",
+      "value": "Λάθος κωδικός!"
+    },
+    {
+      "name": "crypt_encrypt",
+      "value": "Κρυπτογράφηση"
+    },
+    {
+      "name": "crypt_encrypted",
+      "value": "Κρυπτογραφημένο"
+    },
+    {
+      "name": "crypt_encrypting",
+      "value": "Κρυπτογράφηση"
+    },
+    {
+      "name": "crypt_encryption_fail",
+      "value": "Αποτυχία κρυπτογράφησης"
+    },
+    {
+      "name": "crypt_fingerprint_authenticate",
+      "value": "Αγγίξτε τον αισθητήρα για να συνεχίσετε"
+    },
+    {
+      "name": "crypt_fingerprint_no_permission",
+      "value": "Τα δικαιώματα δακτυλικού αποτυπώματος λείπουν"
+    },
+    {
+      "name": "crypt_fingerprint_no_security",
+      "value": "Δεν βρέθηκε ασφάλεια οθόνης κλειδώματος"
+    },
+    {
+      "name": "crypt_fingerprint_not_enrolled",
+      "value": "Δεν έχει καταχωρηθεί δακτυλικό αποτύπωμα"
+    },
+    {
+      "name": "crypt_pref_fingerprint_summary",
+      "value": "Χρήση δακτυλικού αποτυπώματος για την πιστοποίηση της κρυπτογράφησης"
+    },
+    {
+      "name": "crypt_pref_fingerprint_title",
+      "value": "Δακτυλικό αποτύπωμα"
+    },
+    {
+      "name": "crypt_pref_master_password_summary",
+      "value": "Ορίστε έναν κύριο κωδικό πρόσβασης για κρυπτογράφηση.\\n         Αφήστε το κενό για αφαίρεση."
+    },
+    {
+      "name": "crypt_pref_master_password_title",
+      "value": "Κύριος κωδικός πρόσβασης"
+    },
+    {
+      "name": "crypt_warning_key",
+      "value": "Σας ενημερώνουμε ότι, όταν αλλάζετε το μοτίβο ασφαλείας σας από\\nΡυθμίσεις συστήματος, δεν θα μπορείτε να αποκρυπτογραφήσετε αυτό το περιεχόμενο."
+    },
+    {
+      "name": "current_speed",
+      "value": "Τρέχουσα ταχύτητα"
+    },
+    {
+      "name": "custom",
+      "value": "Προσαρμοσμένη"
+    },
+    {
+      "name": "customize",
+      "value": "Προσαρμογή"
+    },
+    {
+      "name": "cut",
+      "value": "Αποκοπή"
+    },
+    {
+      "name": "dark",
+      "value": "Σκοτεινό Material"
+    },
+    {
+      "name": "database",
+      "value": "Βάση δεδομένων"
+    },
+    {
+      "name": "databasereader",
+      "value": "Αναγνώστης βάσεων δεδομένων"
+    },
+    {
+      "name": "date",
+      "value": "Ημερομηνία:"
+    },
+    {
+      "name": "date_modified",
+      "value": "Ημ/νία Τροποποίησης"
+    },
+    {
+      "name": "date_taken",
+      "value": "Ημ/νία Λήψης"
+    },
+    {
+      "name": "daytime",
+      "value": "Ημερήσια"
+    },
+    {
+      "name": "default_string",
+      "value": "Προεπιλογή"
+    },
+    {
+      "name": "delbook",
+      "value": "Διαγραφή σελιδοδείκτη"
+    },
+    {
+      "name": "delete",
+      "value": "Διαγραφή"
+    },
+    {
+      "name": "delete_permanently_checkbox",
+      "value": "Μόνιμη Διαγραφή"
+    },
+    {
+      "name": "deleting",
+      "value": "Διαγραφή"
+    },
+    {
+      "name": "descending",
+      "value": "Φθίνουσα"
+    },
+    {
+      "name": "deselect_all",
+      "value": "Αποεπιλογή όλων"
+    },
+    {
+      "name": "details",
+      "value": "Λεπτομέρειες"
+    },
+    {
+      "name": "developers",
+      "value": "Προγραμματιστές"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "Φάκελοι"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "Αρχεία"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "Η διαγραφή των παρακάτω στοιχείων θα τα αφαιρέσει οριστικά από τη συσκευή σας και δεν θα είναι δυνατή η ανάκτησή τους."
+    },
+    {
+      "name": "dialog_delete_temporarily_disclaimer",
+      "value": "Σίγουρα θέλετε να διαγράψετε τα ακόλουθα στοιχεία;"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Διαγραφή στοιχείων μόνιμα;"
+    },
+    {
+      "name": "dialog_restore_disclaimer",
+      "value": "Σίγουρα θέλετε να επαναφέρετε τα ακόλουθα στοιχεία;"
+    },
+    {
+      "name": "dimensions",
+      "value": "Διαστάσεις"
+    },
+    {
+      "name": "directory",
+      "value": "Κατάλογος"
+    },
+    {
+      "name": "directorysort",
+      "value": "Τύπος Ταξιν/σης Καταλόγου"
+    },
+    {
+      "name": "disable",
+      "value": "Απενεργοποίηση"
+    },
+    {
+      "name": "disableIpcSignature",
+      "value": "Απενεργοποίηση ελέγχου υπογραφής IPC (Για παλαιούς διακομιστές SMBv1 - UNSAFE!)"
+    },
+    {
+      "name": "disable_player_intent_filters",
+      "value": "Απενεργοποίηση φίλτρων πρόθεσης αναπαραγωγής"
+    },
+    {
+      "name": "disable_player_intent_filters_summary",
+      "value": "Απενεργοποιεί τις ενσωματωμένες συσκευές αναπαραγωγής πολυμέσων του Amaze από τον επιλογέα αρχείων"
+    },
+    {
+      "name": "documents",
+      "value": "Έγγραφα"
+    },
+    {
+      "name": "docx_viewer",
+      "value": "Amaze Document Viewer"
+    },
+    {
+      "name": "doforall",
+      "value": "Εκτέλεση για όλα τα στοιχεία"
+    },
+    {
+      "name": "doit",
+      "value": "Κάντε το"
+    },
+    {
+      "name": "domain",
+      "value": "Τομέας"
+    },
+    {
+      "name": "donate",
+      "value": "Δωρεά"
+    },
+    {
+      "name": "donation_thanks",
+      "value": "Σας ευχαριστούμε για τη δωρεά, αυτό μας δίνει κίνητρο! (:"
+    },
+    {
+      "name": "done",
+      "value": "Ολοκληρώθηκε"
+    },
+    {
+      "name": "download",
+      "value": "Λήψη"
+    },
+    {
+      "name": "drag_and_drop_preference",
+      "value": "Επιλογή προτίμησης μεταφοράς και απόθεσης (Πειραματική)"
+    },
+    {
+      "name": "drag_to_move_copy",
+      "value": "Αγγίξτε και σύρετε για να μετακινήσετε ή να αντιγράψετε αρχεία"
+    },
+    {
+      "name": "drag_to_select",
+      "value": "Αγγίξτε και σύρετε για να επιλέξετε αρχεία"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Κλείσιμο μενού πλοήγησης"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Άνοιγμα μενού πλοήγησης"
+    },
+    {
+      "name": "duration",
+      "value": "Διάρκεια"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "Ολλανδικά"
+    },
+    {
+      "name": "edit",
+      "value": "Επεξεργασία"
+    },
+    {
+      "name": "edit_bookmark",
+      "value": "Επεξεργασία σελιδοδείκτη"
+    },
+    {
+      "name": "enable_marquee_filename",
+      "value": "Ενεργοποίηση εφέ μαρκαρίσματος για ονόματα αρχείων"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "Ενεργοποίηση Λειτουργίας Root"
+    },
+    {
+      "name": "encrypt_file_must_end_with_aes",
+      "value": "Τα κρυπτογραφημένα αρχεία πρέπει να χρησιμοποιούν \".aes\" ως επέκταση αρχείου."
+    },
+    {
+      "name": "encrypt_file_must_end_with_aze",
+      "value": "Τα κρυπτογραφημένα αρχεία πρέπει να χρησιμοποιούν \".aze\" ως επέκταση αρχείου."
+    },
+    {
+      "name": "encrypt_file_save_as",
+      "value": "Αποθήκευση κρυπτογραφημένου αρχείου ως…"
+    },
+    {
+      "name": "encrypt_folder_save_as",
+      "value": "Αποθήκευση κρυπτογραφημένου φακέλου ως…"
+    },
+    {
+      "name": "encrypt_option_use_aze",
+      "value": "Χρήση μορφής κρυπτογράφησης Amaze"
+    },
+    {
+      "name": "encryption_fail_copy",
+      "value": "Απέτυχε η ενημέρωση της καταχώρησης κρυπτογράφησης στη βάση δεδομένων"
+    },
+    {
+      "name": "entername",
+      "value": "Εισάγετε όνομα"
+    },
+    {
+      "name": "enterpath",
+      "value": "Εισάγετε διαδρομή"
+    },
+    {
+      "name": "enterzipname",
+      "value": "Εισάγετε το όνομα του Zip"
+    },
+    {
+      "name": "error",
+      "value": "Σφάλμα"
+    },
+    {
+      "name": "error_listfile_smb",
+      "value": "Σφάλμα λίστας αρχείων σε %s: %s"
+    },
+    {
+      "name": "error_listfile_smb_noipcshare",
+      "value": "Σφάλμα λίστας αρχείων στο %s - πιθανότατα ο διακομιστής SMB δεν επιτρέπει την ανώνυμη πρόσβαση κοινής χρήσης σε IPC$. Μπορείτε να δοκιμάσετε να καθορίσετε το όνομα της κοινής χρήσης απευθείας στις ρυθμίσεις σύνδεσης."
+    },
+    {
+      "name": "error_listfile_smb_title",
+      "value": "Αδυναμία φόρτωσης λίστας αρχείων SMB"
+    },
+    {
+      "name": "error_archive_cannot_extract",
+      "value": "Δεν είναι δυνατή η εξαγωγή εγγραφής αρχείου \"%s\" σε \"%s\"."
+    },
+    {
+      "name": "error_archive_password_incorrect",
+      "value": "Λάθος κωδικός πρόσβασης αρχείου."
+    },
+    {
+      "name": "error_bad_archive_without_info",
+      "value": "\"%s\" είναι ένα κατεστραμμένο αρχείο."
+    },
+    {
+      "name": "error_cannot_find_way_open",
+      "value": "Δεν ήταν δυνατή η εύρεση του τρόπου ανοίγματος του αρχείου"
+    },
+    {
+      "name": "error_cannot_get_package_info",
+      "value": "Δεν είναι δυνατή η λήψη πληροφοριών πακέτου από το αρχείο \"%s\". Είτε το καθορισμένο αρχείο δεν είναι APK, είτε το αρχείο πακέτου είναι κατεστραμμένο."
+    },
+    {
+      "name": "error_cant_decompress_that_file",
+      "value": "Δεν είναι δυνατή η επεξεργασία της αρχειοθήκης που ζητήθηκε"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Λεπτομέρειες:"
+    },
+    {
+      "name": "error_empty_archive",
+      "value": "\"%s\" είναι ένα άδειο αρχείο."
+    },
+    {
+      "name": "error_fetching_google_play_product_list",
+      "value": "Σφάλμα ανάκτησης λίστας προϊόντων από το Google Play."
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "Σφάλμα: Αρχείο δεν βρέθηκε"
+    },
+    {
+      "name": "error_file_too_large",
+      "value": "Σφάλμα: Αρχείο πολύ μεγάλο"
+    },
+    {
+      "name": "error_google_play_cannot_update_myself",
+      "value": "Σύμφωνα με τις εντολές της πολιτικής του Google Play, οι εφαρμογές δεν επιτρέπεται να ενημερώνονται μόνες τους. Ενημερώστε την εφαρμογή από το Google Play."
+    },
+    {
+      "name": "error_io",
+      "value": "Σφάλμα εισόδου/εξόδου"
+    },
+    {
+      "name": "error_permission_denied",
+      "value": "Απορριφθείσα άδεια"
+    },
+    {
+      "name": "error_report_button_telegram",
+      "value": "Αναφέρετε αυτό το σφάλμα μέσω telegram"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Αναφορά αυτού του σφάλματος μέσω e-mail"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Ελέγξτε αν υπάρχει ήδη κάποιο ζήτημα που συζητάται για την κατάρρευση σας."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Αναφορά στο GitHub"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Αναφορά σφάλματος"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Αναφορά"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Συγγνώμη, κάτι πήγε στραβά."
+    },
+    {
+      "name": "error_unsupported_or_null_uri",
+      "value": "Άκυρο, μη υποστηριζόμενο ή κανένα URI"
+    },
+    {
+      "name": "error_unsupported_v5_rar",
+      "value": "Το αρχείο RAR \"%s\" είναι μη υποστηριζόμενο αρχείο RAR v5."
+    },
+    {
+      "name": "exit",
+      "value": "Έξοδος"
+    },
+    {
+      "name": "exporting_failed",
+      "value": "Η εξαγωγή απέτυχε: δεν ήταν δυνατή η εγγραφή του αρχείου αντιγράφων"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Χρόνος έκθεσης"
+    },
+    {
+      "name": "extract",
+      "value": "Εξαγωγή"
+    },
+    {
+      "name": "extract_complete",
+      "value": "Αποσυμπίεση επιτυχής"
+    },
+    {
+      "name": "extracted",
+      "value": "Αποσυμπιέστηκε"
+    },
+    {
+      "name": "extracting",
+      "value": "Εξαγωγή"
+    },
+    {
+      "name": "failed_cloud_api_key",
+      "value": "Απέτυχε ο έλεγχος ταυτότητας του Cloud plug-in"
+    },
+    {
+      "name": "failed_cloud_new_connection",
+      "value": "Αποτυχία προσθήκης νέας σύνδεσης Cloud"
+    },
+    {
+      "name": "failed_install_apk",
+      "value": "Απέτυχε η εγκατάσταση"
+    },
+    {
+      "name": "failed_no_connection",
+      "value": "Αποτυχία φόρτωσης αρχείων. Ελέγξτε τη σύνδεσή σας."
+    },
+    {
+      "name": "failed_smb_decrypt_path",
+      "value": "Απέτυχε η φόρτωση σύνδεσης SMB"
+    },
+    {
+      "name": "feedback",
+      "value": "Αποστολή εντυπώσεων"
+    },
+    {
+      "name": "field_empty",
+      "value": "Το πεδίο δεν μπορεί να είναι κενό"
+    },
+    {
+      "name": "file",
+      "value": "Αρχείο"
+    },
+    {
+      "name": "file_empty",
+      "value": "Το αρχείο είναι κενό"
+    },
+    {
+      "name": "file_read_only",
+      "value": "Το αρχείο που ανοίχτηκε είναι μόνο για ανάγνωση."
+    },
+    {
+      "name": "file_too_long",
+      "value": "Το αρχείο είναι πολύ μεγάλο και δεν μπορεί να επεξεργαστεί, ωστόσο μπορείτε να διαβάσετε τους πρώτους %d χαρακτήρες"
+    },
+    {
+      "name": "fileexist",
+      "value": "Υπάρχει ήδη αρχείο με το ίδιο όνομα"
+    },
+    {
+      "name": "filename",
+      "value": "Όνομα αρχείου"
+    },
+    {
+      "name": "files",
+      "value": "Αρχεία"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "Τα αρχεία στην κορυφή"
+    },
+    {
+      "name": "find",
+      "value": "Εύρεση στη σελίδα"
+    },
+    {
+      "name": "flash_fired",
+      "value": "Με Φλας"
+    },
+    {
+      "name": "focal_length",
+      "value": "Μήκος εστίασης"
+    },
+    {
+      "name": "folder",
+      "value": "Φάκελος"
+    },
+    {
+      "name": "folderfilecount",
+      "value": "%1$d φάκελοι και %2$d αρχεία"
+    },
+    {
+      "name": "folders",
+      "value": "Φάκελοι"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "Οι φάκελοι στην κορυφή"
+    },
+    {
+      "name": "follow_battery_saver_desc",
+      "value": "Εάν επιλεγεί και η λειτουργία εξοικονόμησης μπαταρίας είναι ενεργή, το θέμα αλλάζει σε σκούρο θέμα."
+    },
+    {
+      "name": "follow_battery_saver_title",
+      "value": "Ακολουθεί την εξοικονόμηση μπαταρίας"
+    },
+    {
+      "name": "format",
+      "value": "Μορφή"
+    },
+    {
+      "name": "frame_rate",
+      "value": "Ρυθμός Καρέ"
+    },
+    {
+      "name": "free",
+      "value": "Ελεύθερα"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "Γαλλικά"
+    },
+    {
+      "name": "ftp",
+      "value": "Διακομιστής FTP"
+    },
+    {
+      "name": "ftp_connection",
+      "value": "Σύνδεση FTP"
+    },
+    {
+      "name": "ftp_login",
+      "value": "Σύνδεση"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "Βεβαιωθείτε ότι είστε συνδεδεμένοι σε Wi-Fi"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "Εκκίνηση του διακομιστή FTP"
+    },
+    {
+      "name": "ftp_notif_starting_title",
+      "value": "Διακομιστής FTP"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "STOP"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "στο %s"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "Αμέιζ διακομιστής FTP εκτελείτε"
+    },
+    {
+      "name": "ftp_path",
+      "value": "Κοινόχρηστη διαδρομή"
+    },
+    {
+      "name": "ftp_path_change_error_invalid",
+      "value": "Λανθασμένη διαδρομή"
+    },
+    {
+      "name": "ftp_path_change_success",
+      "value": "Η διαδρομή FTP άλλαξε επιτυχώς"
+    },
+    {
+      "name": "ftp_path_hint",
+      "value": "Διαδρομή προς τη ρίζα του καταλόγου προς κοινή χρήση"
+    },
+    {
+      "name": "ftp_port",
+      "value": "Θύρα"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "Μη έγκυρος επιλεγμένος αριθμός θύρας"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "Θύρα FTP άλλαξε με επιτυχία"
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "Θύρα FTP"
+    },
+    {
+      "name": "ftp_preference_saf_filesystem",
+      "value": "Ενεργοποιήστε το για υποστήριξη της χρήσης εξωτερικού αποθηκευτικού χώρου της συσκευής σε νεότερες εκδόσεις Android"
+    },
+    {
+      "name": "ftp_preference_saf_filesystem_title",
+      "value": "Χρήση του παλαιού συστήματος αρχείων"
+    },
+    {
+      "name": "ftp_prompt_accept_first_start_saf_access_title",
+      "value": "Παραχώρηση πρόσβασης SAF για διακομιστή FTP"
+    },
+    {
+      "name": "ftp_prompt_restart_server",
+      "value": "Θα χρειαστεί να επανεκκινήσετε το διακομιστή FTP για να τεθούν σε ισχύ οι αλλαγές."
+    },
+    {
+      "name": "ftp_readonly",
+      "value": "Πρόσβαση μόνο για ανάγνωση"
+    },
+    {
+      "name": "ftp_seconds",
+      "value": "Δευτερόλεπτα"
+    },
+    {
+      "name": "ftp_server_fallback_path_reset_prompt",
+      "value": "Η κοινόχρηστη διαδρομή του διακομιστή FTP είχε επαναφερθεί στον εσωτερικό αποθηκευτικό χώρο, καθώς επιστρέφετε στην παλαιότερη υλοποίηση του συστήματος αρχείων. Παρακαλούμε επιλέξτε μια νέα διαδρομή χρησιμοποιώντας το μενού στην επάνω δεξιά γωνία, όπως είναι απαραίτητο."
+    },
+    {
+      "name": "ftp_server_open_settings",
+      "value": "Άνοιγμα ρυθμίσεων"
+    },
+    {
+      "name": "ftp_server_prompt_connect_to_network",
+      "value": "Σύνδεση σε δίκτυο ή ενεργοποίηση AP"
+    },
+    {
+      "name": "ftp_server_reset_notify",
+      "value": "Η κοινή διαδρομή του διακομιστή FTP είχε επαναφερθεί στον εσωτερικό αποθηκευτικό χώρο"
+    },
+    {
+      "name": "ftp_server_root_unavailable",
+      "value": "Επιλέγετε μια διαδρομή που απαιτεί πρόσβαση root. Ενεργοποιήστε τον εξερευνητή root στις ρυθμίσεις εάν η συσκευή σας έχει root."
+    },
+    {
+      "name": "ftp_status_no_connection",
+      "value": "Χωρίς σύνδεση"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "Δεν Εκτελείται"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "Εκτελείται"
+    },
+    {
+      "name": "ftp_status_secure_connection",
+      "value": "Ασφαλής σύνδεση"
+    },
+    {
+      "name": "ftp_status_title",
+      "value": "Κατάσταση"
+    },
+    {
+      "name": "ftp_timeout",
+      "value": "Χρονικό όριο αδράνειας"
+    },
+    {
+      "name": "ftps_connection",
+      "value": "Σύνδεση FTP μέσω SSL"
+    },
+    {
+      "name": "general",
+      "value": "Γενικά"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "Γερμανικά"
+    },
+    {
+      "name": "go",
+      "value": "Μετάβαση"
+    },
+    {
+      "name": "goback",
+      "value": "Πίσω"
+    },
+    {
+      "name": "got_it",
+      "value": "Κατανοητό"
+    },
+    {
+      "name": "grant",
+      "value": "Χορήγησε"
+    },
+    {
+      "name": "grant_apkinstall_permission",
+      "value": "Η εφαρμογή χρειάζεται άδεια για την εγκατάσταση εφαρμογών."
+    },
+    {
+      "name": "grant_notification_permission",
+      "value": "Το Amaze χρειάζεται άδεια ειδοποίησης για να εμφανίζει την πρόοδο της λειτουργίας των αρχείων, καθώς και έναν εύχρηστο πίνακα για την εκκίνηση/διακοπή του διακομιστή FTP."
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "Η εφαρμογή χρειάζεται άδεια αποθήκευσης για να συνεχίσετε. Ακύρωση αυτού του διαλόγου θα τερματίσει την εφαρμογή."
+    },
+    {
+      "name": "grantfailed",
+      "value": "Άδεια δεν εκχωρήθηκε"
+    },
+    {
+      "name": "grantper",
+      "value": "Χορήγησε άδεια"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "Ελληνικά"
+    },
+    {
+      "name": "green",
+      "value": "Πράσινο"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "Αριθμός στηλών στην εμφάνιση σε πλέγμα"
+    },
+    {
+      "name": "gridview",
+      "value": "Εμφάνιση σε πλέγμα"
+    },
+    {
+      "name": "hash_sha256",
+      "value": "SHA-256"
+    },
+    {
+      "name": "height",
+      "value": "Ύψος"
+    },
+    {
+      "name": "hidden",
+      "value": "Εμφάνιση κρυφών αρχείων και φακέλων"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "Κρυφά αρχεία"
+    },
+    {
+      "name": "hide",
+      "value": "Απόκρυψη"
+    },
+    {
+      "name": "hide_media",
+      "value": "Απόκρυψη από προγράμματα περιήγησης πολυμέσων"
+    },
+    {
+      "name": "history",
+      "value": "Ιστορικό"
+    },
+    {
+      "name": "home",
+      "value": "Αρχική σελίδα"
+    },
+    {
+      "name": "icon",
+      "value": "Εικονίδιο"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "Ορίστε το χρώμα των εικονιδίων"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "Χρώμα εικονιδίων"
+    },
+    {
+      "name": "image",
+      "value": "Εικόνα"
+    },
+    {
+      "name": "image_iso",
+      "value": "Βαθμός Ταχύτητας ISO"
+    },
+    {
+      "name": "image_type",
+      "value": "Τύπος εικόνας"
+    },
+    {
+      "name": "image_viewer",
+      "value": "Amaze Image Viewer"
+    },
+    {
+      "name": "images",
+      "value": "Εικόνες"
+    },
+    {
+      "name": "import_failed_for",
+      "value": "Η εισαγωγή απέτυχε για:"
+    },
+    {
+      "name": "importing_completed",
+      "value": "Η εισαγωγή ολοκληρώθηκε"
+    },
+    {
+      "name": "importing_failed",
+      "value": "Η εισαγωγή απέτυχε: δεν μπόρεσε να διαβαστεί το αρχείο αντιγράφων"
+    },
+    {
+      "name": "in_safe",
+      "value": "Ανεπαρκής χώρος"
+    },
+    {
+      "name": "information",
+      "value": "Πληροφορίες"
+    },
+    {
+      "name": "install",
+      "value": "Εγκατάσταση"
+    },
+    {
+      "name": "intellihide_toolbar_summary",
+      "value": "Αυτόματη απόκρυψη της γραμμής εργαλείων κατά την κύλιση"
+    },
+    {
+      "name": "intellihide_toolbar_title",
+      "value": "Γραμμή εργαλείων Intellihide"
+    },
+    {
+      "name": "intent_save_as",
+      "value": "Αποθήκευση ως…"
+    },
+    {
+      "name": "invalid",
+      "value": "Άκυρο %s"
+    },
+    {
+      "name": "invalid_backup_file",
+      "value": "Άκυρο αρχείο αντιγράφων ασφαλείας"
+    },
+    {
+      "name": "invalid_name",
+      "value": "Μη έγκυρο όνομα"
+    },
+    {
+      "name": "ip",
+      "value": "Διεύθυνση"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "Ιταλικά"
+    },
+    {
+      "name": "item",
+      "value": "Αντικείμενο"
+    },
+    {
+      "name": "items",
+      "value": "Αντικείμενα"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "Ιαπωνικά"
+    },
+    {
+      "name": "just_once",
+      "value": "Μια φορά μόνο"
+    },
+    {
+      "name": "keywords",
+      "value": "Λέξεις-κλειδιά"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "Κορεάτικα"
+    },
+    {
+      "name": "lastModified",
+      "value": "Τροποποίηση"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "Εμφάνιση τελευταίας τροποποίησης"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "Εμφάνιση της ημ/νίας και ώρας τελευταίας τροποποίησης"
+    },
+    {
+      "name": "legacy_listing_summary",
+      "value": "Εάν είναι ενεργή, χρησιμοποιεί την παλαιά μέθοδο για τη λίστα αρχείων"
+    },
+    {
+      "name": "legacy_listing_title",
+      "value": "Χρήση παλαιού καταλόγου για root"
+    },
+    {
+      "name": "libraries",
+      "value": "Βιβλιοθήκες"
+    },
+    {
+      "name": "license",
+      "value": "Άδεια"
+    },
+    {
+      "name": "light",
+      "value": "Φωτεινό Material"
+    },
+    {
+      "name": "listview",
+      "value": "Εμφάνιση σε λίστα"
+    },
+    {
+      "name": "loading",
+      "value": "Φόρτωση…"
+    },
+    {
+      "name": "local_inet_addr_error",
+      "value": "Σφάλμα λήψης της τοπικής διεύθυνσης inet"
+    },
+    {
+      "name": "location",
+      "value": "Βρίσκεται σε:"
+    },
+    {
+      "name": "match_content",
+      "value": "Ταίριασμα περιεχομένου"
+    },
+    {
+      "name": "match_content_summary",
+      "value": "Αν οριστεί, η κανονική έκφραση θα ταιριάξει με ολόκληρο το όνομα του αρχείου,\\n        θα αναζητήσει την εμφάνιση διαφορετικά."
+    },
+    {
+      "name": "md5",
+      "value": "MD5"
+    },
+    {
+      "name": "medium_text",
+      "value": "Μεσαίο Κείμενο"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "Διάφορα"
+    },
+    {
+      "name": "modified",
+      "value": "Τροποποιήθηκε"
+    },
+    {
+      "name": "monofont",
+      "value": "Γραμματοσειρά Monospace"
+    },
+    {
+      "name": "move",
+      "value": "Μετακίνηση"
+    },
+    {
+      "name": "moved",
+      "value": "μετακινήθηκε"
+    },
+    {
+      "name": "moving",
+      "value": "Μετακίνηση"
+    },
+    {
+      "name": "multiple_invalid_archive_entries",
+      "value": "Δεν είναι δυνατή η εξαγωγή ορισμένων αρχείων της αρχειοθήκης. Η αρχειοθήκη μπορεί να είναι κατεστραμμένη ή να προέρχεται από κακόβουλη πηγή."
+    },
+    {
+      "name": "name",
+      "value": "Όνομα"
+    },
+    {
+      "name": "needs_access",
+      "value": "Απαιτείται πρόσβαση εγγραφής"
+    },
+    {
+      "name": "newfile",
+      "value": "Νέο αρχείο"
+    },
+    {
+      "name": "newfolder",
+      "value": "Νέος φάκελος"
+    },
+    {
+      "name": "no",
+      "value": "Όχι"
+    },
+    {
+      "name": "no_app_found",
+      "value": "Δε βρέθηκε εφαρμογή για το άνοιγμα αυτού του αρχείου"
+    },
+    {
+      "name": "no_app_found_intent",
+      "value": "Δεν βρέθηκε εφαρμογή για να χειριστεί αυτή την πρόθεση. Έχετε εγκαταστήσει το DocumentsUI;"
+    },
+    {
+      "name": "no_applications",
+      "value": "Καμία εφαρμογή"
+    },
+    {
+      "name": "no_bitcoin_app",
+      "value": "Παρακαλώ εγκαταστήστε μια εφαρμογή Bitcoin Wallet"
+    },
+    {
+      "name": "no_device_found",
+      "value": "Δεν βρέθηκε συσκευή"
+    },
+    {
+      "name": "no_file_error",
+      "value": "Κάτι πήγε στραβά, δεν υπάρχει τίποτα για άνοιγμα"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "Κανένα αρχείο δεν αντικαταστάθηκε"
+    },
+    {
+      "name": "no_files",
+      "value": "Δεν υπάρχουν αρχεία"
+    },
+    {
+      "name": "no_items",
+      "value": "Κανένα στοιχείο"
+    },
+    {
+      "name": "no_name",
+      "value": "Το αρχείο πρέπει να έχει ένα όνομα"
+    },
+    {
+      "name": "no_obtainable_info",
+      "value": "Δεν υπάρχουν πληροφορίες για το αρχείο αυτό"
+    },
+    {
+      "name": "none_on_top",
+      "value": "Κανένα στην κορυφή"
+    },
+    {
+      "name": "not_allowed",
+      "value": "Δεν επιτρέπεται"
+    },
+    {
+      "name": "not_finding_what_you_re_looking_for",
+      "value": "Δεν βρίσκετε αυτό που ψάχνετε\\?"
+    },
+    {
+      "name": "not_found_enabled_webview",
+      "value": "Δεν υπάρχει διαθέσιμο πρόγραμμα περιήγησης"
+    },
+    {
+      "name": "of",
+      "value": "του"
+    },
+    {
+      "name": "ok",
+      "value": "ΟΚ"
+    },
+    {
+      "name": "open",
+      "value": "Άνοιγμα"
+    },
+    {
+      "name": "open_as",
+      "value": "Άνοιγμα ως"
+    },
+    {
+      "name": "open_parent",
+      "value": "Άνοιγμα μητρικού φακέλου"
+    },
+    {
+      "name": "open_with",
+      "value": "Άνοιγμα με"
+    },
+    {
+      "name": "open_with_amaze",
+      "value": "Άνοιγμα με Amaze"
+    },
+    {
+      "name": "operation_fail_following",
+      "value": "Η λειτουργία απέτυχε για τα εξής αρχεία"
+    },
+    {
+      "name": "operation_not_supported",
+      "value": "Η λειτουργία δεν υποστηρίζεται"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "Λειτουργία Ανεπιτυχής"
+    },
+    {
+      "name": "optimized",
+      "value": "Βελτιστοποιημένο"
+    },
+    {
+      "name": "orange",
+      "value": "Πορτοκαλί"
+    },
+    {
+      "name": "otg_access",
+      "value": "Επιλέξτε τη ρίζα της συσκευής OTG"
+    },
+    {
+      "name": "other",
+      "value": "Άλλο"
+    },
+    {
+      "name": "out_of",
+      "value": "από"
+    },
+    {
+      "name": "overwrite",
+      "value": "Αντικατάσταση"
+    },
+    {
+      "name": "package_installer",
+      "value": "Εγκαταστάτης Πακέτου"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "Αυτό είναι ένα αρχείο εγκατάστασης. Τι ενέργεια θέλετε να κάνετε;"
+    },
+    {
+      "name": "pages",
+      "value": "Αριθμός Σελίδων"
+    },
+    {
+      "name": "paper_size",
+      "value": "Μέγεθος Χαρτιού"
+    },
+    {
+      "name": "password",
+      "value": "Κωδικός"
+    },
+    {
+      "name": "password_no_match",
+      "value": "Ο κωδικός δεν ταιριάζει"
+    },
+    {
+      "name": "password_repeat",
+      "value": "Επανάληψη κωδικού πρόσβασης"
+    },
+    {
+      "name": "password_unchanged",
+      "value": "(αμετάβλητο)"
+    },
+    {
+      "name": "paste",
+      "value": "Επικόλληση"
+    },
+    {
+      "name": "path",
+      "value": "Διαδρομή"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "Το PayPal ID αντιγράφηκε στο πρόχειρο"
+    },
+    {
+      "name": "pdf_viewer",
+      "value": "Amaze Document Viewer"
+    },
+    {
+      "name": "permission",
+      "value": "Άδειες"
+    },
+    {
+      "name": "permission_execute",
+      "value": "Εκτέλεση"
+    },
+    {
+      "name": "permission_group",
+      "value": "Ομάδα"
+    },
+    {
+      "name": "permission_other",
+      "value": "Άλλο"
+    },
+    {
+      "name": "permission_owner",
+      "value": "Κάτοχος"
+    },
+    {
+      "name": "permission_read",
+      "value": "Ανάγνωση"
+    },
+    {
+      "name": "permission_write",
+      "value": "Εγγραφή"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "Επιλέξτε ένα αρχείο"
+    },
+    {
+      "name": "pick_files",
+      "value": "Επιλέξτε ένα ή περισσότερα αρχεία"
+    },
+    {
+      "name": "play",
+      "value": "Play store"
+    },
+    {
+      "name": "please_wait",
+      "value": "Παρακαλώ περιμένετε"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "Πολωνέζικα"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "Πορτογαλικά"
+    },
+    {
+      "name": "pref_export",
+      "value": "Εξαγωγή"
+    },
+    {
+      "name": "pref_export_summary",
+      "value": "Εξαγωγή ρυθμίσεων"
+    },
+    {
+      "name": "pref_import",
+      "value": "Εισαγωγή"
+    },
+    {
+      "name": "pref_import_summary",
+      "value": "Εισαγωγή ρυθμίσεων"
+    },
+    {
+      "name": "preference_delete_confirmation",
+      "value": "Επιβεβαίωση διαγραφής"
+    },
+    {
+      "name": "preference_delete_confirmation_summary",
+      "value": "Ζητήστε επιβεβαίωση πριν διαγράψετε αρχεία. Η απενεργοποίηση αυτής της λειτουργίας αποθαρρύνεται ιδιαίτερα!"
+    },
+    {
+      "name": "preference_language_dialog_title",
+      "value": "Επιλογή Γλώσσας"
+    },
+    {
+      "name": "preference_language_system_default",
+      "value": "Προεπιλογή Συστήματος"
+    },
+    {
+      "name": "preference_language_title",
+      "value": "Γλώσσα Εφαρμογής"
+    },
+    {
+      "name": "preference_newstack_summary",
+      "value": "Σας επιτρέπει να ανοίγετε αρχεία σε ξεχωριστές εργασίες. Πρόσβαση τους από σύστημα οθόνη προσφάτων."
+    },
+    {
+      "name": "preference_newstack_title",
+      "value": "Άνοιγμα αρχείων ως νέα εργασία"
+    },
+    {
+      "name": "preselected_configs_title",
+      "value": "Προεπιλεγμένες διαμορφώσεις"
+    },
+    {
+      "name": "press_again",
+      "value": "Πατήστε ξανά για έξοδο"
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "Ορισμός χρώματος σε μεγάλα στοιχεία Διεπαφής για την αριστερή καρτέλα"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "Κύριο χρώμα (Αριστερή Καρτέλα)"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "Ορισμός χρώματος σε μεγάλα στοιχεία UI για τη δεξιά καρτέλα"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "Πρωτεύον Χρώμα (Δεξιά Καρτέλα)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "Επόπτης διεργασιών"
+    },
+    {
+      "name": "processed",
+      "value": "Επεξεργάστηκε"
+    },
+    {
+      "name": "processing",
+      "value": "Επεξεργασία…"
+    },
+    {
+      "name": "processing_file",
+      "value": "Επεξεργασία αρχείου"
+    },
+    {
+      "name": "producer",
+      "value": "Παραγωγός"
+    },
+    {
+      "name": "properties",
+      "value": "Ιδιότητες"
+    },
+    {
+      "name": "properties_copied_clipboard",
+      "value": "αντιγράφηκε στο πρόχειρο"
+    },
+    {
+      "name": "protocol_ftps",
+      "value": "Ασφαλές FTP"
+    },
+    {
+      "name": "question_delete_bookmark",
+      "value": "Διαγραφή σελιδοδείκτη;"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "Θέλετε να ορίσετε την τρέχουσα διαδρομή ως \"αρχική\" για αυτή την καρτέλα;"
+    },
+    {
+      "name": "quick",
+      "value": "Γρήγορη Πρόσβαση"
+    },
+    {
+      "name": "quick_desc",
+      "value": "Πρόσφατα προσβάσιμα αρχεία μέσω του Amaze"
+    },
+    {
+      "name": "random",
+      "value": "Τυχαία εμφάνιση"
+    },
+    {
+      "name": "random_summary",
+      "value": "Ορίζει τυχαίο κύριο χρώμα κατά την εκκίνηση"
+    },
+    {
+      "name": "rate",
+      "value": "Βαθμολογήστε την εφαρμογή"
+    },
+    {
+      "name": "recent",
+      "value": "Πρόσφατα Αρχεία"
+    },
+    {
+      "name": "recent_desc",
+      "value": "Αρχεία που δημιουργήθηκαν ή τροποποιήθηκαν πρόσφατα"
+    },
+    {
+      "name": "regular_expression",
+      "value": "Κανονική Έκφραση"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "Αναζήτηση χρησιμοποιώντας μια τύπου BASH κανονική έκφραση"
+    },
+    {
+      "name": "remember",
+      "value": "Ενθύμηση την επόμενη φορά"
+    },
+    {
+      "name": "rename",
+      "value": "Μετονομασία"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "Επεξεργασία Σελιδοδείκτη"
+    },
+    {
+      "name": "renaming",
+      "value": "Μετονομασία"
+    },
+    {
+      "name": "reopen_from_source",
+      "value": "Δεν είναι δυνατό, ανοίξτε ξανά από την τελευταία εφαρμογή"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "Αναφέρετε σφάλματα ή ζητήστε νέα λειτουργία"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "Αναφορά Σφαλμάτων"
+    },
+    {
+      "name": "restore",
+      "value": "Επαναφορά"
+    },
+    {
+      "name": "restore_files",
+      "value": "Επαναφορά Αρχείων"
+    },
+    {
+      "name": "restoring",
+      "value": "Επαναφορά..."
+    },
+    {
+      "name": "results",
+      "value": "Αποτελέσματα"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "Ρουμάνικα"
+    },
+    {
+      "name": "root_directory",
+      "value": "Root"
+    },
+    {
+      "name": "root_failure",
+      "value": "Δεν επιτρέπεται η πρόσβαση root"
+    },
+    {
+      "name": "root_mode",
+      "value": "Διαχειριστής root"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "Μόνο για rooted συσκευές. Επιλέξτε το μόνο αν είστε σίγουροι."
+    },
+    {
+      "name": "root_pref",
+      "value": "Εμφάνιση αδειών"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "Εμφάνιση αδειών αρχείων και φακέλων"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "Ρωσικά"
+    },
+    {
+      "name": "saf_otg_explanation",
+      "value": "Τώρα θα μεταβείτε στο σύστημα αρχείων του Android για λόγους ασφαλείας. Παρακαλώ επιλέξτε τη συσκευή USB από τη λίστα στα αριστερά."
+    },
+    {
+      "name": "same_dir_move_error",
+      "value": "Ο φάκελος προορισμού και ο φάκελος προέλευσης δεν πρέπει να ταιριάζουν για μετακίνηση."
+    },
+    {
+      "name": "same_dir_overwrite_error",
+      "value": "Ο φάκελος προορισμού και ο φάκελος προέλευσης δεν πρέπει να ταιριάζουν για αντικατάσταση."
+    },
+    {
+      "name": "sample_rate",
+      "value": "Ρυθμός δείγματος"
+    },
+    {
+      "name": "save",
+      "value": "Αποθήκευση"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "Κατά την εκκίνηση, θα εμφανιστεί ο πιο πρόσφατα προβαλλόμενος φάκελος σε κάθε καρτέλα."
+    },
+    {
+      "name": "save_paths",
+      "value": "Απομνημόνευση διαδρομών"
+    },
+    {
+      "name": "saved_multi_files",
+      "value": "%d αποθηκευμένα αρχεία."
+    },
+    {
+      "name": "saved_single_file",
+      "value": "Το αρχείο αποθηκεύτηκε ως '%s'."
+    },
+    {
+      "name": "saving",
+      "value": "Αποθήκευση"
+    },
+    {
+      "name": "scp_connection",
+      "value": "Σύνδεση SCP/SFTP"
+    },
+    {
+      "name": "scp_default_path",
+      "value": "Προεπιλεγμένη διαδρομή (προαιρετικά)"
+    },
+    {
+      "name": "scp_port",
+      "value": "Θύρα"
+    },
+    {
+      "name": "search",
+      "value": "Αναζητηση"
+    },
+    {
+      "name": "search_hint",
+      "value": "Γράψτε για αναζήτηση…"
+    },
+    {
+      "name": "search_recent",
+      "value": "Πρόσφατα"
+    },
+    {
+      "name": "search_results",
+      "value": "Αποτελέσματα αναζήτησης %s"
+    },
+    {
+      "name": "searching",
+      "value": "Αναζήτηση %s"
+    },
+    {
+      "name": "searching_devices",
+      "value": "Αναζήτηση συσκευών"
+    },
+    {
+      "name": "security",
+      "value": "Ασφάλεια"
+    },
+    {
+      "name": "security_error",
+      "value": "Αδύνατο το άνοιγμα του αρχείου με αυτήν την εφαρμογή"
+    },
+    {
+      "name": "security_summary",
+      "value": "Ρύθμιση κωδικού πρόσβασης και κρυπτογράφησης"
+    },
+    {
+      "name": "select",
+      "value": "Επιλογή στοιχείου"
+    },
+    {
+      "name": "select_all",
+      "value": "Επιλογή όλων"
+    },
+    {
+      "name": "select_by_date",
+      "value": "Επιλέξτε ανά ημερ/νία"
+    },
+    {
+      "name": "select_by_type",
+      "value": "Επιλέξτε ανά τύπο"
+    },
+    {
+      "name": "select_color_config",
+      "value": "Επιλέξτε διαμόρφωση χρώματος"
+    },
+    {
+      "name": "select_fill",
+      "value": "Επιλέξτε πλήρωση"
+    },
+    {
+      "name": "select_intent",
+      "value": "Επιλογή"
+    },
+    {
+      "name": "select_inverse",
+      "value": "Επιλέξτε Αντίστροφα"
+    },
+    {
+      "name": "select_save_location",
+      "value": "Επιλέξτε θέση για αποθήκευση"
+    },
+    {
+      "name": "select_similar",
+      "value": "Επιλέξτε παρόμοια"
+    },
+    {
+      "name": "send_email_to",
+      "value": "Στείλτε ένα e-mail σε"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "Σερβικά"
+    },
+    {
+      "name": "server_address",
+      "value": "Διεύθυνση IP Διακομιστή"
+    },
+    {
+      "name": "service_timer",
+      "value": "Χρόνος που πέρασε"
+    },
+    {
+      "name": "set",
+      "value": "Ορισμός"
+    },
+    {
+      "name": "set_as_home",
+      "value": "Ορισμός ως αρχική σελίδα"
+    },
+    {
+      "name": "set_random",
+      "value": "Οι αλλαγές θα εφαρμοστούν μετά την επανεκκίνηση της εφαρμογής"
+    },
+    {
+      "name": "setting",
+      "value": "Ρυθμίσεις"
+    },
+    {
+      "name": "share",
+      "value": "Κοινή χρήση"
+    },
+    {
+      "name": "share_limit",
+      "value": "Αδύνατη η κοινή χρήση περισσότερων από 100 αρχείων"
+    },
+    {
+      "name": "share_logs",
+      "value": "Κοινή χρήση αρχείων καταγραφής"
+    },
+    {
+      "name": "share_logs_summary",
+      "value": "Μοιραστείτε τα καταγεγραμμένα αρχεία καταγραφής μέσω email / telegram"
+    },
+    {
+      "name": "showHeaders",
+      "value": "Εμφάνιση κεφαλίδων"
+    },
+    {
+      "name": "show_bookmarks_pref",
+      "value": "Σελιδοδείκτες"
+    },
+    {
+      "name": "show_bookmarks_pref_title",
+      "value": "Εμφάνιση σελιδοδεικτών"
+    },
+    {
+      "name": "show_dividers",
+      "value": "Εμφάνιση διαχωριστικών γραμμών"
+    },
+    {
+      "name": "show_quick_access_pref",
+      "value": "Γρήγορες προσβάσεις"
+    },
+    {
+      "name": "show_quick_access_pref_title",
+      "value": "Εμφάνιση γρήγορων προσβάσεων"
+    },
+    {
+      "name": "show_system_apps",
+      "value": "Εμφάνιση εφαρμ. συστήματος"
+    },
+    {
+      "name": "sidebar_bookmarks_title",
+      "value": "Σελιδοδείκτες πλευρικής μπάρας"
+    },
+    {
+      "name": "sidebar_preferences",
+      "value": "Πλαϊνή μπάρα"
+    },
+    {
+      "name": "sidebar_quick_access_title",
+      "value": "Γρήγορη πρόσβαση στην πλευρική μπάρα"
+    },
+    {
+      "name": "signin_with_google_title",
+      "value": "Πιστοποίηση ταυτότητας για χρήση του Google Drive™"
+    },
+    {
+      "name": "size",
+      "value": "Μέγ. Φακέλου"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Μέγεθος"
+    },
+    {
+      "name": "size_pref",
+      "value": "Εμφάνιση μεγεθών"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "Εμφάνιση μεγέθους αρχείων και αριθμού αντικειμένων εντός των φακέλων"
+    },
+    {
+      "name": "skip",
+      "value": "Παράβλεψη"
+    },
+    {
+      "name": "smb_connection",
+      "value": "Συνδέσεις SMB"
+    },
+    {
+      "name": "smb_launch_error",
+      "value": "Θα χρειαστεί να αντιγράψετε αυτό το αρχείο στο χώρο αποθήκευσης για να το ανοίξετε"
+    },
+    {
+      "name": "smb_share",
+      "value": "Κοινή χρήση διαδρομής"
+    },
+    {
+      "name": "software",
+      "value": "Λογισμικό"
+    },
+    {
+      "name": "some_files_failed_invalid_operation",
+      "value": "Ορισμένα αρχεία απέτυχαν λόγω μη έγκυρης λειτουργίας"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Λυπάμαι, αυτό δεν έπρεπε να συμβεί."
+    },
+    {
+      "name": "sort",
+      "value": "Ταξινόμηση"
+    },
+    {
+      "name": "sort_by",
+      "value": "Ταξινόμηση κατά"
+    },
+    {
+      "name": "sort_by_colon",
+      "value": "Ταξινόμηση κατά:"
+    },
+    {
+      "name": "sort_name",
+      "value": "Όνομα"
+    },
+    {
+      "name": "sort_only_this",
+      "value": "Μόνο αυτός ο φάκελος"
+    },
+    {
+      "name": "sort_relevance",
+      "value": "Σχετικότητα"
+    },
+    {
+      "name": "sort_size",
+      "value": "Μέγεθος"
+    },
+    {
+      "name": "source_summary",
+      "value": "Δείτε τον πηγαίο κώδικα στο GitHub"
+    },
+    {
+      "name": "source_title",
+      "value": "Πηγαίος κώδικας"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "Ισπανικά"
+    },
+    {
+      "name": "ssh_authentication_failure_key",
+      "value": "Αποτυχία σύνδεσης: Δεν κατέστη δυνατή η πιστοποίηση με το όνομα χρήστη και το ιδιωτικό κλειδί."
+    },
+    {
+      "name": "ssh_authentication_failure_password",
+      "value": "Αποτυχία σύνδεσης: Αδυναμία ελέγχου ταυτότητας με το όνομα χρήστη και τον κωδικό πρόσβασης."
+    },
+    {
+      "name": "ssh_connect_failed",
+      "value": "Αδυναμία σύνδεσης σε %1$s:%2$d: %3$s"
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_title",
+      "value": "ΠΡΟΕΙΔΟΠΟΙΗΣΗ: Η ΑΝΑΓΝΩΡΙΣΗ ΤΟΥ HOST ΕΧΕΙ ΑΛΛΑΞΕΙ!"
+    },
+    {
+      "name": "ssh_host_key_verification_prompt_title",
+      "value": "Επαλήθευση Host"
+    },
+    {
+      "name": "ssh_key_invalid_passphrase",
+      "value": "Άκυρη κωδική φράση κλειδιού."
+    },
+    {
+      "name": "ssh_key_no_decoder_decrypt",
+      "value": "Χωρίς έγκυρο αποκ/ποιητή για την αποκρυπ/φηση PEM."
+    },
+    {
+      "name": "ssh_key_prompt_passphrase",
+      "value": "Εισάγετε τη φράση πρόσβασης του κλειδιού."
+    },
+    {
+      "name": "ssh_pem_key_parse_error",
+      "value": "Αδυναμία ανάγνωσης επιλεγμένου PEM: %s"
+    },
+    {
+      "name": "ssh_select_pem",
+      "value": "Επιλογή ιδιωτικού κλειδιού για έλεγχο ταυτότητας"
+    },
+    {
+      "name": "ssh_select_pem_button",
+      "value": "Ιδιωτικό κλειδί SSH"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Έναρξη"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "Διακοπή"
+    },
+    {
+      "name": "stopping",
+      "value": "Παύση"
+    },
+    {
+      "name": "storage_internal",
+      "value": "Εσωτερική αποθήκευση"
+    },
+    {
+      "name": "storage_sd_card",
+      "value": "Κάρτα SD"
+    },
+    {
+      "name": "subject",
+      "value": "Θέμα"
+    },
+    {
+      "name": "support_development",
+      "value": "Υποστήριξη Ανάπτυξης"
+    },
+    {
+      "name": "system",
+      "value": "Σύστημα (ακολουθεί το θέμα συστήματος)"
+    },
+    {
+      "name": "system_apps",
+      "value": "Εφαρμογές συστήματος"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "Ταμιλικά"
+    },
+    {
+      "name": "text",
+      "value": "Κείμενο"
+    },
+    {
+      "name": "text_editor",
+      "value": "Ρυθμίσεις επεξεργαστή κειμένου"
+    },
+    {
+      "name": "textreader",
+      "value": "Αναγνώστης κειμένου"
+    },
+    {
+      "name": "theme",
+      "value": "Θέμα"
+    },
+    {
+      "name": "thumb",
+      "value": "Εμφάνιση προεπισκοπήσεων"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "Εμφάνιση εικονιδίων εφαρμογών και εικόνων"
+    },
+    {
+      "name": "time_remaining",
+      "value": "Υπολειπόμενος χρόνος"
+    },
+    {
+      "name": "title",
+      "value": "Τίτλος"
+    },
+    {
+      "name": "total",
+      "value": "Σύνολο:"
+    },
+    {
+      "name": "transfer_rate",
+      "value": "Ρυθμός μεταφοράς"
+    },
+    {
+      "name": "translate_summary",
+      "value": "Μετάφραση του Amaze στη γλώσσα σας"
+    },
+    {
+      "name": "translate_title",
+      "value": "Μετάφραση"
+    },
+    {
+      "name": "translators",
+      "value": "Μεταφραστές"
+    },
+    {
+      "name": "trash_bin",
+      "value": "Κάδος Απορριμμάτων"
+    },
+    {
+      "name": "trash_bin_cleanup_interval_summary",
+      "value": "Χρονικό διάστημα αυτόματου καθαρισμού (ώρες)"
+    },
+    {
+      "name": "trash_bin_cleanup_interval_title",
+      "value": "Χρονικό διάστημα εκκαθάρισης"
+    },
+    {
+      "name": "trash_bin_retention_bytes_summary",
+      "value": "Μέγιστα δεδομένα (σε MB) που μπορεί να αποθηκεύσει ο κάδος"
+    },
+    {
+      "name": "trash_bin_retention_bytes_title",
+      "value": "Διατήρηση ανά μέγεθος δεδομένων"
+    },
+    {
+      "name": "trash_bin_retention_days_summary",
+      "value": "Μέγιστες ημέρες για τις οποίες ο κάδος μπορεί να αποθηκεύσει ένα αρχείο"
+    },
+    {
+      "name": "trash_bin_retention_days_title",
+      "value": "Διατήρηση κατά ημέρες"
+    },
+    {
+      "name": "trash_bin_retention_num_of_files_summary",
+      "value": "Μέγιστα αρχεία που μπορεί να αποθηκεύσει ο κάδος"
+    },
+    {
+      "name": "trash_bin_retention_num_of_files_title",
+      "value": "Διατήρηση βάσει αριθμού αρχείων"
+    },
+    {
+      "name": "try_deep_search",
+      "value": "Δοκιμάστε τη βαθιά αναζήτηση!"
+    },
+    {
+      "name": "try_indexed_search",
+      "value": "Δοκιμάστε την αναζήτηση με ευρετήριο!"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "Τουρκικά"
+    },
+    {
+      "name": "type",
+      "value": "Τύπο"
+    },
+    {
+      "name": "typeable_paths_summary",
+      "value": "Πατήστε παρατεταμένα τη γραμμή διαδρομής για να πληκτ/σετε μια προσαρμοσμένη διαδρομή"
+    },
+    {
+      "name": "typeable_paths_title",
+      "value": "Προσαρμοσμένες διαδρομές"
+    },
+    {
+      "name": "ui",
+      "value": "Διεπαφή"
+    },
+    {
+      "name": "ui_summary",
+      "value": "Ελέγξτε τις πληροφορίες που θα εμφανίζονται, προσαρμόστε την πλευρική γραμμή και αλλάξτε τις προτιμήσεις της Διεπαφής Χρήστη"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "Ουκρανικά"
+    },
+    {
+      "name": "unavailable",
+      "value": "Μη διαθέσιμη"
+    },
+    {
+      "name": "uninstall",
+      "value": "Απεγκατάσταση"
+    },
+    {
+      "name": "unknown",
+      "value": "άγνωστο"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Ούπς, κάτι πήγε στραβά!"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "Μη αποθηκευμένες αλλαγές"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "Έχετε μη αποθηκευμένες αλλαγές. Θέλετε να τις αποθηκεύσετε πριν την έξοδο;"
+    },
+    {
+      "name": "update",
+      "value": "ΕΝΗΜΕΡΩΣΗ"
+    },
+    {
+      "name": "update_host_key",
+      "value": "Ενημέρωση κλειδιού Host"
+    },
+    {
+      "name": "used",
+      "value": "χώρος σε χρήση"
+    },
+    {
+      "name": "used_by_others",
+      "value": "Χρήση άλλων"
+    },
+    {
+      "name": "user_apps",
+      "value": "Εφαρμογές χρήστη"
+    },
+    {
+      "name": "username",
+      "value": "Χρήστης"
+    },
+    {
+      "name": "version",
+      "value": "Έκδοση"
+    },
+    {
+      "name": "video",
+      "value": "Βίντεο"
+    },
+    {
+      "name": "video_player",
+      "value": "Amaze Video Player"
+    },
+    {
+      "name": "videos",
+      "value": "Βίντεο"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "Βιετναμέζικα"
+    },
+    {
+      "name": "view",
+      "value": "Εμφάνιση"
+    },
+    {
+      "name": "waiting_content",
+      "value": "Αναμονή για ολοκλήρωση λειτουργίας"
+    },
+    {
+      "name": "waiting_title",
+      "value": "Αναμονή"
+    },
+    {
+      "name": "want_help",
+      "value": "Χρειάζεστε βοήθεια;"
+    },
+    {
+      "name": "warning",
+      "value": "Προειδοποίηση"
+    },
+    {
+      "name": "warning_confirm",
+      "value": "Κατανοητό"
+    },
+    {
+      "name": "warning_never_show",
+      "value": "Να μην γίνει ενημέρωση ξανά"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Πληροφορίες:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Τι συνέβη:"
+    },
+    {
+      "name": "width",
+      "value": "Πλάτος"
+    },
+    {
+      "name": "wifip2p",
+      "value": "Wi-Fi P2P"
+    },
+    {
+      "name": "written",
+      "value": "Γράφτηκε"
+    },
+    {
+      "name": "xda_title",
+      "value": "Νήμα XDA"
+    },
+    {
+      "name": "year",
+      "value": "Έτος"
+    },
+    {
+      "name": "yes",
+      "value": "Ναι"
+    },
+    {
+      "name": "your_comment",
+      "value": "Το σχόλιό σας (στα Αγγλικά):"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "Διαχειριστής Zip"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "color_title",
+      "value": "Ngjyra"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Ora e ekspozimit"
+    },
+    {
+      "name": "focal_length",
+      "value": "Largësia e fokusimit"
+    },
+    {
+      "name": "information",
+      "value": "Informacione"
+    },
+    {
+      "name": "password",
+      "value": "Fjalëkalimi"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Madhësia"
+    },
+    {
+      "name": "sort_size",
+      "value": "Madhësia"
+    },
+    {
+      "name": "version",
+      "value": "Versioni"
+    }
+  ]
+}

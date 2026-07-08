@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "cancel",
+      "value": "BATAL"
+    },
+    {
+      "name": "color_title",
+      "value": "Warna"
+    },
+    {
+      "name": "delete",
+      "value": "Padam"
+    },
+    {
+      "name": "details",
+      "value": "Butiran"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Sahkan"
+    },
+    {
+      "name": "duration",
+      "value": "Tempoh"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Masa Dedahan"
+    },
+    {
+      "name": "focal_length",
+      "value": "Jarak Fokus"
+    },
+    {
+      "name": "height",
+      "value": "Tinggi"
+    },
+    {
+      "name": "information",
+      "value": "Maklumat"
+    },
+    {
+      "name": "path",
+      "value": "Laluan"
+    },
+    {
+      "name": "save",
+      "value": "Simpan"
+    },
+    {
+      "name": "share",
+      "value": "Kongsi"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Saiz"
+    },
+    {
+      "name": "sort_size",
+      "value": "Saiz"
+    },
+    {
+      "name": "version",
+      "value": "Versi"
+    },
+    {
+      "name": "width",
+      "value": "Lebar"
+    }
+  ]
+}

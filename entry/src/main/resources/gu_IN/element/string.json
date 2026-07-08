@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "color_title",
+      "value": "રંગ"
+    },
+    {
+      "name": "exposure_time",
+      "value": "પ્રદર્શન સમય"
+    },
+    {
+      "name": "focal_length",
+      "value": "ફોકલ લેન્થ"
+    },
+    {
+      "name": "information",
+      "value": "માહિતી"
+    },
+    {
+      "name": "password",
+      "value": "પાસવર્ડ"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "કદ"
+    },
+    {
+      "name": "sort_size",
+      "value": "કદ"
+    },
+    {
+      "name": "text",
+      "value": "લખાણ"
+    },
+    {
+      "name": "version",
+      "value": "સંસ્કરણ"
+    }
+  ]
+}

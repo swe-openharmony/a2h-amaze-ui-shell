@@ -1,0 +1,172 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Om"
+    },
+    {
+      "name": "archive",
+      "value": "Arkiv"
+    },
+    {
+      "name": "bluetooth",
+      "value": "Bluetooth"
+    },
+    {
+      "name": "cancel",
+      "value": "ANNULLER"
+    },
+    {
+      "name": "changelog",
+      "value": "Ændringsoversigt"
+    },
+    {
+      "name": "color_title",
+      "value": "Farve"
+    },
+    {
+      "name": "default_string",
+      "value": "Standard"
+    },
+    {
+      "name": "delete",
+      "value": "Slet"
+    },
+    {
+      "name": "details",
+      "value": "Detaljer"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Bekræft"
+    },
+    {
+      "name": "donate",
+      "value": "Donér"
+    },
+    {
+      "name": "done",
+      "value": "Udført"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Luk sidemenu"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Åbn sidemenu"
+    },
+    {
+      "name": "duration",
+      "value": "Varighed"
+    },
+    {
+      "name": "edit",
+      "value": "Redigér"
+    },
+    {
+      "name": "exit",
+      "value": "Afslut"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Eksponeringstid"
+    },
+    {
+      "name": "focal_length",
+      "value": "Fokuslængde"
+    },
+    {
+      "name": "height",
+      "value": "Højde"
+    },
+    {
+      "name": "history",
+      "value": "Historik"
+    },
+    {
+      "name": "home",
+      "value": "Hjemme"
+    },
+    {
+      "name": "information",
+      "value": "Oplysninger"
+    },
+    {
+      "name": "install",
+      "value": "Installér"
+    },
+    {
+      "name": "no",
+      "value": "Nej"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "other",
+      "value": "Andet"
+    },
+    {
+      "name": "password",
+      "value": "Adgangskode"
+    },
+    {
+      "name": "path",
+      "value": "Sti:"
+    },
+    {
+      "name": "permission_other",
+      "value": "Andet"
+    },
+    {
+      "name": "permission_read",
+      "value": "Tekst"
+    },
+    {
+      "name": "save",
+      "value": "Gem"
+    },
+    {
+      "name": "setting",
+      "value": "Indstillinger"
+    },
+    {
+      "name": "share",
+      "value": "Del"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Størrelse"
+    },
+    {
+      "name": "skip",
+      "value": "Spring over"
+    },
+    {
+      "name": "sort_size",
+      "value": "Størrelse"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Start"
+    },
+    {
+      "name": "text",
+      "value": "Tekst"
+    },
+    {
+      "name": "warning",
+      "value": "Advarsel"
+    },
+    {
+      "name": "width",
+      "value": "Bredde"
+    },
+    {
+      "name": "yes",
+      "value": "Ja"
+    }
+  ]
+}

@@ -1,0 +1,1672 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Аб праграме"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "Аб Amaze File Manager"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "Усталяваць колер плаваючай кнопкі FAB і іншых дробных элементаў UI"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "Колер акцэнту"
+    },
+    {
+      "name": "accessed",
+      "value": "Даступна"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "Дадаць цэтлік"
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "Дадаць у закладкі"
+    },
+    {
+      "name": "advanced_search",
+      "value": "Пашыраны пошук"
+    },
+    {
+      "name": "album",
+      "value": "Альбом"
+    },
+    {
+      "name": "anonymous",
+      "value": "Ананімна"
+    },
+    {
+      "name": "aperture_value",
+      "value": "Значенне дыяфрагмы"
+    },
+    {
+      "name": "apks",
+      "value": "Apk"
+    },
+    {
+      "name": "app_name",
+      "value": "Amaze"
+    },
+    {
+      "name": "apps",
+      "value": "Мэнеджэр праграм"
+    },
+    {
+      "name": "archive",
+      "value": "Архіў"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "Тэчка для распакавання архіва"
+    },
+    {
+      "name": "archive_summary",
+      "value": "Файлы з архіва будуць распакаваны ў азначаную тэчку. Па змаўчанні гэта тэчка, у якой знаходзіцца архіў"
+    },
+    {
+      "name": "archive_text",
+      "value": "Гэта архіў. Якое дзеянне вы хацелі б выканаць?"
+    },
+    {
+      "name": "artist",
+      "value": "Выканаўца"
+    },
+    {
+      "name": "ascending",
+      "value": "Па ўзрастанні"
+    },
+    {
+      "name": "audio",
+      "value": "Аўдыё"
+    },
+    {
+      "name": "authenticate_password",
+      "value": "Увядзіце пароль"
+    },
+    {
+      "name": "author",
+      "value": "Аўтар"
+    },
+    {
+      "name": "authors",
+      "value": "Аўтары"
+    },
+    {
+      "name": "back_summary",
+      "value": "Уключыць кнопку назад у верхняй частцы спісу"
+    },
+    {
+      "name": "back_title",
+      "value": "Кнопка назад"
+    },
+    {
+      "name": "backup",
+      "value": "Рэзервовая копія"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "Баскская"
+    },
+    {
+      "name": "bitrate",
+      "value": "Бітрэйт"
+    },
+    {
+      "name": "bluetooth",
+      "value": "Bluetooth"
+    },
+    {
+      "name": "bookmark_lost",
+      "value": "Закладкі не знойдзены, паўторна стварыць…"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "Дададзена ў закладкі"
+    },
+    {
+      "name": "byte_singular",
+      "value": "байт"
+    },
+    {
+      "name": "bytes",
+      "value": "Байты"
+    },
+    {
+      "name": "calculating",
+      "value": "вылічэнне"
+    },
+    {
+      "name": "camera_brand",
+      "value": "Брэнд камеры"
+    },
+    {
+      "name": "camera_model",
+      "value": "Мадэль камеры"
+    },
+    {
+      "name": "cancel",
+      "value": "СКАСАВАЦЬ"
+    },
+    {
+      "name": "cancelled",
+      "value": "Скасавана"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s не можа быць пустым"
+    },
+    {
+      "name": "change",
+      "value": "Змяніць"
+    },
+    {
+      "name": "changelog",
+      "value": "Спic змен"
+    },
+    {
+      "name": "channels",
+      "value": "Каналы"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "Кітайская"
+    },
+    {
+      "name": "choose_color",
+      "value": "Выбраць колер"
+    },
+    {
+      "name": "circular_icons",
+      "value": "Выкарыстоўваць круглыя значкі"
+    },
+    {
+      "name": "circular_images",
+      "value": "Выкарыстоўваць круглыя значкі для малюнкаў і відэа"
+    },
+    {
+      "name": "clear",
+      "value": "Ачысціць"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "Шлях скапіяваны ў буфер абмену"
+    },
+    {
+      "name": "cloud_box",
+      "value": "Box"
+    },
+    {
+      "name": "cloud_connection",
+      "value": "Падключэнне да воблака"
+    },
+    {
+      "name": "cloud_connection_new",
+      "value": "Новае падключэнне да воблака"
+    },
+    {
+      "name": "cloud_drive",
+      "value": "Google Дыск™"
+    },
+    {
+      "name": "cloud_dropbox",
+      "value": "Dropbox"
+    },
+    {
+      "name": "cloud_error_failed_restart",
+      "value": "Памылка загрузкі злучэння.\n        Amaze Воблака зноў адкрываецца."
+    },
+    {
+      "name": "cloud_error_plugin",
+      "value": "Плагіна Amaze Воблака не знойдзена. Вы можаце спампаваць яго з Play Store."
+    },
+    {
+      "name": "cloud_fail_authenticate",
+      "value": "Нельга праверыць ідэнтычнасць"
+    },
+    {
+      "name": "cloud_get",
+      "value": "Атрымаць плагін Воблака"
+    },
+    {
+      "name": "cloud_onedrive",
+      "value": "OneDrive"
+    },
+    {
+      "name": "cloud_remove",
+      "value": "Вы хочаце выдаліць падлучэння да Воблака?"
+    },
+    {
+      "name": "cloud_share_copied",
+      "value": "Гэта спасылкі скапіявана ў буфер абмену"
+    },
+    {
+      "name": "cloud_token_lost",
+      "value": "Token страчаны, калі ласка аўтарызуйцеся зноў"
+    },
+    {
+      "name": "codec",
+      "value": "Кодэк"
+    },
+    {
+      "name": "color_summary",
+      "value": "Усталяваць колер для розных кампанентаў UI"
+    },
+    {
+      "name": "color_title",
+      "value": "Колер"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "Каляровая панэль навігацыі"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "Афарбоўка панэлі навігацыі разам з тэмай"
+    },
+    {
+      "name": "colorize",
+      "value": "Размаляваць значкі"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "Усталёўвае статычны колер значкоў. Не перавызначае ўстаноўлены колер значкоў дырэкторый."
+    },
+    {
+      "name": "comment",
+      "value": "Каментар"
+    },
+    {
+      "name": "compress",
+      "value": "Сціснуць"
+    },
+    {
+      "name": "compressing",
+      "value": "Сцісканне"
+    },
+    {
+      "name": "compression_complete",
+      "value": "Сціснута паспяхова"
+    },
+    {
+      "name": "connection_exists",
+      "value": "Злучэнне ўжо існуе"
+    },
+    {
+      "name": "connection_name",
+      "value": "Назва злучэння"
+    },
+    {
+      "name": "container",
+      "value": "Кантэйнер"
+    },
+    {
+      "name": "contributors",
+      "value": "Аўтары"
+    },
+    {
+      "name": "contributors_1_summary",
+      "value": "Пераклад"
+    },
+    {
+      "name": "contributors_2_summary",
+      "value": "Цэтлік і банеры"
+    },
+    {
+      "name": "contributors_3_summary",
+      "value": "Тэма рухавіка"
+    },
+    {
+      "name": "contributors_4_summary",
+      "value": "Цень для плаваючай кнопкі FAB"
+    },
+    {
+      "name": "contributors_5_summary",
+      "value": "Колер пры змене ўкладкі"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "FTP сервер"
+    },
+    {
+      "name": "contributors_7_summary",
+      "value": "Запусціць інтэрактыўную абалонку"
+    },
+    {
+      "name": "copied",
+      "value": "скапіяваны"
+    },
+    {
+      "name": "copy",
+      "value": "Капіяваць"
+    },
+    {
+      "name": "copy_complete",
+      "value": "Капіяванне завершана"
+    },
+    {
+      "name": "copy_error",
+      "value": "Некаторыя файлы не былі паспяхова %s"
+    },
+    {
+      "name": "copy_low_memory",
+      "value": "Не хапае памяці, калі ласка вызваліце ​​аператыўную памяць"
+    },
+    {
+      "name": "copying",
+      "value": "Капіяванне"
+    },
+    {
+      "name": "create",
+      "value": "СТВАРЫЦЬ"
+    },
+    {
+      "name": "created",
+      "value": "Створаны"
+    },
+    {
+      "name": "creatingfile",
+      "value": "Стварыць файл"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "Стварыць тэчку"
+    },
+    {
+      "name": "creator",
+      "value": "Аўтар"
+    },
+    {
+      "name": "crypt_decrypt",
+      "value": "Расшыфроўваць"
+    },
+    {
+      "name": "crypt_decrypted",
+      "value": "Расшыфраваны"
+    },
+    {
+      "name": "crypt_decrypting",
+      "value": "Дэшыфроўка"
+    },
+    {
+      "name": "crypt_decryption_fail",
+      "value": "Не атрымалася расшыфраваць"
+    },
+    {
+      "name": "crypt_decryption_fail_password",
+      "value": "Няслушны пароль!"
+    },
+    {
+      "name": "crypt_encrypt",
+      "value": "Шыфраваць"
+    },
+    {
+      "name": "crypt_encrypted",
+      "value": "Зашыфраваныя"
+    },
+    {
+      "name": "crypt_encrypting",
+      "value": "Шыфраванне"
+    },
+    {
+      "name": "crypt_encryption_fail",
+      "value": "Не атрымалася зашыфраваць"
+    },
+    {
+      "name": "crypt_fingerprint_authenticate",
+      "value": "Краніцеся сэнсара для працягу"
+    },
+    {
+      "name": "crypt_fingerprint_no_permission",
+      "value": "Адсутнічаюць дазволы для адбітка пальцаў"
+    },
+    {
+      "name": "crypt_fingerprint_no_security",
+      "value": "Абаронены экран не знойдзены"
+    },
+    {
+      "name": "crypt_fingerprint_not_enrolled",
+      "value": "Адбітак не зарэгістраваны"
+    },
+    {
+      "name": "crypt_pref_fingerprint_summary",
+      "value": "Выкарыстоўваць адбіткі пальцаў для аўтэнтыфікацыі шыфравання"
+    },
+    {
+      "name": "crypt_pref_fingerprint_title",
+      "value": "Адбітак пальца"
+    },
+    {
+      "name": "crypt_pref_master_password_summary",
+      "value": "Задайце пароль для шыфравання. Пакіньце поле пустым для выдалення."
+    },
+    {
+      "name": "crypt_pref_master_password_title",
+      "value": "Асноўны пароль"
+    },
+    {
+      "name": "crypt_warning_key",
+      "value": "Майце на ўвазе, пры змене графічнага ключа ў параметрах сістэмы, вы не зможаце расшыфраваць гэта змесціва."
+    },
+    {
+      "name": "current_speed",
+      "value": "Бягучая хуткасць"
+    },
+    {
+      "name": "cut",
+      "value": "Выразаць"
+    },
+    {
+      "name": "dark",
+      "value": "Цёмная"
+    },
+    {
+      "name": "database",
+      "value": "База дадзеных"
+    },
+    {
+      "name": "databasereader",
+      "value": "Прагляднік баз дадзеных"
+    },
+    {
+      "name": "date",
+      "value": "Дата"
+    },
+    {
+      "name": "date_modified",
+      "value": "Дата змянення"
+    },
+    {
+      "name": "date_taken",
+      "value": "Дата здымкі"
+    },
+    {
+      "name": "daytime",
+      "value": "Дзённы час"
+    },
+    {
+      "name": "default_string",
+      "value": "Па змаўчанні"
+    },
+    {
+      "name": "delbook",
+      "value": "Выдаліць закладку"
+    },
+    {
+      "name": "delete",
+      "value": "Выдаліць"
+    },
+    {
+      "name": "deleting",
+      "value": "Выдаленне"
+    },
+    {
+      "name": "descending",
+      "value": "Па змяншэнні"
+    },
+    {
+      "name": "details",
+      "value": "Звесткі"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "ТЭЧКІ"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "ФАЙЛЫ"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "Вы ўпэўненыя, што хочаце выдаліць выбраныя файлы?"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Пацвердзіць"
+    },
+    {
+      "name": "dimensions",
+      "value": "Памеры"
+    },
+    {
+      "name": "directory",
+      "value": "Каталог"
+    },
+    {
+      "name": "directorysort",
+      "value": "Рэжым сартавання каталога"
+    },
+    {
+      "name": "documents",
+      "value": "Дакументы"
+    },
+    {
+      "name": "doforall",
+      "value": "Выканаць для ўсіх элементаў"
+    },
+    {
+      "name": "doit",
+      "value": "Зрабі гэта"
+    },
+    {
+      "name": "domain",
+      "value": "Дамен"
+    },
+    {
+      "name": "donate",
+      "value": "Ахвяраваць"
+    },
+    {
+      "name": "done",
+      "value": "Выканана"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Зачыніць панель"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Адкрыць панэль"
+    },
+    {
+      "name": "duration",
+      "value": "Працягласць"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "Нідэрландская"
+    },
+    {
+      "name": "easter_egg_title",
+      "value": "Рэжым Студыі"
+    },
+    {
+      "name": "edit",
+      "value": "Рэдагаваць"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "Уключыць рэжым root"
+    },
+    {
+      "name": "entername",
+      "value": "Увядзіце назву"
+    },
+    {
+      "name": "enterpath",
+      "value": "Увядзіце шлях"
+    },
+    {
+      "name": "enterzipname",
+      "value": "Увядзіце імя zip-архіва"
+    },
+    {
+      "name": "error",
+      "value": "Памылка"
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "Памылка: Файл не знойдзены"
+    },
+    {
+      "name": "error_io",
+      "value": "Памылка ўводу/вываду"
+    },
+    {
+      "name": "exit",
+      "value": "Выйсці"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Вытрымка"
+    },
+    {
+      "name": "extract",
+      "value": "Выняць"
+    },
+    {
+      "name": "extract_complete",
+      "value": "Распакаванне завершана"
+    },
+    {
+      "name": "extracting",
+      "value": "Выманне"
+    },
+    {
+      "name": "feedback",
+      "value": "Даслаць водгук"
+    },
+    {
+      "name": "field_empty",
+      "value": "Поле не можа быць пустым"
+    },
+    {
+      "name": "file",
+      "value": "Файл"
+    },
+    {
+      "name": "file_empty",
+      "value": "Файл пусты"
+    },
+    {
+      "name": "fileexist",
+      "value": "Файл з такім іменем ужо існуе"
+    },
+    {
+      "name": "files",
+      "value": "Файлы"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "Файлы наверсе"
+    },
+    {
+      "name": "find",
+      "value": "Пошук па старонцы"
+    },
+    {
+      "name": "flash_fired",
+      "value": "Выбліск уключаны"
+    },
+    {
+      "name": "focal_length",
+      "value": "Фокусная адлегласць"
+    },
+    {
+      "name": "folder",
+      "value": "Тэчка"
+    },
+    {
+      "name": "folders",
+      "value": "Тэчкi"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "Тэчкі наверсе"
+    },
+    {
+      "name": "format",
+      "value": "Фармат"
+    },
+    {
+      "name": "frame_rate",
+      "value": "Частата кадраў"
+    },
+    {
+      "name": "free",
+      "value": "вольная прастора"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "Французская"
+    },
+    {
+      "name": "ftp",
+      "value": "FTP сервер"
+    },
+    {
+      "name": "ftp_login",
+      "value": "Увайсці"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "Пераканайцеся, што вы падлучаныя да Wi-Fi"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "FTP сервер запушчаны"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "СПЫНІЦЬ"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "на %s"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "Amaze FTP сервер запушчаны"
+    },
+    {
+      "name": "ftp_path",
+      "value": "Агульны шлях"
+    },
+    {
+      "name": "ftp_path_change_error_invalid",
+      "value": "Няправільны шлях"
+    },
+    {
+      "name": "ftp_path_change_success",
+      "value": "FTP шлях паспяхова зменены"
+    },
+    {
+      "name": "ftp_path_hint",
+      "value": "Шлях да каранёвага каталогу для агульнага доступу"
+    },
+    {
+      "name": "ftp_port",
+      "value": "Порт"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "Выбраны недапушчальны нумар порта"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "Порт FTP зменены паспяхова"
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "Выбраць порт FTP"
+    },
+    {
+      "name": "ftp_seconds",
+      "value": "Секунд"
+    },
+    {
+      "name": "ftp_status_no_connection",
+      "value": "Няма злучэння"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "Не працуе"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "Працуе"
+    },
+    {
+      "name": "ftp_status_secure_connection",
+      "value": "Бяспечнае злучэнне"
+    },
+    {
+      "name": "ftp_status_title",
+      "value": "Стан"
+    },
+    {
+      "name": "ftp_timeout",
+      "value": "Тайм-аўт прастою"
+    },
+    {
+      "name": "general",
+      "value": "Агульныя"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "Нямецкая"
+    },
+    {
+      "name": "goback",
+      "value": "Вярнуцца"
+    },
+    {
+      "name": "grant",
+      "value": "Прадастаўленне"
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "Праграмам патрабуецца дазвол працы з сховішчам для працягу. Закрыццё гэтага дыялогу завершыць праграму."
+    },
+    {
+      "name": "grantfailed",
+      "value": "Дазвол не прадстаўлены"
+    },
+    {
+      "name": "grantper",
+      "value": "Прадастаўленне дазволу"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "Грэчаская"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "Колькасць слупкоў у сетцы"
+    },
+    {
+      "name": "gridview",
+      "value": "Сетка"
+    },
+    {
+      "name": "hash_sha256",
+      "value": "SHA-256"
+    },
+    {
+      "name": "height",
+      "value": "Вышыня"
+    },
+    {
+      "name": "hidden",
+      "value": "Паказваць схаваныя файлы і тэчкі"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "Схаваныя файлы"
+    },
+    {
+      "name": "hide",
+      "value": "Схаваць"
+    },
+    {
+      "name": "history",
+      "value": "Гісторыя"
+    },
+    {
+      "name": "home",
+      "value": "Хатняя"
+    },
+    {
+      "name": "icon",
+      "value": "значок"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "Усталяваць колер цэтлікаў"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "Колер цэтліка"
+    },
+    {
+      "name": "image",
+      "value": "Выявы"
+    },
+    {
+      "name": "image_iso",
+      "value": "Адчувальнасць ISO"
+    },
+    {
+      "name": "image_type",
+      "value": "Тып выявы"
+    },
+    {
+      "name": "images",
+      "value": "Фота"
+    },
+    {
+      "name": "in_safe",
+      "value": "Недастаткова вольнага месца"
+    },
+    {
+      "name": "information",
+      "value": "Інфармацыя"
+    },
+    {
+      "name": "install",
+      "value": "Усталяваць"
+    },
+    {
+      "name": "intellihide_toolbar_summary",
+      "value": "Аўтаматычна хаваць панэль пры прагортцы"
+    },
+    {
+      "name": "intellihide_toolbar_title",
+      "value": "Схаваць панэль інструментаў"
+    },
+    {
+      "name": "invalid",
+      "value": "Несапраўдны %s"
+    },
+    {
+      "name": "invalid_name",
+      "value": "Няправільнае імя"
+    },
+    {
+      "name": "ip",
+      "value": "Адрас"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "Італьянская"
+    },
+    {
+      "name": "item",
+      "value": "Элемент"
+    },
+    {
+      "name": "items",
+      "value": "Элементы"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "Японская"
+    },
+    {
+      "name": "keywords",
+      "value": "Ключавыя словы"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "Карэйская"
+    },
+    {
+      "name": "lastModified",
+      "value": "Апошняе змяненне"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "Паказаць апошнія змены"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "Паказваць дату і час, калі файл быў зменены ў апошні раз"
+    },
+    {
+      "name": "light",
+      "value": "Светлая"
+    },
+    {
+      "name": "listview",
+      "value": "Спіс"
+    },
+    {
+      "name": "loading",
+      "value": "Загрузка…"
+    },
+    {
+      "name": "location",
+      "value": "Месцазнаходжанне"
+    },
+    {
+      "name": "match_content",
+      "value": "Пошук кантэнту"
+    },
+    {
+      "name": "match_content_summary",
+      "value": "Калі ўсталявана, то рэгулярны выраз будзе праводзіць параўнанне з поўным імем файла, у адваротным выпадку будзе шукаць уваходжання."
+    },
+    {
+      "name": "md5",
+      "value": "md5:"
+    },
+    {
+      "name": "medium_text",
+      "value": "Сярэдні тэкст"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "Іншае"
+    },
+    {
+      "name": "modified",
+      "value": "Зменена"
+    },
+    {
+      "name": "monofont",
+      "value": "Монашырынны шрыфт"
+    },
+    {
+      "name": "moved",
+      "value": "перамешчаны"
+    },
+    {
+      "name": "moving",
+      "value": "Перасоўванне"
+    },
+    {
+      "name": "name",
+      "value": "Імя"
+    },
+    {
+      "name": "needs_access",
+      "value": "Неабходны доступ да запісу"
+    },
+    {
+      "name": "needs_access_summary",
+      "value": "Калі ласка, абярыце каранёвую тэчку\\t"
+    },
+    {
+      "name": "needs_access_summary1",
+      "value": "\\tпрадастаўляць доступ на запіс для працы"
+    },
+    {
+      "name": "newfile",
+      "value": "Новы файл"
+    },
+    {
+      "name": "newfolder",
+      "value": "Новая тэчка"
+    },
+    {
+      "name": "no",
+      "value": "Не"
+    },
+    {
+      "name": "no_app_found",
+      "value": "Няма праграм для адкрыцця гэтага файла"
+    },
+    {
+      "name": "no_applications",
+      "value": "Няма праграм"
+    },
+    {
+      "name": "no_device_found",
+      "value": "Прылад не знойдзена"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "Не перазапісваць файл"
+    },
+    {
+      "name": "no_files",
+      "value": "Няма файлаў"
+    },
+    {
+      "name": "no_items",
+      "value": "Няма элементаў"
+    },
+    {
+      "name": "none_on_top",
+      "value": "Нічога наверсе"
+    },
+    {
+      "name": "not_allowed",
+      "value": "Не дазволена"
+    },
+    {
+      "name": "of",
+      "value": "з"
+    },
+    {
+      "name": "ok",
+      "value": "ОК"
+    },
+    {
+      "name": "open",
+      "value": "Адчыніць"
+    },
+    {
+      "name": "open_as",
+      "value": "Адчыніць як"
+    },
+    {
+      "name": "open_parent",
+      "value": "Адкрыць бацькоўскую дырэкторыю"
+    },
+    {
+      "name": "open_with",
+      "value": "Адкрыць з дапамогай"
+    },
+    {
+      "name": "opening",
+      "value": "Адкрыццё.."
+    },
+    {
+      "name": "operation_fail_following",
+      "value": "Не атрымалася выканаць аперацыю для наступных файлаў"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "Аперацыя беспаспяховая"
+    },
+    {
+      "name": "optimized",
+      "value": "Аптымізаваны"
+    },
+    {
+      "name": "otg_access",
+      "value": "Выберыце каранёвую тэчку OTG прылады"
+    },
+    {
+      "name": "other",
+      "value": "Iншае"
+    },
+    {
+      "name": "out_of",
+      "value": "з"
+    },
+    {
+      "name": "overwrite",
+      "value": "Перазапісаць"
+    },
+    {
+      "name": "package_installer",
+      "value": "Усталёўшчык пакетаў"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "Гэта усталёвачны пакет. Якое дзеянне вы хацелі б выканаць?"
+    },
+    {
+      "name": "pages",
+      "value": "Колькасць старонак"
+    },
+    {
+      "name": "paper_size",
+      "value": "Памер паперы"
+    },
+    {
+      "name": "password",
+      "value": "Пароль"
+    },
+    {
+      "name": "paste",
+      "value": "Уставіць"
+    },
+    {
+      "name": "path",
+      "value": "Шлях"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "PayPal id скапіявана ў буфер абмену"
+    },
+    {
+      "name": "permission",
+      "value": "Правы"
+    },
+    {
+      "name": "permission_execute",
+      "value": "Выканаць"
+    },
+    {
+      "name": "permission_group",
+      "value": "Група"
+    },
+    {
+      "name": "permission_other",
+      "value": "Іншы"
+    },
+    {
+      "name": "permission_owner",
+      "value": "Уладальнік"
+    },
+    {
+      "name": "permission_read",
+      "value": "Чытаць"
+    },
+    {
+      "name": "permission_write",
+      "value": "Запісаць"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "Выбраць файл"
+    },
+    {
+      "name": "play",
+      "value": "Play store"
+    },
+    {
+      "name": "please_wait",
+      "value": "Калі ласка, пачакайце"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "Польская"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "Партугальская"
+    },
+    {
+      "name": "press_again",
+      "value": "Націсніце яшчэ раз, каб выйсці"
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "Усталяваць колер вялікіх элементаў UI для левай ўкладкі"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "Асноўны колер (Левая ўкладка)"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "Усталяваць колер вялікіх элементаў UI для правай ўкладкі"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "Асноўны колер (Правая ўкладка)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "Прагляд працэсаў"
+    },
+    {
+      "name": "processing_file",
+      "value": "Апрацоўка файлу"
+    },
+    {
+      "name": "producer",
+      "value": "Прадюсэр"
+    },
+    {
+      "name": "properties",
+      "value": "Уласцівасці"
+    },
+    {
+      "name": "properties_copied_clipboard",
+      "value": "скапіявана ў буфер абмену"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "Вы хочаце ўсталяваць бягучы шлях як хатні для гэтай укладкі?"
+    },
+    {
+      "name": "quick",
+      "value": "Хуткі доступ"
+    },
+    {
+      "name": "random",
+      "value": "Выпадковая тэма"
+    },
+    {
+      "name": "random_summary",
+      "value": "Усталёўвае выпадковы асноўны колер пры запуску"
+    },
+    {
+      "name": "rate",
+      "value": "Ацаніць праграму"
+    },
+    {
+      "name": "recent",
+      "value": "Апошнія файлы"
+    },
+    {
+      "name": "regular_expression",
+      "value": "Рэгулярны выраз"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "Пошук з выкарыстаннем рэгулярных выразаў у стылі BASH"
+    },
+    {
+      "name": "rename",
+      "value": "Перайменаваць"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "Змяніць закладку"
+    },
+    {
+      "name": "renaming",
+      "value": "Перайменаваць"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "Паведамляць пра памылкі ці спытаць новую функцыю"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "Справаздача пра памылку"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "Румынская"
+    },
+    {
+      "name": "root_directory",
+      "value": "Root"
+    },
+    {
+      "name": "root_failure",
+      "value": "Root доступ не прадастаўлены"
+    },
+    {
+      "name": "root_mode",
+      "value": "Root Explorer"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "Толькі для прылад з root правамі. Выкарыстоўвайце толькі калі ўпэўненыя ў сваіх дзеяннях."
+    },
+    {
+      "name": "root_pref",
+      "value": "Паказаць дазволы"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "Паказваць дазволы файлаў і тэчак"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "Руская"
+    },
+    {
+      "name": "sample_rate",
+      "value": "Частата дыскрэтызацыі"
+    },
+    {
+      "name": "save",
+      "value": "Захаваць"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "Пры запуску будуць адлюстроўвацца нядаўна прагледжаных тэчкі для кожнай укладкі"
+    },
+    {
+      "name": "save_paths",
+      "value": "Запомніць шлях"
+    },
+    {
+      "name": "saving",
+      "value": "Захаванне"
+    },
+    {
+      "name": "search",
+      "value": "Пошук"
+    },
+    {
+      "name": "search_hint",
+      "value": "Увядзіце для пошуку…"
+    },
+    {
+      "name": "searching_devices",
+      "value": "Пошук прылад"
+    },
+    {
+      "name": "security",
+      "value": "Бяспека"
+    },
+    {
+      "name": "select",
+      "value": "Выбраць элемент"
+    },
+    {
+      "name": "select_all",
+      "value": "Выбраць усё"
+    },
+    {
+      "name": "select_intent",
+      "value": "Выбраць"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "Сербская"
+    },
+    {
+      "name": "server_address",
+      "value": "IP-адрас сервера"
+    },
+    {
+      "name": "service_timer",
+      "value": "Прайшло часу"
+    },
+    {
+      "name": "set",
+      "value": "Усталяваць"
+    },
+    {
+      "name": "set_as_home",
+      "value": "Зрабіць хатняй тэчкай"
+    },
+    {
+      "name": "set_random",
+      "value": "Змены ўступяць у сілу пасля перазапуску праграмы"
+    },
+    {
+      "name": "setting",
+      "value": "Налады"
+    },
+    {
+      "name": "share",
+      "value": "Падзяліцца"
+    },
+    {
+      "name": "share_limit",
+      "value": "Немагчыма абменьвацца больш за 100 файлаў"
+    },
+    {
+      "name": "showHeaders",
+      "value": "Паказаць загалоўкі"
+    },
+    {
+      "name": "show_dividers",
+      "value": "Паказаць падзельнікі"
+    },
+    {
+      "name": "show_quick_access_pref",
+      "value": "Хуткі доступ"
+    },
+    {
+      "name": "show_quick_access_pref_title",
+      "value": "Паказаць хуткія доступы"
+    },
+    {
+      "name": "sidebar_quick_access_title",
+      "value": "Бакавая панэль хуткага доступу"
+    },
+    {
+      "name": "size",
+      "value": "памер тэчкі"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Памер"
+    },
+    {
+      "name": "size_pref",
+      "value": "Паказаць памеры"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "Паказаць памер файлаў і колькасць элементаў у тэчках"
+    },
+    {
+      "name": "skip",
+      "value": "Прапусціць"
+    },
+    {
+      "name": "smb_connection",
+      "value": "SMB злучэнне"
+    },
+    {
+      "name": "smb_launch_error",
+      "value": "Вам спатрэбіцца скапіяваць файл для захоўвання дадзеных, каб адкрыць яго"
+    },
+    {
+      "name": "software",
+      "value": "Праграмнае забеспячэнне"
+    },
+    {
+      "name": "sort",
+      "value": "Сартаваць"
+    },
+    {
+      "name": "sort_by",
+      "value": "Сартаваць"
+    },
+    {
+      "name": "sort_name",
+      "value": "Імя"
+    },
+    {
+      "name": "sort_size",
+      "value": "Памер"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "Іспанская"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Пачаць"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "Спыніць"
+    },
+    {
+      "name": "stopping",
+      "value": "Прыпыненне"
+    },
+    {
+      "name": "subject",
+      "value": "Тэма"
+    },
+    {
+      "name": "support_development",
+      "value": "Падтрымаць распрацоўку"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "Тамільская"
+    },
+    {
+      "name": "text",
+      "value": "Тэкст"
+    },
+    {
+      "name": "textreader",
+      "value": "Прагляднік тэксту"
+    },
+    {
+      "name": "theme",
+      "value": "Тэма"
+    },
+    {
+      "name": "thumb",
+      "value": "Паказваць мініяцюры"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "Паказваць мініяцюры праграм і малюнкаў"
+    },
+    {
+      "name": "title",
+      "value": "Назва"
+    },
+    {
+      "name": "total",
+      "value": "Усяго:"
+    },
+    {
+      "name": "translate_summary",
+      "value": "Перавесці Amaze вашай мовай"
+    },
+    {
+      "name": "translate_title",
+      "value": "Перакласці"
+    },
+    {
+      "name": "translators",
+      "value": "Перакладчыкі"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "Турэцкая"
+    },
+    {
+      "name": "type",
+      "value": "Тып"
+    },
+    {
+      "name": "ui",
+      "value": "Інтэрфейс"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "Украінская"
+    },
+    {
+      "name": "unin_system_apk",
+      "value": "Гэта сістэмнае прыкладанне, выдаленне можа прывесці да нестабільнасці сістэмы.\\nПрацягнуць?"
+    },
+    {
+      "name": "uninstall",
+      "value": "Выдаліць"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Штосьці пайшло не так!"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "Незахаваныя змены"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "У Вас ёсць незахаваныя змены, вы хочаце захаваць іх перад выхадам?"
+    },
+    {
+      "name": "used",
+      "value": "выкарыстаная прастора"
+    },
+    {
+      "name": "used_by_others",
+      "value": "выкарыстоўваецца іншымі"
+    },
+    {
+      "name": "username",
+      "value": "Імя карыстальніка"
+    },
+    {
+      "name": "version",
+      "value": "Версія"
+    },
+    {
+      "name": "video",
+      "value": "Відэа"
+    },
+    {
+      "name": "videos",
+      "value": "Відэа"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "В’етнамская"
+    },
+    {
+      "name": "view",
+      "value": "Прагляд"
+    },
+    {
+      "name": "waiting_content",
+      "value": "У чаканні завяршэння аперацыі"
+    },
+    {
+      "name": "waiting_title",
+      "value": "Чаканне"
+    },
+    {
+      "name": "want_help",
+      "value": "Патрэбна дапамога?"
+    },
+    {
+      "name": "warning",
+      "value": "Папярэджанне"
+    },
+    {
+      "name": "warning_confirm",
+      "value": "Зразумела!"
+    },
+    {
+      "name": "warning_never_show",
+      "value": "Не інфармаваць зноў"
+    },
+    {
+      "name": "width",
+      "value": "Шырыня"
+    },
+    {
+      "name": "written",
+      "value": "Запісана"
+    },
+    {
+      "name": "xda_summary",
+      "value": "Пытанні і Адказы, Дапамога і рашэнне праблем"
+    },
+    {
+      "name": "xda_title",
+      "value": "XDA"
+    },
+    {
+      "name": "year",
+      "value": "Год"
+    },
+    {
+      "name": "yes",
+      "value": "Так"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "Прагляднік Zip"
+    }
+  ]
+}

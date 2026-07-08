@@ -1,0 +1,80 @@
+{
+  "string": [
+    {
+      "name": "cancel",
+      "value": "ODUSTANI"
+    },
+    {
+      "name": "color_title",
+      "value": "Boja"
+    },
+    {
+      "name": "delete",
+      "value": "Izbriši"
+    },
+    {
+      "name": "details",
+      "value": "Pojedinosti"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Potvrdi"
+    },
+    {
+      "name": "duration",
+      "value": "Trajanje"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Vrijeme ekspozicije"
+    },
+    {
+      "name": "focal_length",
+      "value": "Žarišna duljina"
+    },
+    {
+      "name": "height",
+      "value": "Visina"
+    },
+    {
+      "name": "information",
+      "value": "Informacije"
+    },
+    {
+      "name": "password",
+      "value": "Lozinka"
+    },
+    {
+      "name": "path",
+      "value": "Putanja"
+    },
+    {
+      "name": "save",
+      "value": "Spremi"
+    },
+    {
+      "name": "share",
+      "value": "Podijeli"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Veličina"
+    },
+    {
+      "name": "sort_size",
+      "value": "Veličina"
+    },
+    {
+      "name": "text",
+      "value": "Tekst"
+    },
+    {
+      "name": "version",
+      "value": "Verzija"
+    },
+    {
+      "name": "width",
+      "value": "Širina"
+    }
+  ]
+}

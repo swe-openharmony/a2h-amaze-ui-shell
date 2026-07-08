@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "done",
+      "value": "تامام"
+    },
+    {
+      "name": "edit",
+      "value": "تەھرىرلەش"
+    },
+    {
+      "name": "exit",
+      "value": "چېكىنىش"
+    },
+    {
+      "name": "password",
+      "value": "ئىم"
+    },
+    {
+      "name": "setting",
+      "value": "تەڭشەش"
+    },
+    {
+      "name": "text",
+      "value": "تېكىست"
+    }
+  ]
+}

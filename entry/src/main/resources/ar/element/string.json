@@ -1,0 +1,2368 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "نبذة عن"
+    },
+    {
+      "name": "about_amaze",
+      "value": "مدير ملف تصميم المواد لأندرويد"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "نبذة عن MAAze File Manager"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "تحديد اللون الى FAB وعناصر UI الصغيرة الأخرى"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "لون نسبة الاستخدام"
+    },
+    {
+      "name": "accessed",
+      "value": "تم التوصل"
+    },
+    {
+      "name": "add_item",
+      "value": "اضافة بند"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "اضافة مسار مختصر"
+    },
+    {
+      "name": "add_shortcut_not_supported_by_launcher",
+      "value": "تكوين المسارات المختصرة غير مدعم بواسطة برنامج الاستعراض الخاص بك."
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "اضافة الى علامات التوقف"
+    },
+    {
+      "name": "advanced",
+      "value": "متقدم"
+    },
+    {
+      "name": "advanced_search",
+      "value": "بحث متقدم"
+    },
+    {
+      "name": "album",
+      "value": "ألبوم"
+    },
+    {
+      "name": "always",
+      "value": "دائما"
+    },
+    {
+      "name": "android_data_prompt_saf_access",
+      "value": "منذ Android 10 ، فرض Android قيودًا على أدلة معينة ، ويحتاجون إلى الوصول إلى Storage Access Framework.\\n\\nيُرجى السماح لـ Amaze بالوصول إلى الدليل من مدير ملفات النظام عن طريق النقر على \"السماح بالوصول\"."
+    },
+    {
+      "name": "android_data_prompt_saf_access_title",
+      "value": "منح وصول SAF"
+    },
+    {
+      "name": "anonymous",
+      "value": "غير معروف"
+    },
+    {
+      "name": "aperture_value",
+      "value": "قيمة الأنشوة"
+    },
+    {
+      "name": "apks",
+      "value": "APKs"
+    },
+    {
+      "name": "app_name",
+      "value": "مدير ملفات Amaze"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "تم تحطم App/UI"
+    },
+    {
+      "name": "apps",
+      "value": "مدير التطبيق"
+    },
+    {
+      "name": "archive",
+      "value": "تخزين"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "حافظة استخراج الأرشيف"
+    },
+    {
+      "name": "archive_password_prompt",
+      "value": "برجاء ادخال كلمة سرية التخزين :"
+    },
+    {
+      "name": "archive_summary",
+      "value": "سيتم استخراج ملفات التخزين الى هذه الحافظة.  القيمة المفترضة هي الدليل الذي يوجد به ملف التخزين."
+    },
+    {
+      "name": "archive_text",
+      "value": "هذا أرشيف  ما هو التصرف الذي تريد تنفيذه ؟"
+    },
+    {
+      "name": "archive_unsupported_or_corrupt",
+      "value": "لا يمكن فتح التخزين \\\" %s \\\".  اما أنه لا يمكن فتح ملف التخزين ، أو أنه قد حدث تلف في التخزين."
+    },
+    {
+      "name": "artist",
+      "value": "الفنان"
+    },
+    {
+      "name": "ascending",
+      "value": "تصاعدي"
+    },
+    {
+      "name": "audio",
+      "value": "صوتيات"
+    },
+    {
+      "name": "authenticate_password",
+      "value": "أدخل كلمة السرية"
+    },
+    {
+      "name": "author",
+      "value": "المؤلف"
+    },
+    {
+      "name": "authors",
+      "value": "المؤلفين"
+    },
+    {
+      "name": "back_summary",
+      "value": "يسمح باعادة تجول التهيئة في أعلى الكشف"
+    },
+    {
+      "name": "back_title",
+      "value": "التجول للخلف"
+    },
+    {
+      "name": "backup",
+      "value": "نسخة احتياطية"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "باسكي"
+    },
+    {
+      "name": "bitrate",
+      "value": "Bitrate"
+    },
+    {
+      "name": "black",
+      "value": "أسود (بالنسبة الى OLED)"
+    },
+    {
+      "name": "blue",
+      "value": "أزرق"
+    },
+    {
+      "name": "bluetooth",
+      "value": "بلوتوث"
+    },
+    {
+      "name": "bookmark_exists",
+      "value": "علامة التوقف موجودة"
+    },
+    {
+      "name": "bookmark_lost",
+      "value": "لم يتم ايجاد علامة التوقف ، قم باعادة التكوين ..."
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "تمت إضافة الإشارات المرجعية"
+    },
+    {
+      "name": "byte_singular",
+      "value": "بايت"
+    },
+    {
+      "name": "bytes",
+      "value": "بايت"
+    },
+    {
+      "name": "calculating",
+      "value": "احتساب"
+    },
+    {
+      "name": "camera_brand",
+      "value": "كاميرا الكاميرا"
+    },
+    {
+      "name": "camera_model",
+      "value": "نموذج الكاميرا"
+    },
+    {
+      "name": "cancel",
+      "value": "الغاء"
+    },
+    {
+      "name": "cancel_recommended",
+      "value": "الغاء (مطلوب)"
+    },
+    {
+      "name": "cancelled",
+      "value": "تم الالغاء"
+    },
+    {
+      "name": "cannot_delete_file",
+      "value": "لا يمكن حذف الملف"
+    },
+    {
+      "name": "cannot_delete_file_with_reason",
+      "value": "لا يمكن حذف الملف-%s"
+    },
+    {
+      "name": "cannot_extract_archive",
+      "value": "لا يمكن استخراج الأرشيف \"\\ %s \"\\ : %s"
+    },
+    {
+      "name": "cannot_overwrite",
+      "value": "لا يمكن احلال الملف."
+    },
+    {
+      "name": "cannot_read_directory",
+      "value": "لا يمكن قراءة الدليل %s-%s"
+    },
+    {
+      "name": "cannot_rename_file",
+      "value": "لا يمكن اعادة تسمية الملف %s-%s"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "لا يمكن أن يكون %s خاليا"
+    },
+    {
+      "name": "change",
+      "value": "التغيير"
+    },
+    {
+      "name": "changelog",
+      "value": "Changelog"
+    },
+    {
+      "name": "channel_description_ftp",
+      "value": "وحدات خدمة MyAze File Manager FTP '\\s Notifications"
+    },
+    {
+      "name": "channel_description_normal",
+      "value": "اخطارات File Manager 's Notifications"
+    },
+    {
+      "name": "channel_name_ftp",
+      "value": "وحدة خدمة Azze FTP"
+    },
+    {
+      "name": "channel_name_normal",
+      "value": "الاعلامات الامامية"
+    },
+    {
+      "name": "channels",
+      "value": "القنوات"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "صينية"
+    },
+    {
+      "name": "choose_color",
+      "value": "اختيار لون"
+    },
+    {
+      "name": "choose_different_app",
+      "value": "اختيار تطبيق مختلف"
+    },
+    {
+      "name": "choose_folder",
+      "value": "اختيار هذه الحافظة"
+    },
+    {
+      "name": "choose_operation",
+      "value": "قم باختيار عملية لتنفيذها"
+    },
+    {
+      "name": "circular_icons",
+      "value": "استخدام الشارات الدائرية"
+    },
+    {
+      "name": "circular_images",
+      "value": "استخدام الشارات الدائرية للصور والفيديوهات"
+    },
+    {
+      "name": "clear",
+      "value": "محو"
+    },
+    {
+      "name": "clear_open_file",
+      "value": "اخلاء الذاكرة الوسيطة"
+    },
+    {
+      "name": "clear_open_file_summary",
+      "value": "لمحو تطبيقات فتح ملف مفترض محددة"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "تم نسخ المسار الى المسودة"
+    },
+    {
+      "name": "close",
+      "value": "اغلاق"
+    },
+    {
+      "name": "cloud_box",
+      "value": "مربع"
+    },
+    {
+      "name": "cloud_connection",
+      "value": "وصلة Cloud"
+    },
+    {
+      "name": "cloud_connection_new",
+      "value": "وصلة Clud جديدة"
+    },
+    {
+      "name": "cloud_drive",
+      "value": "Google Drive™"
+    },
+    {
+      "name": "cloud_drive_tooltip",
+      "value": "قم بإنشاء اتصال Google Drive ™ لإدارة الملفات من داخل Amaze File Manager."
+    },
+    {
+      "name": "cloud_dropbox",
+      "value": "Dropbox"
+    },
+    {
+      "name": "cloud_error_failed_restart",
+      "value": "فشل في تحميل الوصلة. \n        رجاء إفتح (أمازي كلاود) مرة"
+    },
+    {
+      "name": "cloud_error_plugin",
+      "value": "لم يتم ايجاد برنامج مساعد Clud Cloud.  برجاء التحميل من تشغيل المتجر."
+    },
+    {
+      "name": "cloud_fail_authenticate",
+      "value": "فشل التوثيق"
+    },
+    {
+      "name": "cloud_get",
+      "value": "عرض البرنامج المساعد Cloud"
+    },
+    {
+      "name": "cloud_onedrive",
+      "value": "مشغل واحد"
+    },
+    {
+      "name": "cloud_remove",
+      "value": "هل ترغب في ازالة وصلة السحاب ?"
+    },
+    {
+      "name": "cloud_share_copied",
+      "value": "تم نسخ وصلة قابلة للاتصال في المسودة"
+    },
+    {
+      "name": "cloud_token_lost",
+      "value": "فقد الرمز المميز ، برجاء بدء الاتصال مرة أخرى"
+    },
+    {
+      "name": "codec",
+      "value": "Codec"
+    },
+    {
+      "name": "color_summary",
+      "value": "تحديد اللون لمكونات UI المختلفة"
+    },
+    {
+      "name": "color_title",
+      "value": "اللون"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "خط التجول الملون"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "ما اذا كان خط تجول النظام ملونة بالشكل العام أم لا"
+    },
+    {
+      "name": "colorize",
+      "value": "عرض الشارات"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "يتم تحديد لون الشارة الاستاتيكي.  لا تقوم بالغاء تفضيل لون شارة الدليل."
+    },
+    {
+      "name": "comment",
+      "value": "تعقيب"
+    },
+    {
+      "name": "compress",
+      "value": "ضغط"
+    },
+    {
+      "name": "compress_file_suggest_zip_extension",
+      "value": "يفضل أن يقوم \\\"باستخدام \"\\. zip \"\\ كامتداد للملف."
+    },
+    {
+      "name": "compressed",
+      "value": "ضغط"
+    },
+    {
+      "name": "compressed_explorer_fragment_error_open_uri",
+      "value": "خطأ في فتح URI \"%s\" للقراءة."
+    },
+    {
+      "name": "compressing",
+      "value": "ضغط"
+    },
+    {
+      "name": "compression_complete",
+      "value": "اتمام الضغط"
+    },
+    {
+      "name": "connection_exists",
+      "value": "الوصلة موجودة بالفعل"
+    },
+    {
+      "name": "connection_name",
+      "value": "eman noitcennoC"
+    },
+    {
+      "name": "container",
+      "value": "الحاوية"
+    },
+    {
+      "name": "contributors",
+      "value": "المشاركين"
+    },
+    {
+      "name": "contributors_1_summary",
+      "value": "الترجمة التحريرية"
+    },
+    {
+      "name": "contributors_2_summary",
+      "value": "الشارة واللافتات"
+    },
+    {
+      "name": "contributors_3_summary",
+      "value": "محرك النسق الرئيسي"
+    },
+    {
+      "name": "contributors_4_summary",
+      "value": "الظل خلف الأسئلة التي يكثر طرحها"
+    },
+    {
+      "name": "contributors_5_summary",
+      "value": "الانتقال للألوان عند استخدام علامات الجدولة"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "وحدة خدمة FTP"
+    },
+    {
+      "name": "contributors_7_summary",
+      "value": "اطلاق النار بواجهة التعامل التفاعلية"
+    },
+    {
+      "name": "copied",
+      "value": "تم النسخ"
+    },
+    {
+      "name": "copy",
+      "value": "نسخ"
+    },
+    {
+      "name": "copy_complete",
+      "value": "اتمام النسخ"
+    },
+    {
+      "name": "copy_error",
+      "value": "بعض الملفات التي تم صرفها '\\ '\\t بنجاح %s"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "نسخ التقرير المنسق"
+    },
+    {
+      "name": "copy_low_memory",
+      "value": "الذاكرة خارج الذاكرة ، برجاء ازالة بعض RAM"
+    },
+    {
+      "name": "copying",
+      "value": "جاري النسخ"
+    },
+    {
+      "name": "crash_report_copied",
+      "value": "تقرير التحطم الذي تم نسخه في المسودة"
+    },
+    {
+      "name": "create",
+      "value": "تكوين"
+    },
+    {
+      "name": "create_bookmark",
+      "value": "إنشاء إشارة مرجعية"
+    },
+    {
+      "name": "create_file_suggest_txt_extension",
+      "value": "يفضل أن يقوم \\\"باستخدام \"\\. txt \"\\ على أنه لاحقة الملف."
+    },
+    {
+      "name": "create_hidden_file_warn",
+      "value": "سيتم اخفاء الملف الذي تم تكوينه في كشف الملفات."
+    },
+    {
+      "name": "created",
+      "value": "تم التكوين"
+    },
+    {
+      "name": "creatingfile",
+      "value": "تكوين ملف"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "تكوين حافظة"
+    },
+    {
+      "name": "creator",
+      "value": "المنشئ"
+    },
+    {
+      "name": "crypt_decrypt",
+      "value": "فك التشفير"
+    },
+    {
+      "name": "crypt_decrypted",
+      "value": "فك التشفير"
+    },
+    {
+      "name": "crypt_decrypting",
+      "value": "فك التشفير"
+    },
+    {
+      "name": "crypt_decryption_fail",
+      "value": "فشل في فك التشفير"
+    },
+    {
+      "name": "crypt_decryption_fail_password",
+      "value": "كلمة سرية غير صحيحة !"
+    },
+    {
+      "name": "crypt_encrypt",
+      "value": "تشفير"
+    },
+    {
+      "name": "crypt_encrypted",
+      "value": "مشفر"
+    },
+    {
+      "name": "crypt_encrypting",
+      "value": "تشفير"
+    },
+    {
+      "name": "crypt_encryption_fail",
+      "value": "فشل في تشفير"
+    },
+    {
+      "name": "crypt_fingerprint_authenticate",
+      "value": "جهاز استشعار اللمس للاستمرار"
+    },
+    {
+      "name": "crypt_fingerprint_no_permission",
+      "value": "تصريحات Fingerprint غير موجودة"
+    },
+    {
+      "name": "crypt_fingerprint_no_security",
+      "value": "لم يتم ايجاد سرية اقفال الشاشة"
+    },
+    {
+      "name": "crypt_fingerprint_not_enrolled",
+      "value": "لم يتم تسجيل البصمة"
+    },
+    {
+      "name": "crypt_pref_fingerprint_summary",
+      "value": "استخدام بصمة الاصبع لتوثيق التشفير"
+    },
+    {
+      "name": "crypt_pref_fingerprint_title",
+      "value": "طباعة Fingerprint"
+    },
+    {
+      "name": "crypt_pref_master_password_summary",
+      "value": "تحديد كلمة السرية الرئيسية للتشفير. \n        ترك خاليا ليتم ازالته."
+    },
+    {
+      "name": "crypt_pref_master_password_title",
+      "value": "كلمة السرية الرئيسية"
+    },
+    {
+      "name": "crypt_warning_key",
+      "value": "عندما تقوم بتغيير نمط السرية الخاص بك من محددات النظام ، فانك لن تتمكن من فك تشفير هذه المحتويات."
+    },
+    {
+      "name": "current_speed",
+      "value": "السرعة الحالية"
+    },
+    {
+      "name": "custom",
+      "value": "معدل"
+    },
+    {
+      "name": "customize",
+      "value": "تهيئة"
+    },
+    {
+      "name": "cut",
+      "value": "قص"
+    },
+    {
+      "name": "dark",
+      "value": "الظلام المادي"
+    },
+    {
+      "name": "database",
+      "value": "قاعدة البيانات"
+    },
+    {
+      "name": "databasereader",
+      "value": "وحدة قراءة قاعدة البيانات"
+    },
+    {
+      "name": "date",
+      "value": "التاريخ"
+    },
+    {
+      "name": "date_modified",
+      "value": "تاريخ التعديل"
+    },
+    {
+      "name": "date_taken",
+      "value": "تاريخ التكين"
+    },
+    {
+      "name": "daytime",
+      "value": "الوقت الموفر"
+    },
+    {
+      "name": "default_string",
+      "value": "المفترض"
+    },
+    {
+      "name": "delbook",
+      "value": "حذف علامة توقف"
+    },
+    {
+      "name": "delete",
+      "value": "حذف"
+    },
+    {
+      "name": "deleting",
+      "value": "حذف"
+    },
+    {
+      "name": "descending",
+      "value": "تنازلي"
+    },
+    {
+      "name": "deselect_all",
+      "value": "الغاء تحديد كل"
+    },
+    {
+      "name": "details",
+      "value": "التفاصيل"
+    },
+    {
+      "name": "developers",
+      "value": "مطوري البرامج"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "أدلة"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "الملفات"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "حذف البنود التالية سيؤدي الى ازالتهم نهائيا من الجهاز الخاص بك ولا يمكن استعادتهم."
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "حذف بنود بصفة دائمة ؟"
+    },
+    {
+      "name": "dimensions",
+      "value": "الأبعاد"
+    },
+    {
+      "name": "directory",
+      "value": "الدليل"
+    },
+    {
+      "name": "directorysort",
+      "value": "نمط فرز الدليل"
+    },
+    {
+      "name": "disable",
+      "value": "الغاء اتاحة"
+    },
+    {
+      "name": "disableIpcSignature",
+      "value": "الغاء اتاحة التحقق من توقيع IPC (بالنسبة لوحدات خدمة SMBv1 القديمة-UNSAFE !)"
+    },
+    {
+      "name": "documents",
+      "value": "الوثائق"
+    },
+    {
+      "name": "doforall",
+      "value": "تنفيذ لكل البنود"
+    },
+    {
+      "name": "doit",
+      "value": "افعلها"
+    },
+    {
+      "name": "domain",
+      "value": "النطاق"
+    },
+    {
+      "name": "donate",
+      "value": "التبرع"
+    },
+    {
+      "name": "donation_thanks",
+      "value": "شكرا للتبرع ، هذا يبقينا متحفزا ! (:"
+    },
+    {
+      "name": "done",
+      "value": "اتمام"
+    },
+    {
+      "name": "drag_and_drop_preference",
+      "value": "حدد سحب ووضع تفضيلات (Expertal)"
+    },
+    {
+      "name": "drag_to_move_copy",
+      "value": "اللمس والسحب لنقل أو نسخ ملفات"
+    },
+    {
+      "name": "drag_to_select",
+      "value": "قم باللمس والسحب لاختيار الملفات"
+    },
+    {
+      "name": "drawer_close",
+      "value": "إغلاق نافذة التنقل"
+    },
+    {
+      "name": "drawer_open",
+      "value": "فتح نافذة التنقل"
+    },
+    {
+      "name": "duration",
+      "value": "المدة"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "هولندي"
+    },
+    {
+      "name": "edit",
+      "value": "تحرير"
+    },
+    {
+      "name": "edit_bookmark",
+      "value": "تحرير الإشارة المرجعية"
+    },
+    {
+      "name": "enable_marquee_filename",
+      "value": "اتاحة تأثير marquee لأسماء الملفات"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "اتاحة النمط الرئيسي"
+    },
+    {
+      "name": "encrypt_file_must_end_with_aze",
+      "value": "يجب أن تقوم الملفات المشفرة باستخدام \"\\. seزى \\\" على أنه لاحقة الملف."
+    },
+    {
+      "name": "encrypt_file_save_as",
+      "value": "حفظ الملف المشفر باسم ..."
+    },
+    {
+      "name": "encrypt_folder_save_as",
+      "value": "حفظ الحافظة التي تم تشفيرها باسم ..."
+    },
+    {
+      "name": "encryption_fail_copy",
+      "value": "فشل في تعديل ادخال التشفير في قاعدة البيانات"
+    },
+    {
+      "name": "entername",
+      "value": "أدخل الاسم"
+    },
+    {
+      "name": "enterpath",
+      "value": "ادخال المسار"
+    },
+    {
+      "name": "enterzipname",
+      "value": "أدخل اسم Zip"
+    },
+    {
+      "name": "error",
+      "value": "خطأ"
+    },
+    {
+      "name": "error_archive_cannot_extract",
+      "value": "لا يمكن استخراج مدخلات التخزين \\\"%s \\\" الى \"\\ %s \"\\."
+    },
+    {
+      "name": "error_archive_password_incorrect",
+      "value": "كلمة سرية أرشيف غير صحيحة."
+    },
+    {
+      "name": "error_details_headline",
+      "value": "التفاصيل :"
+    },
+    {
+      "name": "error_empty_archive",
+      "value": "\"%s\" هو أرشيف فارغ."
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "خطأ : لم يتم ايجاد الملف"
+    },
+    {
+      "name": "error_file_too_large",
+      "value": "خطأ : الملف كبير جدا"
+    },
+    {
+      "name": "error_io",
+      "value": "خطأ I/O"
+    },
+    {
+      "name": "error_permission_denied",
+      "value": "تم رفض التصريح"
+    },
+    {
+      "name": "error_report_button_telegram",
+      "value": "قم بتسجيل هذا الخطأ من خلال البرقية"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "الابلاغ عن هذا الخطأ بواسطة البريد الالكتروني"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "برجاء التحقق مما اذا كانت المشكلة التي تناقش حادث التحطم الخاص بك موجودة بالفعل."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "تقرير عن النظام العالمي (ب)"
+    },
+    {
+      "name": "error_report_title",
+      "value": "تقرير الخطأ"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "التقرير"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "آسف ، حدث شيء خاطئ."
+    },
+    {
+      "name": "error_unsupported_v5_rar",
+      "value": "ملف تخزين RAR \" %s \" لا يتم دعم أرشيف RAR v5."
+    },
+    {
+      "name": "exit",
+      "value": "خروج"
+    },
+    {
+      "name": "exposure_time",
+      "value": "وقت التعرض"
+    },
+    {
+      "name": "extract",
+      "value": "استخراج"
+    },
+    {
+      "name": "extract_complete",
+      "value": "تم الاستخلاص"
+    },
+    {
+      "name": "extracted",
+      "value": "تم استخلاص"
+    },
+    {
+      "name": "extracting",
+      "value": "استخراج"
+    },
+    {
+      "name": "failed_cloud_api_key",
+      "value": "فشل في توثيق البرنامج المساعد Cloud"
+    },
+    {
+      "name": "failed_cloud_new_connection",
+      "value": "فشل في اضافة وصلة Clud جديدة"
+    },
+    {
+      "name": "failed_install_apk",
+      "value": "فشل في التركيب"
+    },
+    {
+      "name": "failed_no_connection",
+      "value": "فشل في تحميل الملفات.  برجاء التحقق من الوصلة الخاصة بك."
+    },
+    {
+      "name": "failed_smb_decrypt_path",
+      "value": "فشل في تحميل وصلة SMB"
+    },
+    {
+      "name": "feedback",
+      "value": "ارسال معلومات مرجعية"
+    },
+    {
+      "name": "field_empty",
+      "value": "لا يمكن أن يكون المجال خاليا"
+    },
+    {
+      "name": "file",
+      "value": "الملف"
+    },
+    {
+      "name": "file_empty",
+      "value": "File is empty"
+    },
+    {
+      "name": "file_read_only",
+      "value": "الملف الذي تم فتحه هو للقراءة فقط."
+    },
+    {
+      "name": "fileexist",
+      "value": "الملف بنفس الاسم موجود بالفعل"
+    },
+    {
+      "name": "filename",
+      "value": "اسم الملف"
+    },
+    {
+      "name": "files",
+      "value": "الملفات"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "الملفات في أعلى"
+    },
+    {
+      "name": "find",
+      "value": "ايجاد في صفحة"
+    },
+    {
+      "name": "flash_fired",
+      "value": "فلاش فلاش"
+    },
+    {
+      "name": "focal_length",
+      "value": "طول البؤالبؤ"
+    },
+    {
+      "name": "folder",
+      "value": "حافظة"
+    },
+    {
+      "name": "folderfilecount",
+      "value": "%1$d حافظات و %2$d ملفات"
+    },
+    {
+      "name": "folders",
+      "value": "الحافظات"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "الحافظات في أعلى"
+    },
+    {
+      "name": "format",
+      "value": "النسق"
+    },
+    {
+      "name": "frame_rate",
+      "value": "معدل الاطار"
+    },
+    {
+      "name": "free",
+      "value": "مساحة خالية"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "الفرنسية"
+    },
+    {
+      "name": "ftp",
+      "value": "وحدة خدمة FTP"
+    },
+    {
+      "name": "ftp_login",
+      "value": "بدء الاتصال"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "تأكد من أن \\ ترتبط ب Wi-Fi"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "جاري بدء تشغيل وحدة خدمة FTP"
+    },
+    {
+      "name": "ftp_notif_starting_title",
+      "value": "وحدة خدمة FTP"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "إيقاف"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "عند %s"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "تشغيل وحدة خدمة AzAze FTP"
+    },
+    {
+      "name": "ftp_path",
+      "value": "مسار مشترك"
+    },
+    {
+      "name": "ftp_path_change_error_invalid",
+      "value": "مسار غير صحيح"
+    },
+    {
+      "name": "ftp_path_change_success",
+      "value": "تم تغيير مسار FTP بنجاح"
+    },
+    {
+      "name": "ftp_path_hint",
+      "value": "المسار الى الدليل الرئيسي للدليل المطلوب مشاركته"
+    },
+    {
+      "name": "ftp_port",
+      "value": "المنفذ"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "تم تحديد رقم منفذ غير صحيح"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "تم تغيير منفذ FTP بنجاح"
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "منفذ FTP"
+    },
+    {
+      "name": "ftp_preference_saf_filesystem",
+      "value": "قم بتمكين هذا لدعم استخدام وحدة التخزين الخارجية للجهاز على إصدارات Android الأحدث"
+    },
+    {
+      "name": "ftp_preference_saf_filesystem_title",
+      "value": "استخدم نظام الملفات القديم"
+    },
+    {
+      "name": "ftp_prompt_accept_first_start_saf_access",
+      "value": "حيث أن هذه هي المرة الأولى التي تقوم فيها بتشغيل وحدة خدمة FTP ، وتقوم باستخدام مساحة التخزين الداخلية الخاصة بالجهاز كحافظة مشتركة ، برجاء السماح لأمازي بالوصول الى مساحة التخزين باستخدام SAF. \\n \\n \n\nيجب أن تقوم بذلك مرة واحدة فقط ، حتى تقوم بتحديد مكان جديد للمشاركة فيه في المرة القادمة."
+    },
+    {
+      "name": "ftp_prompt_accept_first_start_saf_access_title",
+      "value": "منح امكانية توصل SAF لوحدة خدمة FTP"
+    },
+    {
+      "name": "ftp_prompt_restart_server",
+      "value": "سيكون من الضروري اعادة بدء وحدة خدمة FTP لكي تصبح التغييرات فعالة."
+    },
+    {
+      "name": "ftp_readonly",
+      "value": "امكانية توصل للقراءة فقط"
+    },
+    {
+      "name": "ftp_seconds",
+      "value": "ثواني"
+    },
+    {
+      "name": "ftp_server_fallback_path_reset_prompt",
+      "value": "تم إعادة تعيين المسار المشترك لخادم FTP إلى وحدة التخزين الداخلية أثناء العودة إلى تطبيق نظام الملفات القديم. الرجاء تحديد مسار جديد باستخدام القائمة الموجودة في الجزء العلوي الأيمن حسب الضرورة."
+    },
+    {
+      "name": "ftp_server_open_settings",
+      "value": "فتح الاعدادات"
+    },
+    {
+      "name": "ftp_server_prompt_connect_to_network",
+      "value": "الاتصال بشبكة اتصال أو اتاحة AP"
+    },
+    {
+      "name": "ftp_status_no_connection",
+      "value": "لا توجد وصلة"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "لا يتم تشغيله"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "تشغيل"
+    },
+    {
+      "name": "ftp_status_secure_connection",
+      "value": "وصلة محمية"
+    },
+    {
+      "name": "ftp_status_title",
+      "value": "الحالة"
+    },
+    {
+      "name": "ftp_timeout",
+      "value": "انقضاء الوقت المحدد غير الفعال"
+    },
+    {
+      "name": "general",
+      "value": "عام"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "ألماني"
+    },
+    {
+      "name": "go",
+      "value": "إذهب"
+    },
+    {
+      "name": "goback",
+      "value": "اذهب للخلف"
+    },
+    {
+      "name": "got_it",
+      "value": "! حصلت عليه"
+    },
+    {
+      "name": "grant",
+      "value": "منح"
+    },
+    {
+      "name": "grant_apkinstall_permission",
+      "value": "يجب الاستمرار في تطبيق تصريح App لتركيب التطبيقات."
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "App يحتاج الى تصريح تخزين للاستمرار.  سيؤدي الغاء مربع الحوار هذا الى الخروج من التطبيق."
+    },
+    {
+      "name": "grantfailed",
+      "value": "لم يتم منح التصريح"
+    },
+    {
+      "name": "grantper",
+      "value": "منح تصريح"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "يوناني"
+    },
+    {
+      "name": "green",
+      "value": "أخضر"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "عدد الأعمدة في مشاهدة الشبكة"
+    },
+    {
+      "name": "gridview",
+      "value": "مشاهدة الشبكة"
+    },
+    {
+      "name": "hash_sha256",
+      "value": "SHA-256"
+    },
+    {
+      "name": "height",
+      "value": "الارتفاع"
+    },
+    {
+      "name": "hidden",
+      "value": "Show Hidden Files and Folders"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "Hidden Files"
+    },
+    {
+      "name": "hide",
+      "value": "اخفاء"
+    },
+    {
+      "name": "hide_media",
+      "value": "اخفاء من برامج استعراض وسط التخزين"
+    },
+    {
+      "name": "history",
+      "value": "تاريخ"
+    },
+    {
+      "name": "home",
+      "value": "الصفحة الرئيسية"
+    },
+    {
+      "name": "icon",
+      "value": "شارة"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "تحديد اللون للشارات"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "لون الشارة"
+    },
+    {
+      "name": "image",
+      "value": "صورة"
+    },
+    {
+      "name": "image_iso",
+      "value": "تصنيف سرعة ISO"
+    },
+    {
+      "name": "image_type",
+      "value": "نوع الصورة"
+    },
+    {
+      "name": "images",
+      "value": "صور"
+    },
+    {
+      "name": "in_safe",
+      "value": "مساحة غير كافية"
+    },
+    {
+      "name": "info_labels",
+      "value": "What:\\nRequest: \\\\nGMT Time: \\\\n nVersion: \\\\nVersion: \\\\nDevice: \\\\nDevice: \\\\n nModel: \\\\n nModel: \\\\n"
+    },
+    {
+      "name": "information",
+      "value": "المعلومات"
+    },
+    {
+      "name": "install",
+      "value": "تركيب"
+    },
+    {
+      "name": "intellihide_toolbar_summary",
+      "value": "اخفاء خط الأدوات آليا أثناء التصفح"
+    },
+    {
+      "name": "intellihide_toolbar_title",
+      "value": "خط الأدوات الذكي"
+    },
+    {
+      "name": "intent_save_as",
+      "value": "حفظ باسم ..."
+    },
+    {
+      "name": "invalid",
+      "value": "غير صحيح %s"
+    },
+    {
+      "name": "invalid_name",
+      "value": "اسم غير صحيح"
+    },
+    {
+      "name": "ip",
+      "value": "العنوان"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "ايطالي"
+    },
+    {
+      "name": "item",
+      "value": "بند"
+    },
+    {
+      "name": "items",
+      "value": "بنود"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "ياباني"
+    },
+    {
+      "name": "just_once",
+      "value": "مرة واحدة فقط"
+    },
+    {
+      "name": "keywords",
+      "value": "الكلمات المرشدة"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "كوري"
+    },
+    {
+      "name": "lastModified",
+      "value": "آخر تعديل"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "عرض تاريخ ووقت آخر تعديل"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "عرض التاريخ والوقت الذي تم فيه تعديل الملف آخر مرة"
+    },
+    {
+      "name": "legacy_listing_summary",
+      "value": "اذا تم اتاحته ، استخدم الطريقة المتوارثة لعرض الملفات"
+    },
+    {
+      "name": "legacy_listing_title",
+      "value": "استخدام كشف التركة للدليل الرئيسي"
+    },
+    {
+      "name": "libraries",
+      "value": "المكتبات"
+    },
+    {
+      "name": "license",
+      "value": "الترخيص"
+    },
+    {
+      "name": "light",
+      "value": "ضوء المواد"
+    },
+    {
+      "name": "listview",
+      "value": "مشاهدة كشف"
+    },
+    {
+      "name": "loading",
+      "value": "تحميل ..."
+    },
+    {
+      "name": "local_inet_addr_error",
+      "value": "حدث خطأ أثناء احضار عنوان inet المحلي"
+    },
+    {
+      "name": "location",
+      "value": "الموقع"
+    },
+    {
+      "name": "match_content",
+      "value": "مطابقة المحتويات"
+    },
+    {
+      "name": "match_content_summary",
+      "value": "اذا تم تحديده ، سيتم مطابقة التعبير المعتاد مع اسم الملف بالكامل ، وسيتم البحث عنه بطريقة أخرى."
+    },
+    {
+      "name": "md5",
+      "value": "MD5"
+    },
+    {
+      "name": "medium_text",
+      "value": "نص متوسط"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "متفرقات"
+    },
+    {
+      "name": "modified",
+      "value": "تاريخ التعديل"
+    },
+    {
+      "name": "monofont",
+      "value": "طاقم طباعة أحادي المسافة"
+    },
+    {
+      "name": "move",
+      "value": "تحرك"
+    },
+    {
+      "name": "moved",
+      "value": "نقل"
+    },
+    {
+      "name": "moving",
+      "value": "جاري النقل"
+    },
+    {
+      "name": "multiple_invalid_archive_entries",
+      "value": "بعض الملفات في التخزين لا يمكن استخلاصها ؛ التخزين قد يكون تالفا أو قد يكون مصدر خبيث."
+    },
+    {
+      "name": "name",
+      "value": "الاسم"
+    },
+    {
+      "name": "needs_access",
+      "value": "امكانية الكتابة مطلوبة"
+    },
+    {
+      "name": "needs_access_summary",
+      "value": "برجاء اختيار الدليل الرئيسي الى \\ t"
+    },
+    {
+      "name": "needs_access_summary1",
+      "value": "\\to منح امكانية الكتابة للعمل"
+    },
+    {
+      "name": "newfile",
+      "value": "ملف جديد"
+    },
+    {
+      "name": "newfolder",
+      "value": "حافظة جديدة"
+    },
+    {
+      "name": "no",
+      "value": "لا"
+    },
+    {
+      "name": "no_app_found",
+      "value": "لم يتم ايجاد App لفتح هذا الملف"
+    },
+    {
+      "name": "no_applications",
+      "value": "لا توجد تطبيقات"
+    },
+    {
+      "name": "no_bitcoin_app",
+      "value": "برجاء تركيب Bittain Wallet app"
+    },
+    {
+      "name": "no_device_found",
+      "value": "لم يتم ايجاد أي أجهزة"
+    },
+    {
+      "name": "no_file_error",
+      "value": "شيء خاطئ ، هناك \\ لا شيء لفتح"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "لم يتم احلال الملف"
+    },
+    {
+      "name": "no_files",
+      "value": "لا توجد ملفات"
+    },
+    {
+      "name": "no_items",
+      "value": "لا توجد بنود"
+    },
+    {
+      "name": "no_name",
+      "value": "يجب أن يكون للملف اسم"
+    },
+    {
+      "name": "no_obtainable_info",
+      "value": "لا توجد معلومات عن هذا الملف \\"
+    },
+    {
+      "name": "none_on_top",
+      "value": "لا شيء في أعلى"
+    },
+    {
+      "name": "not_allowed",
+      "value": "غير مسموح"
+    },
+    {
+      "name": "of",
+      "value": "من"
+    },
+    {
+      "name": "ok",
+      "value": "طيب"
+    },
+    {
+      "name": "open",
+      "value": "فتح"
+    },
+    {
+      "name": "open_as",
+      "value": "فتح باسم"
+    },
+    {
+      "name": "open_parent",
+      "value": "فتح الدليل الرئيسي"
+    },
+    {
+      "name": "open_with",
+      "value": "فتح باستخدام"
+    },
+    {
+      "name": "operation_fail_following",
+      "value": "فشل العملية للملفات التالية"
+    },
+    {
+      "name": "operation_not_supported",
+      "value": "عملية غير مدعمة"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "عملية غير ناجحة"
+    },
+    {
+      "name": "optimized",
+      "value": "Optimized"
+    },
+    {
+      "name": "orange",
+      "value": "برتقالي"
+    },
+    {
+      "name": "otg_access",
+      "value": "حدد الدليل الرئيسي لجهاز OTG"
+    },
+    {
+      "name": "other",
+      "value": "مسائل أخرى"
+    },
+    {
+      "name": "out_of",
+      "value": "خارج"
+    },
+    {
+      "name": "overwrite",
+      "value": "احلال"
+    },
+    {
+      "name": "package_installer",
+      "value": "برنامج تركيب مجموعة البرامج"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "هذا هو برنامج تركيب مجموعة البرامج.  ما هو التصرف الذي تريد تنفيذه ؟"
+    },
+    {
+      "name": "pages",
+      "value": "عدد الصفحات"
+    },
+    {
+      "name": "paper_size",
+      "value": "حجم الورقة"
+    },
+    {
+      "name": "password",
+      "value": "كلمة السرية"
+    },
+    {
+      "name": "password_no_match",
+      "value": "كلمة السرية doesn '\\t مطابقة"
+    },
+    {
+      "name": "password_repeat",
+      "value": "تكرار كلمة السرية"
+    },
+    {
+      "name": "password_unchanged",
+      "value": "(بدون تغيير)"
+    },
+    {
+      "name": "paste",
+      "value": "لصق"
+    },
+    {
+      "name": "path",
+      "value": "المسار"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "تم نسخ كود PayPal الى المسودة"
+    },
+    {
+      "name": "permission",
+      "value": "التصاريح"
+    },
+    {
+      "name": "permission_execute",
+      "value": "تنفيذ"
+    },
+    {
+      "name": "permission_group",
+      "value": "المجموعة"
+    },
+    {
+      "name": "permission_other",
+      "value": "مسائل أخرى"
+    },
+    {
+      "name": "permission_owner",
+      "value": "المالك"
+    },
+    {
+      "name": "permission_read",
+      "value": "قراءة"
+    },
+    {
+      "name": "permission_write",
+      "value": "كتابة"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "اختيار ملف"
+    },
+    {
+      "name": "play",
+      "value": "تشغيل المتجر"
+    },
+    {
+      "name": "please_wait",
+      "value": "برجاء الانتظار"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "بولندي"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "برتغالي"
+    },
+    {
+      "name": "preference_newstack_summary",
+      "value": "يسمح لك بفتح ملفات في مهام منفصلة.  قم بالاتصال بهم من خلال شاشة System recents."
+    },
+    {
+      "name": "preference_newstack_title",
+      "value": "فتح الملفات كمهمة جديدة"
+    },
+    {
+      "name": "preselected_configs_title",
+      "value": "config-configs"
+    },
+    {
+      "name": "press_again",
+      "value": "اضغط مرة أخرى للخروج"
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "اضبط اللون على عناصر واجهة المستخدم الكبيرة لعلامة التبويب اليسرى"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "اللون الأساسي (جدولة يسار)"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "حدد اللون لعناصر UI الكبيرة لعلامة التبويب اليمين"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "اللون الأساسي (Tab اليمنى)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "برنامج مشاهدة العملية"
+    },
+    {
+      "name": "processed",
+      "value": "تم تشغيل"
+    },
+    {
+      "name": "processing",
+      "value": "جاري التشغيل ..."
+    },
+    {
+      "name": "processing_file",
+      "value": "ملف التشغيل"
+    },
+    {
+      "name": "producer",
+      "value": "المنتج"
+    },
+    {
+      "name": "properties",
+      "value": "خصائص"
+    },
+    {
+      "name": "properties_copied_clipboard",
+      "value": "نسخ في المسودة"
+    },
+    {
+      "name": "question_delete_bookmark",
+      "value": "حذف الإشارة المرجعية?"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "هل ترغب في تحديد المسار الحالي على أنه الصفحة الرئيسية لعلامة التبويب هذه ؟"
+    },
+    {
+      "name": "quick",
+      "value": "اتصال سريع"
+    },
+    {
+      "name": "random",
+      "value": "شكل عشوائي عشوائي"
+    },
+    {
+      "name": "random_summary",
+      "value": "يتم تحديد اللون الأساسي العشوائي عند بدء التشغيل"
+    },
+    {
+      "name": "rate",
+      "value": "تقييم التطبيق"
+    },
+    {
+      "name": "recent",
+      "value": "الملفات الحديثة"
+    },
+    {
+      "name": "regular_expression",
+      "value": "تعبير معتاد"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "البحث باستخدام تعبير SABH المعتاد"
+    },
+    {
+      "name": "remember",
+      "value": "تذكر للمرة القادمة"
+    },
+    {
+      "name": "rename",
+      "value": "اعادة تسمية"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "تعديل علامة التوقف"
+    },
+    {
+      "name": "renaming",
+      "value": "اعادة التسمية"
+    },
+    {
+      "name": "reopen_from_source",
+      "value": "لا يمكن ، رجاء اعادة الفتح من التطبيق الأخير"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "تسجيل الأخطاء أو طلب خاصية جديدة"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "حشرات التقرير"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "روماني"
+    },
+    {
+      "name": "root_directory",
+      "value": "الأصل"
+    },
+    {
+      "name": "root_failure",
+      "value": "لم يتم منح امكانية التوصل الرئيسية"
+    },
+    {
+      "name": "root_mode",
+      "value": "برنامج الاستعراض الرئيسي"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "بالنسبة للجهاز المتجذر فقط.  إفحصه فقط إذا أنت متأكد حوله."
+    },
+    {
+      "name": "root_pref",
+      "value": "عرض التصاريح"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "عرض التصاريح الخاصة بالملفات والحافظات"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "الروسية"
+    },
+    {
+      "name": "saf_otg_explanation",
+      "value": "ستذهب الآن إلى نظام (أندرويد) للأفلام لأسباب أمنية  برجاء تحديد جهاز USB من الكشف الموجود على اليسار."
+    },
+    {
+      "name": "sample_rate",
+      "value": "المعدل النموذجي"
+    },
+    {
+      "name": "save",
+      "value": "حفظ"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "عند البدء ، سيتم عرض الحافظة التي تم مشاهدتها مؤخرا لكل علامة تبويب"
+    },
+    {
+      "name": "save_paths",
+      "value": "تذكر المسارات"
+    },
+    {
+      "name": "saved_multi_files",
+      "value": "تم حفظ %d ملف."
+    },
+    {
+      "name": "saved_single_file",
+      "value": "تم حفظ الملف على أنه '\\ %s '\\."
+    },
+    {
+      "name": "saving",
+      "value": "جاري الحفظ"
+    },
+    {
+      "name": "scp_connection",
+      "value": "وصلة SCP/SFTP"
+    },
+    {
+      "name": "scp_default_path",
+      "value": "المسار المفترض (اختياري)"
+    },
+    {
+      "name": "scp_port",
+      "value": "المنفذ"
+    },
+    {
+      "name": "search",
+      "value": "بحث"
+    },
+    {
+      "name": "search_hint",
+      "value": "أدخل البحث ..."
+    },
+    {
+      "name": "search_results",
+      "value": "Search results of %s"
+    },
+    {
+      "name": "searching",
+      "value": "البحث في %s"
+    },
+    {
+      "name": "searching_devices",
+      "value": "البحث عن أجهزة"
+    },
+    {
+      "name": "security",
+      "value": "الأمن"
+    },
+    {
+      "name": "security_error",
+      "value": "تعذر فتح الملف باستخدام هذا التطبيق"
+    },
+    {
+      "name": "select",
+      "value": "اختيار بند"
+    },
+    {
+      "name": "select_all",
+      "value": "اختيار كل"
+    },
+    {
+      "name": "select_by_date",
+      "value": "Select by date"
+    },
+    {
+      "name": "select_by_type",
+      "value": "Select by type"
+    },
+    {
+      "name": "select_color_config",
+      "value": "اختيار توصيف اللون"
+    },
+    {
+      "name": "select_intent",
+      "value": "اختيار"
+    },
+    {
+      "name": "select_inverse",
+      "value": "Select Inverse"
+    },
+    {
+      "name": "select_save_location",
+      "value": "حدد مكان للحفظ"
+    },
+    {
+      "name": "select_similar",
+      "value": "Select similar"
+    },
+    {
+      "name": "send_email_to",
+      "value": "ارسال بريد الكتروني الى"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "صربي"
+    },
+    {
+      "name": "server_address",
+      "value": "عنوان IP لوحدة الخدمة"
+    },
+    {
+      "name": "service_timer",
+      "value": "الوقت المنقضي"
+    },
+    {
+      "name": "set",
+      "value": "تحديد"
+    },
+    {
+      "name": "set_as_home",
+      "value": "تحديد كصفحة رئيسية"
+    },
+    {
+      "name": "set_random",
+      "value": "سيتم اجراء التغييرات بعد اعادة بدء التطبيق"
+    },
+    {
+      "name": "setting",
+      "value": "المحددات"
+    },
+    {
+      "name": "share",
+      "value": "مشاركة"
+    },
+    {
+      "name": "share_limit",
+      "value": "لا يمكن مشاركة أكثر من 100 ملف"
+    },
+    {
+      "name": "showHeaders",
+      "value": "عرض العناوين"
+    },
+    {
+      "name": "show_bookmarks_pref",
+      "value": "المفضلات"
+    },
+    {
+      "name": "show_bookmarks_pref_title",
+      "value": "إظهار الإشارات المرجعية"
+    },
+    {
+      "name": "show_dividers",
+      "value": "عرض وحدة التقسيم"
+    },
+    {
+      "name": "show_quick_access_pref",
+      "value": "اتصالات سريعة"
+    },
+    {
+      "name": "show_quick_access_pref_title",
+      "value": "عرض امكانيات التوصل السريعة"
+    },
+    {
+      "name": "show_system_apps",
+      "value": "عرض تطبيقات النظام"
+    },
+    {
+      "name": "sidebar_bookmarks_title",
+      "value": "الإشارات المرجعية للشريط الجانبي"
+    },
+    {
+      "name": "sidebar_preferences",
+      "value": "الشريط الجانبي"
+    },
+    {
+      "name": "sidebar_quick_access_title",
+      "value": "التوصل السريع للشريط الجانبي"
+    },
+    {
+      "name": "signin_with_google_title",
+      "value": "المصادقة لاستخدام Google Drive™"
+    },
+    {
+      "name": "size",
+      "value": "حجم الحافظة"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "الحجم"
+    },
+    {
+      "name": "size_pref",
+      "value": "عرض الأحجام"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "عرض حجم الملفات وعدد البنود في الحافظات"
+    },
+    {
+      "name": "skip",
+      "value": "تخطي"
+    },
+    {
+      "name": "smb_connection",
+      "value": "وصلة SMB"
+    },
+    {
+      "name": "smb_launch_error",
+      "value": "يجب أن تقوم بنسخ هذا الملف الى مساحة التخزين ليتم فتحه"
+    },
+    {
+      "name": "smb_share",
+      "value": "مسار مشترك"
+    },
+    {
+      "name": "software",
+      "value": "البرامجيات"
+    },
+    {
+      "name": "some_files_failed_invalid_operation",
+      "value": "بعض الملفات فشلت بسبب عملية غير صحيحة"
+    },
+    {
+      "name": "sorry_string",
+      "value": "آسف ، ذلك ما كان يجب أن يحدث."
+    },
+    {
+      "name": "sort",
+      "value": "فرز"
+    },
+    {
+      "name": "sort_by",
+      "value": "فرز بواسطة"
+    },
+    {
+      "name": "sort_name",
+      "value": "الاسم"
+    },
+    {
+      "name": "sort_only_this",
+      "value": "هذه الحافظة فقط"
+    },
+    {
+      "name": "sort_size",
+      "value": "الحجم"
+    },
+    {
+      "name": "source_summary",
+      "value": "مشاهدة كود المصدر الخاص بنا على GitHub"
+    },
+    {
+      "name": "source_title",
+      "value": "كود المصدر"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "الإسبانية"
+    },
+    {
+      "name": "ssh_authentication_failure_key",
+      "value": "فشل في بدء الاتصال : لا يمكن التوثيق باستخدام اسم المستخدم المحدد والمفتاح الخاص."
+    },
+    {
+      "name": "ssh_authentication_failure_password",
+      "value": "فشل في بدء الاتصال : لا يمكن التوثيق باستخدام اسم المستخدم وكلمة السرية المحددة."
+    },
+    {
+      "name": "ssh_connect_failed",
+      "value": "غير قادر على الاتصال ب ـ %1$s: %2$d : %3$s"
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_message",
+      "value": "انه من الممكن ان احدهم يقوم بشيء غير مذنب ! \\n \\nشخ يمكن ان يكون التنصت عليك الآن (الرجل في هجوم منتصف الطريق) !  ومن الممكن أيضا أن يكون قد تم تغيير مفتاح النظام الرئيسي.  لا تتوافق بصمة المفتاح العام التي تم ارسالها بواسطة النظام الرئيسي عن بعد مع البصمات التي تم تخزينها في أمازي. \\n \\n رجاء الاتصال بموجه النظام الخاص بك أو اعداد وصلة جديدة للاستمرار في الاتصال بوحدة الخدمة."
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_prompt",
+      "value": "انه من الممكن ان احدهم يقوم بشيء غير مذنب ! \\n \\nشخ يمكن ان يكون التنصت عليك الآن (الرجل في هجوم منتصف الطريق) !  ومن الممكن أيضا أن يكون قد تم تغيير مفتاح النظام الرئيسي.  لا تتوافق بصمة الاصبع للمفتاح العام الذي تم ارساله بواسطة النظام الرئيسي عن بعد مع البصمات التي تم تخزينها في أمازي. \\n \\n يمكنك الاستمرار في تعديل بصمة النظام الرئيسي أو الغاء تعديل محددات وصلة SSH."
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_title",
+      "value": "تحذير : تم تغيير تعريف النظام الرئيسي عن بعد !"
+    },
+    {
+      "name": "ssh_host_key_verification_prompt",
+      "value": "لا يمكن تحديد صحة النظام الرئيسي %1$s. \\n\\n %2$s بصمة المفتاح هي %3$s. \\n \\npth  نعم  لتأكيد الهوية ؛ خلاف ذلك ، برجاء النقر لا."
+    },
+    {
+      "name": "ssh_host_key_verification_prompt_title",
+      "value": "التحقق من النظام الرئيسي"
+    },
+    {
+      "name": "ssh_key_invalid_passphrase",
+      "value": "عبارة passphrase غير صحيحة."
+    },
+    {
+      "name": "ssh_key_prompt_passphrase",
+      "value": "برجاء ادخال passphrase key."
+    },
+    {
+      "name": "ssh_pem_key_parse_error",
+      "value": "غير قادر على قراءة PEM المحدد : %s"
+    },
+    {
+      "name": "ssh_select_pem",
+      "value": "تحديد المفتاح الخاص للتوثيق"
+    },
+    {
+      "name": "ssh_select_pem_button",
+      "value": "مفتاح SSH الخاص"
+    },
+    {
+      "name": "start_ftp",
+      "value": "بدء"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "! توقف"
+    },
+    {
+      "name": "stopping",
+      "value": "ايقاف"
+    },
+    {
+      "name": "storage_internal",
+      "value": "وحدة تخزين داخلية"
+    },
+    {
+      "name": "storage_sd_card",
+      "value": "كارت SD"
+    },
+    {
+      "name": "subject",
+      "value": "الموضوع"
+    },
+    {
+      "name": "support_development",
+      "value": "تطوير الدعم"
+    },
+    {
+      "name": "system_apps",
+      "value": "System apps"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "التاميل"
+    },
+    {
+      "name": "text",
+      "value": "النص"
+    },
+    {
+      "name": "text_editor",
+      "value": "محددات برنامج تحرير النص"
+    },
+    {
+      "name": "textreader",
+      "value": "وحدة قراءة النص"
+    },
+    {
+      "name": "theme",
+      "value": "النسق الرئيسي"
+    },
+    {
+      "name": "thumb",
+      "value": "عرض الصور المصغرة"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "عرض الصور المصغرة لتطبيقات وصور التطبيقات"
+    },
+    {
+      "name": "time_remaining",
+      "value": "الوقت المتبقي"
+    },
+    {
+      "name": "title",
+      "value": "العنوان"
+    },
+    {
+      "name": "total",
+      "value": "المجموع :"
+    },
+    {
+      "name": "transfer_rate",
+      "value": "معدل النقل"
+    },
+    {
+      "name": "translate_summary",
+      "value": "ترجمة العز باللغة الخاصة بك"
+    },
+    {
+      "name": "translate_title",
+      "value": "ترجمة"
+    },
+    {
+      "name": "translators",
+      "value": "المترجمون"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "تركي"
+    },
+    {
+      "name": "type",
+      "value": "النوع"
+    },
+    {
+      "name": "typeable_paths_summary",
+      "value": "Long اضغط على خط المسار لادخال مسار مهيأ"
+    },
+    {
+      "name": "typeable_paths_title",
+      "value": "مسارات مخصصة"
+    },
+    {
+      "name": "ui",
+      "value": "واجهة التعامل"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "أوكراني"
+    },
+    {
+      "name": "unin_system_apk",
+      "value": "هذا تطبيق للنظام ، حذفه قد يؤدي الى عدم استقرار النظام. \\nProcessed ؟"
+    },
+    {
+      "name": "uninstall",
+      "value": "الغاء تركيب"
+    },
+    {
+      "name": "unknown",
+      "value": "غير معروف"
+    },
+    {
+      "name": "unknown_error",
+      "value": "أوبس ، حدث شيء خاطئ !"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "تغييرات لم يتم حفظها"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "لديك تغييرات لم يتم حفظها ، هل ترغب في حفظها قبل الخروج ؟"
+    },
+    {
+      "name": "update",
+      "value": "تعديل"
+    },
+    {
+      "name": "update_host_key",
+      "value": "تعديل مفتاح النظام الرئيسي"
+    },
+    {
+      "name": "used",
+      "value": "مساحة مستخدمة"
+    },
+    {
+      "name": "used_by_others",
+      "value": "مستخدم من قبل آخرين"
+    },
+    {
+      "name": "user_apps",
+      "value": "Third Party Apps"
+    },
+    {
+      "name": "username",
+      "value": "اسم المستخدم"
+    },
+    {
+      "name": "version",
+      "value": "النسخة"
+    },
+    {
+      "name": "video",
+      "value": "فيديو"
+    },
+    {
+      "name": "videos",
+      "value": "Videos"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "فيتنامي"
+    },
+    {
+      "name": "view",
+      "value": "مشاهدة"
+    },
+    {
+      "name": "waiting_content",
+      "value": "جاري انتظار اتمام العملية"
+    },
+    {
+      "name": "waiting_title",
+      "value": "انتظار"
+    },
+    {
+      "name": "want_help",
+      "value": "أتحتاج للمساعدة ؟"
+    },
+    {
+      "name": "warning",
+      "value": "تحذير"
+    },
+    {
+      "name": "warning_confirm",
+      "value": "! حصلت عليه"
+    },
+    {
+      "name": "warning_never_show",
+      "value": "لا تقوم بالمعلومات مرة أخرى"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "المعلومات :"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "ما حدث :"
+    },
+    {
+      "name": "width",
+      "value": "العرض"
+    },
+    {
+      "name": "written",
+      "value": "تم كتابته"
+    },
+    {
+      "name": "xda_summary",
+      "value": "Q&A ، مساعدة & تصحيح الأخطاء"
+    },
+    {
+      "name": "xda_title",
+      "value": "منتدى المطورين XDA"
+    },
+    {
+      "name": "year",
+      "value": "السنة"
+    },
+    {
+      "name": "yes",
+      "value": "نعم."
+    },
+    {
+      "name": "your_comment",
+      "value": "التعقيب الخاص بك (باللغة الانجليزية) :"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "برنامج مشاهدة Zip"
+    }
+  ]
+}

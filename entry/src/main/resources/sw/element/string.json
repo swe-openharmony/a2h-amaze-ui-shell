@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "cancel",
+      "value": "GHAIRI"
+    },
+    {
+      "name": "color_title",
+      "value": "Rangi"
+    },
+    {
+      "name": "delete",
+      "value": "Futa"
+    },
+    {
+      "name": "details",
+      "value": "Maelezo"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Thibitisha"
+    },
+    {
+      "name": "duration",
+      "value": "Muda"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Muda ambao Kilango cha kamera kinakaa wazi"
+    },
+    {
+      "name": "focal_length",
+      "value": "Urefu wa Lengo"
+    },
+    {
+      "name": "height",
+      "value": "Urefu"
+    },
+    {
+      "name": "information",
+      "value": "Habari"
+    },
+    {
+      "name": "path",
+      "value": "Njia"
+    },
+    {
+      "name": "save",
+      "value": "Hifadhi"
+    },
+    {
+      "name": "share",
+      "value": "Shiriki"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Ukubwa"
+    },
+    {
+      "name": "sort_size",
+      "value": "Ukubwa"
+    },
+    {
+      "name": "version",
+      "value": "Toleo"
+    },
+    {
+      "name": "width",
+      "value": "Upana"
+    }
+  ]
+}

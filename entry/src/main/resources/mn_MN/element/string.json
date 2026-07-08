@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "cancel",
+      "value": "Цуцлах"
+    },
+    {
+      "name": "color_title",
+      "value": "Өнгө"
+    },
+    {
+      "name": "delete",
+      "value": "Устгах"
+    },
+    {
+      "name": "details",
+      "value": "Дэлгэрэнгүй"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Бататгах"
+    },
+    {
+      "name": "duration",
+      "value": "Үргэлжлэх хугацаа"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Буулгалтын хугацаа"
+    },
+    {
+      "name": "focal_length",
+      "value": "Фокусын зай"
+    },
+    {
+      "name": "height",
+      "value": "Өндөр"
+    },
+    {
+      "name": "information",
+      "value": "Мэдээлэл"
+    },
+    {
+      "name": "path",
+      "value": "Зам"
+    },
+    {
+      "name": "save",
+      "value": "Хадгалах"
+    },
+    {
+      "name": "share",
+      "value": "Хуваалцах"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Хэмжээ"
+    },
+    {
+      "name": "sort_size",
+      "value": "Хэмжээ"
+    },
+    {
+      "name": "version",
+      "value": "Хувилбар"
+    },
+    {
+      "name": "width",
+      "value": "Өргөн"
+    }
+  ]
+}

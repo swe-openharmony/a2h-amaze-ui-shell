@@ -1,0 +1,34 @@
+{
+  "plural": [
+    {
+      "name": "bytes",
+      "value": [
+        {
+          "quantity": "one",
+          "value": "@string/byte_singular"
+        },
+        {
+          "quantity": "other",
+          "value": "@string/bytes"
+        }
+      ]
+    },
+    {
+      "name": "items",
+      "value": [
+        {
+          "quantity": "zero",
+          "value": "@string/no_items"
+        },
+        {
+          "quantity": "one",
+          "value": "@string/item"
+        },
+        {
+          "quantity": "other",
+          "value": "@string/items"
+        }
+      ]
+    }
+  ]
+}

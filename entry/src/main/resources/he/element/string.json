@@ -1,0 +1,2792 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "על אודות"
+    },
+    {
+      "name": "about_amaze",
+      "value": "מנהל קבצים עם עיצוב Material ל־Android"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "על מנהל הקבצים Amaze"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "הגדרת הצבע המשני, שיהיה הצבע של כפתור הפעולה המרחף ורכיבים קטנים נוספים במנשק"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "צבע הדגשה"
+    },
+    {
+      "name": "accessed",
+      "value": "נצפה"
+    },
+    {
+      "name": "add_item",
+      "value": "הוספת פריט"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "הוספת קיצור דרך"
+    },
+    {
+      "name": "add_shortcut_not_supported_by_launcher",
+      "value": "למסך ההפעלה שלך אין תמיכה ביצירת קיצורי דרך."
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "הוספה לסימניות"
+    },
+    {
+      "name": "advanced",
+      "value": "מתקדם"
+    },
+    {
+      "name": "advanced_search",
+      "value": "חיפוש מתקדם"
+    },
+    {
+      "name": "album",
+      "value": "אלבום"
+    },
+    {
+      "name": "always",
+      "value": "תמיד"
+    },
+    {
+      "name": "amaze_audio_player",
+      "value": "נגן המוזיקה של Amaze"
+    },
+    {
+      "name": "amaze_utils_installed_alias",
+      "value": "תודה שהתקנת את כלי הקבצים של Amaze. מיד תתבצע העברה ליישומון."
+    },
+    {
+      "name": "analyse_storage",
+      "value": "ניתוח האחסון"
+    },
+    {
+      "name": "android_data_prompt_saf_access",
+      "value": "מאז Android 10, מערכת Android כופה הגבלות על תיקיות מסוימות ויש לגשת אליהן עם תשתית הגישה לאחסון.\\n\\nנא לאפשר ל־Amaze גישה לתיקייה ממנהל הקבצים של המערכת על ידי לחיצה על „לאפשר גישה”."
+    },
+    {
+      "name": "android_data_prompt_saf_access_title",
+      "value": "הענקת גישת לתשתית גישה לאחסון"
+    },
+    {
+      "name": "anonymous",
+      "value": "אלמוני"
+    },
+    {
+      "name": "aperture_value",
+      "value": "ערך צמצם"
+    },
+    {
+      "name": "apks",
+      "value": "חבילות APK"
+    },
+    {
+      "name": "app_name",
+      "value": "מנהל הקבצים Amaze"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "היישומון/מנשק המשתמש קרס"
+    },
+    {
+      "name": "appearance",
+      "value": "מראה"
+    },
+    {
+      "name": "appearance_summary",
+      "value": "התאמת ערכת העיצוב, הצבעים והמראה של מנהל הקבצים"
+    },
+    {
+      "name": "apps",
+      "value": "מנהל היישומונים"
+    },
+    {
+      "name": "archive",
+      "value": "ארכיון"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "תיקייה לחילוץ מארכיון"
+    },
+    {
+      "name": "archive_password_prompt",
+      "value": "נא להקליד את הסיסמה של הארכיון:"
+    },
+    {
+      "name": "archive_summary",
+      "value": "קובצי ארכיון יחולצו לתיקייה זו. ערך בררת המחדל היא התיקייה בה נמצא הארכיון."
+    },
+    {
+      "name": "archive_text",
+      "value": "זהו ארכיון. איזו פעולה לבצע\\?"
+    },
+    {
+      "name": "archive_unsupported_or_corrupt",
+      "value": "לא ניתן לפתוח את הארכיון „%s”. או שאין אפשרות לפתוח את הארכיון או שהוא פגום."
+    },
+    {
+      "name": "artist",
+      "value": "אומן"
+    },
+    {
+      "name": "ascending",
+      "value": "בסדר עולה"
+    },
+    {
+      "name": "audio",
+      "value": "שמע"
+    },
+    {
+      "name": "authenticate_password",
+      "value": "נא להקליד סיסמה"
+    },
+    {
+      "name": "author",
+      "value": "מחבר"
+    },
+    {
+      "name": "authors",
+      "value": "מחברים"
+    },
+    {
+      "name": "back_summary",
+      "value": "מפעיל קיצור לחזרה אחורה בראש כל תיקייה"
+    },
+    {
+      "name": "back_title",
+      "value": "ניווט אחורה"
+    },
+    {
+      "name": "backup",
+      "value": "גיבוי"
+    },
+    {
+      "name": "backup_summary",
+      "value": "ייצוא/ייבוא הגדרות"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "באסקית"
+    },
+    {
+      "name": "behavior",
+      "value": "התנהגות"
+    },
+    {
+      "name": "behavior_summary",
+      "value": "שינוי התנהגויות כגון חיפוש מתקדם והאם לפתוח קבצים כמשימה חדשה"
+    },
+    {
+      "name": "bitrate",
+      "value": "קצב סיביות"
+    },
+    {
+      "name": "black",
+      "value": "שחור (ל־OLED)"
+    },
+    {
+      "name": "blue",
+      "value": "כחול"
+    },
+    {
+      "name": "bluetooth",
+      "value": "Bluetooth"
+    },
+    {
+      "name": "bookmark_exists",
+      "value": "הסימנייה קיימת"
+    },
+    {
+      "name": "bookmark_lost",
+      "value": "הסימניה לא נמצאה, נוצרת מחדש…"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "נוספה סימנייה"
+    },
+    {
+      "name": "byte_singular",
+      "value": "בית"
+    },
+    {
+      "name": "bytes",
+      "value": "בתים"
+    },
+    {
+      "name": "calculating",
+      "value": "מחשב"
+    },
+    {
+      "name": "camera_brand",
+      "value": "יצרן מצלמה"
+    },
+    {
+      "name": "camera_model",
+      "value": "דגם מצלמה"
+    },
+    {
+      "name": "cancel",
+      "value": "ביטול"
+    },
+    {
+      "name": "cancel_recommended",
+      "value": "ביטול (עדיף)"
+    },
+    {
+      "name": "cancelled",
+      "value": "ביטול"
+    },
+    {
+      "name": "cannot_delete_file",
+      "value": "לא ניתן למחוק קובץ"
+    },
+    {
+      "name": "cannot_delete_file_with_reason",
+      "value": "לא ניתן למחוק קובץ - %s"
+    },
+    {
+      "name": "cannot_extract_archive",
+      "value": "לא ניתן לחלץ את הארכיון „%s”: %s"
+    },
+    {
+      "name": "cannot_overwrite",
+      "value": "לא ניתן לשכתב על קובץ."
+    },
+    {
+      "name": "cannot_read_directory",
+      "value": "לא ניתן לקרוא את התיקייה %s - %s"
+    },
+    {
+      "name": "cannot_rename_file",
+      "value": "לא ניתן לשנות את שם הקובץ %s - %s"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s לא יכול להיות ריק"
+    },
+    {
+      "name": "change",
+      "value": "החלפה"
+    },
+    {
+      "name": "changelog",
+      "value": "יומן שינויים"
+    },
+    {
+      "name": "channel_description_ftp",
+      "value": "התראות שרת ה־FTP של מנהל הקבצים Amaze"
+    },
+    {
+      "name": "channel_description_normal",
+      "value": "ההתראות של מנהל הקבצים Amaze"
+    },
+    {
+      "name": "channel_name_ftp",
+      "value": "שרת FTP של Amaze"
+    },
+    {
+      "name": "channel_name_normal",
+      "value": "התראות Amaze"
+    },
+    {
+      "name": "channels",
+      "value": "ערוצים"
+    },
+    {
+      "name": "checking_conflicts",
+      "value": "בדיקת סתירות"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "סינית"
+    },
+    {
+      "name": "choose_color",
+      "value": "בחירת צבע"
+    },
+    {
+      "name": "choose_different_app",
+      "value": "לבחור ביישומון אחר"
+    },
+    {
+      "name": "choose_folder",
+      "value": "לבחור בתיקייה זו"
+    },
+    {
+      "name": "choose_operation",
+      "value": "נא לבחור פעולה לביצוע"
+    },
+    {
+      "name": "circular_icons",
+      "value": "להשתמש בסמלים עגולים"
+    },
+    {
+      "name": "circular_images",
+      "value": "להשתמש בסמלים עגולים עבור תמונות וסרטונים"
+    },
+    {
+      "name": "clear",
+      "value": "ניקוי"
+    },
+    {
+      "name": "clear_open_file",
+      "value": "פינוי המטמון"
+    },
+    {
+      "name": "clear_open_file_summary",
+      "value": "מפנה את יישומוני בררת המחדל שנבחרו לפתיחת סוג הקובץ"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "הנתיב הועתק ללוח הגזירים"
+    },
+    {
+      "name": "close",
+      "value": "סגירה"
+    },
+    {
+      "name": "cloud_box",
+      "value": "Box"
+    },
+    {
+      "name": "cloud_connection",
+      "value": "חיבור לענן"
+    },
+    {
+      "name": "cloud_connection_credentials_cleared",
+      "value": "פרטי הגישה לחיבור לענן נמחקו"
+    },
+    {
+      "name": "cloud_connection_credentials_cleared_msg",
+      "value": "לרוע המזל, לא הצלחנו להסב את פרטי חיבור הגישה שלך לענן לתבנית מסד הנתונים החדשה ונאלצנו להסיר אותם מהיישומון. נא ליצור חיבור לענן שוב."
+    },
+    {
+      "name": "cloud_connection_new",
+      "value": "חיבור חדש לענן"
+    },
+    {
+      "name": "cloud_drive",
+      "value": "Google Drive™"
+    },
+    {
+      "name": "cloud_drive_tooltip",
+      "value": "יצירת חיבור ל־Google Drive™‎ לטובת ניהול קבצים מתוך מנהל הקבצים Amaze."
+    },
+    {
+      "name": "cloud_dropbox",
+      "value": "Dropbox"
+    },
+    {
+      "name": "cloud_error_failed_restart",
+      "value": "טעינת החיבור נכשלה.\\n        נא לפתוח את Amaze Cloud לפחות פעם אחת."
+    },
+    {
+      "name": "cloud_error_fdroid",
+      "value": "אין תמיכה בתוסף Amaze Cloud בגרסת ה־F-Droid. נא להשתמש בגרסת חנות ה־Play של Amaze."
+    },
+    {
+      "name": "cloud_error_plugin",
+      "value": "תוסף הענן של Amaze לא נמצא. נא להוריד מהחנות Play."
+    },
+    {
+      "name": "cloud_fail_authenticate",
+      "value": "האימות נכשל"
+    },
+    {
+      "name": "cloud_get",
+      "value": "הורדת תוסף ענן"
+    },
+    {
+      "name": "cloud_onedrive",
+      "value": "OneDrive"
+    },
+    {
+      "name": "cloud_remove",
+      "value": "להסיר את החיבור לענן\\?"
+    },
+    {
+      "name": "cloud_share_copied",
+      "value": "קישור לצורכי שיתוף הועתק ללוח הגזירים"
+    },
+    {
+      "name": "cloud_token_lost",
+      "value": "האסימון אבד, נא להיכנס שוב"
+    },
+    {
+      "name": "codec",
+      "value": "מפענח"
+    },
+    {
+      "name": "color_summary",
+      "value": "הגדרת צבעים לחלקים שונים במנשק"
+    },
+    {
+      "name": "color_title",
+      "value": "צבע"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "שורת ניווט בצבע"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "האם שורת הניווט היא באותו הצבע כמו ערכת העיצוב"
+    },
+    {
+      "name": "colorize",
+      "value": "צבע סמלים"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "מגדיר צבע סטטי לסמלים. לא יעקוף צבע שהוגדר עבור סמל של ספרייה."
+    },
+    {
+      "name": "comment",
+      "value": "הערה"
+    },
+    {
+      "name": "complete_paste_warning",
+      "value": "נא להשלים קודם את פעולת ההדבקה"
+    },
+    {
+      "name": "compress",
+      "value": "דחיסה"
+    },
+    {
+      "name": "compress_file_suggest_zip_extension",
+      "value": "מומלץ להשתמש ב־„‎.zip” כסיומת לקובץ."
+    },
+    {
+      "name": "compressed",
+      "value": "דחוס"
+    },
+    {
+      "name": "compressed_explorer_fragment_error_open_uri",
+      "value": "שגיאה בפתיחת הכתובת „%s” לקריאה."
+    },
+    {
+      "name": "compressing",
+      "value": "דחיסה"
+    },
+    {
+      "name": "compression_complete",
+      "value": "הדחיסה הושלמה"
+    },
+    {
+      "name": "confirmation",
+      "value": "אישור"
+    },
+    {
+      "name": "connection_exists",
+      "value": "החיבור כבר קיים"
+    },
+    {
+      "name": "connection_name",
+      "value": "שם החיבור"
+    },
+    {
+      "name": "container",
+      "value": "מכולה"
+    },
+    {
+      "name": "contributors",
+      "value": "תורמים"
+    },
+    {
+      "name": "contributors_1_summary",
+      "value": "תרגום"
+    },
+    {
+      "name": "contributors_2_summary",
+      "value": "סמל וכותרות"
+    },
+    {
+      "name": "contributors_3_summary",
+      "value": "מנוע ערכות עיצוב"
+    },
+    {
+      "name": "contributors_4_summary",
+      "value": "צללית מאחורי ה־FAB"
+    },
+    {
+      "name": "contributors_5_summary",
+      "value": "החלפת צבעים בעת מעבר בין לשוניות"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "שרת FTP"
+    },
+    {
+      "name": "contributors_7_summary",
+      "value": "הפעלת מעטפת אינטראקטיבית"
+    },
+    {
+      "name": "copied",
+      "value": "הועתק"
+    },
+    {
+      "name": "copy",
+      "value": "העתקה"
+    },
+    {
+      "name": "copy_complete",
+      "value": "ההעתקה הושלמה"
+    },
+    {
+      "name": "copy_error",
+      "value": "קבצים מסוימים לא %sו בהצלחה"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "העתקת הדוח המעוצב"
+    },
+    {
+      "name": "copy_low_memory",
+      "value": "הזיכרון אוזל, נא לפנות קצת"
+    },
+    {
+      "name": "copying",
+      "value": "העתקה"
+    },
+    {
+      "name": "copyingapks",
+      "value": "%d קובצי APK מועתקים אל %s"
+    },
+    {
+      "name": "crash_report_copied",
+      "value": "דוח הקריסה הועתק ללוח הגזירים"
+    },
+    {
+      "name": "create",
+      "value": "יצירה"
+    },
+    {
+      "name": "create_bookmark",
+      "value": "יצירת סימניה"
+    },
+    {
+      "name": "create_file_suggest_txt_extension",
+      "value": "מומלץ להשתמש ב־„‎.txt” כסיומת לקובץ."
+    },
+    {
+      "name": "create_hidden_file_warn",
+      "value": "הקובץ שנוצר יוסתר מרשימת הקבצים."
+    },
+    {
+      "name": "created",
+      "value": "נוצר"
+    },
+    {
+      "name": "creatingfile",
+      "value": "קובץ נוצר"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "תיקייה נוצרת"
+    },
+    {
+      "name": "creator",
+      "value": "יוצר"
+    },
+    {
+      "name": "crypt_decrypt",
+      "value": "פענוח"
+    },
+    {
+      "name": "crypt_decrypted",
+      "value": "פוענחו"
+    },
+    {
+      "name": "crypt_decrypting",
+      "value": "פענוח"
+    },
+    {
+      "name": "crypt_decryption_fail",
+      "value": "הפענוח נכשל"
+    },
+    {
+      "name": "crypt_decryption_fail_password",
+      "value": "סיסמה שגויה!"
+    },
+    {
+      "name": "crypt_encrypt",
+      "value": "הצפנה"
+    },
+    {
+      "name": "crypt_encrypted",
+      "value": "הוצפנו"
+    },
+    {
+      "name": "crypt_encrypting",
+      "value": "הצפנה"
+    },
+    {
+      "name": "crypt_encryption_fail",
+      "value": "ההצפנה נכשלה"
+    },
+    {
+      "name": "crypt_fingerprint_authenticate",
+      "value": "יש לגעת בחיישן כדי להמשיך"
+    },
+    {
+      "name": "crypt_fingerprint_no_permission",
+      "value": "חסרות הרשאות לטביעת אצבע"
+    },
+    {
+      "name": "crypt_fingerprint_no_security",
+      "value": "לא נמצאה אבטחה בצורת מסך נעילה"
+    },
+    {
+      "name": "crypt_fingerprint_not_enrolled",
+      "value": "לא נרשמה טביעת אצבע"
+    },
+    {
+      "name": "crypt_pref_fingerprint_summary",
+      "value": "שימוש בטביעת אצבע כדי לאמת הצפנה"
+    },
+    {
+      "name": "crypt_pref_fingerprint_title",
+      "value": "טביעת אצבע"
+    },
+    {
+      "name": "crypt_pref_master_password_summary",
+      "value": "כאן ניתן להגדיר סיסמה ראשית להצפנה.\\n        שדה ריק ישבית את הסיסמה."
+    },
+    {
+      "name": "crypt_pref_master_password_title",
+      "value": "סיסמה ראשית"
+    },
+    {
+      "name": "crypt_warning_key",
+      "value": "לתשומת לבך, לאחר שינוי תבנית האבטחה דרך\\n        הגדרות המערכת, לא תהיה לך אפשרות לפענח את התוכן הזה."
+    },
+    {
+      "name": "current_speed",
+      "value": "מהירות נוכחית"
+    },
+    {
+      "name": "custom",
+      "value": "מותאם אישית"
+    },
+    {
+      "name": "customize",
+      "value": "התאמה אישית"
+    },
+    {
+      "name": "cut",
+      "value": "גזירה"
+    },
+    {
+      "name": "dark",
+      "value": "Material כהה"
+    },
+    {
+      "name": "database",
+      "value": "מסד נתונים"
+    },
+    {
+      "name": "databasereader",
+      "value": "קורא מסד נתונים"
+    },
+    {
+      "name": "date",
+      "value": "תאריך"
+    },
+    {
+      "name": "date_modified",
+      "value": "תאריך שינוי אחרון"
+    },
+    {
+      "name": "date_taken",
+      "value": "תאריך צילום"
+    },
+    {
+      "name": "daytime",
+      "value": "לפי שעה ביום"
+    },
+    {
+      "name": "default_string",
+      "value": "ברירת מחדל"
+    },
+    {
+      "name": "delbook",
+      "value": "מחיקת סימנייה"
+    },
+    {
+      "name": "delete",
+      "value": "מחיקה"
+    },
+    {
+      "name": "delete_permanently_checkbox",
+      "value": "מחיקה לצמיתות"
+    },
+    {
+      "name": "deleting",
+      "value": "מחיקה"
+    },
+    {
+      "name": "descending",
+      "value": "בסדר יורד"
+    },
+    {
+      "name": "deselect_all",
+      "value": "ביטול הבחירה"
+    },
+    {
+      "name": "details",
+      "value": "פרטים"
+    },
+    {
+      "name": "developers",
+      "value": "מפתחים"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "תיקיות"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "קבצים"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "מחיקת הפריטים שלהלן תסיר אותם לצמיתות מהמכשיר שלך ולא תהיה אפשרות לשחזר אותם."
+    },
+    {
+      "name": "dialog_delete_temporarily_disclaimer",
+      "value": "למחוק את הפריטים הבאים\\?"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "למחוק את הפריטים לצמיתות\\?"
+    },
+    {
+      "name": "dialog_restore_disclaimer",
+      "value": "לשחזר את הפריטים הבאים\\?"
+    },
+    {
+      "name": "dimensions",
+      "value": "ממדים"
+    },
+    {
+      "name": "directory",
+      "value": "תיקייה"
+    },
+    {
+      "name": "directorysort",
+      "value": "מצב מיון תיקייה"
+    },
+    {
+      "name": "disable",
+      "value": "השבתה"
+    },
+    {
+      "name": "disableIpcSignature",
+      "value": "השבתת בדיקת חתימת IPC (לשרתי SMBv1 מיושנים - מסוכן!)"
+    },
+    {
+      "name": "disable_player_intent_filters",
+      "value": "השבתת מסנני Intent של הנגן"
+    },
+    {
+      "name": "disable_player_intent_filters_summary",
+      "value": "משבית את נגני המדיה המובנים של Amaze בבוחר הקבצים"
+    },
+    {
+      "name": "documents",
+      "value": "מסמכים"
+    },
+    {
+      "name": "docx_viewer",
+      "value": "מציג המסמכים של Amaze"
+    },
+    {
+      "name": "doforall",
+      "value": "לבצע על כל הפריטים"
+    },
+    {
+      "name": "doit",
+      "value": "לבצע"
+    },
+    {
+      "name": "domain",
+      "value": "שם תחום"
+    },
+    {
+      "name": "donate",
+      "value": "תרומה"
+    },
+    {
+      "name": "donation_thanks",
+      "value": "תודה על התרומה, זה מעלה לנו את המוטיבציה! :)"
+    },
+    {
+      "name": "done",
+      "value": "בוצע"
+    },
+    {
+      "name": "download",
+      "value": "הורדה"
+    },
+    {
+      "name": "download_amaze_utils_text",
+      "value": "כעת תתבצע הפניה לכלי עזר לקבצים של Amaze. זה יישומון שלנו בקוד פתוח עם אפשרות לפתוח שמע/וידאו/תמונות/מסמכים, מאפשר לך לנתח קובצי פסולת לפינוי אחסון, העברה מהירה עם Wi-Fi נק׳ לנק׳ ועוד.\\nאפשר לתמוך בנו על ידי התנסות בהם."
+    },
+    {
+      "name": "drag_and_drop_preference",
+      "value": "בחירת העדפת גרירה ועזיבה (ניסיוני)"
+    },
+    {
+      "name": "drag_to_move_copy",
+      "value": "יש לגעת ולגרור כדי להעביר או להעתיק קבצים"
+    },
+    {
+      "name": "drag_to_select",
+      "value": "יש לגעת ולגרור כדי לבחור קבצים"
+    },
+    {
+      "name": "drawer_close",
+      "value": "סגירת תפריט הניווט"
+    },
+    {
+      "name": "drawer_open",
+      "value": "פתיחת תפריט הניווט"
+    },
+    {
+      "name": "duration",
+      "value": "אורך"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "הולנדית"
+    },
+    {
+      "name": "edit",
+      "value": "עריכה"
+    },
+    {
+      "name": "edit_bookmark",
+      "value": "עריכת סימניה"
+    },
+    {
+      "name": "enable_marquee_filename",
+      "value": "הפעלת אפקט גלילה לשמות קבצים"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "הפעלת מצב Root"
+    },
+    {
+      "name": "encrypt_file_must_end_with_aes",
+      "value": "הקבצים המוצפנים חייבים להשתמש בסיומת „‎.aes”."
+    },
+    {
+      "name": "encrypt_file_must_end_with_aze",
+      "value": "מומלץ להשתמש ב־„‎.ace” כסיומת לקובץ."
+    },
+    {
+      "name": "encrypt_file_save_as",
+      "value": "שמירת קובץ מוצפן בשם…"
+    },
+    {
+      "name": "encrypt_folder_save_as",
+      "value": "שמירת תיקייה מוצפנת בשם…"
+    },
+    {
+      "name": "encrypt_option_use_aze",
+      "value": "להשתמש בתצורת הדחיסה של Amaze"
+    },
+    {
+      "name": "encryption_fail_copy",
+      "value": "עדכון רשומת ההצפנה במסד הנתונים נכשל"
+    },
+    {
+      "name": "entername",
+      "value": "להקליד שם"
+    },
+    {
+      "name": "enterpath",
+      "value": "נא להקליד נתיב"
+    },
+    {
+      "name": "enterzipname",
+      "value": "נא להקליד שם Zip"
+    },
+    {
+      "name": "error",
+      "value": "שגיאה"
+    },
+    {
+      "name": "error_listfile_smb",
+      "value": "שגיאה בהצגת קבצים מתוך %s: %s"
+    },
+    {
+      "name": "error_listfile_smb_noipcshare",
+      "value": "שגיאה בהצגת הקבצים תחת %s - כנראה ששרת ה־SMB לא מרשה גישה אלמונית לשיתוף ‎$IPC. אפשר לנסות לציין את שם השיתוף ישירות בהגדרות החיבור."
+    },
+    {
+      "name": "error_listfile_smb_title",
+      "value": "לא ניתן לטעון את רשימת קובצי ה־SMB"
+    },
+    {
+      "name": "error_aescrypt_decrypt_failed",
+      "value": "לא ניתן לפענח את ‚%1$s’: ‚%2$s’"
+    },
+    {
+      "name": "error_archive_cannot_extract",
+      "value": "לא ניתן לחלץ את רשומת הארכיון „%s” אל „%s”."
+    },
+    {
+      "name": "error_archive_password_incorrect",
+      "value": "סיסמת הארכיון שגויה."
+    },
+    {
+      "name": "error_bad_archive_with_info",
+      "value": "„%s” הוא ארכיון פגום.\\nההודעה מהמחלץ היא: „%s”"
+    },
+    {
+      "name": "error_bad_archive_without_info",
+      "value": "הארכיון „%s” פגום"
+    },
+    {
+      "name": "error_cannot_find_way_open",
+      "value": "לא נמצאה דרך לפתוח את הקובץ"
+    },
+    {
+      "name": "error_cannot_get_package_info",
+      "value": "לא ניתן למשוך את פרטי החבילה מהקובץ „%s”.\\nאו שזה לא קובץ APK או שקובץ החבילה פגום."
+    },
+    {
+      "name": "error_cant_decompress_that_file",
+      "value": "לא ניתן לעבד את הארכיון המבוקש"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "פרטים:"
+    },
+    {
+      "name": "error_empty_archive",
+      "value": "„%s” הוא ארכיון ריק."
+    },
+    {
+      "name": "error_fetching_google_play_product_list",
+      "value": "שגיאה במשיכת המוצר מ־Google Play."
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "שגיאה: הקובץ לא נמצא"
+    },
+    {
+      "name": "error_file_too_large",
+      "value": "שגיאה: הקובץ גדול מדי"
+    },
+    {
+      "name": "error_google_play_cannot_update_myself",
+      "value": "עקב אילוץ של מדיניות מצד Google Play, ליישומונים אסור לעדכן את עצמם. נא לעדכן את היישומון דרך Google Play."
+    },
+    {
+      "name": "error_io",
+      "value": "שגיאת קלט/פלט"
+    },
+    {
+      "name": "error_permission_denied",
+      "value": "ההרשאה נדחתה"
+    },
+    {
+      "name": "error_report_button_telegram",
+      "value": "דיווח על השגיאה הזאת בטלגרם"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "דיווח על השגיאה הזאת בדוא״ל"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "נא לבדוק האם הקריסה שלך כבר נדונה היכנשהו."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "דיווח ב־GitHub"
+    },
+    {
+      "name": "error_report_title",
+      "value": "דוח שגיאה"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "דיווח"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "משהו השתבש, סליחה."
+    },
+    {
+      "name": "error_unsupported_or_null_uri",
+      "value": "כתובת שגויה, לא נתמכת או שלא סופקה"
+    },
+    {
+      "name": "error_unsupported_v5_rar",
+      "value": "ארכיון ה־RAR ‏„%s” הוא ארכיון RAR v5 שאינו נתמך."
+    },
+    {
+      "name": "exit",
+      "value": "יציאה"
+    },
+    {
+      "name": "exporting_failed",
+      "value": "הייצוא נכשל: לא ניתן לכתוב את קובץ הגיבוי"
+    },
+    {
+      "name": "exposure_time",
+      "value": "זמן חשיפה"
+    },
+    {
+      "name": "extract",
+      "value": "חילוץ"
+    },
+    {
+      "name": "extract_complete",
+      "value": "החילוץ הושלם"
+    },
+    {
+      "name": "extracted",
+      "value": "חולץ"
+    },
+    {
+      "name": "extracting",
+      "value": "חילוץ"
+    },
+    {
+      "name": "failed_cloud_api_key",
+      "value": "אימות תוסף הענן נכשל"
+    },
+    {
+      "name": "failed_cloud_new_connection",
+      "value": "הוספת חיבור ענן חדש נכשל"
+    },
+    {
+      "name": "failed_install_apk",
+      "value": "ההתקנה נכשלה"
+    },
+    {
+      "name": "failed_no_connection",
+      "value": "טעינת הקבצים נכשלה. נא לבדוק את החיבור שלך"
+    },
+    {
+      "name": "failed_smb_decrypt_path",
+      "value": "טעינת החיבור לשיתוף קבצים ברשת נכשלה"
+    },
+    {
+      "name": "feedback",
+      "value": "שליחת משוב"
+    },
+    {
+      "name": "field_empty",
+      "value": "השדה לא יכול להישאר ריק"
+    },
+    {
+      "name": "file",
+      "value": "קובץ"
+    },
+    {
+      "name": "file_deletion",
+      "value": "מחיקת קבצים"
+    },
+    {
+      "name": "file_empty",
+      "value": "הקובץ ריק"
+    },
+    {
+      "name": "file_read_only",
+      "value": "הקובץ שנפתח הוא לקריאה בלבד."
+    },
+    {
+      "name": "file_too_long",
+      "value": "הקובץ ארוך מדי ולא ניתן לערוך אותו, אפשר לקרוא את %d התווים הראשון בכל זאת"
+    },
+    {
+      "name": "fileexist",
+      "value": "כבר קיים קובץ בשם זה"
+    },
+    {
+      "name": "filename",
+      "value": "שם קובץ"
+    },
+    {
+      "name": "files",
+      "value": "קבצים"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "קבצים למעלה"
+    },
+    {
+      "name": "find",
+      "value": "איתור בעמוד"
+    },
+    {
+      "name": "flash_fired",
+      "value": "האם הופעל מבזק"
+    },
+    {
+      "name": "focal_length",
+      "value": "מרחק מהמוקד"
+    },
+    {
+      "name": "folder",
+      "value": "תיקייה"
+    },
+    {
+      "name": "folderfilecount",
+      "value": "%1$d תיקיות ו־%2$d קבצים"
+    },
+    {
+      "name": "folders",
+      "value": "תיקיות"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "תיקיות למעלה"
+    },
+    {
+      "name": "follow_battery_saver_desc",
+      "value": "אם האפשרות נבחרה ומצב חיסכון בסוללה פעיל, ערכת העיצוב תוחלף לכהה"
+    },
+    {
+      "name": "follow_battery_saver_title",
+      "value": "לאפשר חיסכון בסוללה"
+    },
+    {
+      "name": "format",
+      "value": "סוג"
+    },
+    {
+      "name": "frame_rate",
+      "value": "קצב תמוניות"
+    },
+    {
+      "name": "free",
+      "value": "מקום פנוי"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "צרפתית"
+    },
+    {
+      "name": "ftp",
+      "value": "שרת FTP"
+    },
+    {
+      "name": "ftp_connection",
+      "value": "חיבור FTP"
+    },
+    {
+      "name": "ftp_login",
+      "value": "כניסה"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "נא לוודא שהתחברת לרשת אלחוטית"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "שרת ה־FTP מופעל"
+    },
+    {
+      "name": "ftp_notif_starting_title",
+      "value": "שרת FTP"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "עצירה"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "ב־%s"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "שרת FTP של Amaze פועל"
+    },
+    {
+      "name": "ftp_path",
+      "value": "נתיב משותף"
+    },
+    {
+      "name": "ftp_path_change_error_invalid",
+      "value": "נתיב שגוי"
+    },
+    {
+      "name": "ftp_path_change_success",
+      "value": "נתיב ה־FTP השתנה בהצלחה"
+    },
+    {
+      "name": "ftp_path_hint",
+      "value": "נתיב לשורש התיקייה המיועדת לשיתוף"
+    },
+    {
+      "name": "ftp_port",
+      "value": "פתחה"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "מספר הפתחה שנבחר אינו חוקי"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "פתחת ה־FTP הוחלפה בהצלחה"
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "פתחת FTP"
+    },
+    {
+      "name": "ftp_preference_saf_filesystem",
+      "value": "יש להפעיל את זה לקבלת תמיכה בשימוש באחסון החיצוני של המכשיר בגרסאות חדשות של Android"
+    },
+    {
+      "name": "ftp_preference_saf_filesystem_title",
+      "value": "להשתמש במערכת קבצים מיושנת"
+    },
+    {
+      "name": "ftp_prompt_accept_first_start_saf_access",
+      "value": "מאחר שזו הפעלת שרת ה־FTP הראשונה שלך והאחסון הפנימי של המכשיר שלך משמש כתיקייה משותפת, נא לאפשר ל־Amaze לגשת לאחסון דרך SAF.\\n\\n\\n\\nעליך לבצע זאת פעם אחת בלבד, עד הפעם הבא בה ייבחר מקום חדש לשיתוף."
+    },
+    {
+      "name": "ftp_prompt_accept_first_start_saf_access_title",
+      "value": "הענקת גישת SAF לשרת FTP"
+    },
+    {
+      "name": "ftp_prompt_restart_server",
+      "value": "יהיה עליך להפעיל את שרת ה־FTP מחדש כדי שהשינויים ייכנסו לתוקף."
+    },
+    {
+      "name": "ftp_readonly",
+      "value": "גישה לקריאה בלבד"
+    },
+    {
+      "name": "ftp_seconds",
+      "value": "שניות"
+    },
+    {
+      "name": "ftp_server_fallback_path_reset_prompt",
+      "value": "הנתיב המשותף לשרת ה־FTP אופס לאחסון הפנימי עקב בקשתך לחזור להטמעת מערכת קבצים מיושנת. נא לבחור נתיב חדש באמצעות התפריט משמאל למעלה במקרה הצורך."
+    },
+    {
+      "name": "ftp_server_open_settings",
+      "value": "פתיחת ההגדרות"
+    },
+    {
+      "name": "ftp_server_prompt_connect_to_network",
+      "value": "התחברות לרשת או הפעלת נקודה חמה"
+    },
+    {
+      "name": "ftp_server_reset_notify",
+      "value": "נתיב השיתוף ב־FTP התאפס לאחסון הפנימי"
+    },
+    {
+      "name": "ftp_server_root_filesystem_warning",
+      "value": "הנתיב הנבחר דורש גישת משתמש על (root), שמאפשרת פעולות קריאה/כתיבה בכל מערכת הקבצים של המכשיר שלך ונחשבת מסוכנת - טעויות תמימות עשויות לפגום בפעולת המכשיר שלך!\\n\\nלהמשיך\\?"
+    },
+    {
+      "name": "ftp_server_root_unavailable",
+      "value": "הנתיב הנבחר דורש גישת משתמש על (root). נא להפעיל את סייר משתמש העל בהגדרות אם המכשיר שלך פרוץ (rooted)."
+    },
+    {
+      "name": "ftp_status_no_connection",
+      "value": "אין חיבור"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "לא פועל"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "פועל"
+    },
+    {
+      "name": "ftp_status_secure_connection",
+      "value": "חיבור מאובטח"
+    },
+    {
+      "name": "ftp_status_title",
+      "value": "מצב"
+    },
+    {
+      "name": "ftp_timeout",
+      "value": "זמן לתפוגת ההמתנה"
+    },
+    {
+      "name": "ftps_connection",
+      "value": "FTP על גבי חיבור SSL"
+    },
+    {
+      "name": "ftps_enable_explicit_tls",
+      "value": "TLS מפורש"
+    },
+    {
+      "name": "general",
+      "value": "כללי"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "גרמנית"
+    },
+    {
+      "name": "go",
+      "value": "לגשת"
+    },
+    {
+      "name": "goback",
+      "value": "חזרה אחורה"
+    },
+    {
+      "name": "got_it",
+      "value": "הבנתי!"
+    },
+    {
+      "name": "grant",
+      "value": "הענקה"
+    },
+    {
+      "name": "grant_apkinstall_permission",
+      "value": "היישומון צריך הרשאות כדי להמשיך בהתקנת יישומונים."
+    },
+    {
+      "name": "grant_notification_permission",
+      "value": "Amaze צריך הרשאה להתראות כדי להציג את תהליך הפעולות על קבצים, לרבות לוח שימושי להפעלת/עצירת שרת FTP."
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "מנהל הקבצים זקוק להרשאה כדי לגשת לאחסון המכשיר. בלי הרשאה זו, הוא לא יוכל להמשיך לעבוד ולכן ייסגר."
+    },
+    {
+      "name": "grantfailed",
+      "value": "הרשאה לא הוענקה"
+    },
+    {
+      "name": "grantper",
+      "value": "הענקת הרשאה"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "יוונית"
+    },
+    {
+      "name": "green",
+      "value": "ירוק"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "מספר העמודות בתצוגת רשת"
+    },
+    {
+      "name": "gridview",
+      "value": "תצוגת רשת"
+    },
+    {
+      "name": "hash_sha256",
+      "value": "SHA-256"
+    },
+    {
+      "name": "height",
+      "value": "גובה"
+    },
+    {
+      "name": "hidden",
+      "value": "הצגת תיקיות וקבצים מוסתרים"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "קבצים מוסתרים"
+    },
+    {
+      "name": "hide",
+      "value": "הסתרה"
+    },
+    {
+      "name": "hide_media",
+      "value": "הסתרה מסיירי מדיה"
+    },
+    {
+      "name": "history",
+      "value": "היסטוריה"
+    },
+    {
+      "name": "home",
+      "value": "בית"
+    },
+    {
+      "name": "icon",
+      "value": "סמל"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "הגדרת הצבע לסמלים"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "צבע סמלים"
+    },
+    {
+      "name": "image",
+      "value": "תמונה"
+    },
+    {
+      "name": "image_iso",
+      "value": "מהירות ISO"
+    },
+    {
+      "name": "image_type",
+      "value": "סוג תמונה"
+    },
+    {
+      "name": "image_viewer",
+      "value": "מציג התמונות של Amaze"
+    },
+    {
+      "name": "images",
+      "value": "תמונות"
+    },
+    {
+      "name": "import_failed_for",
+      "value": "הייבוא נכשל עבור:"
+    },
+    {
+      "name": "importing_completed",
+      "value": "הייבוא הושלם"
+    },
+    {
+      "name": "importing_failed",
+      "value": "הייבוא נכשל: לא ניתן לקרוא את קובץ הגיבוי"
+    },
+    {
+      "name": "in_safe",
+      "value": "אין מספיק שטח פנוי"
+    },
+    {
+      "name": "info_labels",
+      "value": "מה:\\\\nבקשה:\\\\nזמן בגריניץ׳:\\\\nחבילה:\\\\nגרסה:\\\\nגרסת מערכת הפעלה:\\\\nמכשיר:\\\\nדגם:\\\\nמוצר:"
+    },
+    {
+      "name": "information",
+      "value": "מידע"
+    },
+    {
+      "name": "install",
+      "value": "התקנה"
+    },
+    {
+      "name": "intellihide_toolbar_summary",
+      "value": "להסתיר את סרגל הכלים אוטומטית בעת גלילה"
+    },
+    {
+      "name": "intellihide_toolbar_title",
+      "value": "סרגל כלים עם הסתרה חכמה"
+    },
+    {
+      "name": "intent_save_as",
+      "value": "שמירה בשם…"
+    },
+    {
+      "name": "invalid",
+      "value": "%s שגוי"
+    },
+    {
+      "name": "invalid_backup_file",
+      "value": "קובץ הגיבוי שגוי"
+    },
+    {
+      "name": "invalid_name",
+      "value": "שם שגוי"
+    },
+    {
+      "name": "ip",
+      "value": "כתובת"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "איטלקית"
+    },
+    {
+      "name": "item",
+      "value": "פריט"
+    },
+    {
+      "name": "items",
+      "value": "פריטים"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "יפנית"
+    },
+    {
+      "name": "just_once",
+      "value": "רק פעם אחת"
+    },
+    {
+      "name": "keywords",
+      "value": "מילות מפתח"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "קוריאנית"
+    },
+    {
+      "name": "lastModified",
+      "value": "שינוי אחרון"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "הצגת מועד השינוי האחרון"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "להציג את התאריך והשעה של השינוי האחרון"
+    },
+    {
+      "name": "legacy_listing_summary",
+      "value": "אם פעיל, ייעשה שימוש בשיטה מיושנת להצגת קבצים"
+    },
+    {
+      "name": "legacy_listing_title",
+      "value": "להשתמש בתצוגה מיושנת למשתמש על (root)"
+    },
+    {
+      "name": "libraries",
+      "value": "ספריות"
+    },
+    {
+      "name": "license",
+      "value": "רישיון"
+    },
+    {
+      "name": "light",
+      "value": "Material בהיר"
+    },
+    {
+      "name": "listview",
+      "value": "תצוגת רשימה"
+    },
+    {
+      "name": "loading",
+      "value": "טעינה…"
+    },
+    {
+      "name": "local_inet_addr_error",
+      "value": "קבלת כתובת החיבור המקומית נכשלה"
+    },
+    {
+      "name": "location",
+      "value": "מיקום"
+    },
+    {
+      "name": "match_content",
+      "value": "התאמה לתוכן החיפוש"
+    },
+    {
+      "name": "match_content_summary",
+      "value": "אם מופעל, הביטוי הרגולרי יותאם לשם הקובץ כולו,\\n        אחרת יוכל להיות רק חלק משם הקובץ."
+    },
+    {
+      "name": "md5",
+      "value": "MD5"
+    },
+    {
+      "name": "medium_text",
+      "value": "טקסט בינוני"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "שונות"
+    },
+    {
+      "name": "modified",
+      "value": "שונה"
+    },
+    {
+      "name": "monofont",
+      "value": "גופן ברוחב אחיד"
+    },
+    {
+      "name": "move",
+      "value": "העברה"
+    },
+    {
+      "name": "moved",
+      "value": "הועבר"
+    },
+    {
+      "name": "moving",
+      "value": "העברה"
+    },
+    {
+      "name": "multiple_invalid_archive_entries",
+      "value": "לא ניתן לחלץ חלק מהקבצים שבארכיון, יכול להיות שהארכיון פגום או שהגיע ממקור זדוני."
+    },
+    {
+      "name": "name",
+      "value": "שם"
+    },
+    {
+      "name": "needs_access",
+      "value": "נדרשת גישה לכתיבה"
+    },
+    {
+      "name": "needs_access_summary",
+      "value": "נא לבחור את תיקיית העל של \\t"
+    },
+    {
+      "name": "needs_access_summary1",
+      "value": "\\tכדי להעניק גישת קריאה לתפעול"
+    },
+    {
+      "name": "newfile",
+      "value": "קובץ חדש"
+    },
+    {
+      "name": "newfolder",
+      "value": "תיקייה חדשה"
+    },
+    {
+      "name": "no",
+      "value": "לא"
+    },
+    {
+      "name": "no_app_found",
+      "value": "לא נמצא יישומון שיכול לפתוח קובץ זה"
+    },
+    {
+      "name": "no_app_found_intent",
+      "value": "לא נמצא יישומון לטיפול ב־Intent הזה. האם מותקן אצלך DocumentsUI\\?"
+    },
+    {
+      "name": "no_applications",
+      "value": "אין יישומים"
+    },
+    {
+      "name": "no_bitcoin_app",
+      "value": "נא להתקין יישומון ארנק ביטקוין"
+    },
+    {
+      "name": "no_device_found",
+      "value": "לא נמצאו מכשירים"
+    },
+    {
+      "name": "no_file_error",
+      "value": "משהו השתבש, אין מה לפתו"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "לא הוחלף אף קובץ"
+    },
+    {
+      "name": "no_files",
+      "value": "אין קבצים"
+    },
+    {
+      "name": "no_items",
+      "value": "אין פריטים"
+    },
+    {
+      "name": "no_name",
+      "value": "לקובץ אמור להיות שם"
+    },
+    {
+      "name": "no_obtainable_info",
+      "value": "אין מידע על הקובץ הזה"
+    },
+    {
+      "name": "none_on_top",
+      "value": "שום דבר למעלה"
+    },
+    {
+      "name": "not_allowed",
+      "value": "אסור"
+    },
+    {
+      "name": "not_finding_what_you_re_looking_for",
+      "value": "לא מצאת את מבוקשך\\?"
+    },
+    {
+      "name": "not_found_enabled_webview",
+      "value": "אין דפדפן זמין"
+    },
+    {
+      "name": "of",
+      "value": "מתוך"
+    },
+    {
+      "name": "ok",
+      "value": "אישור"
+    },
+    {
+      "name": "open",
+      "value": "פתיחה"
+    },
+    {
+      "name": "open_as",
+      "value": "פתיחה בתור"
+    },
+    {
+      "name": "open_file_confirmation",
+      "value": "לפתוח את הקובץ הבא\\?\\n\\nשם:\\n%s\\n\\nמקום:\\n%s\\n\\nגודל:\\n%s\\n\\nMD5:\\n%s\\n\\nSHA256:\\n%s\\n\\n"
+    },
+    {
+      "name": "open_parent",
+      "value": "פתיחת תיקיית ההורה"
+    },
+    {
+      "name": "open_with",
+      "value": "פתיחה באמצעות"
+    },
+    {
+      "name": "open_with_amaze",
+      "value": "פתיחה עם Amaze"
+    },
+    {
+      "name": "operation_fail_following",
+      "value": "הפעולה כשלה על הקבצים הבאים"
+    },
+    {
+      "name": "operation_not_supported",
+      "value": "הפעולה אינה נתמכת"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "הפעולה נכשלה"
+    },
+    {
+      "name": "optimized",
+      "value": "משופר"
+    },
+    {
+      "name": "orange",
+      "value": "כתום"
+    },
+    {
+      "name": "otg_access",
+      "value": "נא לבחור את שורש התקן ה־OTG"
+    },
+    {
+      "name": "other",
+      "value": "אחר"
+    },
+    {
+      "name": "out_of",
+      "value": "מתוך"
+    },
+    {
+      "name": "overwrite",
+      "value": "החלפה"
+    },
+    {
+      "name": "package_installer",
+      "value": "מתקין החבילות"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "זהו קובץ חבילה. איזו פעולה לבצע\\?"
+    },
+    {
+      "name": "pages",
+      "value": "מספר עמודים"
+    },
+    {
+      "name": "paper_size",
+      "value": "גודל עמוד"
+    },
+    {
+      "name": "password",
+      "value": "סיסמה"
+    },
+    {
+      "name": "password_no_match",
+      "value": "הסיסמה אינה תואמת"
+    },
+    {
+      "name": "password_repeat",
+      "value": "חזרה על הסיסמה"
+    },
+    {
+      "name": "password_unchanged",
+      "value": "(ללא שינוי)"
+    },
+    {
+      "name": "paste",
+      "value": "הדבקה"
+    },
+    {
+      "name": "path",
+      "value": "נתיב"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "מזהה ה־PayPal הועתק ללוח הגזירים"
+    },
+    {
+      "name": "pdf_viewer",
+      "value": "מציג המסמכים של Amaze"
+    },
+    {
+      "name": "permission",
+      "value": "הרשאות"
+    },
+    {
+      "name": "permission_execute",
+      "value": "ביצוע"
+    },
+    {
+      "name": "permission_group",
+      "value": "קבוצה"
+    },
+    {
+      "name": "permission_other",
+      "value": "אחר"
+    },
+    {
+      "name": "permission_owner",
+      "value": "בעלים"
+    },
+    {
+      "name": "permission_read",
+      "value": "קריאה"
+    },
+    {
+      "name": "permission_write",
+      "value": "כתיבה"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "בחירת קובץ"
+    },
+    {
+      "name": "pick_files",
+      "value": "יש לבחור קובץ או יותר"
+    },
+    {
+      "name": "play",
+      "value": "חנות Play"
+    },
+    {
+      "name": "please_wait",
+      "value": "נא להמתין"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "פולנית"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "פורטוגלית"
+    },
+    {
+      "name": "pref_export",
+      "value": "ייצוא"
+    },
+    {
+      "name": "pref_export_summary",
+      "value": "הגדרות ייצוא"
+    },
+    {
+      "name": "pref_import",
+      "value": "ייבוא"
+    },
+    {
+      "name": "pref_import_summary",
+      "value": "ייבוא הגדרות"
+    },
+    {
+      "name": "preference_delete_confirmation",
+      "value": "אישור מחיקה"
+    },
+    {
+      "name": "preference_delete_confirmation_summary",
+      "value": "לבקש אישור בטרם מחיקת קבצים. השבתת האפשרות לא מומלצת כלל!"
+    },
+    {
+      "name": "preference_delete_permanently_without_confirmation",
+      "value": "מחיקה לצמיתות (השבתת סל האשפה)"
+    },
+    {
+      "name": "preference_language_dialog_title",
+      "value": "בחירת שפה"
+    },
+    {
+      "name": "preference_language_system_default",
+      "value": "ברירת המחדל של המערכת"
+    },
+    {
+      "name": "preference_language_title",
+      "value": "שפת היישומון"
+    },
+    {
+      "name": "preference_newstack_summary",
+      "value": "מאפשר לך לפתוח קבצים במשימות נפרדות. גם לגשת אליהם ממסך האחרונים של המערכת."
+    },
+    {
+      "name": "preference_newstack_title",
+      "value": "פתיחת קבצים כמשימה חדשה"
+    },
+    {
+      "name": "preselected_configs_title",
+      "value": "תצורות שנבחרו מראש"
+    },
+    {
+      "name": "press_again",
+      "value": "ליציאה נא ללחוץ שוב"
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "הגדר ת הצבע לרכיבים גדולים של המנשק בלשונית השמאלית"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "צבע ראשי (לשונית שמאלית)"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "הגדרת הצבע לרכיבים גדולים של המנשק בלשונית הימנית"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "צבע ראשי (לשונית ימנית)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "מציג התהליכים"
+    },
+    {
+      "name": "processed",
+      "value": "בהליכי עיבוד"
+    },
+    {
+      "name": "processing",
+      "value": "בהליכי עיבוד…"
+    },
+    {
+      "name": "processing_file",
+      "value": "קובץ עובר עיבוד"
+    },
+    {
+      "name": "producer",
+      "value": "מפיק"
+    },
+    {
+      "name": "properties",
+      "value": "מאפיינים"
+    },
+    {
+      "name": "properties_copied_clipboard",
+      "value": "הועתק ללוח הגזירים"
+    },
+    {
+      "name": "protocol_ftps",
+      "value": "FTP מאובטח"
+    },
+    {
+      "name": "question_delete_bookmark",
+      "value": "למחוק סימניה\\?"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "להגדיר נתיב זה כנתיב הבית ללשונית זו\\?"
+    },
+    {
+      "name": "quick",
+      "value": "גישה מהירה"
+    },
+    {
+      "name": "quick_desc",
+      "value": "קבצים אליהם ניגשת לאחרונה דרך Amaze"
+    },
+    {
+      "name": "random",
+      "value": "ערכת עיצוב אקראית"
+    },
+    {
+      "name": "random_summary",
+      "value": "מגדיר צבע ראשי אקראי בהפעלה"
+    },
+    {
+      "name": "rate",
+      "value": "דירוג היישומון"
+    },
+    {
+      "name": "recent",
+      "value": "קבצים אחרונים"
+    },
+    {
+      "name": "recent_desc",
+      "value": "קבצים שנוצרו או נערכו לאחרונה"
+    },
+    {
+      "name": "regular_expression",
+      "value": "ביטוי רגולרי"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "חיפוש באמצעות ביטויים רגולריים בסגנון BASH"
+    },
+    {
+      "name": "remember",
+      "value": "לזכור לפעם הבאה"
+    },
+    {
+      "name": "rename",
+      "value": "שינוי שם"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "עריכת סימנייה"
+    },
+    {
+      "name": "renaming",
+      "value": "שם נערך"
+    },
+    {
+      "name": "reopen_from_source",
+      "value": "אי אפשר, נא לפתוח מהיישומון האחרון"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "דיווח על תקלות או בקשת יכולות חדשות"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "דיווח על תקלות"
+    },
+    {
+      "name": "restore",
+      "value": "שחזור"
+    },
+    {
+      "name": "restore_files",
+      "value": "שחזור קבצים"
+    },
+    {
+      "name": "restoring",
+      "value": "מתבצע שחזור…"
+    },
+    {
+      "name": "results",
+      "value": "תוצאות"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "רומנית"
+    },
+    {
+      "name": "root_directory",
+      "value": "שורש"
+    },
+    {
+      "name": "root_failure",
+      "value": "גישת Root לא הוענקה"
+    },
+    {
+      "name": "root_mode",
+      "value": "סייר Root"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "למכשירים עם גישת Root בלבד. יש לסמן רק אם ברור לך מה מעשיך."
+    },
+    {
+      "name": "root_pref",
+      "value": "הצג הרשאות"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "הצגת הרשאות של קבצים ותיקיות"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "רוסית"
+    },
+    {
+      "name": "saf_otg_explanation",
+      "value": "כעת תתבצע העברה למערכת הקבצים של Android מטעמי אבטחה. נא לבחור את התקן ה־USB מהרשימה שמימין."
+    },
+    {
+      "name": "same_dir_move_error",
+      "value": "תיקיות היעד והמקור אמורות להיות לא חופפות כדי להעביר."
+    },
+    {
+      "name": "same_dir_overwrite_error",
+      "value": "תיקיות היעד והמקור אמורות להיות לא חופפות כדי לשכתב."
+    },
+    {
+      "name": "sample_rate",
+      "value": "קצב דגימת שמע"
+    },
+    {
+      "name": "save",
+      "value": "שמירה"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "בהפעלה, התיקייה האחרונה שהוצגה בכל אחת מהלשוניות תוצג"
+    },
+    {
+      "name": "save_paths",
+      "value": "לזכור נתיב אחרון"
+    },
+    {
+      "name": "saved_multi_files",
+      "value": "%d קבצים נשמרו."
+    },
+    {
+      "name": "saved_single_file",
+      "value": "קובץ נשמר בשם ‚%s’."
+    },
+    {
+      "name": "saving",
+      "value": "שמירה"
+    },
+    {
+      "name": "scp_connection",
+      "value": "חיבור SCP/SFTP"
+    },
+    {
+      "name": "scp_default_path",
+      "value": "נתיב בררת מחדל (רשות)"
+    },
+    {
+      "name": "scp_port",
+      "value": "פתחה"
+    },
+    {
+      "name": "search",
+      "value": "חיפוש"
+    },
+    {
+      "name": "search_hint",
+      "value": "הקלדה לחיפוש…"
+    },
+    {
+      "name": "search_recent",
+      "value": "אחרונים"
+    },
+    {
+      "name": "search_results",
+      "value": "תוצאות החיפוש אחר %s"
+    },
+    {
+      "name": "searching",
+      "value": "בחיפוש אחר %s"
+    },
+    {
+      "name": "searching_devices",
+      "value": "חיפוש התקנים"
+    },
+    {
+      "name": "security",
+      "value": "אבטחה"
+    },
+    {
+      "name": "security_error",
+      "value": "אי אפשר לפתוח את הקובץ באמצעות היישום הזה"
+    },
+    {
+      "name": "security_summary",
+      "value": "הגדרת סיסמה והצפנה"
+    },
+    {
+      "name": "select",
+      "value": "בחירת פריט"
+    },
+    {
+      "name": "select_all",
+      "value": "בחר הכל"
+    },
+    {
+      "name": "select_by_date",
+      "value": "בחירה לפי תאריך"
+    },
+    {
+      "name": "select_by_type",
+      "value": "בחירה לפי סוג"
+    },
+    {
+      "name": "select_color_config",
+      "value": "בחירת הגדרות צבע"
+    },
+    {
+      "name": "select_fill",
+      "value": "בחירת המילוי"
+    },
+    {
+      "name": "select_intent",
+      "value": "בחירה"
+    },
+    {
+      "name": "select_inverse",
+      "value": "היפוך הבחירה"
+    },
+    {
+      "name": "select_save_location",
+      "value": "נא לבחור מיקום לשמירה"
+    },
+    {
+      "name": "select_similar",
+      "value": "בחירת דומים"
+    },
+    {
+      "name": "send_email_to",
+      "value": "שליחת דוא״ל אל"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "סרבית"
+    },
+    {
+      "name": "server_address",
+      "value": "כתובת IP של השרת"
+    },
+    {
+      "name": "service_timer",
+      "value": "זמן שחלף"
+    },
+    {
+      "name": "set",
+      "value": "הגדרה"
+    },
+    {
+      "name": "set_as_home",
+      "value": "הגדרה כבית"
+    },
+    {
+      "name": "set_random",
+      "value": "השינויים ייכנסו לתוקף עם הפעלת היישומון מחדש"
+    },
+    {
+      "name": "setting",
+      "value": "הגדרות"
+    },
+    {
+      "name": "share",
+      "value": "שיתוף"
+    },
+    {
+      "name": "share_limit",
+      "value": "לא ניתן לשתף יותר מ־100 קבצים"
+    },
+    {
+      "name": "share_logs",
+      "value": "שיתוף יומנים"
+    },
+    {
+      "name": "share_logs_summary",
+      "value": "שיתוף היומנים שנאספו דרך דוא״ל / טלגרם"
+    },
+    {
+      "name": "showHeaders",
+      "value": "הצגת כותרות"
+    },
+    {
+      "name": "show_bookmarks_pref",
+      "value": "סימניות"
+    },
+    {
+      "name": "show_bookmarks_pref_title",
+      "value": "הצגת סימניות"
+    },
+    {
+      "name": "show_dividers",
+      "value": "הצגת מפרידים"
+    },
+    {
+      "name": "show_quick_access_pref",
+      "value": "פריטי גישה מהירה"
+    },
+    {
+      "name": "show_quick_access_pref_title",
+      "value": "הצגת פריטי גישה מהירה"
+    },
+    {
+      "name": "show_system_apps",
+      "value": "הצגת יישומי המערכת"
+    },
+    {
+      "name": "sidebar_bookmarks_title",
+      "value": "סימניות בסרגל הצד"
+    },
+    {
+      "name": "sidebar_preferences",
+      "value": "סרגל צד"
+    },
+    {
+      "name": "sidebar_quick_access_title",
+      "value": "גישה מהירה מסרגל הצד"
+    },
+    {
+      "name": "signin_with_google_title",
+      "value": "יש לעבור אימות כדי להשתמש ב־Google Drive™‎"
+    },
+    {
+      "name": "size",
+      "value": "גודל התיקייה"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "גודל"
+    },
+    {
+      "name": "size_pref",
+      "value": "הצגת גדלים"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "הצגת גודל של קבצים, ומספר פריטים בתיקיות"
+    },
+    {
+      "name": "skip",
+      "value": "דילוג"
+    },
+    {
+      "name": "smb_connection",
+      "value": "חיבור SMB"
+    },
+    {
+      "name": "smb_launch_error",
+      "value": "עליך להעתיק קובץ זה לאחסון הפנימי כדי לפתוח אותו"
+    },
+    {
+      "name": "smb_manual_enter_host",
+      "value": "נא למלא שם מארח ידנית"
+    },
+    {
+      "name": "smb_server",
+      "value": "שם מארח שרת SMB"
+    },
+    {
+      "name": "smb_share",
+      "value": "שיתוף נתיב"
+    },
+    {
+      "name": "software",
+      "value": "שם תוכנית"
+    },
+    {
+      "name": "some_files_failed_invalid_operation",
+      "value": "חלק מהקבצים נכשלו עקב פעולה שגויה"
+    },
+    {
+      "name": "sorry_string",
+      "value": "זה לא אמור היה לקרות, סליחה."
+    },
+    {
+      "name": "sort",
+      "value": "מיון"
+    },
+    {
+      "name": "sort_by",
+      "value": "מיון לפי"
+    },
+    {
+      "name": "sort_by_colon",
+      "value": "סידור לפי:"
+    },
+    {
+      "name": "sort_name",
+      "value": "שם"
+    },
+    {
+      "name": "sort_only_this",
+      "value": "רק תיקייה זו"
+    },
+    {
+      "name": "sort_relevance",
+      "value": "קשר:"
+    },
+    {
+      "name": "sort_size",
+      "value": "גודל"
+    },
+    {
+      "name": "source_summary",
+      "value": "ניתן לצפות בקוד המקור שלנו ב־GitHub"
+    },
+    {
+      "name": "source_title",
+      "value": "קוד מקור"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "ספרדית"
+    },
+    {
+      "name": "ssh_authentication_failure_key",
+      "value": "הכניסה נכשלה: לא ניתן לבצע אימות עם שם המשתמש והמפתח הפרטי שסופקו."
+    },
+    {
+      "name": "ssh_authentication_failure_password",
+      "value": "הכניסה נכשלה: לא ניתן לבצע אימות עם שם המשתמש והסיסמה שסופקו."
+    },
+    {
+      "name": "ssh_connect_failed",
+      "value": "לא ניתן להתחבר אל %1$s:%2$d: %3$s"
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_message",
+      "value": "יכול להיות שמשהו פסול מתנהל מאחורי הקלעים!\\n\\nיכול להיות שמדובר בהאזנה שמתרחשת כרגע (סוכן אמצע)! יכול גם להיות שמפתח המארח השתנה ממש כרגע. טביעת האצבע של המפתח הציבורי שנשלח מצד המארח המרוחק אינו תואם לזו שמאוחסנת ב־Amaze.\\n\\nנא ליצור קשר עם הנהלת המערכת או להקים חיבור חדש כדי להמשיך ולהתחבר לשרת."
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_prompt",
+      "value": "יכול להיות שמשהו פסול מתנהל מאחורי הקלעים!\\n\\nיכול להיות שמדובר בהאזנה שמתרחשת כרגע (סוכן אמצע)! יכול גם להיות שמפתח המארח השתנה ממש כרגע. טביעת האצבע של המפתח הציבורי שנשלח מצד המארח המרוחק אינו תואם לזו שמאוחסנת ב־Amaze.\\n\\nניתן להמשיך ולעדכן את טביעת האצבע של השרת או לבטל את עדכון הגדרות חיבור ה־SSH."
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_title",
+      "value": "אזהרה: מזהה המארח המרוחק השתנה!"
+    },
+    {
+      "name": "ssh_host_key_verification_prompt",
+      "value": "לא ניתן לאמת את אמינות המארח ‚%1$s’.\\n\\nטביעת האצבע של המפתח ה־%2$s היא %3$s.\\n\\nנא לגעת בכפתור „כן” כדי לאמת זהות, אחרת יש ללחוץ על „לא”."
+    },
+    {
+      "name": "ssh_host_key_verification_prompt_title",
+      "value": "אימות מארח"
+    },
+    {
+      "name": "ssh_key_invalid_passphrase",
+      "value": "מילת צופן שגויה למפתח."
+    },
+    {
+      "name": "ssh_key_no_decoder_decrypt",
+      "value": "אין מנגנון תקף לפענוח PEM."
+    },
+    {
+      "name": "ssh_key_prompt_passphrase",
+      "value": "נא להקליד את מילת הצופן של המפתח."
+    },
+    {
+      "name": "ssh_pem_key_parse_error",
+      "value": "לא ניתן לקרוא את ה־PEM הנבחר: %s"
+    },
+    {
+      "name": "ssh_select_pem",
+      "value": "נא לבחור מפתח פרטי לאימות"
+    },
+    {
+      "name": "ssh_select_pem_button",
+      "value": "מפתח SSH פרטי"
+    },
+    {
+      "name": "start_ftp",
+      "value": "הפעלה"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "עצירה"
+    },
+    {
+      "name": "stopping",
+      "value": "עצירה"
+    },
+    {
+      "name": "storage_internal",
+      "value": "אחסון פנימי"
+    },
+    {
+      "name": "storage_sd_card",
+      "value": "כרטיס SD"
+    },
+    {
+      "name": "subject",
+      "value": "נושא"
+    },
+    {
+      "name": "support_development",
+      "value": "תמיכה בפיתוח"
+    },
+    {
+      "name": "system",
+      "value": "מערכת (כמו עיצוב המערכת)"
+    },
+    {
+      "name": "system_apps",
+      "value": "יישומוני מערכת"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "טמילית"
+    },
+    {
+      "name": "text",
+      "value": "טקסט"
+    },
+    {
+      "name": "text_editor",
+      "value": "הגדרות עורך טקסט"
+    },
+    {
+      "name": "textreader",
+      "value": "קורא טקסט"
+    },
+    {
+      "name": "theme",
+      "value": "ערכת עיצוב"
+    },
+    {
+      "name": "thumb",
+      "value": "הצגת תמונות ממוזערות"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "הצגת תמונות ממוזערות של יישומונים ותמונות"
+    },
+    {
+      "name": "time_remaining",
+      "value": "זמן שנותר"
+    },
+    {
+      "name": "title",
+      "value": "כותרת"
+    },
+    {
+      "name": "total",
+      "value": "סה״כ:"
+    },
+    {
+      "name": "transfer_rate",
+      "value": "קצב העברה"
+    },
+    {
+      "name": "translate_summary",
+      "value": "תרגום Amaze לשפה שלך"
+    },
+    {
+      "name": "translate_title",
+      "value": "תרגום"
+    },
+    {
+      "name": "translators",
+      "value": "מתרגמים"
+    },
+    {
+      "name": "trash_bin",
+      "value": "סל אשפה"
+    },
+    {
+      "name": "trash_bin_cleanup_interval_summary",
+      "value": "הפרשים בין ניקוי אוטומטי למשנהו (בשעות)"
+    },
+    {
+      "name": "trash_bin_cleanup_interval_title",
+      "value": "הפרש בין פינויים"
+    },
+    {
+      "name": "trash_bin_retention_bytes_summary",
+      "value": "גודל הנתונים המרבי (במגה בתים) שסל האשפה יכול לאחסן"
+    },
+    {
+      "name": "trash_bin_retention_bytes_title",
+      "value": "שימור לפי גודל נתונים"
+    },
+    {
+      "name": "trash_bin_retention_days_summary",
+      "value": "מספר הימים המרבי שסל האשפה יכול לאחסן בו קובץ"
+    },
+    {
+      "name": "trash_bin_retention_days_title",
+      "value": "שימור לפי ימים"
+    },
+    {
+      "name": "trash_bin_retention_num_of_files_summary",
+      "value": "כמות הקבצים המרבית שסל האשפה יכול לאחסן"
+    },
+    {
+      "name": "trash_bin_retention_num_of_files_title",
+      "value": "שימור לפי מספר קבצים"
+    },
+    {
+      "name": "try_deep_search",
+      "value": "התנסות בחיפוש מעמיק!"
+    },
+    {
+      "name": "try_indexed_search",
+      "value": "התנסות בחיפוש במפתח!"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "טורקית"
+    },
+    {
+      "name": "type",
+      "value": "סוג"
+    },
+    {
+      "name": "typeable_paths_summary",
+      "value": "לחיצה ארוכה על הנתיב כדי לשנות אותו"
+    },
+    {
+      "name": "typeable_paths_title",
+      "value": "נתיבים מותאמים אישית"
+    },
+    {
+      "name": "ui",
+      "value": "מנשק"
+    },
+    {
+      "name": "ui_summary",
+      "value": "שליטה במידע שיוצג, התאמת סרגל הצד ושינוי העדפות במנשק המשתמש"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "אוקראינית"
+    },
+    {
+      "name": "unavailable",
+      "value": "לא זמין"
+    },
+    {
+      "name": "unin_system_apk",
+      "value": "זה הוא יישומון מערכת, מחיקתו עלולה לערער את היציבות.\\nלהמשיך\\?"
+    },
+    {
+      "name": "uninstall",
+      "value": "הסרת התקנה"
+    },
+    {
+      "name": "unknown",
+      "value": "לא ידוע"
+    },
+    {
+      "name": "unknown_error",
+      "value": "שוד ושבר, משהו השתבש!"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "שינויים שלא נשמרו"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "קיימים שינויים שלא נשמרו, לשמור אותם טרם היציאה\\?"
+    },
+    {
+      "name": "update",
+      "value": "עדכון"
+    },
+    {
+      "name": "update_host_key",
+      "value": "עדכון מפתח מארח"
+    },
+    {
+      "name": "used",
+      "value": "שטח מנוצל"
+    },
+    {
+      "name": "used_by_others",
+      "value": "בשימוש ע״י אחרים"
+    },
+    {
+      "name": "user_apps",
+      "value": "יישומוני משתמש"
+    },
+    {
+      "name": "username",
+      "value": "שם משתמש"
+    },
+    {
+      "name": "version",
+      "value": "גרסה"
+    },
+    {
+      "name": "video",
+      "value": "וידאו"
+    },
+    {
+      "name": "video_player",
+      "value": "נגן הווידאו של Amaze"
+    },
+    {
+      "name": "videos",
+      "value": "וידאו"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "וייטנאמית"
+    },
+    {
+      "name": "view",
+      "value": "הצגה"
+    },
+    {
+      "name": "waiting_content",
+      "value": "בהמתנה להשלמת הפעילות"
+    },
+    {
+      "name": "waiting_title",
+      "value": "בהמתנה"
+    },
+    {
+      "name": "want_help",
+      "value": "אפשר להציע עזרה?"
+    },
+    {
+      "name": "warning",
+      "value": "אזהרה"
+    },
+    {
+      "name": "warning_confirm",
+      "value": "הבנתי!"
+    },
+    {
+      "name": "warning_never_show",
+      "value": "לא להודיע לי שוב"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "מידע:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "מה קרה:"
+    },
+    {
+      "name": "width",
+      "value": "רוחב"
+    },
+    {
+      "name": "wifip2p",
+      "value": "נקודה לנקודה אלחוטית"
+    },
+    {
+      "name": "written",
+      "value": "נכתב"
+    },
+    {
+      "name": "xda_summary",
+      "value": "שו״ת, עזרה ופתרון בעיות"
+    },
+    {
+      "name": "xda_title",
+      "value": "שרשור בפורום XDA"
+    },
+    {
+      "name": "year",
+      "value": "שנה"
+    },
+    {
+      "name": "yes",
+      "value": "כן"
+    },
+    {
+      "name": "your_comment",
+      "value": "ההערה שלך (באנגלית):"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "מציג Zip"
+    }
+  ]
+}

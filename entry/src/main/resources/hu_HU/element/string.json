@@ -1,0 +1,2712 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Névjegy"
+    },
+    {
+      "name": "about_amaze",
+      "value": "Material design file manager for Android"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "Az Amaze File Manager névjegye"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "Állítsa be a FAB és egyéb kis felhasználói felület elemek színét"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "Kiemelés színe"
+    },
+    {
+      "name": "accessed",
+      "value": "Hozzáférés"
+    },
+    {
+      "name": "add_item",
+      "value": "Elem hozzáadása"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "Parancsikon hozzáadása"
+    },
+    {
+      "name": "add_shortcut_not_supported_by_launcher",
+      "value": "Jelenlegi indítóprogramja nem támogatja a parancsikonok létrehozását."
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "Hozzáadás a könyvjelzőkhöz"
+    },
+    {
+      "name": "advanced",
+      "value": "Speciális"
+    },
+    {
+      "name": "advanced_search",
+      "value": "Részletes keresés"
+    },
+    {
+      "name": "album",
+      "value": "Album"
+    },
+    {
+      "name": "always",
+      "value": "Mindig"
+    },
+    {
+      "name": "amaze_audio_player",
+      "value": "Amaze zenelejátszó"
+    },
+    {
+      "name": "amaze_utils_installed_alias",
+      "value": "Köszönjük, hogy telepítette az Amaze File Utilities programot. Átirányítjuk az alkalmazásba."
+    },
+    {
+      "name": "analyse_storage",
+      "value": "Tárhely elemzése"
+    },
+    {
+      "name": "android_data_prompt_saf_access_title",
+      "value": "SAF-hozzáférés engedélyezése"
+    },
+    {
+      "name": "anonymous",
+      "value": "Névtelen"
+    },
+    {
+      "name": "aperture_value",
+      "value": "Rekeszérték"
+    },
+    {
+      "name": "apks",
+      "value": "Apk fájlok"
+    },
+    {
+      "name": "app_name",
+      "value": "Amaze File Manager"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "Alkalmazás/felhasználói felület összeomlott"
+    },
+    {
+      "name": "appearance",
+      "value": "Megjelenés"
+    },
+    {
+      "name": "appearance_summary",
+      "value": "A fájlkezelő témájának, színeinek és megjelenésének testreszabása"
+    },
+    {
+      "name": "apps",
+      "value": "Alkalmazáskezelő"
+    },
+    {
+      "name": "archive",
+      "value": "Archívum"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "Archívumok kibontási mappája"
+    },
+    {
+      "name": "archive_password_prompt",
+      "value": "Adja meg az archívum jelszavát:"
+    },
+    {
+      "name": "archive_summary",
+      "value": "Az archivált fájlok ebbe a mappába lesznek kicsomagolva. Az lesz az alapértelmezett könyvtár, amelyben az archívum jelen van"
+    },
+    {
+      "name": "archive_text",
+      "value": "Ez egy archívum. Milyen műveletet szeretne végrehajtani\\?"
+    },
+    {
+      "name": "archive_unsupported_or_corrupt",
+      "value": "Nem sikerült megnyitni az archívumot \"%s\". Vagy nem nyitható meg az archívum, vagy sérült."
+    },
+    {
+      "name": "artist",
+      "value": "Előadó"
+    },
+    {
+      "name": "ascending",
+      "value": "Növekvő"
+    },
+    {
+      "name": "audio",
+      "value": "Zene"
+    },
+    {
+      "name": "authenticate_password",
+      "value": "Adja meg a jelszót"
+    },
+    {
+      "name": "author",
+      "value": "Készítő"
+    },
+    {
+      "name": "authors",
+      "value": "Készítők"
+    },
+    {
+      "name": "back_summary",
+      "value": "Egyéni visszalépési lehetőség engedélyezése a lista tetején"
+    },
+    {
+      "name": "back_title",
+      "value": "Visszalépés"
+    },
+    {
+      "name": "backup",
+      "value": "Biztonsági mentés"
+    },
+    {
+      "name": "backup_summary",
+      "value": "Amaze beállítások exportálása/importálása"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "Baszk"
+    },
+    {
+      "name": "behavior",
+      "value": "Viselkedés"
+    },
+    {
+      "name": "behavior_summary",
+      "value": "Módosíthatja az olyan viselkedési módokat, mint a speciális keresés és a fájlok új feladatként való megnyitása."
+    },
+    {
+      "name": "bitrate",
+      "value": "Bitarány"
+    },
+    {
+      "name": "black",
+      "value": "Fekete (OLED kijelzőre)"
+    },
+    {
+      "name": "blue",
+      "value": "Kék"
+    },
+    {
+      "name": "bluetooth",
+      "value": "Bluetooth"
+    },
+    {
+      "name": "bookmark_exists",
+      "value": "Könyvjelző létezik"
+    },
+    {
+      "name": "bookmark_lost",
+      "value": "Nem található könyvjelző, létrehozás újra…"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "Könyvjelzők hozzáadva"
+    },
+    {
+      "name": "byte_singular",
+      "value": "bájt"
+    },
+    {
+      "name": "bytes",
+      "value": "bájt"
+    },
+    {
+      "name": "calculating",
+      "value": "kiszámítás"
+    },
+    {
+      "name": "camera_brand",
+      "value": "Kamera márka"
+    },
+    {
+      "name": "camera_model",
+      "value": "Kamera modell"
+    },
+    {
+      "name": "cancel",
+      "value": "MÉGSE"
+    },
+    {
+      "name": "cancel_recommended",
+      "value": "Mégse (ajánlott)"
+    },
+    {
+      "name": "cancelled",
+      "value": "Megszakítva"
+    },
+    {
+      "name": "cannot_delete_file",
+      "value": "Nem lehet törölni a fájlt"
+    },
+    {
+      "name": "cannot_delete_file_with_reason",
+      "value": "Nem lehet törölni a fájlt - %s"
+    },
+    {
+      "name": "cannot_extract_archive",
+      "value": "Nem lehet kibontani az archívumot \"%s\": %s"
+    },
+    {
+      "name": "cannot_overwrite",
+      "value": "Nem lehet felülírni a fájlt."
+    },
+    {
+      "name": "cannot_read_directory",
+      "value": "Nem lehet olvasni a könyvtárat %s - %s"
+    },
+    {
+      "name": "cannot_rename_file",
+      "value": "Nem lehet átnevezni a fájlt %s - %s"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "A(z) %s nem lehet üres"
+    },
+    {
+      "name": "change",
+      "value": "Módosítás"
+    },
+    {
+      "name": "changelog",
+      "value": "Változáslista"
+    },
+    {
+      "name": "channel_description_ftp",
+      "value": "Amaze File Manager FTP-kiszolgáló értesítései"
+    },
+    {
+      "name": "channel_description_normal",
+      "value": "Amaze File Manager értesítései"
+    },
+    {
+      "name": "channel_name_ftp",
+      "value": "Amaze FTP-kiszolgáló"
+    },
+    {
+      "name": "channel_name_normal",
+      "value": "Amaze értesítések"
+    },
+    {
+      "name": "channels",
+      "value": "Csatornák"
+    },
+    {
+      "name": "checking_conflicts",
+      "value": "Ütközések ellenőrzése"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "Kínai"
+    },
+    {
+      "name": "choose_color",
+      "value": "Válasszon színt"
+    },
+    {
+      "name": "choose_different_app",
+      "value": "Válasszon más alkalmazást"
+    },
+    {
+      "name": "choose_folder",
+      "value": "Válassza ezt a mappát"
+    },
+    {
+      "name": "choose_operation",
+      "value": "Válassza ki a végrehajtandó műveletet"
+    },
+    {
+      "name": "circular_icons",
+      "value": "Kör alakú ikonok használata"
+    },
+    {
+      "name": "circular_images",
+      "value": "Kör alakú ikonok használata a képeknél és videóknál"
+    },
+    {
+      "name": "clear",
+      "value": "Törlés"
+    },
+    {
+      "name": "clear_open_file",
+      "value": "Gyorsítótár törlése"
+    },
+    {
+      "name": "clear_open_file_summary",
+      "value": "A kiválasztott alapértelmezett fájl megnyitási alkalmazások törlése"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "Az útvonal a vágólapra került"
+    },
+    {
+      "name": "close",
+      "value": "Bezárás"
+    },
+    {
+      "name": "cloud_box",
+      "value": "Box"
+    },
+    {
+      "name": "cloud_connection",
+      "value": "Felhő-kapcsolat"
+    },
+    {
+      "name": "cloud_connection_credentials_cleared",
+      "value": "A felhőkapcsolat hitelesítő adatai törölve lettek"
+    },
+    {
+      "name": "cloud_connection_credentials_cleared_msg",
+      "value": "Nem lehetett átköltöztetni a felhőkapcsolat hitelesítő adatait az új adatbázis-sémába, ezért el lettek távolítva az alkalmazásból. Hozza létre újra a felhőkapcsolatot."
+    },
+    {
+      "name": "cloud_connection_new",
+      "value": "Új felhő kapcsolat"
+    },
+    {
+      "name": "cloud_drive",
+      "value": "Google Drive™"
+    },
+    {
+      "name": "cloud_drive_tooltip",
+      "value": "Hozzon létre egy Google Drive™ kapcsolatot a fájlok kezelésére az Amaze fájlkezelőn belül."
+    },
+    {
+      "name": "cloud_dropbox",
+      "value": "Dropbox"
+    },
+    {
+      "name": "cloud_error_failed_restart",
+      "value": "Nem sikerült betölteni a kapcsolatot.\\n        Először nyissa meg az Amaze Cloudot."
+    },
+    {
+      "name": "cloud_error_fdroid",
+      "value": "Az Amaze Cloud bővítmény nem támogatott az F-Droid verzióval. Használja az Amaze Play Store verzióját."
+    },
+    {
+      "name": "cloud_error_plugin",
+      "value": "Az Amaze Cloud bővítmény nem található. Töltse le a Play Áruházból."
+    },
+    {
+      "name": "cloud_fail_authenticate",
+      "value": "Nem hitelesíthető"
+    },
+    {
+      "name": "cloud_get",
+      "value": "Cloud bővítmény letöltése"
+    },
+    {
+      "name": "cloud_onedrive",
+      "value": "OneDrive"
+    },
+    {
+      "name": "cloud_remove",
+      "value": "Megszünteti a felhő kapcsolatot\\?"
+    },
+    {
+      "name": "cloud_share_copied",
+      "value": "A megosztható link a vágólapra lett másolva"
+    },
+    {
+      "name": "cloud_token_lost",
+      "value": "A token elveszett, jelentkezzen be újra"
+    },
+    {
+      "name": "codec",
+      "value": "Kódek"
+    },
+    {
+      "name": "color_summary",
+      "value": "Állítsa be a különböző kezelőfelületi elemek színét"
+    },
+    {
+      "name": "color_title",
+      "value": "Szín"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "Színes navigációs sáv"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "Függetlenül attól, hogy a felszínben a rendszer navigációs sáv színezett"
+    },
+    {
+      "name": "colorize",
+      "value": "Ikonok színezése"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "Statikus ikon színének beállítása. Nem bírálja felül a könyvtár ikon színbeállításait."
+    },
+    {
+      "name": "comment",
+      "value": "Megjegyzés"
+    },
+    {
+      "name": "complete_paste_warning",
+      "value": "Először fejezze be a beillesztési műveletet"
+    },
+    {
+      "name": "compress",
+      "value": "Tömörítés"
+    },
+    {
+      "name": "compress_file_suggest_zip_extension",
+      "value": "Fájlkiterjesztésként javasolt a \".zip\" használata."
+    },
+    {
+      "name": "compressed",
+      "value": "Tömörített"
+    },
+    {
+      "name": "compressed_explorer_fragment_error_open_uri",
+      "value": "Hiba a(z) \"%s\" URI olvasásra történő megnyitásakor."
+    },
+    {
+      "name": "compressing",
+      "value": "Tömörítés"
+    },
+    {
+      "name": "compression_complete",
+      "value": "A tömörítés befejeződött"
+    },
+    {
+      "name": "confirmation",
+      "value": "Megerősítés"
+    },
+    {
+      "name": "connection_exists",
+      "value": "A kapcsolat már létezik"
+    },
+    {
+      "name": "connection_name",
+      "value": "Kapcsolat neve"
+    },
+    {
+      "name": "container",
+      "value": "Tároló"
+    },
+    {
+      "name": "contributors",
+      "value": "Közreműködők"
+    },
+    {
+      "name": "contributors_1_summary",
+      "value": "Fordítás"
+    },
+    {
+      "name": "contributors_2_summary",
+      "value": "Ikon és bannerek"
+    },
+    {
+      "name": "contributors_3_summary",
+      "value": "Téma motor"
+    },
+    {
+      "name": "contributors_4_summary",
+      "value": "Árnyalás a FAB mögött"
+    },
+    {
+      "name": "contributors_5_summary",
+      "value": "Színátmenet a lapok váltásakor"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "FTP-kiszolgáló"
+    },
+    {
+      "name": "contributors_7_summary",
+      "value": "Interaktív héj feltöltése"
+    },
+    {
+      "name": "copied",
+      "value": "másolva"
+    },
+    {
+      "name": "copy",
+      "value": "Másolás"
+    },
+    {
+      "name": "copy_complete",
+      "value": "A másolás befejeződött"
+    },
+    {
+      "name": "copy_error",
+      "value": "Egyes fájlok másolása sikertelen volt: %s"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Formázott jelentés másolása"
+    },
+    {
+      "name": "copy_low_memory",
+      "value": "Elfogy a memória. Szabadítson fel némi memóriát."
+    },
+    {
+      "name": "copying",
+      "value": "Másolás"
+    },
+    {
+      "name": "copyingapks",
+      "value": "%d APK fájl másolása ide: %s"
+    },
+    {
+      "name": "crash_report_copied",
+      "value": "Hibajelentés a vágólapra másolva"
+    },
+    {
+      "name": "create",
+      "value": "LÉTREHOZÁS"
+    },
+    {
+      "name": "create_bookmark",
+      "value": "Könyvjelző létrehozása"
+    },
+    {
+      "name": "create_file_suggest_txt_extension",
+      "value": "Fájlkiterjesztésként ajánlott a \".txt\" használata."
+    },
+    {
+      "name": "create_hidden_file_warn",
+      "value": "A létrehozott fájl rejtve marad a fájlok listájában."
+    },
+    {
+      "name": "created",
+      "value": "Létrehozva"
+    },
+    {
+      "name": "creatingfile",
+      "value": "Fájl létrehozása"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "Mappa létrehozása"
+    },
+    {
+      "name": "creator",
+      "value": "Készítő"
+    },
+    {
+      "name": "crypt_decrypt",
+      "value": "Vsszafejtés"
+    },
+    {
+      "name": "crypt_decrypted",
+      "value": "Visszafejtve"
+    },
+    {
+      "name": "crypt_decrypting",
+      "value": "Visszafejtése"
+    },
+    {
+      "name": "crypt_decryption_fail",
+      "value": "Nem sikerült visszafejteni"
+    },
+    {
+      "name": "crypt_decryption_fail_password",
+      "value": "Hibás jelszó!"
+    },
+    {
+      "name": "crypt_encrypt",
+      "value": "Titkosítás"
+    },
+    {
+      "name": "crypt_encrypted",
+      "value": "Titkosítva"
+    },
+    {
+      "name": "crypt_encrypting",
+      "value": "Titkosítás"
+    },
+    {
+      "name": "crypt_encryption_fail",
+      "value": "Nem sikerült titkosítani"
+    },
+    {
+      "name": "crypt_fingerprint_authenticate",
+      "value": "Érintse meg a szenzort a folytatáshoz"
+    },
+    {
+      "name": "crypt_fingerprint_no_permission",
+      "value": "Az ujjlenyomat-engedélyek hiányoznak"
+    },
+    {
+      "name": "crypt_fingerprint_no_security",
+      "value": "Nincs képernyőzár védelem"
+    },
+    {
+      "name": "crypt_fingerprint_not_enrolled",
+      "value": "Nincs ujjlenyomat megadva"
+    },
+    {
+      "name": "crypt_pref_fingerprint_summary",
+      "value": "Használja az ujjlenyomatot a titkosítás hitelesítéséhez"
+    },
+    {
+      "name": "crypt_pref_fingerprint_title",
+      "value": "Ujjlenyomat"
+    },
+    {
+      "name": "crypt_pref_master_password_summary",
+      "value": "Állítson be egy fő jelszót a titkosításhoz.\\n        Hagyja üresen az eltávolításhoz."
+    },
+    {
+      "name": "crypt_pref_master_password_title",
+      "value": "Fő jelszó"
+    },
+    {
+      "name": "crypt_warning_key",
+      "value": "\"Tájékoztatjuk, hogy a biztonsági beállítások\\n        rendszerbeállításokból történő módosításakor nem fogja tudni visszafejteni ezt a tartalmat."
+    },
+    {
+      "name": "current_speed",
+      "value": "Aktuális sebesség"
+    },
+    {
+      "name": "custom",
+      "value": "Egyéni"
+    },
+    {
+      "name": "customize",
+      "value": "Testreszabás"
+    },
+    {
+      "name": "cut",
+      "value": "Kivágás"
+    },
+    {
+      "name": "dark",
+      "value": "Sötét"
+    },
+    {
+      "name": "database",
+      "value": "Adatbázis"
+    },
+    {
+      "name": "databasereader",
+      "value": "Adatbázis-olvasó"
+    },
+    {
+      "name": "date",
+      "value": "Dátum"
+    },
+    {
+      "name": "date_modified",
+      "value": "Módosítás dátuma"
+    },
+    {
+      "name": "date_taken",
+      "value": "Készítés dátuma"
+    },
+    {
+      "name": "daytime",
+      "value": "Nappali"
+    },
+    {
+      "name": "default_string",
+      "value": "Alapértelmezett"
+    },
+    {
+      "name": "delbook",
+      "value": "Könyvjelző törlése"
+    },
+    {
+      "name": "delete",
+      "value": "Törlés"
+    },
+    {
+      "name": "delete_permanently_checkbox",
+      "value": "Végleges törlés"
+    },
+    {
+      "name": "deleting",
+      "value": "Törlés"
+    },
+    {
+      "name": "descending",
+      "value": "Csökkenő"
+    },
+    {
+      "name": "deselect_all",
+      "value": "Kijelölések megszüntetése"
+    },
+    {
+      "name": "details",
+      "value": "Részletek"
+    },
+    {
+      "name": "developers",
+      "value": "Fejlesztők"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "Könyvtárak"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "fájl"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "Az alábbi elemek törlése véglegesen eltávolítja azokat az eszközről, és nem lehet őket visszaállítani."
+    },
+    {
+      "name": "dialog_delete_temporarily_disclaimer",
+      "value": "Valóban törli a következő elemeket\\?"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Véglegesen törli az elemeket\\?"
+    },
+    {
+      "name": "dialog_restore_disclaimer",
+      "value": "Valóban visszaállítja a következő elemeket\\?"
+    },
+    {
+      "name": "dimensions",
+      "value": "Méretek"
+    },
+    {
+      "name": "directory",
+      "value": "Könyvtár"
+    },
+    {
+      "name": "directorysort",
+      "value": "Könyvtár rendezési mód"
+    },
+    {
+      "name": "disable",
+      "value": "Letiltás"
+    },
+    {
+      "name": "disableIpcSignature",
+      "value": "IPC-aláírás ellenőrzés letiltása (Örökölt SMBv1-kiszolgálókhoz - UNSAFE!)"
+    },
+    {
+      "name": "disable_player_intent_filters",
+      "value": "Lejátszó intent-szűrőjének letiltása"
+    },
+    {
+      "name": "disable_player_intent_filters_summary",
+      "value": "Az Amaze beépített médialejátszóinak letiltása a fájlválasztóból"
+    },
+    {
+      "name": "documents",
+      "value": "Dokumentumok"
+    },
+    {
+      "name": "docx_viewer",
+      "value": "Amaze dokumentum megtekintő"
+    },
+    {
+      "name": "doforall",
+      "value": "Alkalmazás az összes elemre"
+    },
+    {
+      "name": "doit",
+      "value": "Hajtsa végre"
+    },
+    {
+      "name": "domain",
+      "value": "Tartomány"
+    },
+    {
+      "name": "donate",
+      "value": "Adományozás"
+    },
+    {
+      "name": "donation_thanks",
+      "value": "Köszönjük az adományt, ez motivál minket! (:"
+    },
+    {
+      "name": "done",
+      "value": "Kész"
+    },
+    {
+      "name": "download",
+      "value": "Letöltés"
+    },
+    {
+      "name": "drag_and_drop_preference",
+      "value": "Válassza a fogd és vidd beállítást (Kísérleti)"
+    },
+    {
+      "name": "drag_to_move_copy",
+      "value": "Érintse meg és húzza a fájlok mozgatásához vagy másolásához"
+    },
+    {
+      "name": "drag_to_select",
+      "value": "Érintse meg és húzza a fájlok kiválasztásához"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Navigációs fiók bezárása"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Navigációs fiók megnyitása"
+    },
+    {
+      "name": "duration",
+      "value": "Időtartam"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "Holland"
+    },
+    {
+      "name": "edit",
+      "value": "Szerkesztés"
+    },
+    {
+      "name": "edit_bookmark",
+      "value": "Könyvjelző szerkesztése"
+    },
+    {
+      "name": "enable_marquee_filename",
+      "value": "Fényújság hatás engedélyezése a fájlnevekhez"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "Root-mód engedélyezése"
+    },
+    {
+      "name": "encrypt_file_must_end_with_aes",
+      "value": "A titkosított fájloknak fájlkiterjesztésként az \".aes\" kiterjesztést kell használniuk."
+    },
+    {
+      "name": "encrypt_file_must_end_with_aze",
+      "value": "A titkosított fájloknak az \".aze\" kiterjesztést kell használniuk."
+    },
+    {
+      "name": "encrypt_file_save_as",
+      "value": "Titkosított fájl mentése mint…"
+    },
+    {
+      "name": "encrypt_folder_save_as",
+      "value": "Titkosított mappa mentése mint…"
+    },
+    {
+      "name": "encrypt_option_use_aze",
+      "value": "Amaze titkosítási formátum használata"
+    },
+    {
+      "name": "encryption_fail_copy",
+      "value": "Nem sikerült frissíteni a titkosítási bejegyzést az adatbázisban"
+    },
+    {
+      "name": "entername",
+      "value": "Adja meg a nevet"
+    },
+    {
+      "name": "enterpath",
+      "value": "Adja meg az elérési útvonalat"
+    },
+    {
+      "name": "enterzipname",
+      "value": "Adja meg a zip nevét"
+    },
+    {
+      "name": "error",
+      "value": "Hiba"
+    },
+    {
+      "name": "error_listfile_smb",
+      "value": "Hiba a fájlok listázásako ebben: %s: %s"
+    },
+    {
+      "name": "error_listfile_smb_noipcshare",
+      "value": "Hiba a fájlok listázásakor ebben: %s - valószínűleg az SMB-kiszolgáló nem engedélyezi a névtelen hozzáférést az IPC$-megosztáshoz. Megpróbálhatja a megosztás nevét közvetlenül a kapcsolat beállításaiban megadni."
+    },
+    {
+      "name": "error_listfile_smb_title",
+      "value": "Nem lehet betölteni az SMB fájllistát"
+    },
+    {
+      "name": "error_archive_cannot_extract",
+      "value": "Nem lehet kibontani az archívum bejegyzést \"%s\" - \"%s\"."
+    },
+    {
+      "name": "error_archive_password_incorrect",
+      "value": "Rossz archívum jelszó."
+    },
+    {
+      "name": "error_bad_archive_without_info",
+      "value": "A(z) \"%s\" egy sérült archívum."
+    },
+    {
+      "name": "error_cannot_find_way_open",
+      "value": "Nem találtam módot a fájl megnyitására"
+    },
+    {
+      "name": "error_cannot_get_package_info",
+      "value": "A csomaginformáció nem érhető el a(z) \"%s\" fájlból. Vagy a megadott fájl nem APK, vagy a csomagfájl hibás."
+    },
+    {
+      "name": "error_cant_decompress_that_file",
+      "value": "Nem lehet feldolgozni a kért archívumot"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Részletek:"
+    },
+    {
+      "name": "error_empty_archive",
+      "value": "A(z) \"%s\" egy üres archívum."
+    },
+    {
+      "name": "error_fetching_google_play_product_list",
+      "value": "Hiba történt a Google Play terméklista lekérésekor."
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "Hiba: A fájl nem található"
+    },
+    {
+      "name": "error_file_too_large",
+      "value": "Hiba: A fájl túl nagy"
+    },
+    {
+      "name": "error_google_play_cannot_update_myself",
+      "value": "A Google Play irányelvei szerint az alkalmazások nem frissíthetik magukat önállóan. Frissítse az alkalmazást a Google Play-ről."
+    },
+    {
+      "name": "error_io",
+      "value": "I/O hiba"
+    },
+    {
+      "name": "error_permission_denied",
+      "value": "Hozzáférés megtagadva"
+    },
+    {
+      "name": "error_report_button_telegram",
+      "value": "Hiba jelentése Telegramon keresztül"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Hiba jelentése e-mailben"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Ellenőrizze, hogy nem létezik-e már egy olyan probléma, amely az Ön összeomlási problémáját tárgyalja."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Jelentés a GitHubon"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Hibajelentés"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Jelentés"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Valami elromlott."
+    },
+    {
+      "name": "error_unsupported_or_null_uri",
+      "value": "Érvénytelen, nem támogatott vagy nincs URI megadva"
+    },
+    {
+      "name": "error_unsupported_v5_rar",
+      "value": "A(z) \"%s\" RAR egy nem támogatott RAR V5 archívum."
+    },
+    {
+      "name": "exit",
+      "value": "Kilépés"
+    },
+    {
+      "name": "exporting_failed",
+      "value": "Az exportálás sikertelen: nem sikerült írni a biztonsági mentési fájlt"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Expozíciós idő"
+    },
+    {
+      "name": "extract",
+      "value": "Kibontás"
+    },
+    {
+      "name": "extract_complete",
+      "value": "A kibontás befejeződött"
+    },
+    {
+      "name": "extracted",
+      "value": "Kicsomagolt"
+    },
+    {
+      "name": "extracting",
+      "value": "Kicsomagolás"
+    },
+    {
+      "name": "failed_cloud_api_key",
+      "value": "A Cloud bővítmény hitelesítése sikertelen volt"
+    },
+    {
+      "name": "failed_cloud_new_connection",
+      "value": "Nem sikerült hozzáadni új Cloud-kapcsolatot"
+    },
+    {
+      "name": "failed_install_apk",
+      "value": "Nem sikerült telepíteni"
+    },
+    {
+      "name": "failed_no_connection",
+      "value": "Nem sikerült betölteni a fájlokat. Ellenőrizze a kapcsolatot."
+    },
+    {
+      "name": "failed_smb_decrypt_path",
+      "value": "Nem sikerült betölteni az SMB kapcsolatot"
+    },
+    {
+      "name": "feedback",
+      "value": "Visszajelzés küldése"
+    },
+    {
+      "name": "field_empty",
+      "value": "A mező nem lehet üres"
+    },
+    {
+      "name": "file",
+      "value": "Fájl"
+    },
+    {
+      "name": "file_empty",
+      "value": "A fájl üres"
+    },
+    {
+      "name": "file_read_only",
+      "value": "A megnyitott fájl csak olvasható."
+    },
+    {
+      "name": "file_too_long",
+      "value": "A fájl túl hosszú és nem szerkeszthető, de az első %d karakter olvasható"
+    },
+    {
+      "name": "fileexist",
+      "value": "Ilyen nevű fájl már létezik"
+    },
+    {
+      "name": "filename",
+      "value": "Fájlnév"
+    },
+    {
+      "name": "files",
+      "value": "fájl"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "Fájlok felülre"
+    },
+    {
+      "name": "find",
+      "value": "Keresés a lapon"
+    },
+    {
+      "name": "flash_fired",
+      "value": "Vakuvillanás"
+    },
+    {
+      "name": "focal_length",
+      "value": "Gyújtótávolság"
+    },
+    {
+      "name": "folder",
+      "value": "Mappa"
+    },
+    {
+      "name": "folderfilecount",
+      "value": "%1$d mappa és %2$d fájl"
+    },
+    {
+      "name": "folders",
+      "value": "mappa"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "Mappák felülre"
+    },
+    {
+      "name": "follow_battery_saver_desc",
+      "value": "Ha ki van jelölve és az akkumulátorkímélő üzemmód be van kapcsolva, a téma sötétre vált."
+    },
+    {
+      "name": "follow_battery_saver_title",
+      "value": "Az akkumulátorkímélő követése"
+    },
+    {
+      "name": "format",
+      "value": "Formátum"
+    },
+    {
+      "name": "frame_rate",
+      "value": "Képarány"
+    },
+    {
+      "name": "free",
+      "value": "szabad terület"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "Francia"
+    },
+    {
+      "name": "ftp",
+      "value": "FTP-kiszolgáló"
+    },
+    {
+      "name": "ftp_connection",
+      "value": "FTP kapcsolat"
+    },
+    {
+      "name": "ftp_login",
+      "value": "Bejelentkezés"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "Győződjön meg róla, hogy csatlakozik a Wi-Fi-hez"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "FTP-kiszolgáló indítása"
+    },
+    {
+      "name": "ftp_notif_starting_title",
+      "value": "FTP-kiszolgáló"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "LEÁLLÍTÁS"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "%s"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "Az Amaze FTP-kiszolgáló fut"
+    },
+    {
+      "name": "ftp_path",
+      "value": "Megosztott útvonal"
+    },
+    {
+      "name": "ftp_path_change_error_invalid",
+      "value": "Érvénytelen elérési útvonal"
+    },
+    {
+      "name": "ftp_path_change_success",
+      "value": "Az FTP elérési útvonala sikeresen módosítva lett"
+    },
+    {
+      "name": "ftp_path_hint",
+      "value": "Útvonal a megosztandó könyvtár gyökeréhez"
+    },
+    {
+      "name": "ftp_port",
+      "value": "Port"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "Érvénytelen port szám lett kiválasztva"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "Az FTP port sikeresen módosítva lett"
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "Válasszon FTP portot"
+    },
+    {
+      "name": "ftp_preference_saf_filesystem",
+      "value": "Engedélyezze ezt az eszköz külső tárolójának újabb Android-verziókon való használatának támogatásához"
+    },
+    {
+      "name": "ftp_preference_saf_filesystem_title",
+      "value": "Örökölt fájlrendszer használata"
+    },
+    {
+      "name": "ftp_prompt_accept_first_start_saf_access_title",
+      "value": "SAF-hozzáférés engedélyezése az FTP-kiszolgálóhoz"
+    },
+    {
+      "name": "ftp_prompt_restart_server",
+      "value": "A módosítások érvénybe léptetéséhez újra kell indítania az FTP-kiszolgálót."
+    },
+    {
+      "name": "ftp_readonly",
+      "value": "Csak olvasási hozzáférés"
+    },
+    {
+      "name": "ftp_seconds",
+      "value": "mp"
+    },
+    {
+      "name": "ftp_server_fallback_path_reset_prompt",
+      "value": "Az FTP-kiszolgáló megosztott elérési útvonala vissza lett állítva a belső tárolóra, mivel a régi fájlrendszer implementációjára váltott. Válasszon új elérési útvonalat a jobb felső sarokban található menü segítségével, ha szükséges."
+    },
+    {
+      "name": "ftp_server_open_settings",
+      "value": "Beállítások megnyitása"
+    },
+    {
+      "name": "ftp_server_prompt_connect_to_network",
+      "value": "Csatlakozzon a hálózathoz, vagy engedélyezze az AP-t"
+    },
+    {
+      "name": "ftp_server_reset_notify",
+      "value": "Az FTP-kiszolgáló megosztott elérési útvonala vissza lett állítva a belső tárolóra"
+    },
+    {
+      "name": "ftp_server_root_unavailable",
+      "value": "Olyan elérési utat választ, amelyhez root hozzáférés szükséges. Engedélyezze a root explorert a beállításokban, ha az eszköze rootolt."
+    },
+    {
+      "name": "ftp_status_no_connection",
+      "value": "Nincs kapcsolat"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "Nem fut"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "Fut"
+    },
+    {
+      "name": "ftp_status_secure_connection",
+      "value": "Biztonságos kapcsolat"
+    },
+    {
+      "name": "ftp_status_title",
+      "value": "Állapot"
+    },
+    {
+      "name": "ftp_timeout",
+      "value": "Üresjárat időkorlátja"
+    },
+    {
+      "name": "ftps_connection",
+      "value": "FTP SSL kapcsolaton keresztül"
+    },
+    {
+      "name": "general",
+      "value": "Általános"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "Német"
+    },
+    {
+      "name": "go",
+      "value": "Go"
+    },
+    {
+      "name": "goback",
+      "value": "Vissza"
+    },
+    {
+      "name": "got_it",
+      "value": "Értem!"
+    },
+    {
+      "name": "grant",
+      "value": "Megadás"
+    },
+    {
+      "name": "grant_apkinstall_permission",
+      "value": "Az alkalmazásnak engedélyre van szüksége az alkalmazások telepítésének folytatásához."
+    },
+    {
+      "name": "grant_notification_permission",
+      "value": "Az Amaze értesítési engedélyt igényel a fájlműveletek előrehaladásának megjelenítéséhez, valamint egy praktikus panelre az FTP-kiszolgáló indításához/leállításához."
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "Tárolási engedélyre van szüksége az alkalmazásnak a folytatáshoz. A párbeszédpanel megszakításakor az alkalmazás kilép."
+    },
+    {
+      "name": "grantfailed",
+      "value": "Az engedély nincs megadva"
+    },
+    {
+      "name": "grantper",
+      "value": "Engedély megadása"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "Görög"
+    },
+    {
+      "name": "green",
+      "value": "Zöld"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "Oszlopok száma rácsnézetben"
+    },
+    {
+      "name": "gridview",
+      "value": "Rácsnézet"
+    },
+    {
+      "name": "hash_sha256",
+      "value": "SHA-256"
+    },
+    {
+      "name": "height",
+      "value": "Magasság"
+    },
+    {
+      "name": "hidden",
+      "value": "Rejtett fájlok és mappák megjelenítése"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "Rejtett fájlok"
+    },
+    {
+      "name": "hide",
+      "value": "Elrejtés"
+    },
+    {
+      "name": "hide_media",
+      "value": "Elrejtés a médiaböngészőkből"
+    },
+    {
+      "name": "history",
+      "value": "Előzmények"
+    },
+    {
+      "name": "home",
+      "value": "Kezdőlap"
+    },
+    {
+      "name": "icon",
+      "value": "ikon"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "Állítsa be az ikonok színét"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "Ikon színe"
+    },
+    {
+      "name": "image",
+      "value": "Kép"
+    },
+    {
+      "name": "image_iso",
+      "value": "ISO sebességminősítés"
+    },
+    {
+      "name": "image_type",
+      "value": "Kép típusa"
+    },
+    {
+      "name": "image_viewer",
+      "value": "Amaze képmegjelenítő"
+    },
+    {
+      "name": "images",
+      "value": "Képek"
+    },
+    {
+      "name": "import_failed_for",
+      "value": "Importálás sikertelen:"
+    },
+    {
+      "name": "importing_completed",
+      "value": "Az importálás befejeződött"
+    },
+    {
+      "name": "importing_failed",
+      "value": "Az importálás sikertelen: nem lehet olvasni a biztonsági mentési fájlt"
+    },
+    {
+      "name": "in_safe",
+      "value": "Nincs elég hely"
+    },
+    {
+      "name": "information",
+      "value": "Információk"
+    },
+    {
+      "name": "install",
+      "value": "Telepítés"
+    },
+    {
+      "name": "intellihide_toolbar_summary",
+      "value": "Az eszköztár automatikus elrejtése görgetés közben"
+    },
+    {
+      "name": "intellihide_toolbar_title",
+      "value": "Eszköztár elrejtése"
+    },
+    {
+      "name": "intent_save_as",
+      "value": "Mentés másként…"
+    },
+    {
+      "name": "invalid",
+      "value": "%s érvénytelen"
+    },
+    {
+      "name": "invalid_backup_file",
+      "value": "Érvénytelen mentési fájl"
+    },
+    {
+      "name": "invalid_name",
+      "value": "Érvénytelen név"
+    },
+    {
+      "name": "ip",
+      "value": "Cím"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "Olasz"
+    },
+    {
+      "name": "item",
+      "value": "elem"
+    },
+    {
+      "name": "items",
+      "value": "elem"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "Japán"
+    },
+    {
+      "name": "just_once",
+      "value": "Csak egyszer"
+    },
+    {
+      "name": "keywords",
+      "value": "Kulcsszavak"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "Koreai"
+    },
+    {
+      "name": "lastModified",
+      "value": "Utoljára módosítva"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "Utolsó módosítás megjelenítése"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "Az utolsó módosítás dátumának és időpontjának megjelenítése"
+    },
+    {
+      "name": "legacy_listing_summary",
+      "value": "Ha engedélyezve van, az örökölt módszer lesz használva a fájlok listázására"
+    },
+    {
+      "name": "legacy_listing_title",
+      "value": "Örökölt lista használata a gyökérhez"
+    },
+    {
+      "name": "libraries",
+      "value": "Eljárástárak"
+    },
+    {
+      "name": "license",
+      "value": "Licenc"
+    },
+    {
+      "name": "light",
+      "value": "Világos"
+    },
+    {
+      "name": "listview",
+      "value": "Listanézet"
+    },
+    {
+      "name": "loading",
+      "value": "Betöltés…"
+    },
+    {
+      "name": "local_inet_addr_error",
+      "value": "Hiba történt a helyi inet cím lekérésekor"
+    },
+    {
+      "name": "location",
+      "value": "Hely"
+    },
+    {
+      "name": "match_content",
+      "value": "Egyező tartalom"
+    },
+    {
+      "name": "match_content_summary",
+      "value": "Ha beállítja, a reguláris kifejezés egyeztetve lesz a teljes fájlnévvel,\\n        egyébként az előfordulásokra fog rákeresni."
+    },
+    {
+      "name": "md5",
+      "value": "md5:"
+    },
+    {
+      "name": "medium_text",
+      "value": "Közepes szöveg"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "Egyéb"
+    },
+    {
+      "name": "modified",
+      "value": "Módosítva"
+    },
+    {
+      "name": "monofont",
+      "value": "Fix szélességű betű"
+    },
+    {
+      "name": "move",
+      "value": "Áthelyezés"
+    },
+    {
+      "name": "moved",
+      "value": "áthelyezve"
+    },
+    {
+      "name": "moving",
+      "value": "Áthelyezés"
+    },
+    {
+      "name": "multiple_invalid_archive_entries",
+      "value": "Néhány fájlt az archívumban nem lehet kibontani; lehet, hogy az archívum sérült vagy rosszindulatú forrásból származik."
+    },
+    {
+      "name": "name",
+      "value": "Név"
+    },
+    {
+      "name": "needs_access",
+      "value": "Írási hozzáférés szükséges"
+    },
+    {
+      "name": "newfile",
+      "value": "Új fájl"
+    },
+    {
+      "name": "newfolder",
+      "value": "Új mappa"
+    },
+    {
+      "name": "no",
+      "value": "Nem"
+    },
+    {
+      "name": "no_app_found",
+      "value": "Nincs megfelelő alkalmazás a fájl megnyitására"
+    },
+    {
+      "name": "no_app_found_intent",
+      "value": "Nem található alkalmazás, amely kezelné ezt az intentet. Telepítve van a DocumentsUI\\?"
+    },
+    {
+      "name": "no_applications",
+      "value": "Nincsenek alkalmazások"
+    },
+    {
+      "name": "no_bitcoin_app",
+      "value": "Telepítse a Bitcoin Wallet alkalmazást"
+    },
+    {
+      "name": "no_device_found",
+      "value": "Nem található eszköz"
+    },
+    {
+      "name": "no_file_error",
+      "value": "Valami hiba történt, nincs semmi megnyitva"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "Nincs fájlfelülírás"
+    },
+    {
+      "name": "no_files",
+      "value": "Nincsenek fájlok"
+    },
+    {
+      "name": "no_items",
+      "value": "Nincsenek elemek"
+    },
+    {
+      "name": "no_name",
+      "value": "A fájlnak névvel kell rendelkeznie"
+    },
+    {
+      "name": "no_obtainable_info",
+      "value": "Nincs információ erről a fájlról"
+    },
+    {
+      "name": "none_on_top",
+      "value": "Nincs felül"
+    },
+    {
+      "name": "not_allowed",
+      "value": "Nincs engedélyezve"
+    },
+    {
+      "name": "not_finding_what_you_re_looking_for",
+      "value": "Nem találja, amit keres\\?"
+    },
+    {
+      "name": "not_found_enabled_webview",
+      "value": "Nincs elérhető böngésző"
+    },
+    {
+      "name": "of",
+      "value": "-"
+    },
+    {
+      "name": "ok",
+      "value": "Rendben"
+    },
+    {
+      "name": "open",
+      "value": "Megnyitás"
+    },
+    {
+      "name": "open_as",
+      "value": "Megnyitás mint"
+    },
+    {
+      "name": "open_parent",
+      "value": "Szülőkönyvtár megnyitása"
+    },
+    {
+      "name": "open_with",
+      "value": "Megnyitás a következővel…"
+    },
+    {
+      "name": "open_with_amaze",
+      "value": "Megnyitás az Amaze segítségével"
+    },
+    {
+      "name": "operation_fail_following",
+      "value": "A művelet sikertelen a következő fájloknál"
+    },
+    {
+      "name": "operation_not_supported",
+      "value": "A művelet nem támogatott"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "A művelet sikertelen volt"
+    },
+    {
+      "name": "optimized",
+      "value": "Optimizálva"
+    },
+    {
+      "name": "orange",
+      "value": "Narancs"
+    },
+    {
+      "name": "otg_access",
+      "value": "Válassza ki az OTG eszköz gyökerét"
+    },
+    {
+      "name": "other",
+      "value": "Egyéb"
+    },
+    {
+      "name": "out_of",
+      "value": "-ból"
+    },
+    {
+      "name": "overwrite",
+      "value": "Felülírás"
+    },
+    {
+      "name": "package_installer",
+      "value": "Csomagtelepítő"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "Ez egy csomagtelepítő. Milyen műveletet szeretne végrehajtani\\?"
+    },
+    {
+      "name": "pages",
+      "value": "Lapok száma"
+    },
+    {
+      "name": "paper_size",
+      "value": "Papír mérete"
+    },
+    {
+      "name": "password",
+      "value": "Jelszó"
+    },
+    {
+      "name": "password_no_match",
+      "value": "A jelszó nem egyezik"
+    },
+    {
+      "name": "password_repeat",
+      "value": "Jelszó megismétlése"
+    },
+    {
+      "name": "password_unchanged",
+      "value": "(változatlan)"
+    },
+    {
+      "name": "paste",
+      "value": "Beillesztés"
+    },
+    {
+      "name": "path",
+      "value": "Útvonal"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "A Paypal id a vágólapra lett másolva"
+    },
+    {
+      "name": "pdf_viewer",
+      "value": "Amaze dokumentum megtekintő"
+    },
+    {
+      "name": "permission",
+      "value": "Engedélyek"
+    },
+    {
+      "name": "permission_execute",
+      "value": "Végrehajtás"
+    },
+    {
+      "name": "permission_group",
+      "value": "Csoport"
+    },
+    {
+      "name": "permission_other",
+      "value": "Egyéb"
+    },
+    {
+      "name": "permission_owner",
+      "value": "Tulajdonos"
+    },
+    {
+      "name": "permission_read",
+      "value": "Elolvas"
+    },
+    {
+      "name": "permission_write",
+      "value": "Írás"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "Válasszon egy fájlt"
+    },
+    {
+      "name": "pick_files",
+      "value": "Válasszon egy vagy több fájlt"
+    },
+    {
+      "name": "play",
+      "value": "Play áruház"
+    },
+    {
+      "name": "please_wait",
+      "value": "Kis türelmet"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "Lengyel"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "Portugál"
+    },
+    {
+      "name": "pref_export",
+      "value": "Exportálás"
+    },
+    {
+      "name": "pref_export_summary",
+      "value": "Exportálási beállítások"
+    },
+    {
+      "name": "pref_import",
+      "value": "Importálás"
+    },
+    {
+      "name": "pref_import_summary",
+      "value": "Importálási beállítások"
+    },
+    {
+      "name": "preference_delete_confirmation",
+      "value": "Megerősítés törlése"
+    },
+    {
+      "name": "preference_delete_confirmation_summary",
+      "value": "Kérjen megerősítést a fájlok törlése előtt. Ennek kikapcsolása nem javasolt!"
+    },
+    {
+      "name": "preference_language_dialog_title",
+      "value": "Válasszon nyelvet"
+    },
+    {
+      "name": "preference_language_system_default",
+      "value": "Rendszer alapértelmezett"
+    },
+    {
+      "name": "preference_language_title",
+      "value": "Alkalmazás nyelve"
+    },
+    {
+      "name": "preference_newstack_summary",
+      "value": "Lehetővé teszi a fájlok megnyitását különálló feladatokban. Ezeket a rendszer legutóbbi képernyőjéről érheti el."
+    },
+    {
+      "name": "preference_newstack_title",
+      "value": "Fájlok megnyitása új feladatként"
+    },
+    {
+      "name": "preselected_configs_title",
+      "value": "Előválasztott konfigurációk"
+    },
+    {
+      "name": "press_again",
+      "value": "Nyomja meg újra a kilépéshez"
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "Állítsa be a bal lapon lévő nagy kezelőfelületi elemek a színét"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "Alapszín (bal lap)"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "Állítsa be a jobb lapon lévő nagy kezelőfelületi elemek a színét"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "Alapszín (jobb lap)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "Folyamatfigyelő"
+    },
+    {
+      "name": "processed",
+      "value": "Feldolgozott"
+    },
+    {
+      "name": "processing",
+      "value": "Feldolgozás…"
+    },
+    {
+      "name": "processing_file",
+      "value": "Fájl feldolgozása"
+    },
+    {
+      "name": "producer",
+      "value": "Gyártó"
+    },
+    {
+      "name": "properties",
+      "value": "Tulajdonságok"
+    },
+    {
+      "name": "properties_copied_clipboard",
+      "value": "vágólapra másolva"
+    },
+    {
+      "name": "protocol_ftps",
+      "value": "Biztonságos FTP"
+    },
+    {
+      "name": "question_delete_bookmark",
+      "value": "Törli a könyvjelzőt\\?"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "Beállítja az aktuális útvonalat kezdőlapként ezen a fülön\\?"
+    },
+    {
+      "name": "quick",
+      "value": "Gyorselérés"
+    },
+    {
+      "name": "quick_desc",
+      "value": "Az Amaze-on keresztül legutóbb megnyitott fájlok"
+    },
+    {
+      "name": "random",
+      "value": "Véletlenszerű felszín"
+    },
+    {
+      "name": "random_summary",
+      "value": "Véletlenszerű alapszín beállítása indításkor"
+    },
+    {
+      "name": "rate",
+      "value": "Alkalmazás értékelése"
+    },
+    {
+      "name": "recent",
+      "value": "Legutóbbi fájlok"
+    },
+    {
+      "name": "recent_desc",
+      "value": "Legutóbb létrehozott vagy módosított fájlok"
+    },
+    {
+      "name": "regular_expression",
+      "value": "Reguláris kifejezés"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "Keresés BASH stílusú reguláris kifejezés használatával"
+    },
+    {
+      "name": "remember",
+      "value": "Jegyezze meg a következő alkalomra"
+    },
+    {
+      "name": "rename",
+      "value": "Átnevezés"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "Könyvjelző módosítása"
+    },
+    {
+      "name": "renaming",
+      "value": "Átnevezés"
+    },
+    {
+      "name": "reopen_from_source",
+      "value": "Nem sikerült. Nyissa meg újra az utolsó alkalmazást"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "Hibák jelentése vagy új funkciók igénylése"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "Hibák jelentése"
+    },
+    {
+      "name": "restore",
+      "value": "Visszaállítás"
+    },
+    {
+      "name": "restore_files",
+      "value": "Fájlok visszaállítása"
+    },
+    {
+      "name": "restoring",
+      "value": "Visszaállítás..."
+    },
+    {
+      "name": "results",
+      "value": "Eredmények"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "Román"
+    },
+    {
+      "name": "root_directory",
+      "value": "Gyökérkönyvtár"
+    },
+    {
+      "name": "root_failure",
+      "value": "A root hozzáférés nincs megadva"
+    },
+    {
+      "name": "root_mode",
+      "value": "Root-kezelő"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "Csak rootolt eszközökre. Csak akkor aktiválja, ha biztos benne"
+    },
+    {
+      "name": "root_pref",
+      "value": "Engedélyek megjelenítése"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "Fájl és mappa engedélyek megjelenítése"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "Orosz"
+    },
+    {
+      "name": "saf_otg_explanation",
+      "value": "Biztonsági okokból most az Android fájlrendszerébe kell lépnie. Válassza ki az USB-eszközt a bal oldali listából."
+    },
+    {
+      "name": "same_dir_move_error",
+      "value": "A cél- és a forrásmappának nem kell megegyeznie az áthelyezéshez."
+    },
+    {
+      "name": "same_dir_overwrite_error",
+      "value": "A cél- és forrásmappának nem kell megegyeznie a felülíráshoz."
+    },
+    {
+      "name": "sample_rate",
+      "value": "Mintavételi arány"
+    },
+    {
+      "name": "save",
+      "value": "Mentés"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "Indításkor az utoljára megtekintett mappa fog megjelenni minden lapon"
+    },
+    {
+      "name": "save_paths",
+      "value": "Útvonalak megjegyzése"
+    },
+    {
+      "name": "saved_multi_files",
+      "value": "%d fájl mentve."
+    },
+    {
+      "name": "saved_single_file",
+      "value": "Fájl mentve '%s'-ként."
+    },
+    {
+      "name": "saving",
+      "value": "Mentés"
+    },
+    {
+      "name": "scp_connection",
+      "value": "SCP/SFTP kapcsolat"
+    },
+    {
+      "name": "scp_default_path",
+      "value": "Alapértelmezett elérési út (nem kötelező)"
+    },
+    {
+      "name": "scp_port",
+      "value": "Port"
+    },
+    {
+      "name": "search",
+      "value": "Keresés"
+    },
+    {
+      "name": "search_hint",
+      "value": "Írja be mit keres…"
+    },
+    {
+      "name": "search_recent",
+      "value": "Legutóbbi"
+    },
+    {
+      "name": "search_results",
+      "value": "A(z) %s keresési eredményei"
+    },
+    {
+      "name": "searching",
+      "value": "%s keresése"
+    },
+    {
+      "name": "searching_devices",
+      "value": "Eszközök keresése"
+    },
+    {
+      "name": "security",
+      "value": "Biztonság"
+    },
+    {
+      "name": "security_error",
+      "value": "A fájlt nem lehet megnyitni ezzel az alkalmazással"
+    },
+    {
+      "name": "security_summary",
+      "value": "Jelszó és titkosítás beállítása"
+    },
+    {
+      "name": "select",
+      "value": "Válasszon elemet"
+    },
+    {
+      "name": "select_all",
+      "value": "Összes kijelölése"
+    },
+    {
+      "name": "select_by_date",
+      "value": "Kiválasztás dátum szerint"
+    },
+    {
+      "name": "select_by_type",
+      "value": "Kiválasztás típus szerint"
+    },
+    {
+      "name": "select_color_config",
+      "value": "Válasszon szín konfigurációt"
+    },
+    {
+      "name": "select_fill",
+      "value": "Válasszon kitöltést"
+    },
+    {
+      "name": "select_intent",
+      "value": "Kiválasztás"
+    },
+    {
+      "name": "select_inverse",
+      "value": "Fordított kiválasztás"
+    },
+    {
+      "name": "select_save_location",
+      "value": "Válassza ki a mentés helyét"
+    },
+    {
+      "name": "select_similar",
+      "value": "Hasonló kiválasztása"
+    },
+    {
+      "name": "send_email_to",
+      "value": "E-mail küldése"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "Szerb"
+    },
+    {
+      "name": "server_address",
+      "value": "Kiszolgáló IP-címe"
+    },
+    {
+      "name": "service_timer",
+      "value": "Eltelt idő"
+    },
+    {
+      "name": "set",
+      "value": "Beállítás"
+    },
+    {
+      "name": "set_as_home",
+      "value": "Beállítás kezdőkönyvtárként"
+    },
+    {
+      "name": "set_random",
+      "value": "A változások az alkalmazás újraindítása után lépnek érvénybe"
+    },
+    {
+      "name": "setting",
+      "value": "Beállítások"
+    },
+    {
+      "name": "share",
+      "value": "Megosztás"
+    },
+    {
+      "name": "share_limit",
+      "value": "Nem oszthat meg 100-nál több fájlt"
+    },
+    {
+      "name": "share_logs",
+      "value": "Naplók megosztása"
+    },
+    {
+      "name": "share_logs_summary",
+      "value": "A rögzített naplók megosztása e-mailben / telegramon"
+    },
+    {
+      "name": "showHeaders",
+      "value": "Fejlécek megjelenítése"
+    },
+    {
+      "name": "show_bookmarks_pref",
+      "value": "Könyvjelzők"
+    },
+    {
+      "name": "show_bookmarks_pref_title",
+      "value": "Könyvjelzők megjelenítése"
+    },
+    {
+      "name": "show_dividers",
+      "value": "Elválasztók megjelenítése"
+    },
+    {
+      "name": "show_quick_access_pref",
+      "value": "Gyorselérés"
+    },
+    {
+      "name": "show_quick_access_pref_title",
+      "value": "Gyorselérés megjelenítése"
+    },
+    {
+      "name": "show_system_apps",
+      "value": "Rendszeralkalmazások megjelenítése"
+    },
+    {
+      "name": "sidebar_bookmarks_title",
+      "value": "Könyvjelzők oldalsáv"
+    },
+    {
+      "name": "sidebar_preferences",
+      "value": "Oldalsáv"
+    },
+    {
+      "name": "sidebar_quick_access_title",
+      "value": "Oldalsáv gyorselérés"
+    },
+    {
+      "name": "signin_with_google_title",
+      "value": "Hitelesítés a Google Drive™ használatához"
+    },
+    {
+      "name": "size",
+      "value": "mappa mérete"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Méret"
+    },
+    {
+      "name": "size_pref",
+      "value": "Méret megjelenítése"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "Megjeleníti a fájlok méretét és a mappában lévő elemek számát"
+    },
+    {
+      "name": "skip",
+      "value": "Kihagyás"
+    },
+    {
+      "name": "smb_connection",
+      "value": "SMB-kapcsolat"
+    },
+    {
+      "name": "smb_launch_error",
+      "value": "Át kell másolnia a fájlt a tárhelyre annak megnyitásához"
+    },
+    {
+      "name": "smb_share",
+      "value": "Megosztás elérési útvonala"
+    },
+    {
+      "name": "software",
+      "value": "Szoftver"
+    },
+    {
+      "name": "some_files_failed_invalid_operation",
+      "value": "Néhány fájl sikertelen volt az érvénytelen művelet miatt"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Ennek nem lett volna szabad megtörténnie."
+    },
+    {
+      "name": "sort",
+      "value": "Rendezés"
+    },
+    {
+      "name": "sort_by",
+      "value": "Elrendezés"
+    },
+    {
+      "name": "sort_by_colon",
+      "value": "Rendezés módja:"
+    },
+    {
+      "name": "sort_name",
+      "value": "Név"
+    },
+    {
+      "name": "sort_only_this",
+      "value": "Csak ez a mappa"
+    },
+    {
+      "name": "sort_relevance",
+      "value": "Fontosság"
+    },
+    {
+      "name": "sort_size",
+      "value": "Méret"
+    },
+    {
+      "name": "source_summary",
+      "value": "Forráskód megtekintése a GitHubon"
+    },
+    {
+      "name": "source_title",
+      "value": "Forráskód"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "Spanyol"
+    },
+    {
+      "name": "ssh_authentication_failure_key",
+      "value": "Bejelentkezési hiba: Nem lehet hitelesíteni a megadott felhasználónévvel és privát kulccsal."
+    },
+    {
+      "name": "ssh_authentication_failure_password",
+      "value": "Bejelentkezési hiba: Nem lehet hitelesíteni a megadott felhasználónévvel és jelszóval."
+    },
+    {
+      "name": "ssh_connect_failed",
+      "value": "Nem sikerült csatlakozni a következőhöz: %1$s:%2$d: %3$s"
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_title",
+      "value": "FIGYELEM: A TÁVOLI KISZOLGÁLÓ AZONOSÍTÓJA MEGVÁLTOZOTT!"
+    },
+    {
+      "name": "ssh_host_key_verification_prompt_title",
+      "value": "Kiszolgáló hitelesítése"
+    },
+    {
+      "name": "ssh_key_invalid_passphrase",
+      "value": "Érvénytelen kulcs jelszó."
+    },
+    {
+      "name": "ssh_key_no_decoder_decrypt",
+      "value": "Nincs érvényes dekódoló a PEM visszafejtéséhez."
+    },
+    {
+      "name": "ssh_key_prompt_passphrase",
+      "value": "Adja meg a kulcs-jelmondatot."
+    },
+    {
+      "name": "ssh_pem_key_parse_error",
+      "value": "A kiválasztott PEM nem olvasható: %s"
+    },
+    {
+      "name": "ssh_select_pem",
+      "value": "Válassza ki a privát kulcsot a hitelesítéshez"
+    },
+    {
+      "name": "ssh_select_pem_button",
+      "value": "SSH privát kulcs"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Indítás"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "Leállítás"
+    },
+    {
+      "name": "stopping",
+      "value": "Leállítás"
+    },
+    {
+      "name": "storage_internal",
+      "value": "Belső tároló"
+    },
+    {
+      "name": "storage_sd_card",
+      "value": "SD-kártya"
+    },
+    {
+      "name": "subject",
+      "value": "Tárgy"
+    },
+    {
+      "name": "support_development",
+      "value": "Fejlesztés támogatása"
+    },
+    {
+      "name": "system",
+      "value": "Rendszer (kövesse a rendszer témáját)"
+    },
+    {
+      "name": "system_apps",
+      "value": "Rendszeralkalmazások"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "Tamil"
+    },
+    {
+      "name": "text",
+      "value": "Szöveg"
+    },
+    {
+      "name": "text_editor",
+      "value": "Szövegszerkesztő beállításai"
+    },
+    {
+      "name": "textreader",
+      "value": "Szövegolvasó"
+    },
+    {
+      "name": "theme",
+      "value": "Téma"
+    },
+    {
+      "name": "thumb",
+      "value": "Miniatűrök megjelenítése"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "Alkalmazás és kép miniatűrök megjelenítése"
+    },
+    {
+      "name": "time_remaining",
+      "value": "Hátralévő idő"
+    },
+    {
+      "name": "title",
+      "value": "Cím"
+    },
+    {
+      "name": "total",
+      "value": "Összesen:"
+    },
+    {
+      "name": "transfer_rate",
+      "value": "Átviteli sebesség"
+    },
+    {
+      "name": "translate_summary",
+      "value": "Fordítsa le az Amaze fájlkezelőjét a saját nyelvére"
+    },
+    {
+      "name": "translate_title",
+      "value": "Fordítás"
+    },
+    {
+      "name": "translators",
+      "value": "Fordítók"
+    },
+    {
+      "name": "trash_bin",
+      "value": "Kuka"
+    },
+    {
+      "name": "trash_bin_cleanup_interval_summary",
+      "value": "Automatikus törlési időköz aktiválása (óra)"
+    },
+    {
+      "name": "trash_bin_cleanup_interval_title",
+      "value": "Törlési időköz"
+    },
+    {
+      "name": "trash_bin_retention_bytes_summary",
+      "value": "Maximális adatmennyiség (MB-ban), amelyet a kuka tárolhat"
+    },
+    {
+      "name": "trash_bin_retention_bytes_title",
+      "value": "Megőrzés adatméret szerint"
+    },
+    {
+      "name": "trash_bin_retention_days_summary",
+      "value": "Maximális napok száma, ameddig a kuka tárolhat egy fájlt"
+    },
+    {
+      "name": "trash_bin_retention_days_title",
+      "value": "Megőrzés napok szerint"
+    },
+    {
+      "name": "trash_bin_retention_num_of_files_summary",
+      "value": "Maximálisan ennyi fájl tárolása a kukában"
+    },
+    {
+      "name": "trash_bin_retention_num_of_files_title",
+      "value": "Megőrzés a fájlok száma szerint"
+    },
+    {
+      "name": "try_deep_search",
+      "value": "Próbálja ki a mélykeresést!"
+    },
+    {
+      "name": "try_indexed_search",
+      "value": "Próbálja ki az indexelt keresést!"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "Török"
+    },
+    {
+      "name": "type",
+      "value": "Típus"
+    },
+    {
+      "name": "typeable_paths_summary",
+      "value": "Nyomja meg hosszan az útvonal sávot az egyéni elérési útvonal beírásához"
+    },
+    {
+      "name": "typeable_paths_title",
+      "value": "Egyéni útvonalak"
+    },
+    {
+      "name": "ui",
+      "value": "Felület"
+    },
+    {
+      "name": "ui_summary",
+      "value": "Szabályozhatja a megjelenítendő információkat, testre szabhatja az oldalsávot, és válthat a felhasználói felület beállításai között."
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "Ukrán"
+    },
+    {
+      "name": "unavailable",
+      "value": "Nem elérhető"
+    },
+    {
+      "name": "uninstall",
+      "value": "Eltávolítás"
+    },
+    {
+      "name": "unknown",
+      "value": "ismeretlen"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Hoppá, valami hiba törént!"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "Nem mentett módosítások"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "Nem mentett el minden módosítást. Szeretné elmenteni azokat, mielőtt kilép\\?"
+    },
+    {
+      "name": "update",
+      "value": "FRISSÍTÉS"
+    },
+    {
+      "name": "update_host_key",
+      "value": "Kiszolgálókulcs frissítése"
+    },
+    {
+      "name": "used",
+      "value": "használt terület"
+    },
+    {
+      "name": "used_by_others",
+      "value": "mások által használt"
+    },
+    {
+      "name": "user_apps",
+      "value": "Felhasználói alkalmazások"
+    },
+    {
+      "name": "username",
+      "value": "Felhasználónév"
+    },
+    {
+      "name": "version",
+      "value": "Verzió"
+    },
+    {
+      "name": "video",
+      "value": "Videó"
+    },
+    {
+      "name": "video_player",
+      "value": "Amaze videólejátszó"
+    },
+    {
+      "name": "videos",
+      "value": "Videók"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "Vietnámi"
+    },
+    {
+      "name": "view",
+      "value": "Nézet"
+    },
+    {
+      "name": "waiting_content",
+      "value": "Várakozás a művelet befejezésére"
+    },
+    {
+      "name": "waiting_title",
+      "value": "Várakozás"
+    },
+    {
+      "name": "want_help",
+      "value": "Segítségre van szüksége\\?"
+    },
+    {
+      "name": "warning",
+      "value": "Figyelmeztetés"
+    },
+    {
+      "name": "warning_confirm",
+      "value": "Értem!"
+    },
+    {
+      "name": "warning_never_show",
+      "value": "Ne jelenjen meg"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Információ:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Mi történt:"
+    },
+    {
+      "name": "width",
+      "value": "Szélesség"
+    },
+    {
+      "name": "wifip2p",
+      "value": "Wi-Fi P2P"
+    },
+    {
+      "name": "written",
+      "value": "Írt"
+    },
+    {
+      "name": "xda_title",
+      "value": "XDA-szál"
+    },
+    {
+      "name": "year",
+      "value": "Év"
+    },
+    {
+      "name": "yes",
+      "value": "Igen"
+    },
+    {
+      "name": "your_comment",
+      "value": "Az Ön megjegyzése (angolul):"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "Zip-megjelenítő"
+    }
+  ]
+}

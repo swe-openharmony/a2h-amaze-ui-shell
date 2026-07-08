@@ -1,0 +1,140 @@
+{
+  "strarray": [
+    {
+      "name": "columns",
+      "value": [
+        {
+          "value": "@string/default_string"
+        },
+        {
+          "value": "2"
+        },
+        {
+          "value": "3"
+        },
+        {
+          "value": "4"
+        },
+        {
+          "value": "5"
+        },
+        {
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "name": "directorysortmode",
+      "value": [
+        {
+          "value": "@string/foldersOnTop"
+        },
+        {
+          "value": "@string/filesOnTop"
+        },
+        {
+          "value": "@string/none_on_top"
+        }
+      ]
+    },
+    {
+      "name": "dragAndDropPreference",
+      "value": [
+        {
+          "value": "@string/disable"
+        },
+        {
+          "value": "@string/drag_to_select"
+        },
+        {
+          "value": "@string/drag_to_move_copy"
+        }
+      ]
+    },
+    {
+      "name": "ftpProtocols",
+      "value": [
+        {
+          "value": "@string/protocol_ssh"
+        },
+        {
+          "value": "@string/protocol_ftp"
+        },
+        {
+          "value": "@string/protocol_ftps"
+        }
+      ]
+    },
+    {
+      "name": "sortby",
+      "value": [
+        {
+          "value": "@string/sort_name"
+        },
+        {
+          "value": "@string/lastModified"
+        },
+        {
+          "value": "@string/sort_size"
+        },
+        {
+          "value": "@string/type"
+        }
+      ]
+    },
+    {
+      "name": "sortbyApps",
+      "value": [
+        {
+          "value": "@string/sort_name"
+        },
+        {
+          "value": "@string/lastModified"
+        },
+        {
+          "value": "@string/sort_size"
+        }
+      ]
+    },
+    {
+      "name": "sortbySearch",
+      "value": [
+        {
+          "value": "@string/sort_name"
+        },
+        {
+          "value": "@string/lastModified"
+        },
+        {
+          "value": "@string/sort_size"
+        },
+        {
+          "value": "@string/type"
+        },
+        {
+          "value": "@string/sort_relevance"
+        }
+      ]
+    },
+    {
+      "name": "theme",
+      "value": [
+        {
+          "value": "@string/light"
+        },
+        {
+          "value": "@string/dark"
+        },
+        {
+          "value": "@string/daytime"
+        },
+        {
+          "value": "@string/black"
+        },
+        {
+          "value": "@string/system"
+        }
+      ]
+    }
+  ]
+}

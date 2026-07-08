@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "cancel",
+      "value": "បោះ​បង់"
+    },
+    {
+      "name": "color_title",
+      "value": "ពណ៌"
+    },
+    {
+      "name": "delete",
+      "value": "លុប"
+    },
+    {
+      "name": "details",
+      "value": "សេចក្ដី​លម្អិត"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "បញ្ជាក់"
+    },
+    {
+      "name": "duration",
+      "value": "រយៈពេល"
+    },
+    {
+      "name": "exposure_time",
+      "value": "ពេលវេលា​បង្ហាញ"
+    },
+    {
+      "name": "focal_length",
+      "value": "ប្រវែង​ប្រសព្វ"
+    },
+    {
+      "name": "height",
+      "value": "កម្ពស់"
+    },
+    {
+      "name": "information",
+      "value": "ព័ត៌មាន"
+    },
+    {
+      "name": "path",
+      "value": "ផ្លូវ"
+    },
+    {
+      "name": "save",
+      "value": "រក្សាទុក"
+    },
+    {
+      "name": "share",
+      "value": "ចែក​រំលែក"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "ទំហំ"
+    },
+    {
+      "name": "sort_size",
+      "value": "ទំហំ"
+    },
+    {
+      "name": "version",
+      "value": "កំណែ"
+    },
+    {
+      "name": "width",
+      "value": "ទទឹង"
+    }
+  ]
+}

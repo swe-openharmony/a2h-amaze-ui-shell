@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "color_title",
+      "value": "Түс"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Кадр уақыты"
+    },
+    {
+      "name": "focal_length",
+      "value": "Көздеу ұзақтығы"
+    },
+    {
+      "name": "information",
+      "value": "Ақпарат"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Өлшем"
+    },
+    {
+      "name": "sort_size",
+      "value": "Өлшем"
+    },
+    {
+      "name": "version",
+      "value": "Нұсқа"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "string": [
+    {
+      "name": "cancel",
+      "value": "ATCELT"
+    },
+    {
+      "name": "color_title",
+      "value": "Krāsa"
+    },
+    {
+      "name": "delete",
+      "value": "Dzēst"
+    },
+    {
+      "name": "details",
+      "value": "Detalizēta informācija"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Apstiprināt"
+    },
+    {
+      "name": "duration",
+      "value": "Ilgums"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Ekspozīcijas ilgums"
+    },
+    {
+      "name": "focal_length",
+      "value": "Fokusa attālums"
+    },
+    {
+      "name": "height",
+      "value": "Augstums"
+    },
+    {
+      "name": "information",
+      "value": "Informācija"
+    },
+    {
+      "name": "password",
+      "value": "Parole"
+    },
+    {
+      "name": "path",
+      "value": "Ceļš"
+    },
+    {
+      "name": "save",
+      "value": "Saglabāt"
+    },
+    {
+      "name": "share",
+      "value": "Dalies"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Izmēri"
+    },
+    {
+      "name": "sort_size",
+      "value": "Izmēri"
+    },
+    {
+      "name": "version",
+      "value": "Versija"
+    },
+    {
+      "name": "width",
+      "value": "Platums"
+    }
+  ]
+}

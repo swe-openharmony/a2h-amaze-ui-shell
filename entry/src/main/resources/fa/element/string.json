@@ -1,0 +1,1040 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "درباره"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "درباره فایل منیجر حیرت انگیز"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "تنظیم رنگ به دکمه ی شناور و دیگر رابط های کاربری کوچک"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "تاکید رنگ"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "اضافه کردن میانبر"
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "به نشانه گذاری ها اضافه کنید"
+    },
+    {
+      "name": "advanced_search",
+      "value": "جستجوی پیشرفته"
+    },
+    {
+      "name": "anonymous",
+      "value": "نامشخص"
+    },
+    {
+      "name": "apks",
+      "value": "برنامه ها"
+    },
+    {
+      "name": "app_name",
+      "value": "فایل منیجر حیرت انگیز"
+    },
+    {
+      "name": "apps",
+      "value": "مدیر برنامه"
+    },
+    {
+      "name": "archive",
+      "value": "آرشیو"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "آرشیو پوشه استخراجی"
+    },
+    {
+      "name": "archive_summary",
+      "value": "فایل آرشیو به این پوشه استخراج خواهد شد.پوشه ی پیشفرض پوشه ای است که این فایل در آن قرار دارد"
+    },
+    {
+      "name": "archive_text",
+      "value": "این یک آرشیو می باشد. چه عملیاتی را می خواهید انجام دهید؟"
+    },
+    {
+      "name": "ascending",
+      "value": "صعودی"
+    },
+    {
+      "name": "audio",
+      "value": "صوت"
+    },
+    {
+      "name": "authors",
+      "value": "نویسندگان"
+    },
+    {
+      "name": "back_summary",
+      "value": "نمایش دکمه ی برگشت در بالای لیست"
+    },
+    {
+      "name": "back_title",
+      "value": "برگشت"
+    },
+    {
+      "name": "backup",
+      "value": "پشتیبان"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "باسکو"
+    },
+    {
+      "name": "bluetooth",
+      "value": "بلوث"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "نشانه ها اضاف شدند"
+    },
+    {
+      "name": "calculating",
+      "value": "در حال برآورد کردن"
+    },
+    {
+      "name": "cancel",
+      "value": "لغو"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s نمیتواند خال باشد"
+    },
+    {
+      "name": "changelog",
+      "value": "تغییر گزارش"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "چینی"
+    },
+    {
+      "name": "choose_color",
+      "value": "انتخاب رنگ"
+    },
+    {
+      "name": "circular_icons",
+      "value": "استفاده از آیکن های گِرد"
+    },
+    {
+      "name": "circular_images",
+      "value": "از آیکن های گِرد برای نمایش عکس و ویدیو استفاده کنید"
+    },
+    {
+      "name": "clear",
+      "value": "پاک کردن"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "مسیر به کلیپبورد کپی شد"
+    },
+    {
+      "name": "color_summary",
+      "value": "تنظیم کردن رنگ به رابط کاربری مختلف"
+    },
+    {
+      "name": "color_title",
+      "value": "رنگ"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "منوی رنگی"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "آیا سیستم منوی کشویی با پوشته رنگی شود یا نه"
+    },
+    {
+      "name": "colorize",
+      "value": "رنگبندی آیکن ها"
+    },
+    {
+      "name": "compress",
+      "value": "فشرده کردن"
+    },
+    {
+      "name": "connection_name",
+      "value": "نام اتصال"
+    },
+    {
+      "name": "contributors",
+      "value": "شرکاء"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "FTP سرور"
+    },
+    {
+      "name": "copy",
+      "value": "کپی"
+    },
+    {
+      "name": "copying",
+      "value": "در حال کپی کردن"
+    },
+    {
+      "name": "create",
+      "value": "ساخت"
+    },
+    {
+      "name": "creatingfile",
+      "value": "ساختن فایل"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "ساختن پوشه"
+    },
+    {
+      "name": "cut",
+      "value": "برش"
+    },
+    {
+      "name": "dark",
+      "value": "متریال تاریک"
+    },
+    {
+      "name": "database",
+      "value": "پایگاه داده"
+    },
+    {
+      "name": "databasereader",
+      "value": "خواننده پایگاه داده"
+    },
+    {
+      "name": "date",
+      "value": "تاریخ:"
+    },
+    {
+      "name": "daytime",
+      "value": "زمان روز"
+    },
+    {
+      "name": "default_string",
+      "value": "پیشفرض"
+    },
+    {
+      "name": "delete",
+      "value": "حذف"
+    },
+    {
+      "name": "deleting",
+      "value": "حذف"
+    },
+    {
+      "name": "descending",
+      "value": "نزولی"
+    },
+    {
+      "name": "details",
+      "value": "جزئیات"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "پوشه ها"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "واقعا میخواهید این فایل ها را حذف کنید"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "تایید"
+    },
+    {
+      "name": "directorysort",
+      "value": "حالت مرتب کردن پوشه"
+    },
+    {
+      "name": "documents",
+      "value": "اسناد"
+    },
+    {
+      "name": "doforall",
+      "value": "برای همه آیتم ها انجام دهید"
+    },
+    {
+      "name": "doit",
+      "value": "انجام دادن"
+    },
+    {
+      "name": "domain",
+      "value": "دامنه"
+    },
+    {
+      "name": "donate",
+      "value": "اهدا"
+    },
+    {
+      "name": "done",
+      "value": "انجام گردید"
+    },
+    {
+      "name": "drawer_close",
+      "value": "بستن کشو"
+    },
+    {
+      "name": "drawer_open",
+      "value": "باز کردن کشو"
+    },
+    {
+      "name": "duration",
+      "value": "مدت"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "هلندی"
+    },
+    {
+      "name": "edit",
+      "value": "ویرایش"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "فعال کردن حالت روت"
+    },
+    {
+      "name": "entername",
+      "value": "نام را وارد کنید"
+    },
+    {
+      "name": "enterpath",
+      "value": "مسیر را وارد کنید"
+    },
+    {
+      "name": "enterzipname",
+      "value": "نام فایل زیپ را وارد کنید"
+    },
+    {
+      "name": "error",
+      "value": "مشکل"
+    },
+    {
+      "name": "exit",
+      "value": "خروج"
+    },
+    {
+      "name": "exposure_time",
+      "value": "زمان نوردهی"
+    },
+    {
+      "name": "extract",
+      "value": "استخراج"
+    },
+    {
+      "name": "extracting",
+      "value": "در حال بیرون آمدن از فشرده"
+    },
+    {
+      "name": "feedback",
+      "value": "ارسال نظر"
+    },
+    {
+      "name": "file",
+      "value": "فایل"
+    },
+    {
+      "name": "file_empty",
+      "value": "فایل خالی است"
+    },
+    {
+      "name": "fileexist",
+      "value": "فایلی با همین نام وجود دارد"
+    },
+    {
+      "name": "files",
+      "value": "فایلها"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "فابل ها در بالا"
+    },
+    {
+      "name": "find",
+      "value": "پیدا کردن در صفحه"
+    },
+    {
+      "name": "focal_length",
+      "value": "فاصله کانونی"
+    },
+    {
+      "name": "folder",
+      "value": "پوشه"
+    },
+    {
+      "name": "folders",
+      "value": "پوشه ها"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "پوشه ها در بالا"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "فرانسوی"
+    },
+    {
+      "name": "ftp",
+      "value": "FTP سرور"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "مطمئن شوید که به وای فای متصل هستید"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "سرور اف تی بی در حال شروع میباشد"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "توقف"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "در %s"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "سرور اف تی پی حیرت انگیز درحال راه اندازی میباشد"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "درحال راه اندازی نیست"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "درحال راه اندازی"
+    },
+    {
+      "name": "general",
+      "value": "کلی"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "آلمانی"
+    },
+    {
+      "name": "goback",
+      "value": "برگشت به عقب"
+    },
+    {
+      "name": "grant",
+      "value": "اجازه دادن"
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "برنامه نیازمند اجازه برای دسترسی به منبع حافظه میباشد. لغو کردن این دایالوگ منجربه بستع شدن برنامه میباشد"
+    },
+    {
+      "name": "grantfailed",
+      "value": "مجوز داده نشد"
+    },
+    {
+      "name": "grantper",
+      "value": "اجازه دادن مجوز"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "یونان"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "تعداد ستون ها در نمای کاشی"
+    },
+    {
+      "name": "gridview",
+      "value": "نمای کاشی"
+    },
+    {
+      "name": "height",
+      "value": "ارتفاع"
+    },
+    {
+      "name": "hidden",
+      "value": "نمایش فایل ها و پوشه های مخفی"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "فایل های مخفی"
+    },
+    {
+      "name": "hide",
+      "value": "پنهان"
+    },
+    {
+      "name": "history",
+      "value": "تاریخچه"
+    },
+    {
+      "name": "home",
+      "value": "خانه"
+    },
+    {
+      "name": "icon",
+      "value": "آیکن"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "تنظیم رنگ برای آیکنها"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "رنگ آیکن"
+    },
+    {
+      "name": "image",
+      "value": "عکس"
+    },
+    {
+      "name": "images",
+      "value": "تصاویر"
+    },
+    {
+      "name": "in_safe",
+      "value": "فضای ناکافی"
+    },
+    {
+      "name": "information",
+      "value": "اطلاعات"
+    },
+    {
+      "name": "install",
+      "value": "نصب"
+    },
+    {
+      "name": "invalid",
+      "value": "تایید نشده %s"
+    },
+    {
+      "name": "invalid_name",
+      "value": "نام غیر قابل قبول"
+    },
+    {
+      "name": "ip",
+      "value": "آدرس"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "ایتالیایی"
+    },
+    {
+      "name": "item",
+      "value": "آیتم"
+    },
+    {
+      "name": "items",
+      "value": "آیتم ها"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "کره ای"
+    },
+    {
+      "name": "lastModified",
+      "value": "آخرین ویرایش"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "نمایش آخرین ویرایش"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "نمایش تاریخ و ساعت موقه ای که فایلی ویرایش می شود"
+    },
+    {
+      "name": "light",
+      "value": "متریال روشن"
+    },
+    {
+      "name": "listview",
+      "value": "نمای لیست"
+    },
+    {
+      "name": "loading",
+      "value": "در حال بارگذاری..."
+    },
+    {
+      "name": "location",
+      "value": "مکان:"
+    },
+    {
+      "name": "match_content",
+      "value": "هماهنگ کردن محتوا"
+    },
+    {
+      "name": "match_content_summary",
+      "value": "اگه تنظیم شود شرح ساده با کل نام فایل هماهنگ میشود.وگرنه برای رخداد نمایش خواهد داد"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "متفرقه"
+    },
+    {
+      "name": "moving",
+      "value": "در حال جابجایی کردن"
+    },
+    {
+      "name": "name",
+      "value": "نام:"
+    },
+    {
+      "name": "needs_access",
+      "value": "نیازمند دسترسی به نوشتن"
+    },
+    {
+      "name": "needs_access_summary",
+      "value": "لطفا پوشه ی روت را انتخاب کنید \\t"
+    },
+    {
+      "name": "needs_access_summary1",
+      "value": "\\t اجازه دادن رایت برای دسترسی به عملکرد"
+    },
+    {
+      "name": "newfile",
+      "value": "فایل جدید"
+    },
+    {
+      "name": "newfolder",
+      "value": "پوشه جدید"
+    },
+    {
+      "name": "no",
+      "value": "خیر"
+    },
+    {
+      "name": "no_app_found",
+      "value": "هیچ برنامه ای برای باز کردن این فایل پیدا نشد"
+    },
+    {
+      "name": "no_device_found",
+      "value": "هیچ دستگاهی پیدا نشد"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "هیچ فایلی جایگذاری نشده"
+    },
+    {
+      "name": "no_files",
+      "value": "هیچ فایلی"
+    },
+    {
+      "name": "none_on_top",
+      "value": "هیچ کدام در بالا"
+    },
+    {
+      "name": "not_allowed",
+      "value": "بدون اجازه"
+    },
+    {
+      "name": "ok",
+      "value": "تایید"
+    },
+    {
+      "name": "open",
+      "value": "باز کردن"
+    },
+    {
+      "name": "open_as",
+      "value": "باز کردن بر اساس"
+    },
+    {
+      "name": "open_parent",
+      "value": "پوشه بالایی را باز کنید"
+    },
+    {
+      "name": "open_with",
+      "value": "باز کردن با"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "عملیات ناموفق"
+    },
+    {
+      "name": "other",
+      "value": "دیگر"
+    },
+    {
+      "name": "overwrite",
+      "value": "جای گذاری"
+    },
+    {
+      "name": "package_installer",
+      "value": "نصب کننده پکیج"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "این یک نصب کننده پکیج می باشد. چه عملیاتی را می خواهید انجام دهید؟"
+    },
+    {
+      "name": "password",
+      "value": "رمز عبور"
+    },
+    {
+      "name": "paste",
+      "value": "جای گذاری"
+    },
+    {
+      "name": "path",
+      "value": "مسیر"
+    },
+    {
+      "name": "permission",
+      "value": "مجوز ها"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "یک فایل را انتخاب کنید"
+    },
+    {
+      "name": "play",
+      "value": "پلی استور"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "لهستانى‌"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "پرتقال"
+    },
+    {
+      "name": "press_again",
+      "value": "برای خروج دوباره دکمه را فشار دهید"
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "تنظیم کردن رنگ به رابط کاربری بزرگ"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "رنگ اولیه"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "تنظیم رنگ اولیه برای دومین تاب"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "رنگ اولیه برای دومین تاب"
+    },
+    {
+      "name": "process_viewer",
+      "value": "پردازش نمایشگر"
+    },
+    {
+      "name": "properties",
+      "value": "مشخصات"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "آیا می خواهید این مسیر را به عنوان مسیر خانه برای این تب تنظیم کنید"
+    },
+    {
+      "name": "quick",
+      "value": "دسترسی سریع"
+    },
+    {
+      "name": "random",
+      "value": "پوسته راندم"
+    },
+    {
+      "name": "random_summary",
+      "value": "رنگ اولیه راندم را در بالا آمدن ست کنید"
+    },
+    {
+      "name": "rate",
+      "value": "امتیاز دادن به برنامه"
+    },
+    {
+      "name": "recent",
+      "value": "آخرین فایلها"
+    },
+    {
+      "name": "regular_expression",
+      "value": "شرح معمولی"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "جستجوی با شرح ساده"
+    },
+    {
+      "name": "rename",
+      "value": "تغییر نام"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "ویرایش نشانه گذاریها"
+    },
+    {
+      "name": "renaming",
+      "value": "تغییر نام"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "رومانی"
+    },
+    {
+      "name": "root_directory",
+      "value": "روت"
+    },
+    {
+      "name": "root_failure",
+      "value": "دسترسی به روت داده نشده است"
+    },
+    {
+      "name": "root_mode",
+      "value": "جستجوگر روت"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "تنها برای گوشی های روت شده. اگر مطمئن هستید که گوشی تان روت است آن را امتحان کنید"
+    },
+    {
+      "name": "root_pref",
+      "value": "نمایش مجوز ها"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "نمایش مجوز ها برای فایل ها و فولدر ها"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "روسی"
+    },
+    {
+      "name": "save",
+      "value": "ذخیره"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "نمایش آخرین پوشه باز شده بعداز باز کردن برنامه"
+    },
+    {
+      "name": "save_paths",
+      "value": "یادآوری مسیر"
+    },
+    {
+      "name": "saving",
+      "value": "در حال ذخیره"
+    },
+    {
+      "name": "search",
+      "value": "جستجو"
+    },
+    {
+      "name": "search_hint",
+      "value": "برای جستجو تایپ کنید…"
+    },
+    {
+      "name": "searching_devices",
+      "value": "جستجو برای دستگاه ها"
+    },
+    {
+      "name": "select",
+      "value": "انتخاب آیتم"
+    },
+    {
+      "name": "select_all",
+      "value": "انتخاب همه"
+    },
+    {
+      "name": "select_intent",
+      "value": "انتخاب"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "صربستان"
+    },
+    {
+      "name": "server_address",
+      "value": "آدرس  ای پی سرور"
+    },
+    {
+      "name": "set",
+      "value": "تنظیم"
+    },
+    {
+      "name": "set_as_home",
+      "value": "تنظیم بعنوان خانه"
+    },
+    {
+      "name": "set_random",
+      "value": "تغییرات بعد از رستارت کردن برنامه اعمال خواهند شد"
+    },
+    {
+      "name": "setting",
+      "value": "تنظیمات"
+    },
+    {
+      "name": "share",
+      "value": "اشتراک گذاری"
+    },
+    {
+      "name": "show_dividers",
+      "value": "نمایش درایور"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "اندازه"
+    },
+    {
+      "name": "size_pref",
+      "value": "نمایش سایز"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "نمایش سایز فایل ها و تعداد فایل ها در پوشه"
+    },
+    {
+      "name": "skip",
+      "value": "صرف نظر"
+    },
+    {
+      "name": "smb_connection",
+      "value": "اتصال SMB"
+    },
+    {
+      "name": "sort",
+      "value": "مرتب کردن"
+    },
+    {
+      "name": "sort_by",
+      "value": "مرتب کردن بر اساس"
+    },
+    {
+      "name": "sort_name",
+      "value": "نام"
+    },
+    {
+      "name": "sort_size",
+      "value": "سایز"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "اسپانیایی"
+    },
+    {
+      "name": "start_ftp",
+      "value": "شروع"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "توقف"
+    },
+    {
+      "name": "stopping",
+      "value": "در حال توقف کردن"
+    },
+    {
+      "name": "text",
+      "value": "متنt"
+    },
+    {
+      "name": "textreader",
+      "value": "خواننده متن"
+    },
+    {
+      "name": "theme",
+      "value": "تم"
+    },
+    {
+      "name": "thumb",
+      "value": "نمایش بند انگشتی"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "نمای انگشتی را برای برنامه ها و عکس ها نمایش بده"
+    },
+    {
+      "name": "translators",
+      "value": "مترجمها"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "ترکیه"
+    },
+    {
+      "name": "type",
+      "value": "نوع"
+    },
+    {
+      "name": "ui",
+      "value": "رابط"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "اکراین"
+    },
+    {
+      "name": "unin_system_apk",
+      "value": "این یک برنامه ی سیستمی میباشد.حذف آن ممکن است در برنامه های سیستمی مشکل ایجاد شود.ادامه میدهید؟"
+    },
+    {
+      "name": "uninstall",
+      "value": "حذف"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "تغییرات ذخیره نشدند"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "شما تغییرات ذخیره نشده دارید میخواهید آنها را ذخیره کنید"
+    },
+    {
+      "name": "username",
+      "value": "نام کاربری"
+    },
+    {
+      "name": "version",
+      "value": "ورژن"
+    },
+    {
+      "name": "video",
+      "value": "تصویری"
+    },
+    {
+      "name": "videos",
+      "value": "ویدئوها"
+    },
+    {
+      "name": "view",
+      "value": "نمایش"
+    },
+    {
+      "name": "want_help",
+      "value": "به کمک نیازمندید؟"
+    },
+    {
+      "name": "warning",
+      "value": "اختار"
+    },
+    {
+      "name": "width",
+      "value": "عرض"
+    },
+    {
+      "name": "xda_summary",
+      "value": "کمک و رفع مشکل"
+    },
+    {
+      "name": "xda_title",
+      "value": "XDA"
+    },
+    {
+      "name": "yes",
+      "value": "بله"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "نمایش دهنده فایل فشرده"
+    }
+  ]
+}

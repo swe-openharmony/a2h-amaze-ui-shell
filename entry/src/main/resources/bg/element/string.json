@@ -1,0 +1,1328 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Относно"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "Относно Amaze файлов мениджър"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "Цвят за акцентиране"
+    },
+    {
+      "name": "accessed",
+      "value": "Достъпен"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "Добавяне на пряк път"
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "Добави в отметки"
+    },
+    {
+      "name": "advanced_search",
+      "value": "Разширено търсене"
+    },
+    {
+      "name": "album",
+      "value": "Албум"
+    },
+    {
+      "name": "anonymous",
+      "value": "Анонимен"
+    },
+    {
+      "name": "aperture_value",
+      "value": "Апертура стойност"
+    },
+    {
+      "name": "apks",
+      "value": "Apks"
+    },
+    {
+      "name": "app_name",
+      "value": "Amaze"
+    },
+    {
+      "name": "apps",
+      "value": "Мениджър приложения"
+    },
+    {
+      "name": "archive",
+      "value": "Архивиране"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "Папка за извличане на архива"
+    },
+    {
+      "name": "archive_text",
+      "value": "Това е архив. Какво действие искате да извършите?"
+    },
+    {
+      "name": "artist",
+      "value": "Изпълнител"
+    },
+    {
+      "name": "ascending",
+      "value": "Възходящо"
+    },
+    {
+      "name": "audio",
+      "value": "Аудио"
+    },
+    {
+      "name": "author",
+      "value": "Aвтор"
+    },
+    {
+      "name": "authors",
+      "value": "Автори"
+    },
+    {
+      "name": "backup",
+      "value": "Архивиране"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "Баски"
+    },
+    {
+      "name": "bitrate",
+      "value": "Битрейт"
+    },
+    {
+      "name": "bluetooth",
+      "value": "Bluetooth"
+    },
+    {
+      "name": "calculating",
+      "value": "изчисляване"
+    },
+    {
+      "name": "camera_model",
+      "value": "Модел камера"
+    },
+    {
+      "name": "cancel",
+      "value": "ОТКАЗ"
+    },
+    {
+      "name": "cancelled",
+      "value": "Отказано"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s не може да е празно"
+    },
+    {
+      "name": "change",
+      "value": "Промени"
+    },
+    {
+      "name": "changelog",
+      "value": "Нови неща"
+    },
+    {
+      "name": "channels",
+      "value": "Канали"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "Китайски"
+    },
+    {
+      "name": "choose_color",
+      "value": "Изберете цвят"
+    },
+    {
+      "name": "circular_icons",
+      "value": "Използвай кръгли икони"
+    },
+    {
+      "name": "circular_images",
+      "value": "Използвай кръгли икони за изображения и видео"
+    },
+    {
+      "name": "clear",
+      "value": "Изчисти"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "Пътят е копиран в клипборда"
+    },
+    {
+      "name": "codec",
+      "value": "Кодек"
+    },
+    {
+      "name": "color_title",
+      "value": "Цвят"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "Цветна навигационна лента"
+    },
+    {
+      "name": "colorize",
+      "value": "Оцвети иконите"
+    },
+    {
+      "name": "comment",
+      "value": "Коментар"
+    },
+    {
+      "name": "compress",
+      "value": "Компресирай"
+    },
+    {
+      "name": "compressing",
+      "value": "Компресиране"
+    },
+    {
+      "name": "compression_complete",
+      "value": "Компресирането е завършено"
+    },
+    {
+      "name": "connection_exists",
+      "value": "Вече съществува връзка"
+    },
+    {
+      "name": "connection_name",
+      "value": "Име на връзка"
+    },
+    {
+      "name": "container",
+      "value": "Съдържа"
+    },
+    {
+      "name": "contributors",
+      "value": "Сътрудници"
+    },
+    {
+      "name": "contributors_1_summary",
+      "value": "Превод"
+    },
+    {
+      "name": "contributors_2_summary",
+      "value": "Икона и банери"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "FTP сървър"
+    },
+    {
+      "name": "copied",
+      "value": "копирани"
+    },
+    {
+      "name": "copy",
+      "value": "Копирай"
+    },
+    {
+      "name": "copy_complete",
+      "value": "Копирането завършено"
+    },
+    {
+      "name": "copy_error",
+      "value": "Някои файлове не бяха успешно %s"
+    },
+    {
+      "name": "copying",
+      "value": "Копиране"
+    },
+    {
+      "name": "create",
+      "value": "СЪЗДАЙ"
+    },
+    {
+      "name": "created",
+      "value": "Създаден"
+    },
+    {
+      "name": "creatingfile",
+      "value": "Създаване на файл"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "Създаване на папка"
+    },
+    {
+      "name": "creator",
+      "value": "Създател"
+    },
+    {
+      "name": "crypt_decrypt",
+      "value": "Декриптиране"
+    },
+    {
+      "name": "crypt_decrypted",
+      "value": "Дешифровано"
+    },
+    {
+      "name": "crypt_decrypting",
+      "value": "Декриптиране"
+    },
+    {
+      "name": "crypt_encrypt",
+      "value": "Криптиране"
+    },
+    {
+      "name": "crypt_encrypted",
+      "value": "Шифровано"
+    },
+    {
+      "name": "crypt_encrypting",
+      "value": "Криптиране"
+    },
+    {
+      "name": "current_speed",
+      "value": "Текуща скорост"
+    },
+    {
+      "name": "cut",
+      "value": "Изрежи"
+    },
+    {
+      "name": "database",
+      "value": "База данни"
+    },
+    {
+      "name": "databasereader",
+      "value": "Четец на база данни"
+    },
+    {
+      "name": "date",
+      "value": "Дата"
+    },
+    {
+      "name": "date_modified",
+      "value": "Дата на промяна"
+    },
+    {
+      "name": "date_taken",
+      "value": "Дата на заснемане"
+    },
+    {
+      "name": "default_string",
+      "value": "Основен"
+    },
+    {
+      "name": "delbook",
+      "value": "Изтрий отметка"
+    },
+    {
+      "name": "delete",
+      "value": "Изтриване"
+    },
+    {
+      "name": "deleting",
+      "value": "Изтриване"
+    },
+    {
+      "name": "descending",
+      "value": "Низходящо"
+    },
+    {
+      "name": "details",
+      "value": "Подробности"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "Директории"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "Файлове"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "Наистина ли искате да изтриете следните файлове?"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Потвърждаване"
+    },
+    {
+      "name": "dimensions",
+      "value": "Размери"
+    },
+    {
+      "name": "documents",
+      "value": "Документи"
+    },
+    {
+      "name": "doforall",
+      "value": "Направи за всички елементи"
+    },
+    {
+      "name": "doit",
+      "value": "Направи го"
+    },
+    {
+      "name": "domain",
+      "value": "Домейн"
+    },
+    {
+      "name": "donate",
+      "value": "Дарение"
+    },
+    {
+      "name": "done",
+      "value": "Готово"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Затваряне на панела за навигация"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Отваряне на панела за навигация"
+    },
+    {
+      "name": "duration",
+      "value": "Времетраене"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "Холандски"
+    },
+    {
+      "name": "edit",
+      "value": "Редактиране"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "Разрешаване на Root режим"
+    },
+    {
+      "name": "entername",
+      "value": "Въведете име"
+    },
+    {
+      "name": "enterpath",
+      "value": "Въведете път"
+    },
+    {
+      "name": "error",
+      "value": "Грешка"
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "Грешка: Файлът не е намерен"
+    },
+    {
+      "name": "error_io",
+      "value": "I/O грешка"
+    },
+    {
+      "name": "exit",
+      "value": "Изход"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Експонация"
+    },
+    {
+      "name": "extract",
+      "value": "Извлечи"
+    },
+    {
+      "name": "extract_complete",
+      "value": "Извличането е завършено"
+    },
+    {
+      "name": "extracting",
+      "value": "Извличане"
+    },
+    {
+      "name": "feedback",
+      "value": "Изпрати отзив"
+    },
+    {
+      "name": "field_empty",
+      "value": "Полето не може да бъде празно"
+    },
+    {
+      "name": "file",
+      "value": "Файл"
+    },
+    {
+      "name": "file_empty",
+      "value": "Файлът е празен"
+    },
+    {
+      "name": "fileexist",
+      "value": "Вече съществува файл със същото име"
+    },
+    {
+      "name": "files",
+      "value": "Файлове"
+    },
+    {
+      "name": "find",
+      "value": "Намери в страницата"
+    },
+    {
+      "name": "flash_fired",
+      "value": "Със светкавица"
+    },
+    {
+      "name": "focal_length",
+      "value": "Дължина на фокуса"
+    },
+    {
+      "name": "folder",
+      "value": "Папка"
+    },
+    {
+      "name": "folders",
+      "value": "Папки"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "Папки на върха"
+    },
+    {
+      "name": "format",
+      "value": "Формат"
+    },
+    {
+      "name": "frame_rate",
+      "value": "Скорост на кадрите"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "Френски"
+    },
+    {
+      "name": "ftp",
+      "value": "FTP сървър"
+    },
+    {
+      "name": "ftp_login",
+      "value": "Вход"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "Уверете се, че сте свързани с Wi-Fi"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "FTP сървърът стартира"
+    },
+    {
+      "name": "ftp_notif_starting_title",
+      "value": "FTP сървър"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "Стоп"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "в %s"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "Amaze FTP сървърът работи"
+    },
+    {
+      "name": "ftp_path",
+      "value": "Споделен път"
+    },
+    {
+      "name": "ftp_path_change_error_invalid",
+      "value": "Невалиден път"
+    },
+    {
+      "name": "ftp_path_change_success",
+      "value": "FTP път е променен успешно"
+    },
+    {
+      "name": "ftp_port",
+      "value": "Порт"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "Невалиден номер на порт е избран"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "FTP порта е променен успешно"
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "FTP порт"
+    },
+    {
+      "name": "ftp_seconds",
+      "value": "Секунди"
+    },
+    {
+      "name": "ftp_status_no_connection",
+      "value": "Няма връзка"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "Не се изпълнява"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "Изпълнява се"
+    },
+    {
+      "name": "ftp_status_secure_connection",
+      "value": "Защитена връзка"
+    },
+    {
+      "name": "ftp_status_title",
+      "value": "Статус"
+    },
+    {
+      "name": "general",
+      "value": "Общи"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "Немски"
+    },
+    {
+      "name": "goback",
+      "value": "Назад"
+    },
+    {
+      "name": "grant",
+      "value": "Разреши"
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "Приложението се нуждае от достъп до хранилище за да продължи. Отменяне на този диалог ще спре приложението."
+    },
+    {
+      "name": "grantper",
+      "value": "Даване на разрешение"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "Гръцки"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "Брой на колоните в табличен изглед"
+    },
+    {
+      "name": "gridview",
+      "value": "Табличен изглед"
+    },
+    {
+      "name": "hash_sha256",
+      "value": "SHA-256"
+    },
+    {
+      "name": "height",
+      "value": "Височина"
+    },
+    {
+      "name": "hidden",
+      "value": "Показвай скритите файлове и папки"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "Скрити файлове"
+    },
+    {
+      "name": "hide",
+      "value": "Скрий"
+    },
+    {
+      "name": "history",
+      "value": "История"
+    },
+    {
+      "name": "home",
+      "value": "Вкъщи"
+    },
+    {
+      "name": "icon",
+      "value": "икона"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "Задаване цвят на икони"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "Цвят на иконата"
+    },
+    {
+      "name": "image",
+      "value": "Изображение"
+    },
+    {
+      "name": "image_type",
+      "value": "Тип изображение"
+    },
+    {
+      "name": "images",
+      "value": "Снимки"
+    },
+    {
+      "name": "in_safe",
+      "value": "Недостатъчно място"
+    },
+    {
+      "name": "information",
+      "value": "Информация"
+    },
+    {
+      "name": "install",
+      "value": "Обнови"
+    },
+    {
+      "name": "intellihide_toolbar_summary",
+      "value": "Автоматично скриване на лентата с инструменти докато превъртате"
+    },
+    {
+      "name": "invalid",
+      "value": "Невалиден %s"
+    },
+    {
+      "name": "invalid_name",
+      "value": "Невалидно име"
+    },
+    {
+      "name": "ip",
+      "value": "Адрес"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "Италиански"
+    },
+    {
+      "name": "item",
+      "value": "Елемент"
+    },
+    {
+      "name": "items",
+      "value": "Елементи"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "Японски"
+    },
+    {
+      "name": "keywords",
+      "value": "Ключови думи"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "Корейски"
+    },
+    {
+      "name": "lastModified",
+      "value": "Последно променени"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "Последно променени"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "Показване на датата и часа, когато файлът е последно променен"
+    },
+    {
+      "name": "listview",
+      "value": "Списъчен изглед"
+    },
+    {
+      "name": "loading",
+      "value": "Зареждане…"
+    },
+    {
+      "name": "location",
+      "value": "Местоположение"
+    },
+    {
+      "name": "md5",
+      "value": "MD5"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "Разни"
+    },
+    {
+      "name": "modified",
+      "value": "Променен"
+    },
+    {
+      "name": "moved",
+      "value": "преместени"
+    },
+    {
+      "name": "moving",
+      "value": "Преместване"
+    },
+    {
+      "name": "name",
+      "value": "Име"
+    },
+    {
+      "name": "needs_access",
+      "value": "Изисква достъп за запис"
+    },
+    {
+      "name": "newfile",
+      "value": "Нов файл"
+    },
+    {
+      "name": "newfolder",
+      "value": "Нова папка"
+    },
+    {
+      "name": "no",
+      "value": "Не"
+    },
+    {
+      "name": "no_app_found",
+      "value": "Не е намерено приложение за този тип файлове"
+    },
+    {
+      "name": "no_applications",
+      "value": "Няма приложения"
+    },
+    {
+      "name": "no_device_found",
+      "value": "Няма намерени устройства"
+    },
+    {
+      "name": "no_files",
+      "value": "Няма файлове"
+    },
+    {
+      "name": "not_allowed",
+      "value": "Не е позволено"
+    },
+    {
+      "name": "of",
+      "value": "от"
+    },
+    {
+      "name": "ok",
+      "value": "ОК"
+    },
+    {
+      "name": "open",
+      "value": "Отвори"
+    },
+    {
+      "name": "open_as",
+      "value": "Отвори като"
+    },
+    {
+      "name": "open_with",
+      "value": "Отвори с"
+    },
+    {
+      "name": "opening",
+      "value": "Отваряне.."
+    },
+    {
+      "name": "operation_fail_following",
+      "value": "Операцията е неуспешна за следните файлове"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "Неуспешна операция"
+    },
+    {
+      "name": "optimized",
+      "value": "Оптимизиран"
+    },
+    {
+      "name": "other",
+      "value": "Други"
+    },
+    {
+      "name": "out_of",
+      "value": "от"
+    },
+    {
+      "name": "overwrite",
+      "value": "Презапиши"
+    },
+    {
+      "name": "package_installer",
+      "value": "Инсталационен пакет"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "Това е инсталационен пакет. Какво действие искате да извършите?"
+    },
+    {
+      "name": "pages",
+      "value": "Брой страници"
+    },
+    {
+      "name": "paper_size",
+      "value": "Размер на страница"
+    },
+    {
+      "name": "password",
+      "value": "Парола"
+    },
+    {
+      "name": "paste",
+      "value": "Постави"
+    },
+    {
+      "name": "path",
+      "value": "Път"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "PayPal id копиран в клипборда"
+    },
+    {
+      "name": "permission",
+      "value": "Разрешения"
+    },
+    {
+      "name": "permission_execute",
+      "value": "Изпълни"
+    },
+    {
+      "name": "permission_group",
+      "value": "Група"
+    },
+    {
+      "name": "permission_other",
+      "value": "Други"
+    },
+    {
+      "name": "permission_owner",
+      "value": "Собственик"
+    },
+    {
+      "name": "permission_read",
+      "value": "Прочети"
+    },
+    {
+      "name": "permission_write",
+      "value": "Запиши"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "Изберете файл"
+    },
+    {
+      "name": "play",
+      "value": "Play Store"
+    },
+    {
+      "name": "please_wait",
+      "value": "Моля, изчакайте"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "Полски"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "Португалски"
+    },
+    {
+      "name": "press_again",
+      "value": "Натиснете отново, за изход"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "Основен цвят (ляв раздел)"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "Основен цвят (десен раздел)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "Преглед на процеси"
+    },
+    {
+      "name": "processing_file",
+      "value": "Обработка на файла"
+    },
+    {
+      "name": "producer",
+      "value": "Продуцент"
+    },
+    {
+      "name": "properties",
+      "value": "Свойства"
+    },
+    {
+      "name": "properties_copied_clipboard",
+      "value": "копиран в клипборда"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "Искате ли да зададете текущия път като домашен за този раздел?"
+    },
+    {
+      "name": "quick",
+      "value": "Бърз достъп"
+    },
+    {
+      "name": "random",
+      "value": "Случаен облик"
+    },
+    {
+      "name": "random_summary",
+      "value": "Задава случаен основен цвят при стартиране"
+    },
+    {
+      "name": "rate",
+      "value": "Оцени Приложението"
+    },
+    {
+      "name": "recent",
+      "value": "Последни файлове"
+    },
+    {
+      "name": "regular_expression",
+      "value": "Регулярен израз"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "Търсене с използване на Bash-style регулярен израз"
+    },
+    {
+      "name": "rename",
+      "value": "Преименувай"
+    },
+    {
+      "name": "renaming",
+      "value": "Преименуване"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "Докладвай грешка или поискай нова функция"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "Докладвайте грешка"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "Румънски"
+    },
+    {
+      "name": "root_directory",
+      "value": "Root"
+    },
+    {
+      "name": "root_failure",
+      "value": "Root достъп не е предоставен"
+    },
+    {
+      "name": "root_mode",
+      "value": "Root Explorer"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "Само за устройство с root достъп. Изберете само ако сте сигурен в това."
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "Покажи права на файлове и папки"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "Руски"
+    },
+    {
+      "name": "sample_rate",
+      "value": "Честота на дискр."
+    },
+    {
+      "name": "save",
+      "value": "Запиши"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "Когато стартира, ще бъдат показани най-наскоро разглежданите папка за всеки раздел"
+    },
+    {
+      "name": "save_paths",
+      "value": "Запомни пътищата"
+    },
+    {
+      "name": "saving",
+      "value": "Записване"
+    },
+    {
+      "name": "scp_port",
+      "value": "Порт"
+    },
+    {
+      "name": "search",
+      "value": "Търсене"
+    },
+    {
+      "name": "search_hint",
+      "value": "Пишете за търсене…"
+    },
+    {
+      "name": "searching_devices",
+      "value": "Търсене на устройства"
+    },
+    {
+      "name": "security",
+      "value": "Сигурност"
+    },
+    {
+      "name": "select",
+      "value": "Избери елемент"
+    },
+    {
+      "name": "select_all",
+      "value": "Избери всички"
+    },
+    {
+      "name": "select_intent",
+      "value": "Избери"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "Сръбски"
+    },
+    {
+      "name": "server_address",
+      "value": "Сървър IP адрес"
+    },
+    {
+      "name": "service_timer",
+      "value": "Изминало време"
+    },
+    {
+      "name": "set",
+      "value": "Задай"
+    },
+    {
+      "name": "setting",
+      "value": "Настройки"
+    },
+    {
+      "name": "share",
+      "value": "Споделяне"
+    },
+    {
+      "name": "share_limit",
+      "value": "Не може да споделяте повече от 100 файла"
+    },
+    {
+      "name": "show_dividers",
+      "value": "Покажи разделители"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Размер"
+    },
+    {
+      "name": "skip",
+      "value": "Прескочи"
+    },
+    {
+      "name": "smb_connection",
+      "value": "SMB връзка"
+    },
+    {
+      "name": "smb_launch_error",
+      "value": "Вие трябва да копирате този файл на диска за да го отворите"
+    },
+    {
+      "name": "software",
+      "value": "Софтуер"
+    },
+    {
+      "name": "sort",
+      "value": "Сортирай"
+    },
+    {
+      "name": "sort_by",
+      "value": "Подреждане по"
+    },
+    {
+      "name": "sort_name",
+      "value": "Име"
+    },
+    {
+      "name": "sort_size",
+      "value": "Размер"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "Испански"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Начало"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "Стоп"
+    },
+    {
+      "name": "stopping",
+      "value": "Спиране"
+    },
+    {
+      "name": "subject",
+      "value": "Относно"
+    },
+    {
+      "name": "support_development",
+      "value": "Подкрепете разработката"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "Тамилски"
+    },
+    {
+      "name": "text",
+      "value": "Текст"
+    },
+    {
+      "name": "textreader",
+      "value": "Четец на текст"
+    },
+    {
+      "name": "theme",
+      "value": "Тема"
+    },
+    {
+      "name": "thumb",
+      "value": "Покажи миниатюри"
+    },
+    {
+      "name": "title",
+      "value": "Заглавие"
+    },
+    {
+      "name": "translate_summary",
+      "value": "Преведи Amaze на вашия език"
+    },
+    {
+      "name": "translate_title",
+      "value": "Превод"
+    },
+    {
+      "name": "translators",
+      "value": "Преводачи"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "Турски"
+    },
+    {
+      "name": "type",
+      "value": "Тип"
+    },
+    {
+      "name": "ui",
+      "value": "Интерфейс"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "Украински"
+    },
+    {
+      "name": "unin_system_apk",
+      "value": "Това е системно приложение, изтриването му може да доведе до нестабилност на системата. \\nДа продължа ли?"
+    },
+    {
+      "name": "uninstall",
+      "value": "Деинсталирай"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Опа нещо се обърка!"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "Незаписани промени"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "Имате незаписани промени, искате ли да ги запишете преди да излезете?"
+    },
+    {
+      "name": "username",
+      "value": "Потребителско име"
+    },
+    {
+      "name": "version",
+      "value": "Версия"
+    },
+    {
+      "name": "video",
+      "value": "Видео"
+    },
+    {
+      "name": "videos",
+      "value": "Видео"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "Виетнамски"
+    },
+    {
+      "name": "view",
+      "value": "Преглед"
+    },
+    {
+      "name": "waiting_content",
+      "value": "Изчакване да завърши операцията"
+    },
+    {
+      "name": "waiting_title",
+      "value": "Изчакване"
+    },
+    {
+      "name": "want_help",
+      "value": "Нужда от помощ?"
+    },
+    {
+      "name": "warning",
+      "value": "Внимание"
+    },
+    {
+      "name": "width",
+      "value": "Ширина"
+    },
+    {
+      "name": "written",
+      "value": "Записани"
+    },
+    {
+      "name": "xda_title",
+      "value": "XDA нишка"
+    },
+    {
+      "name": "year",
+      "value": "Година"
+    },
+    {
+      "name": "yes",
+      "value": "Да"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "Zip преглед"
+    }
+  ]
+}

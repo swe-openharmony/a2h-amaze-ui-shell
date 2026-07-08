@@ -1,0 +1,400 @@
+{
+  "string": [
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "Om Amaze File Manager"
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "Legg til i bokmerkene"
+    },
+    {
+      "name": "apks",
+      "value": "APK-er"
+    },
+    {
+      "name": "apps",
+      "value": "App-behandler"
+    },
+    {
+      "name": "ascending",
+      "value": "Stigende"
+    },
+    {
+      "name": "audio",
+      "value": "Lyd"
+    },
+    {
+      "name": "backup",
+      "value": "Sikkerhetskopier"
+    },
+    {
+      "name": "cancel",
+      "value": "Avbryt"
+    },
+    {
+      "name": "changelog",
+      "value": "Endringslogg"
+    },
+    {
+      "name": "cloud_connection",
+      "value": "Skytilkobling"
+    },
+    {
+      "name": "color_title",
+      "value": "Farge"
+    },
+    {
+      "name": "compress",
+      "value": "Komprimer"
+    },
+    {
+      "name": "copied",
+      "value": "ble kopiert"
+    },
+    {
+      "name": "copy",
+      "value": "Kopier"
+    },
+    {
+      "name": "crypt_decrypt",
+      "value": "Dekrypter"
+    },
+    {
+      "name": "crypt_encrypt",
+      "value": "Krypter"
+    },
+    {
+      "name": "cut",
+      "value": "Klipp ut"
+    },
+    {
+      "name": "default_string",
+      "value": "Standard"
+    },
+    {
+      "name": "descending",
+      "value": "Synkende"
+    },
+    {
+      "name": "details",
+      "value": "Detaljer"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "Mapper"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "Filer"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Bekreft"
+    },
+    {
+      "name": "directorysort",
+      "value": "Mappesorteringsmodus"
+    },
+    {
+      "name": "documents",
+      "value": "Dokumenter"
+    },
+    {
+      "name": "donate",
+      "value": "Donasjon"
+    },
+    {
+      "name": "done",
+      "value": "Ferdig"
+    },
+    {
+      "name": "duration",
+      "value": "Varighet"
+    },
+    {
+      "name": "edit",
+      "value": "Rediger"
+    },
+    {
+      "name": "entername",
+      "value": "Skriv inn dens navn"
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "Feil: Filen ble ikke funnet"
+    },
+    {
+      "name": "exit",
+      "value": "Avslutt"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Eksponeringstid"
+    },
+    {
+      "name": "extract",
+      "value": "Utvinn"
+    },
+    {
+      "name": "file",
+      "value": "Fil"
+    },
+    {
+      "name": "files",
+      "value": "Filer"
+    },
+    {
+      "name": "focal_length",
+      "value": "Brennvidde"
+    },
+    {
+      "name": "folder",
+      "value": "Mappe"
+    },
+    {
+      "name": "folderfilecount",
+      "value": "%1$d mapper og %2$d filer"
+    },
+    {
+      "name": "folders",
+      "value": "Mapper"
+    },
+    {
+      "name": "ftp",
+      "value": "FTP-tjener"
+    },
+    {
+      "name": "ftp_path",
+      "value": "Den delte filbanen"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "Kjører ikke"
+    },
+    {
+      "name": "general",
+      "value": "Generelt"
+    },
+    {
+      "name": "gridview",
+      "value": "Nettingsvisning"
+    },
+    {
+      "name": "height",
+      "value": "Høyde"
+    },
+    {
+      "name": "history",
+      "value": "Logg"
+    },
+    {
+      "name": "home",
+      "value": "Startside"
+    },
+    {
+      "name": "image",
+      "value": "Bilde"
+    },
+    {
+      "name": "images",
+      "value": "Bilder"
+    },
+    {
+      "name": "information",
+      "value": "Informasjon"
+    },
+    {
+      "name": "lastModified",
+      "value": "Nyligst endrede"
+    },
+    {
+      "name": "moved",
+      "value": "ble flyttet"
+    },
+    {
+      "name": "newfolder",
+      "value": "Ny mappe"
+    },
+    {
+      "name": "no",
+      "value": "Nei"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "open",
+      "value": "Åpne"
+    },
+    {
+      "name": "open_as",
+      "value": "Åpne som"
+    },
+    {
+      "name": "open_with",
+      "value": "Åpne med"
+    },
+    {
+      "name": "other",
+      "value": "Annet"
+    },
+    {
+      "name": "password",
+      "value": "Passord"
+    },
+    {
+      "name": "paste",
+      "value": "Lim inn"
+    },
+    {
+      "name": "path",
+      "value": "Filbane"
+    },
+    {
+      "name": "permission_execute",
+      "value": "Kan iverksette"
+    },
+    {
+      "name": "permission_group",
+      "value": "Gruppe"
+    },
+    {
+      "name": "permission_other",
+      "value": "Annet"
+    },
+    {
+      "name": "permission_owner",
+      "value": "Eier"
+    },
+    {
+      "name": "permission_read",
+      "value": "Les"
+    },
+    {
+      "name": "permission_write",
+      "value": "Skriv"
+    },
+    {
+      "name": "play",
+      "value": "Play Store"
+    },
+    {
+      "name": "properties",
+      "value": "Egenskaper"
+    },
+    {
+      "name": "quick",
+      "value": "Hurtigtilgang"
+    },
+    {
+      "name": "recent",
+      "value": "Nylige filer"
+    },
+    {
+      "name": "rename",
+      "value": "Gi nytt navn"
+    },
+    {
+      "name": "root_mode",
+      "value": "Root-utforsker"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "Kun for rootede enheter. Velg dette kun dersom du er sikker på det."
+    },
+    {
+      "name": "save",
+      "value": "Lagre"
+    },
+    {
+      "name": "search_hint",
+      "value": "Skriv for å søke …"
+    },
+    {
+      "name": "set_as_home",
+      "value": "Gjør til startside"
+    },
+    {
+      "name": "setting",
+      "value": "Innstillinger"
+    },
+    {
+      "name": "share",
+      "value": "Del"
+    },
+    {
+      "name": "sidebar_preferences",
+      "value": "Sidelinjen"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Størrelse"
+    },
+    {
+      "name": "size_pref",
+      "value": "Vis størrelser"
+    },
+    {
+      "name": "sort",
+      "value": "Sorter"
+    },
+    {
+      "name": "sort_by",
+      "value": "Sorter etter"
+    },
+    {
+      "name": "sort_name",
+      "value": "Navn"
+    },
+    {
+      "name": "sort_size",
+      "value": "Størrelse"
+    },
+    {
+      "name": "text",
+      "value": "Tekst"
+    },
+    {
+      "name": "theme",
+      "value": "Tema"
+    },
+    {
+      "name": "ui",
+      "value": "Grensesnitt"
+    },
+    {
+      "name": "uninstall",
+      "value": "Avinstaller"
+    },
+    {
+      "name": "username",
+      "value": "Brukernavn"
+    },
+    {
+      "name": "version",
+      "value": "Versjon"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "videos",
+      "value": "Videoer"
+    },
+    {
+      "name": "warning",
+      "value": "Advarsel"
+    },
+    {
+      "name": "width",
+      "value": "Bredde"
+    },
+    {
+      "name": "yes",
+      "value": "Ja"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "string": [
+    {
+      "name": "cancel",
+      "value": "CANCEL·LA"
+    },
+    {
+      "name": "changelog",
+      "value": "Registre de canvis"
+    },
+    {
+      "name": "default_string",
+      "value": "per defecte"
+    },
+    {
+      "name": "delete",
+      "value": "Suprimeix"
+    },
+    {
+      "name": "details",
+      "value": "Detalls"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Confirma"
+    },
+    {
+      "name": "donate",
+      "value": "Donar"
+    },
+    {
+      "name": "done",
+      "value": "Fet"
+    },
+    {
+      "name": "duration",
+      "value": "Durada"
+    },
+    {
+      "name": "exit",
+      "value": "Sortir"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Temps d'exposició"
+    },
+    {
+      "name": "focal_length",
+      "value": "Longitud focal"
+    },
+    {
+      "name": "height",
+      "value": "Alçada"
+    },
+    {
+      "name": "history",
+      "value": "Històrial"
+    },
+    {
+      "name": "home",
+      "value": "Casa"
+    },
+    {
+      "name": "information",
+      "value": "Informació"
+    },
+    {
+      "name": "install",
+      "value": "Instal·la"
+    },
+    {
+      "name": "no",
+      "value": "No"
+    },
+    {
+      "name": "ok",
+      "value": "D'acord"
+    },
+    {
+      "name": "other",
+      "value": "Altres"
+    },
+    {
+      "name": "password",
+      "value": "Contrasenya"
+    },
+    {
+      "name": "path",
+      "value": "Camí"
+    },
+    {
+      "name": "permission_other",
+      "value": "Altres"
+    },
+    {
+      "name": "save",
+      "value": "Desa"
+    },
+    {
+      "name": "share",
+      "value": "Comparteix"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Mida"
+    },
+    {
+      "name": "skip",
+      "value": "Omet"
+    },
+    {
+      "name": "sort_size",
+      "value": "Mida"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Inicia"
+    },
+    {
+      "name": "version",
+      "value": "Versió"
+    },
+    {
+      "name": "warning",
+      "value": "Alerta"
+    },
+    {
+      "name": "width",
+      "value": "Amplada"
+    },
+    {
+      "name": "yes",
+      "value": "Sí"
+    }
+  ]
+}

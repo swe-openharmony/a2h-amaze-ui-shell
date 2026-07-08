@@ -1,0 +1,108 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "About"
+    },
+    {
+      "name": "archive",
+      "value": "Archive"
+    },
+    {
+      "name": "changelog",
+      "value": "Changelog"
+    },
+    {
+      "name": "color_title",
+      "value": "রঙ"
+    },
+    {
+      "name": "default_string",
+      "value": "Default"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "নিশ্চিত করুন"
+    },
+    {
+      "name": "donate",
+      "value": "দান করুন"
+    },
+    {
+      "name": "done",
+      "value": "সম্পন্ন হয়েছে"
+    },
+    {
+      "name": "edit",
+      "value": "Edit"
+    },
+    {
+      "name": "exit",
+      "value": "প্রস্থান"
+    },
+    {
+      "name": "exposure_time",
+      "value": "এক্সপোজার সময়"
+    },
+    {
+      "name": "focal_length",
+      "value": "ফোকাল দৈর্ঘ্য"
+    },
+    {
+      "name": "history",
+      "value": "ইতিহাস"
+    },
+    {
+      "name": "information",
+      "value": "তথ্য"
+    },
+    {
+      "name": "no",
+      "value": "না"
+    },
+    {
+      "name": "other",
+      "value": "অন্যান্য"
+    },
+    {
+      "name": "password",
+      "value": "পাসওয়ার্ড"
+    },
+    {
+      "name": "permission_other",
+      "value": "অন্যান্য"
+    },
+    {
+      "name": "setting",
+      "value": "Settings"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "আকার"
+    },
+    {
+      "name": "skip",
+      "value": "Skip"
+    },
+    {
+      "name": "sort_size",
+      "value": "আকার"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Start"
+    },
+    {
+      "name": "version",
+      "value": "সংস্করণ"
+    },
+    {
+      "name": "warning",
+      "value": "সতর্কতা"
+    },
+    {
+      "name": "yes",
+      "value": "হ্যাঁ"
+    }
+  ]
+}

@@ -1,0 +1,2712 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "О приложении"
+    },
+    {
+      "name": "about_amaze",
+      "value": "Файловый менеджер с материальным дизайном для Android"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "Об Amaze File Manager"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "Установить цвет плав. кнопки и других маленьких элементов UI"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "Цвет акцента"
+    },
+    {
+      "name": "accessed",
+      "value": "Доступ"
+    },
+    {
+      "name": "add_item",
+      "value": "Добавить элемент"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "Добавить ярлык"
+    },
+    {
+      "name": "add_shortcut_not_supported_by_launcher",
+      "value": "Создание ярлыков не поддерживается Вашим лаунчером."
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "Добавить в закладки"
+    },
+    {
+      "name": "advanced",
+      "value": "Дополнительно"
+    },
+    {
+      "name": "advanced_search",
+      "value": "Расширенный поиск"
+    },
+    {
+      "name": "album",
+      "value": "Альбом"
+    },
+    {
+      "name": "always",
+      "value": "Всегда"
+    },
+    {
+      "name": "amaze_audio_player",
+      "value": "Проигрыватель музыки Amaze"
+    },
+    {
+      "name": "amaze_utils_installed_alias",
+      "value": "Спасибо за установку Amaze File Utilities. Вы будете перенаправлены в приложение."
+    },
+    {
+      "name": "analyse_storage",
+      "value": "Анализ хранилища"
+    },
+    {
+      "name": "android_data_prompt_saf_access_title",
+      "value": "Предоставить доступ ко всем файлам"
+    },
+    {
+      "name": "anonymous",
+      "value": "Анонимно"
+    },
+    {
+      "name": "aperture_value",
+      "value": "Значение диафрагмы"
+    },
+    {
+      "name": "apks",
+      "value": "APK-файлы"
+    },
+    {
+      "name": "app_name",
+      "value": "Файловый менеджер Amazе"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "Сбой приложения/интерфейса"
+    },
+    {
+      "name": "appearance",
+      "value": "Внешний вид"
+    },
+    {
+      "name": "appearance_summary",
+      "value": "Настройте тему, цвета и внешний вид файлового менеджера"
+    },
+    {
+      "name": "apps",
+      "value": "Менеджер приложений"
+    },
+    {
+      "name": "archive",
+      "value": "Архивы"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "Папка для распаковки архивов"
+    },
+    {
+      "name": "archive_password_prompt",
+      "value": "Пожалуйста, введите пароль архива:"
+    },
+    {
+      "name": "archive_summary",
+      "value": "Файлы из архивов будут распакованы в указанную папку. По умолчанию это папка, в которой находятся zip-файлы"
+    },
+    {
+      "name": "archive_text",
+      "value": "Это архив. Какое действие вы хотели бы выполнить\\?"
+    },
+    {
+      "name": "archive_unsupported_or_corrupt",
+      "value": "Невозможно открыть архив  \"%s\". Либо мы не можем открыть архив, либо архив был поврежден."
+    },
+    {
+      "name": "artist",
+      "value": "Артист"
+    },
+    {
+      "name": "ascending",
+      "value": "По возрастанию"
+    },
+    {
+      "name": "audio",
+      "value": "Аудио"
+    },
+    {
+      "name": "authenticate_password",
+      "value": "Введите пароль"
+    },
+    {
+      "name": "author",
+      "value": "Автор"
+    },
+    {
+      "name": "authors",
+      "value": "Авторы"
+    },
+    {
+      "name": "back_summary",
+      "value": "Кнопка назад в верхней части списка"
+    },
+    {
+      "name": "back_title",
+      "value": "Кнопка назад"
+    },
+    {
+      "name": "backup",
+      "value": "Резервная копия"
+    },
+    {
+      "name": "backup_summary",
+      "value": "Экспорт и импорт настроек Amaze"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "Баскский"
+    },
+    {
+      "name": "behavior",
+      "value": "Поведение"
+    },
+    {
+      "name": "behavior_summary",
+      "value": "Измените поведение, например расширенный поиск и возможность открытия файлов в качестве новой задачи."
+    },
+    {
+      "name": "bitrate",
+      "value": "Битрейт"
+    },
+    {
+      "name": "black",
+      "value": "Чёрная (для OLED-экранов)"
+    },
+    {
+      "name": "blue",
+      "value": "Синий"
+    },
+    {
+      "name": "bluetooth",
+      "value": "Bluetooth"
+    },
+    {
+      "name": "bookmark_exists",
+      "value": "Закладка существует"
+    },
+    {
+      "name": "bookmark_lost",
+      "value": "Закладка не найдена, пересоздание…"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "Добавлено в закладки"
+    },
+    {
+      "name": "byte_singular",
+      "value": "Байт"
+    },
+    {
+      "name": "bytes",
+      "value": "Байты"
+    },
+    {
+      "name": "calculating",
+      "value": "вычисление"
+    },
+    {
+      "name": "camera_brand",
+      "value": "Марка камеры"
+    },
+    {
+      "name": "camera_model",
+      "value": "Модель камеры"
+    },
+    {
+      "name": "cancel",
+      "value": "Отмена"
+    },
+    {
+      "name": "cancel_recommended",
+      "value": "Отмена (рекомендуется)"
+    },
+    {
+      "name": "cancelled",
+      "value": "Отменено"
+    },
+    {
+      "name": "cannot_delete_file",
+      "value": "Не удаётся удалить файл"
+    },
+    {
+      "name": "cannot_delete_file_with_reason",
+      "value": "Не удаётся удалить файл - %s"
+    },
+    {
+      "name": "cannot_extract_archive",
+      "value": "Не удается извлечь архив \"%s\": %s"
+    },
+    {
+      "name": "cannot_overwrite",
+      "value": "Невозможно перезаписать файл."
+    },
+    {
+      "name": "cannot_read_directory",
+      "value": "Не удаётся прочитать папку%s - %s"
+    },
+    {
+      "name": "cannot_rename_file",
+      "value": "Не удаётся переименовать файл %s - %s"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s не может быть пустым"
+    },
+    {
+      "name": "change",
+      "value": "Изменить"
+    },
+    {
+      "name": "changelog",
+      "value": "История изменений"
+    },
+    {
+      "name": "channel_description_ftp",
+      "value": "Уведомления FTP сервера Файлового Менеджера Amaze"
+    },
+    {
+      "name": "channel_description_normal",
+      "value": "Уведомления Файлового Менеджера Amaze"
+    },
+    {
+      "name": "channel_name_ftp",
+      "value": "Amaze FTP-сервер"
+    },
+    {
+      "name": "channel_name_normal",
+      "value": "Уведомления Amaze"
+    },
+    {
+      "name": "channels",
+      "value": "Каналы"
+    },
+    {
+      "name": "checking_conflicts",
+      "value": "Проверять на конфликты"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "Китайский"
+    },
+    {
+      "name": "choose_color",
+      "value": "Выберите цвет"
+    },
+    {
+      "name": "choose_different_app",
+      "value": "Выбрать другое приложение"
+    },
+    {
+      "name": "choose_folder",
+      "value": "Выберите эту папку"
+    },
+    {
+      "name": "choose_operation",
+      "value": "Выберите операцию, которую нужно выполнить"
+    },
+    {
+      "name": "circular_icons",
+      "value": "Использовать круглые иконки"
+    },
+    {
+      "name": "circular_images",
+      "value": "Использовать круглые иконки для изображений и видео"
+    },
+    {
+      "name": "clear",
+      "value": "Очистить"
+    },
+    {
+      "name": "clear_open_file",
+      "value": "Очистить кэш"
+    },
+    {
+      "name": "clear_open_file_summary",
+      "value": "Очищает выбранные приложения для открытия файлов по умолчанию"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "Путь скопирован в буфер обмена"
+    },
+    {
+      "name": "close",
+      "value": "Закрыть"
+    },
+    {
+      "name": "cloud_box",
+      "value": "Ящик"
+    },
+    {
+      "name": "cloud_connection",
+      "value": "Облачное соединение"
+    },
+    {
+      "name": "cloud_connection_credentials_cleared",
+      "value": "Данные для подключения к облаку были очищены"
+    },
+    {
+      "name": "cloud_connection_credentials_cleared_msg",
+      "value": "К сожалению, нам не удалось перенести ваши учётные данные для подключения к облаку в новую схему базы данных, и нам пришлось удалить их из приложения. Пожалуйста, создайте подключение к облаку ещё раз."
+    },
+    {
+      "name": "cloud_connection_new",
+      "value": "Новое облачное соединение"
+    },
+    {
+      "name": "cloud_drive",
+      "value": "Google Drive™"
+    },
+    {
+      "name": "cloud_drive_tooltip",
+      "value": "Создайте подключение к Google Drive™ для управления файлами из Amaze File Manager."
+    },
+    {
+      "name": "cloud_dropbox",
+      "value": "Dropbox"
+    },
+    {
+      "name": "cloud_error_failed_restart",
+      "value": "Не удалось установить соединение.        Пожалуйста откройте Amaze Cloud."
+    },
+    {
+      "name": "cloud_error_fdroid",
+      "value": "Плагин Amaze Cloud не поддерживается версией F-Droid. Пожалуйста, используйте версию Amaze из Play Store."
+    },
+    {
+      "name": "cloud_error_plugin",
+      "value": "Плагин Amaze Cloud не найден. Пожалуйста загрузите его из Play Маркета."
+    },
+    {
+      "name": "cloud_fail_authenticate",
+      "value": "Ошибка аутентификации"
+    },
+    {
+      "name": "cloud_get",
+      "value": "Получить Облачный плагин"
+    },
+    {
+      "name": "cloud_onedrive",
+      "value": "OneDrive"
+    },
+    {
+      "name": "cloud_remove",
+      "value": "Вы хотите удалить облачное соединение\\?"
+    },
+    {
+      "name": "cloud_share_copied",
+      "value": "Ссылка скопирована в буфер обмена"
+    },
+    {
+      "name": "cloud_token_lost",
+      "value": "Идентификатор потерян, пожалуйста, войдите снова"
+    },
+    {
+      "name": "codec",
+      "value": "Кодек"
+    },
+    {
+      "name": "color_summary",
+      "value": "Установить цвет для различных компонентов UI"
+    },
+    {
+      "name": "color_title",
+      "value": "Цвет"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "Цветная панель навигации"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "Окраска панели навигации вместе со скином"
+    },
+    {
+      "name": "colorize",
+      "value": "Раскрасить иконки"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "Устанавливает цвета иконок отличающиеся от темы"
+    },
+    {
+      "name": "comment",
+      "value": "Комментарий"
+    },
+    {
+      "name": "complete_paste_warning",
+      "value": "Пожалуйста, сначала завершите операцию вставки."
+    },
+    {
+      "name": "compress",
+      "value": "Архивировать"
+    },
+    {
+      "name": "compress_file_suggest_zip_extension",
+      "value": "В качестве расширения файла рекомендуется использовать \".zip\"."
+    },
+    {
+      "name": "compressed",
+      "value": "Сжатый"
+    },
+    {
+      "name": "compressed_explorer_fragment_error_open_uri",
+      "value": "Ошибка при открытии URI \"%s\" для чтения."
+    },
+    {
+      "name": "compressing",
+      "value": "Сжатие"
+    },
+    {
+      "name": "compression_complete",
+      "value": "Сжатие завершено"
+    },
+    {
+      "name": "confirmation",
+      "value": "Подтверждение"
+    },
+    {
+      "name": "connection_exists",
+      "value": "Соединение уже установлено"
+    },
+    {
+      "name": "connection_name",
+      "value": "Название соединения"
+    },
+    {
+      "name": "container",
+      "value": "Контейнер"
+    },
+    {
+      "name": "contributors",
+      "value": "Авторы"
+    },
+    {
+      "name": "contributors_1_summary",
+      "value": "Перевод"
+    },
+    {
+      "name": "contributors_2_summary",
+      "value": "Значок и баннеры"
+    },
+    {
+      "name": "contributors_3_summary",
+      "value": "Тематический движок"
+    },
+    {
+      "name": "contributors_4_summary",
+      "value": "Тень позади FAB"
+    },
+    {
+      "name": "contributors_5_summary",
+      "value": "Цветовой переход при свайпе вкладок"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "FTP сервер"
+    },
+    {
+      "name": "contributors_7_summary",
+      "value": "Вызов интерактивной оболочки"
+    },
+    {
+      "name": "copied",
+      "value": "скопированы"
+    },
+    {
+      "name": "copy",
+      "value": "Копировать"
+    },
+    {
+      "name": "copy_complete",
+      "value": "Копирование завершено"
+    },
+    {
+      "name": "copy_error",
+      "value": "Некоторые файлы не были успешно %s"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Копировать отформатированный отчет"
+    },
+    {
+      "name": "copy_low_memory",
+      "value": "Недостаточно оперативной памяти, пожалуйста освободите больше ОЗУ"
+    },
+    {
+      "name": "copying",
+      "value": "Копирование..."
+    },
+    {
+      "name": "copyingapks",
+      "value": "Копирование %d APK-файлов в %s"
+    },
+    {
+      "name": "crash_report_copied",
+      "value": "Отчёт об ошибке скопирован в буфер обмена."
+    },
+    {
+      "name": "create",
+      "value": "Создать"
+    },
+    {
+      "name": "create_bookmark",
+      "value": "Создать закладку"
+    },
+    {
+      "name": "create_file_suggest_txt_extension",
+      "value": "В качестве расширения файла рекомендуется использовать \".txt\"."
+    },
+    {
+      "name": "create_hidden_file_warn",
+      "value": "Созданный файл будет скрыт в списке файлов."
+    },
+    {
+      "name": "created",
+      "value": "Создано"
+    },
+    {
+      "name": "creatingfile",
+      "value": "Создание файла"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "Создание папки"
+    },
+    {
+      "name": "creator",
+      "value": "Создатель"
+    },
+    {
+      "name": "crypt_decrypt",
+      "value": "Расшифровать"
+    },
+    {
+      "name": "crypt_decrypted",
+      "value": "Расшифрованный"
+    },
+    {
+      "name": "crypt_decrypting",
+      "value": "Расшифровка"
+    },
+    {
+      "name": "crypt_decryption_fail",
+      "value": "Не удалось расшифровать"
+    },
+    {
+      "name": "crypt_decryption_fail_password",
+      "value": "Неверный пароль!"
+    },
+    {
+      "name": "crypt_encrypt",
+      "value": "Шифровать"
+    },
+    {
+      "name": "crypt_encrypted",
+      "value": "Зашифровано"
+    },
+    {
+      "name": "crypt_encrypting",
+      "value": "Шифрование"
+    },
+    {
+      "name": "crypt_encryption_fail",
+      "value": "Не удалось зашифровать"
+    },
+    {
+      "name": "crypt_fingerprint_authenticate",
+      "value": "Коснитесь сенсора для продолжения"
+    },
+    {
+      "name": "crypt_fingerprint_no_permission",
+      "value": "Отсутствуют разрешения для отпечатка пальцев"
+    },
+    {
+      "name": "crypt_fingerprint_no_security",
+      "value": "Защищенный экран не найден"
+    },
+    {
+      "name": "crypt_fingerprint_not_enrolled",
+      "value": "Отпечаток не зарегистрирован"
+    },
+    {
+      "name": "crypt_pref_fingerprint_summary",
+      "value": "Использовать отпечатки пальцев для аутентификации шифрования"
+    },
+    {
+      "name": "crypt_pref_fingerprint_title",
+      "value": "Отпечаток пальца"
+    },
+    {
+      "name": "crypt_pref_master_password_summary",
+      "value": "Задайте пароль для шифрования. Оставьте поле пустым для удаления."
+    },
+    {
+      "name": "crypt_pref_master_password_title",
+      "value": "Основной пароль"
+    },
+    {
+      "name": "crypt_warning_key",
+      "value": "Имейте ввиду, при смене графического ключа в системных настройках, вы не сможете расшифровать эти данные."
+    },
+    {
+      "name": "current_speed",
+      "value": "Текущая скорость"
+    },
+    {
+      "name": "custom",
+      "value": "Своя"
+    },
+    {
+      "name": "customize",
+      "value": "Настроить свою схему"
+    },
+    {
+      "name": "cut",
+      "value": "Вырезать"
+    },
+    {
+      "name": "dark",
+      "value": "Тёмная"
+    },
+    {
+      "name": "database",
+      "value": "База данных"
+    },
+    {
+      "name": "databasereader",
+      "value": "Просмотрщик баз данных"
+    },
+    {
+      "name": "date",
+      "value": "Дата"
+    },
+    {
+      "name": "date_modified",
+      "value": "Дата изменения"
+    },
+    {
+      "name": "date_taken",
+      "value": "Дата съемки"
+    },
+    {
+      "name": "daytime",
+      "value": "Дневное время"
+    },
+    {
+      "name": "default_string",
+      "value": "По умолчанию"
+    },
+    {
+      "name": "delbook",
+      "value": "Удалить закладку"
+    },
+    {
+      "name": "delete",
+      "value": "Удалить"
+    },
+    {
+      "name": "delete_permanently_checkbox",
+      "value": "Удалить навсегда"
+    },
+    {
+      "name": "deleting",
+      "value": "Удаление..."
+    },
+    {
+      "name": "descending",
+      "value": "По убыванию"
+    },
+    {
+      "name": "deselect_all",
+      "value": "Убрать выделение"
+    },
+    {
+      "name": "details",
+      "value": "Подробнее"
+    },
+    {
+      "name": "developers",
+      "value": "Разработчики"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "ПАПКИ"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "ФАЙЛЫ"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "Вы уверены, что хотите удалить выбранные файлы\\?"
+    },
+    {
+      "name": "dialog_delete_temporarily_disclaimer",
+      "value": "Вы уверены что хотите удалить их\\?"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Вы уверены что хотите удалить навсегда\\?"
+    },
+    {
+      "name": "dialog_restore_disclaimer",
+      "value": "Вы уверены, что хотите восстановить следующие элементы\\?"
+    },
+    {
+      "name": "dimensions",
+      "value": "Размеры"
+    },
+    {
+      "name": "directory",
+      "value": "Директория"
+    },
+    {
+      "name": "directorysort",
+      "value": "Режим сортировки каталога"
+    },
+    {
+      "name": "disable",
+      "value": "Отключить"
+    },
+    {
+      "name": "disableIpcSignature",
+      "value": "Отключить проверку подписи IPC (для устаревших серверов SMBv1 — НЕБЕЗОПАСНО!)"
+    },
+    {
+      "name": "disable_player_intent_filters",
+      "value": "Отключить фильтры намерений проигрывателя"
+    },
+    {
+      "name": "disable_player_intent_filters_summary",
+      "value": "Отключить встроенный в Amaze проигрыватель из списка выбора"
+    },
+    {
+      "name": "documents",
+      "value": "Документы"
+    },
+    {
+      "name": "docx_viewer",
+      "value": "Просмотрщик документов Amaze"
+    },
+    {
+      "name": "doforall",
+      "value": "Выполнить для всех элементов"
+    },
+    {
+      "name": "doit",
+      "value": "Сделай это"
+    },
+    {
+      "name": "domain",
+      "value": "Домен"
+    },
+    {
+      "name": "donate",
+      "value": "Пожертвовать"
+    },
+    {
+      "name": "donation_thanks",
+      "value": "Спасибо за пожертвование, это мотивирует нас! (:"
+    },
+    {
+      "name": "done",
+      "value": "Готово"
+    },
+    {
+      "name": "download",
+      "value": "Скачать"
+    },
+    {
+      "name": "drag_and_drop_preference",
+      "value": "Выберите параметр перетаскивания (экспериментальная функция)"
+    },
+    {
+      "name": "drag_to_move_copy",
+      "value": "Коснитесь и перетащите, чтобы переместить или скопировать файлы"
+    },
+    {
+      "name": "drag_to_select",
+      "value": "Коснитесь и перетащите, чтобы выбрать файлы"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Закрыть меню навигации"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Открыть меню навигации"
+    },
+    {
+      "name": "duration",
+      "value": "Длительность"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "Нидерландский"
+    },
+    {
+      "name": "edit",
+      "value": "Редактировать"
+    },
+    {
+      "name": "edit_bookmark",
+      "value": "Изменить закладку"
+    },
+    {
+      "name": "enable_marquee_filename",
+      "value": "Включить эффект бегущей строки для имён файлов"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "Включите режим рут прав"
+    },
+    {
+      "name": "encrypt_file_must_end_with_aes",
+      "value": "Зашифрованные файлы должны иметь расширение \".aes\"."
+    },
+    {
+      "name": "encrypt_file_must_end_with_aze",
+      "value": "Зашифрованные файлы должны иметь расширение \".aze\"."
+    },
+    {
+      "name": "encrypt_file_save_as",
+      "value": "Сохранить зашифрованный файл как…"
+    },
+    {
+      "name": "encrypt_folder_save_as",
+      "value": "Сохранить зашифрованную папку как…"
+    },
+    {
+      "name": "encrypt_option_use_aze",
+      "value": "Использовать формат шифрования Amaze."
+    },
+    {
+      "name": "encryption_fail_copy",
+      "value": "Не удалось обновить запись шифрования в базе данных"
+    },
+    {
+      "name": "entername",
+      "value": "Введите имя"
+    },
+    {
+      "name": "enterpath",
+      "value": "Введите путь"
+    },
+    {
+      "name": "enterzipname",
+      "value": "Введите имя zip-архива"
+    },
+    {
+      "name": "error",
+      "value": "Ошибка"
+    },
+    {
+      "name": "error_listfile_smb",
+      "value": "Ошибка при чтении списка файлов в %s: %s"
+    },
+    {
+      "name": "error_listfile_smb_noipcshare",
+      "value": "Ошибка перечисления файлов в %s - вероятно, сервер SMB не разрешает анонимный доступ к ресурсу IPC$. Вы можете попробовать указать имя ресурса напрямую в настройках подключения."
+    },
+    {
+      "name": "error_listfile_smb_title",
+      "value": "Невозможно загрузить список файлов SMB"
+    },
+    {
+      "name": "error_archive_cannot_extract",
+      "value": "Невозможно извлечь запись архива \"%s\" в \"%s\"."
+    },
+    {
+      "name": "error_archive_password_incorrect",
+      "value": "Неверный пароль архива."
+    },
+    {
+      "name": "error_bad_archive_without_info",
+      "value": "\"%s\" - повреждённый архив."
+    },
+    {
+      "name": "error_cannot_find_way_open",
+      "value": "Не удалось найти способ открыть файл"
+    },
+    {
+      "name": "error_cannot_get_package_info",
+      "value": "Не удалось получить информацию о пакете из файла \"%s\". Либо указанный файл не является APK, либо файл пакета поврежден."
+    },
+    {
+      "name": "error_cant_decompress_that_file",
+      "value": "Не удается обработать запрошенный архив"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Подробности:"
+    },
+    {
+      "name": "error_empty_archive",
+      "value": "\"%s\" - пустой архив."
+    },
+    {
+      "name": "error_fetching_google_play_product_list",
+      "value": "Не удалось загрузить список товаров из Google Play."
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "Ошибка: файл не найден"
+    },
+    {
+      "name": "error_file_too_large",
+      "value": "Ошибка. Файл слишком большой"
+    },
+    {
+      "name": "error_google_play_cannot_update_myself",
+      "value": "В соответствии с политикой Google Play приложения не могут обновляться самостоятельно. Пожалуйста, обновите приложение из Google Play."
+    },
+    {
+      "name": "error_io",
+      "value": "Ошибка ввода-вывода"
+    },
+    {
+      "name": "error_permission_denied",
+      "value": "В доступе отказано"
+    },
+    {
+      "name": "error_report_button_telegram",
+      "value": "Сообщите об этой ошибке через телеграм"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Сообщите об этой ошибке по электронной почте"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Пожалуйста, проверьте, существует ли проблема, обсуждающая ваш сбой."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Сообщить на GitHub"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Сообщение об ошибке"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Отчёт"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Извините, что-то пошло не так."
+    },
+    {
+      "name": "error_unsupported_or_null_uri",
+      "value": "Неверный, неподдерживаемый или не указанный URI"
+    },
+    {
+      "name": "error_unsupported_v5_rar",
+      "value": "Архив RAR \"%s\" не поддерживается архивом RAR v5."
+    },
+    {
+      "name": "exit",
+      "value": "Выход"
+    },
+    {
+      "name": "exporting_failed",
+      "value": "Экспорт не удался: не удалось записать файл резервной копии"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Время экспозиции"
+    },
+    {
+      "name": "extract",
+      "value": "Извлечь"
+    },
+    {
+      "name": "extract_complete",
+      "value": "Извлечение завершено"
+    },
+    {
+      "name": "extracted",
+      "value": "Извлечено"
+    },
+    {
+      "name": "extracting",
+      "value": "Извлечение..."
+    },
+    {
+      "name": "failed_cloud_api_key",
+      "value": "Не удалось аутентифицировать модуль Cloud"
+    },
+    {
+      "name": "failed_cloud_new_connection",
+      "value": "Не удалось добавить новое подключение к облаку"
+    },
+    {
+      "name": "failed_install_apk",
+      "value": "Не удалось установить"
+    },
+    {
+      "name": "failed_no_connection",
+      "value": "Не удалось загрузить файлы. Пожалуйста, проверьте подключение."
+    },
+    {
+      "name": "failed_smb_decrypt_path",
+      "value": "Не удалось загрузить SMB-соединение"
+    },
+    {
+      "name": "feedback",
+      "value": "Отправить отзыв"
+    },
+    {
+      "name": "field_empty",
+      "value": "Поле не может быть пустым"
+    },
+    {
+      "name": "file",
+      "value": "Файл"
+    },
+    {
+      "name": "file_empty",
+      "value": "Файл пуст"
+    },
+    {
+      "name": "file_read_only",
+      "value": "Открытый файл доступен только для чтения."
+    },
+    {
+      "name": "file_too_long",
+      "value": "Имя файлы слишком длинное и не может быть изменено, но вы можете увидеть первые 1%d символа"
+    },
+    {
+      "name": "fileexist",
+      "value": "Файл с таким именем уже существует"
+    },
+    {
+      "name": "filename",
+      "value": "Имя файла"
+    },
+    {
+      "name": "files",
+      "value": "ФАЙЛЫ"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "Файлы на вершине"
+    },
+    {
+      "name": "find",
+      "value": "Найти на странице"
+    },
+    {
+      "name": "flash_fired",
+      "value": "Сработала вспышка"
+    },
+    {
+      "name": "focal_length",
+      "value": "Фокусное расстояние"
+    },
+    {
+      "name": "folder",
+      "value": "Папка"
+    },
+    {
+      "name": "folderfilecount",
+      "value": "%1$d папок и%2$d файлов"
+    },
+    {
+      "name": "folders",
+      "value": "Папки"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "Папки на вершине"
+    },
+    {
+      "name": "follow_battery_saver_desc",
+      "value": "Если выбран режим экономии заряда батареи и он включён, тема изменится на тёмную."
+    },
+    {
+      "name": "follow_battery_saver_title",
+      "value": "Следовать хранителю батареи"
+    },
+    {
+      "name": "format",
+      "value": "Формат"
+    },
+    {
+      "name": "frame_rate",
+      "value": "Частота кадров"
+    },
+    {
+      "name": "free",
+      "value": "свободное пространство"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "Французский"
+    },
+    {
+      "name": "ftp",
+      "value": "FTP сервер"
+    },
+    {
+      "name": "ftp_connection",
+      "value": "FTP-соединение"
+    },
+    {
+      "name": "ftp_login",
+      "value": "Логин"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "Убедитесь, что вы подключены к Wi-Fi"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "FTP сервер включается"
+    },
+    {
+      "name": "ftp_notif_starting_title",
+      "value": "FTP сервер"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "СТОП"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "на %s"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "Amaze FTP сервер работает"
+    },
+    {
+      "name": "ftp_path",
+      "value": "Общий путь"
+    },
+    {
+      "name": "ftp_path_change_error_invalid",
+      "value": "Неверный путь"
+    },
+    {
+      "name": "ftp_path_change_success",
+      "value": "FTP путь успешно изменен"
+    },
+    {
+      "name": "ftp_path_hint",
+      "value": "Путь к корневому каталогу для общего доступа"
+    },
+    {
+      "name": "ftp_port",
+      "value": "Порт"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "Выбран неверный порт"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "FTP порт успешно изменен"
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "Выберите FTP порт"
+    },
+    {
+      "name": "ftp_preference_saf_filesystem",
+      "value": "Включите это для поддержки использования внешнего хранилища устройства в более новых версиях Android."
+    },
+    {
+      "name": "ftp_preference_saf_filesystem_title",
+      "value": "Использовать старую файловую систему"
+    },
+    {
+      "name": "ftp_prompt_accept_first_start_saf_access_title",
+      "value": "Предоставить доступ SAF для FTP-сервера"
+    },
+    {
+      "name": "ftp_prompt_restart_server",
+      "value": "Чтобы изменения вступили в силу, вам нужно будет перезапустить FTP-сервер."
+    },
+    {
+      "name": "ftp_readonly",
+      "value": "Доступ только для чтения"
+    },
+    {
+      "name": "ftp_seconds",
+      "value": "Секунды"
+    },
+    {
+      "name": "ftp_server_fallback_path_reset_prompt",
+      "value": "Общий путь FTP-сервера был сброшен на внутреннее хранилище, поскольку вы возвращаетесь к реализации устаревшей файловой системы. При необходимости выберите новый путь, используя меню в правом верхнем углу."
+    },
+    {
+      "name": "ftp_server_open_settings",
+      "value": "Открыть настройки"
+    },
+    {
+      "name": "ftp_server_prompt_connect_to_network",
+      "value": "Подключиться к сети или включить точку доступа"
+    },
+    {
+      "name": "ftp_server_reset_notify",
+      "value": "Общий путь FTP-сервера был сброшен во внутреннюю память"
+    },
+    {
+      "name": "ftp_server_root_unavailable",
+      "value": "Вы выбираете путь, который требует root-доступа. Пожалуйста, включите root explorer в настройках, если ваше устройство рутировано."
+    },
+    {
+      "name": "ftp_status_no_connection",
+      "value": "Нет Соединения"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "Выключен"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "Включен"
+    },
+    {
+      "name": "ftp_status_secure_connection",
+      "value": "Безопасное соединение"
+    },
+    {
+      "name": "ftp_status_title",
+      "value": "Статус"
+    },
+    {
+      "name": "ftp_timeout",
+      "value": "Тайм-аут простоя"
+    },
+    {
+      "name": "ftps_connection",
+      "value": "FTP через SSL-соединение"
+    },
+    {
+      "name": "general",
+      "value": "Общие"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "Немецкий"
+    },
+    {
+      "name": "go",
+      "value": "Вперёд"
+    },
+    {
+      "name": "goback",
+      "value": "Вернуться"
+    },
+    {
+      "name": "got_it",
+      "value": "Понял!"
+    },
+    {
+      "name": "grant",
+      "value": "Предоставление"
+    },
+    {
+      "name": "grant_apkinstall_permission",
+      "value": "Приложению требуется разрешение для продолжения установки приложений."
+    },
+    {
+      "name": "grant_notification_permission",
+      "value": "Amaze необходимо разрешение на уведомления для отображения хода выполнения файловых операций, а также удобная панель для запуска/остановки FTP-сервера."
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "Приложению требуется разрешение хранения для продолжения. Закрытие этого диалога завершит приложение."
+    },
+    {
+      "name": "grantfailed",
+      "value": "Разрешение не предоставляется"
+    },
+    {
+      "name": "grantper",
+      "value": "Предоставление разрешения"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "Греческий"
+    },
+    {
+      "name": "green",
+      "value": "Зелёный"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "Количество колонок в сетке"
+    },
+    {
+      "name": "gridview",
+      "value": "Сетка"
+    },
+    {
+      "name": "hash_sha256",
+      "value": "SHA-256"
+    },
+    {
+      "name": "height",
+      "value": "Высота"
+    },
+    {
+      "name": "hidden",
+      "value": "Показать скрытые файлы и папки"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "Скрытые файлы"
+    },
+    {
+      "name": "hide",
+      "value": "Скрыть"
+    },
+    {
+      "name": "hide_media",
+      "value": "Скрыть от медиабраузеров"
+    },
+    {
+      "name": "history",
+      "value": "История"
+    },
+    {
+      "name": "home",
+      "value": "Домой"
+    },
+    {
+      "name": "icon",
+      "value": "значок"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "Установить цвет значков"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "Цвет значка"
+    },
+    {
+      "name": "image",
+      "value": "Изображение"
+    },
+    {
+      "name": "image_iso",
+      "value": "Рейтинг ISO"
+    },
+    {
+      "name": "image_type",
+      "value": "Тип изображения"
+    },
+    {
+      "name": "image_viewer",
+      "value": "Просмотрщик изображений Amaze"
+    },
+    {
+      "name": "images",
+      "value": "Изображения"
+    },
+    {
+      "name": "import_failed_for",
+      "value": "Импорт не удался для:"
+    },
+    {
+      "name": "importing_completed",
+      "value": "Импортирование завершено"
+    },
+    {
+      "name": "importing_failed",
+      "value": "Импорт не удался: не удалось прочитать файл резервной копии"
+    },
+    {
+      "name": "in_safe",
+      "value": "Недостаточно свободного места"
+    },
+    {
+      "name": "information",
+      "value": "Информация"
+    },
+    {
+      "name": "install",
+      "value": "Установка"
+    },
+    {
+      "name": "intellihide_toolbar_summary",
+      "value": "Автоматически скрывать панель инструментов при прокрутке"
+    },
+    {
+      "name": "intellihide_toolbar_title",
+      "value": "Интеллектуальное скрытие панели инструментов"
+    },
+    {
+      "name": "intent_save_as",
+      "value": "Сохранить как…"
+    },
+    {
+      "name": "invalid",
+      "value": "Неверный %s"
+    },
+    {
+      "name": "invalid_backup_file",
+      "value": "Неправильный файл резервной копии"
+    },
+    {
+      "name": "invalid_name",
+      "value": "Неправильное имя"
+    },
+    {
+      "name": "ip",
+      "value": "Адрес"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "Итальянский"
+    },
+    {
+      "name": "item",
+      "value": "Элемент"
+    },
+    {
+      "name": "items",
+      "value": "Элементы"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "Японский"
+    },
+    {
+      "name": "just_once",
+      "value": "Только раз"
+    },
+    {
+      "name": "keywords",
+      "value": "Ключевые слова"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "Корейский"
+    },
+    {
+      "name": "lastModified",
+      "value": "Дата последнего изменения"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "Показать последние изменения"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "Показывать дату и время последнего изменения"
+    },
+    {
+      "name": "legacy_listing_summary",
+      "value": "Если включить, будет использоваться устаревший метод для вывода списка файлов"
+    },
+    {
+      "name": "legacy_listing_title",
+      "value": "Использовать устаревший вид список для root"
+    },
+    {
+      "name": "libraries",
+      "value": "Библиотеки"
+    },
+    {
+      "name": "license",
+      "value": "Лицензия"
+    },
+    {
+      "name": "light",
+      "value": "Светлая"
+    },
+    {
+      "name": "listview",
+      "value": "Список"
+    },
+    {
+      "name": "loading",
+      "value": "Загрузка…"
+    },
+    {
+      "name": "local_inet_addr_error",
+      "value": "Ошибка получения локального сетевого адреса"
+    },
+    {
+      "name": "location",
+      "value": "Расположение"
+    },
+    {
+      "name": "match_content",
+      "value": "Сопоставить содержание"
+    },
+    {
+      "name": "match_content_summary",
+      "value": "В случае установки регулярного выражения, оно будет сопоставлено с полным названием файла,\\n        в противном случае подсчитает кол-во совпадений."
+    },
+    {
+      "name": "md5",
+      "value": "MD5"
+    },
+    {
+      "name": "medium_text",
+      "value": "Средний размер"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "Прочее"
+    },
+    {
+      "name": "modified",
+      "value": "Изменено"
+    },
+    {
+      "name": "monofont",
+      "value": "Моноширинный Шрифт"
+    },
+    {
+      "name": "move",
+      "value": "Переместить"
+    },
+    {
+      "name": "moved",
+      "value": "перемещены"
+    },
+    {
+      "name": "moving",
+      "value": "Перемещение"
+    },
+    {
+      "name": "multiple_invalid_archive_entries",
+      "value": "Некоторые файлы в архиве не могут быть извлечены; архив может быть поврежден или получен из вредоносного источника."
+    },
+    {
+      "name": "name",
+      "value": "Имя"
+    },
+    {
+      "name": "needs_access",
+      "value": "Необходим доступ к записи"
+    },
+    {
+      "name": "newfile",
+      "value": "Новый файл"
+    },
+    {
+      "name": "newfolder",
+      "value": "Новая папка"
+    },
+    {
+      "name": "no",
+      "value": "Нет"
+    },
+    {
+      "name": "no_app_found",
+      "value": "Нет приложений для открытия этого файла"
+    },
+    {
+      "name": "no_app_found_intent",
+      "value": "Не найдено ни одного приложения для обработки этого намерения.  У вас установлен DocumentsUI\\?"
+    },
+    {
+      "name": "no_applications",
+      "value": "Нет приложений"
+    },
+    {
+      "name": "no_bitcoin_app",
+      "value": "Пожалуйста, установите приложение Bitcoin Wallet"
+    },
+    {
+      "name": "no_device_found",
+      "value": "Устройств не найдено"
+    },
+    {
+      "name": "no_file_error",
+      "value": "Что-то пошло не так, нечего открывать"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "Не перезаписывать файл"
+    },
+    {
+      "name": "no_files",
+      "value": "Нет файлов"
+    },
+    {
+      "name": "no_items",
+      "value": "Ничего нет"
+    },
+    {
+      "name": "no_name",
+      "value": "Файл должен иметь имя"
+    },
+    {
+      "name": "no_obtainable_info",
+      "value": "Нет информации об этом файле"
+    },
+    {
+      "name": "none_on_top",
+      "value": "Ни один на вершине"
+    },
+    {
+      "name": "not_allowed",
+      "value": "Не допускается"
+    },
+    {
+      "name": "not_finding_what_you_re_looking_for",
+      "value": "Не нашли что искали\\?"
+    },
+    {
+      "name": "not_found_enabled_webview",
+      "value": "Веб-обозреватель недоступен"
+    },
+    {
+      "name": "of",
+      "value": "из"
+    },
+    {
+      "name": "ok",
+      "value": "Да"
+    },
+    {
+      "name": "open",
+      "value": "Запустить"
+    },
+    {
+      "name": "open_as",
+      "value": "Открыть как"
+    },
+    {
+      "name": "open_parent",
+      "value": "Открыть родительскую директорию"
+    },
+    {
+      "name": "open_with",
+      "value": "Открыть с помощью"
+    },
+    {
+      "name": "open_with_amaze",
+      "value": "Открыть с помощью Amaze"
+    },
+    {
+      "name": "operation_fail_following",
+      "value": "Не удалось выполнить операцию для следующих файлов"
+    },
+    {
+      "name": "operation_not_supported",
+      "value": "Операция не поддерживается"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "Операция безуспешна"
+    },
+    {
+      "name": "optimized",
+      "value": "Оптимизировано"
+    },
+    {
+      "name": "orange",
+      "value": "Оранжевый"
+    },
+    {
+      "name": "otg_access",
+      "value": "Выберите корень OTG устройства"
+    },
+    {
+      "name": "other",
+      "value": "Другой"
+    },
+    {
+      "name": "out_of",
+      "value": "из"
+    },
+    {
+      "name": "overwrite",
+      "value": "Перезаписать"
+    },
+    {
+      "name": "package_installer",
+      "value": "Установщик пакетов"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "Это пакет установщика. Какое действие вы хотели бы выполнить\\?"
+    },
+    {
+      "name": "pages",
+      "value": "Число страниц"
+    },
+    {
+      "name": "paper_size",
+      "value": "Размер бумаги"
+    },
+    {
+      "name": "password",
+      "value": "Пароль"
+    },
+    {
+      "name": "password_no_match",
+      "value": "Пароль не подходит"
+    },
+    {
+      "name": "password_repeat",
+      "value": "Повторите пароль"
+    },
+    {
+      "name": "password_unchanged",
+      "value": "(без изменений)"
+    },
+    {
+      "name": "paste",
+      "value": "Вставить"
+    },
+    {
+      "name": "path",
+      "value": "Путь"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "Paypal id скопирован в буфер обмена"
+    },
+    {
+      "name": "pdf_viewer",
+      "value": "Просмотрщик документов Amaze"
+    },
+    {
+      "name": "permission",
+      "value": "Права"
+    },
+    {
+      "name": "permission_execute",
+      "value": "Исполнение"
+    },
+    {
+      "name": "permission_group",
+      "value": "Группа"
+    },
+    {
+      "name": "permission_other",
+      "value": "Другой"
+    },
+    {
+      "name": "permission_owner",
+      "value": "Владелец"
+    },
+    {
+      "name": "permission_read",
+      "value": "Просмотреть"
+    },
+    {
+      "name": "permission_write",
+      "value": "Запись"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "Выбрать файл"
+    },
+    {
+      "name": "pick_files",
+      "value": "Выберите один или несколько файлов"
+    },
+    {
+      "name": "play",
+      "value": "Открыть в Play Store"
+    },
+    {
+      "name": "please_wait",
+      "value": "Подождите…"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "Польский"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "Португальский"
+    },
+    {
+      "name": "pref_export",
+      "value": "Экспорт"
+    },
+    {
+      "name": "pref_export_summary",
+      "value": "Экспортировать настройки"
+    },
+    {
+      "name": "pref_import",
+      "value": "Импорт"
+    },
+    {
+      "name": "pref_import_summary",
+      "value": "Импортировать настройки"
+    },
+    {
+      "name": "preference_delete_confirmation",
+      "value": "Подтверждение удаления"
+    },
+    {
+      "name": "preference_delete_confirmation_summary",
+      "value": "Запрашивать подтверждение перед удалением файлов. Отключать это крайне не рекомендуется!"
+    },
+    {
+      "name": "preference_language_dialog_title",
+      "value": "Выбрать язык"
+    },
+    {
+      "name": "preference_language_system_default",
+      "value": "Как в системе"
+    },
+    {
+      "name": "preference_language_title",
+      "value": "Язык приложения"
+    },
+    {
+      "name": "preference_newstack_summary",
+      "value": "Позволяет открывать файлы в отдельных задачах. Доступ к ним с экрана последних системных сообщений."
+    },
+    {
+      "name": "preference_newstack_title",
+      "value": "Открыть файлы как новую задачу"
+    },
+    {
+      "name": "preselected_configs_title",
+      "value": "Предустановленные конфигурации"
+    },
+    {
+      "name": "press_again",
+      "value": "Нажмите ещё раз, чтобы выйти."
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "Установить цвет крупных элементов UI"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "Основной цвет (Левая вкладка)"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "Выбрать цвет для больших элементов интерфейса правой вкладки"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "Основной цвет (Правая вкладка)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "Просмотр процессов"
+    },
+    {
+      "name": "processed",
+      "value": "Обработано"
+    },
+    {
+      "name": "processing",
+      "value": "Выполнение…"
+    },
+    {
+      "name": "processing_file",
+      "value": "Обработка файла"
+    },
+    {
+      "name": "producer",
+      "value": "Продюсер"
+    },
+    {
+      "name": "properties",
+      "value": "Свойства"
+    },
+    {
+      "name": "properties_copied_clipboard",
+      "value": "скопировано в буфер обмена"
+    },
+    {
+      "name": "protocol_ftps",
+      "value": "Безопасный FTP"
+    },
+    {
+      "name": "question_delete_bookmark",
+      "value": "Удалить закладку\\?"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "Вы хотите установить текущий путь как домашний для этой вкладки\\?"
+    },
+    {
+      "name": "quick",
+      "value": "Быстрый доступ"
+    },
+    {
+      "name": "quick_desc",
+      "value": "Файлы, к которым недавно обращались через Amaze"
+    },
+    {
+      "name": "random",
+      "value": "Случайный скин"
+    },
+    {
+      "name": "random_summary",
+      "value": "Устанавливает случайную тему при запуске"
+    },
+    {
+      "name": "rate",
+      "value": "Оцените приложение"
+    },
+    {
+      "name": "recent",
+      "value": "Недавние файлы"
+    },
+    {
+      "name": "recent_desc",
+      "value": "Недавно созданные или измененные файлы"
+    },
+    {
+      "name": "regular_expression",
+      "value": "Регулярное выражение"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "Поиск с помощью регулярного выражения BASH"
+    },
+    {
+      "name": "remember",
+      "value": "Помнить в следующий раз"
+    },
+    {
+      "name": "rename",
+      "value": "Переименовать"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "Изменить закладку"
+    },
+    {
+      "name": "renaming",
+      "value": "Переименование"
+    },
+    {
+      "name": "reopen_from_source",
+      "value": "Не могу, пожалуйста, перезапустите из последнего приложения."
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "Сообщить о баге или запросить новый функционал"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "Сообщить о баге"
+    },
+    {
+      "name": "restore",
+      "value": "Восстановить"
+    },
+    {
+      "name": "restore_files",
+      "value": "Восстановить файлы"
+    },
+    {
+      "name": "restoring",
+      "value": "Восстановление…"
+    },
+    {
+      "name": "results",
+      "value": "Результаты"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "Румынский"
+    },
+    {
+      "name": "root_directory",
+      "value": "Рут"
+    },
+    {
+      "name": "root_failure",
+      "value": "Рут доступ не предоставлен"
+    },
+    {
+      "name": "root_mode",
+      "value": "Root Explorer"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "Только для устройств с рут правами. Используйте с осторожностью, если уверены в своих действиях."
+    },
+    {
+      "name": "root_pref",
+      "value": "Показать разрешения"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "Показывать разрешения для файлов и папок"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "Русский"
+    },
+    {
+      "name": "saf_otg_explanation",
+      "value": "Теперь вы перейдете к файловой системе Android из соображений безопасности. Выберите USB-устройство из списка слева."
+    },
+    {
+      "name": "same_dir_move_error",
+      "value": "Для перемещения папка назначения и исходная папка не должны совпадать."
+    },
+    {
+      "name": "same_dir_overwrite_error",
+      "value": "Для перезаписи папка назначения и исходная папка не должны совпадать."
+    },
+    {
+      "name": "sample_rate",
+      "value": "Частота дискретизации"
+    },
+    {
+      "name": "save",
+      "value": "Сохранить"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "После старта на каждой вкладке будет отображена последняя просмотренная папка"
+    },
+    {
+      "name": "save_paths",
+      "value": "Помнить расположение"
+    },
+    {
+      "name": "saved_multi_files",
+      "value": "%d файлов сохранено."
+    },
+    {
+      "name": "saved_single_file",
+      "value": "Файл сохранён как '%s'."
+    },
+    {
+      "name": "saving",
+      "value": "Сохранение"
+    },
+    {
+      "name": "scp_connection",
+      "value": "SCP/SFTP-соединение"
+    },
+    {
+      "name": "scp_default_path",
+      "value": "Путь по умолчанию (необязательно)"
+    },
+    {
+      "name": "scp_port",
+      "value": "Порт"
+    },
+    {
+      "name": "search",
+      "value": "Поиск"
+    },
+    {
+      "name": "search_hint",
+      "value": "Введите для поиска…"
+    },
+    {
+      "name": "search_recent",
+      "value": "Недавние"
+    },
+    {
+      "name": "search_results",
+      "value": "результаты поиска 1%s"
+    },
+    {
+      "name": "searching",
+      "value": "Поиск %s"
+    },
+    {
+      "name": "searching_devices",
+      "value": "Поиск устройств"
+    },
+    {
+      "name": "security",
+      "value": "Безопасность"
+    },
+    {
+      "name": "security_error",
+      "value": "Не удалось открыть файл с помощью этого приложения"
+    },
+    {
+      "name": "security_summary",
+      "value": "Настроить пароль и шифрование"
+    },
+    {
+      "name": "select",
+      "value": "Выбрать элемент"
+    },
+    {
+      "name": "select_all",
+      "value": "Выбрать все"
+    },
+    {
+      "name": "select_by_date",
+      "value": "Выбрать по дате"
+    },
+    {
+      "name": "select_by_type",
+      "value": "Выбрать по типу"
+    },
+    {
+      "name": "select_color_config",
+      "value": "Выберите цветовую конфигурацию"
+    },
+    {
+      "name": "select_fill",
+      "value": "Выбрать заполнение"
+    },
+    {
+      "name": "select_intent",
+      "value": "Выбрать"
+    },
+    {
+      "name": "select_inverse",
+      "value": "Выбрать инверсию"
+    },
+    {
+      "name": "select_save_location",
+      "value": "Выберите место для сохранения"
+    },
+    {
+      "name": "select_similar",
+      "value": "Выбрать похожие"
+    },
+    {
+      "name": "send_email_to",
+      "value": "Отправить электронное письмо на"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "Сербский"
+    },
+    {
+      "name": "server_address",
+      "value": "IP-адрес сервера"
+    },
+    {
+      "name": "service_timer",
+      "value": "Прошло времени"
+    },
+    {
+      "name": "set",
+      "value": "Установить"
+    },
+    {
+      "name": "set_as_home",
+      "value": "Сделать домашней папкой"
+    },
+    {
+      "name": "set_random",
+      "value": "Изменения будут использованы после перезапуска приложения"
+    },
+    {
+      "name": "setting",
+      "value": "Настройки"
+    },
+    {
+      "name": "share",
+      "value": "Отправить"
+    },
+    {
+      "name": "share_limit",
+      "value": "Нельзя отправить больше 100 файлов"
+    },
+    {
+      "name": "share_logs",
+      "value": "Поделиться журналами"
+    },
+    {
+      "name": "share_logs_summary",
+      "value": "Поделиться захваченными журналами по почте/телеграмм"
+    },
+    {
+      "name": "showHeaders",
+      "value": "Показывать Заголовки"
+    },
+    {
+      "name": "show_bookmarks_pref",
+      "value": "Закладки"
+    },
+    {
+      "name": "show_bookmarks_pref_title",
+      "value": "Показать закладки"
+    },
+    {
+      "name": "show_dividers",
+      "value": "Показать разделители"
+    },
+    {
+      "name": "show_quick_access_pref",
+      "value": "Быстрый доступ"
+    },
+    {
+      "name": "show_quick_access_pref_title",
+      "value": "Показать быстрый доступ"
+    },
+    {
+      "name": "show_system_apps",
+      "value": "Показать системные приложения"
+    },
+    {
+      "name": "sidebar_bookmarks_title",
+      "value": "Закладки боковой панели"
+    },
+    {
+      "name": "sidebar_preferences",
+      "value": "Боковая панель"
+    },
+    {
+      "name": "sidebar_quick_access_title",
+      "value": "Боковая панель быстрого доступа"
+    },
+    {
+      "name": "signin_with_google_title",
+      "value": "Авторизация для использования Google Drive™"
+    },
+    {
+      "name": "size",
+      "value": "размер папки"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Размер"
+    },
+    {
+      "name": "size_pref",
+      "value": "Показать размеры"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "Показывать размер файлов и количество элементов в папках"
+    },
+    {
+      "name": "skip",
+      "value": "Пропустить"
+    },
+    {
+      "name": "smb_connection",
+      "value": "SMB соединение"
+    },
+    {
+      "name": "smb_launch_error",
+      "value": "Необходимо скопировать этот файл в хранилище для того, чтобы открыть"
+    },
+    {
+      "name": "smb_share",
+      "value": "Поделиться путём"
+    },
+    {
+      "name": "software",
+      "value": "ПО"
+    },
+    {
+      "name": "some_files_failed_invalid_operation",
+      "value": "Некоторые файлы не удалось выполнить из-за недопустимой операции"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Извините, этого не должно было случиться."
+    },
+    {
+      "name": "sort",
+      "value": "Сортировка"
+    },
+    {
+      "name": "sort_by",
+      "value": "Сортировать по"
+    },
+    {
+      "name": "sort_by_colon",
+      "value": "Сортировать по:"
+    },
+    {
+      "name": "sort_name",
+      "value": "Имя"
+    },
+    {
+      "name": "sort_only_this",
+      "value": "Только эта папка"
+    },
+    {
+      "name": "sort_relevance",
+      "value": "Релевантность"
+    },
+    {
+      "name": "sort_size",
+      "value": "Размер"
+    },
+    {
+      "name": "source_summary",
+      "value": "Просмотреть исходный код на GitHub"
+    },
+    {
+      "name": "source_title",
+      "value": "Исходный код"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "Испанский"
+    },
+    {
+      "name": "ssh_authentication_failure_key",
+      "value": "Ошибка входа: Невозможно выполнить аутентификацию с указанным именем пользователя и закрытым ключом."
+    },
+    {
+      "name": "ssh_authentication_failure_password",
+      "value": "Ошибка входа в систему: невозможно выполнить аутентификацию с указанным именем пользователя и паролем."
+    },
+    {
+      "name": "ssh_connect_failed",
+      "value": "Не удалось подключиться к %1$s:%2$d: %3$s"
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_title",
+      "value": "ВНИМАНИЕ: ИДЕНТИФИКАЦИЯ УДАЛЕННОГО ХОСТА ИЗМЕНИЛАСЬ!"
+    },
+    {
+      "name": "ssh_host_key_verification_prompt_title",
+      "value": "Проверить хост"
+    },
+    {
+      "name": "ssh_key_invalid_passphrase",
+      "value": "Неверная кодовая фраза ключа."
+    },
+    {
+      "name": "ssh_key_no_decoder_decrypt",
+      "value": "Не существует подходящего декодера для чтения PEM файла."
+    },
+    {
+      "name": "ssh_key_prompt_passphrase",
+      "value": "Пожалуйста, введите кодовую фразу."
+    },
+    {
+      "name": "ssh_pem_key_parse_error",
+      "value": "Не удалось прочитать выбранный PEM: %s"
+    },
+    {
+      "name": "ssh_select_pem",
+      "value": "Выберите закрытый ключ для аутентификации"
+    },
+    {
+      "name": "ssh_select_pem_button",
+      "value": "Приватный ключ SSH"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Старт"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "Стоп"
+    },
+    {
+      "name": "stopping",
+      "value": "Остановка"
+    },
+    {
+      "name": "storage_internal",
+      "value": "Внутренняя память"
+    },
+    {
+      "name": "storage_sd_card",
+      "value": "SD-карта"
+    },
+    {
+      "name": "subject",
+      "value": "Предмет"
+    },
+    {
+      "name": "support_development",
+      "value": "Поддержать разработку"
+    },
+    {
+      "name": "system",
+      "value": "Системная (следовать настройкам системы)"
+    },
+    {
+      "name": "system_apps",
+      "value": "Системные приложения"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "Тамильский"
+    },
+    {
+      "name": "text",
+      "value": "Текст"
+    },
+    {
+      "name": "text_editor",
+      "value": "Настройки текстового редактора"
+    },
+    {
+      "name": "textreader",
+      "value": "Просмотр текста"
+    },
+    {
+      "name": "theme",
+      "value": "Темы"
+    },
+    {
+      "name": "thumb",
+      "value": "Показать миниатюры"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "Показывать миниатюры приложений и образов"
+    },
+    {
+      "name": "time_remaining",
+      "value": "Оставшееся время"
+    },
+    {
+      "name": "title",
+      "value": "Название"
+    },
+    {
+      "name": "total",
+      "value": "Итого:"
+    },
+    {
+      "name": "transfer_rate",
+      "value": "Скорость передачи"
+    },
+    {
+      "name": "translate_summary",
+      "value": "Перевести Amaze на ваш язык"
+    },
+    {
+      "name": "translate_title",
+      "value": "Перевести"
+    },
+    {
+      "name": "translators",
+      "value": "Переводчики"
+    },
+    {
+      "name": "trash_bin",
+      "value": "Корзина"
+    },
+    {
+      "name": "trash_bin_cleanup_interval_summary",
+      "value": "Вызывать авто-очистку по интервалу (часы)"
+    },
+    {
+      "name": "trash_bin_cleanup_interval_title",
+      "value": "Интервал очистки"
+    },
+    {
+      "name": "trash_bin_retention_bytes_summary",
+      "value": "Максимальный объём данных (в МБ), который может хранить корзина"
+    },
+    {
+      "name": "trash_bin_retention_bytes_title",
+      "value": "Очистка по размеру данных"
+    },
+    {
+      "name": "trash_bin_retention_days_summary",
+      "value": "Сколько дней максимум файлы будут храниться в корзине"
+    },
+    {
+      "name": "trash_bin_retention_days_title",
+      "value": "Очистка по дням"
+    },
+    {
+      "name": "trash_bin_retention_num_of_files_summary",
+      "value": "Максимальное количество файлов, которое может храниться в корзине"
+    },
+    {
+      "name": "trash_bin_retention_num_of_files_title",
+      "value": "Очистка по количеству файлов"
+    },
+    {
+      "name": "try_deep_search",
+      "value": "Попробуйте глубокий поиск!"
+    },
+    {
+      "name": "try_indexed_search",
+      "value": "Попробуйте индексированный поиск!"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "Турецкий"
+    },
+    {
+      "name": "type",
+      "value": "Тип"
+    },
+    {
+      "name": "typeable_paths_summary",
+      "value": "Нажмите и удерживайте полосу пути, чтобы ввести собственный путь."
+    },
+    {
+      "name": "typeable_paths_title",
+      "value": "Пользовательские директории"
+    },
+    {
+      "name": "ui",
+      "value": "Интерфейс"
+    },
+    {
+      "name": "ui_summary",
+      "value": "Контролируйте, какую информацию отображать, настраивайте боковую панель и переключайте настройки пользовательского интерфейса."
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "Украинский"
+    },
+    {
+      "name": "unavailable",
+      "value": "Недоступен"
+    },
+    {
+      "name": "uninstall",
+      "value": "Удалить"
+    },
+    {
+      "name": "unknown",
+      "value": "неизвестный"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Упс! Что-то пошло не так!\\n"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "Несохранённые изменения"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "У Вас есть не сохранённые изменения, вы хотите сохранить их перед выходом\\?"
+    },
+    {
+      "name": "update",
+      "value": "ОБНОВЛЕНИЕ"
+    },
+    {
+      "name": "update_host_key",
+      "value": "Обновить ключ хоста"
+    },
+    {
+      "name": "used",
+      "value": "используемое пространство"
+    },
+    {
+      "name": "used_by_others",
+      "value": "используемые другими"
+    },
+    {
+      "name": "user_apps",
+      "value": "Пользовательские приложения"
+    },
+    {
+      "name": "username",
+      "value": "Имя пользователя"
+    },
+    {
+      "name": "version",
+      "value": "Версия"
+    },
+    {
+      "name": "video",
+      "value": "Видео"
+    },
+    {
+      "name": "video_player",
+      "value": "Проигрыватель видео Amaze"
+    },
+    {
+      "name": "videos",
+      "value": "Видео"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "Вьетнамский"
+    },
+    {
+      "name": "view",
+      "value": "Просмотр"
+    },
+    {
+      "name": "waiting_content",
+      "value": "Ожидание завершения операции"
+    },
+    {
+      "name": "waiting_title",
+      "value": "Ожидание"
+    },
+    {
+      "name": "want_help",
+      "value": "Нужна помощь?"
+    },
+    {
+      "name": "warning",
+      "value": "Предупреждение"
+    },
+    {
+      "name": "warning_confirm",
+      "value": "Понял!"
+    },
+    {
+      "name": "warning_never_show",
+      "value": "Не информировать снова"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Информация:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Что случилось:"
+    },
+    {
+      "name": "width",
+      "value": "Ширина"
+    },
+    {
+      "name": "wifip2p",
+      "value": "Передача напрямую по Wi-Fi (P2P)"
+    },
+    {
+      "name": "written",
+      "value": "Записано"
+    },
+    {
+      "name": "xda_title",
+      "value": "Тема на XDA"
+    },
+    {
+      "name": "year",
+      "value": "Год"
+    },
+    {
+      "name": "yes",
+      "value": "Да"
+    },
+    {
+      "name": "your_comment",
+      "value": "Ваш комментарий (на английском):"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "Просмотр ZIP"
+    }
+  ]
+}

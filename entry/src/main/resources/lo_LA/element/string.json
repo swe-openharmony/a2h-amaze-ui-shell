@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "cancel",
+      "value": "ຍົກເລີກ"
+    },
+    {
+      "name": "color_title",
+      "value": "ສີ"
+    },
+    {
+      "name": "delete",
+      "value": "ລຶບ"
+    },
+    {
+      "name": "details",
+      "value": "ລາຍລະອຽດ"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "ຢືນຢັນ"
+    },
+    {
+      "name": "duration",
+      "value": "ໄລຍະເວລາ"
+    },
+    {
+      "name": "exposure_time",
+      "value": "ເວລາຮັບແສງ"
+    },
+    {
+      "name": "focal_length",
+      "value": "ທາງຍາວໂຟກັສ"
+    },
+    {
+      "name": "height",
+      "value": "ລວງສູງ"
+    },
+    {
+      "name": "information",
+      "value": "ຂໍ້​ມູນ​ຂ່າວ​ສານ"
+    },
+    {
+      "name": "path",
+      "value": "ເສັ້ນທາງ"
+    },
+    {
+      "name": "save",
+      "value": "ບັນທຶກ"
+    },
+    {
+      "name": "share",
+      "value": "ແບ່ງປັນ"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "ຂະໜາດ"
+    },
+    {
+      "name": "sort_size",
+      "value": "ຂະໜາດ"
+    },
+    {
+      "name": "version",
+      "value": "ເວີຊັນ"
+    },
+    {
+      "name": "width",
+      "value": "ກວ້າງ"
+    }
+  ]
+}

@@ -1,0 +1,2680 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "關於"
+    },
+    {
+      "name": "about_amaze",
+      "value": "基於 Material Design設計，Android用嘅檔案管理程式"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "關於"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "为浮动操作按钮以及其他控件设置颜色"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "强调色"
+    },
+    {
+      "name": "accessed",
+      "value": "访问时间"
+    },
+    {
+      "name": "add_item",
+      "value": "添加项目"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "創建快捷方式"
+    },
+    {
+      "name": "add_shortcut_not_supported_by_launcher",
+      "value": "你個 launcher唔支援建立捷徑。"
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "添加到書籤"
+    },
+    {
+      "name": "advanced",
+      "value": "進階"
+    },
+    {
+      "name": "advanced_search",
+      "value": "進階搜尋"
+    },
+    {
+      "name": "album",
+      "value": "專輯"
+    },
+    {
+      "name": "always",
+      "value": "总是"
+    },
+    {
+      "name": "amaze_audio_player",
+      "value": "Amaze音乐播放器"
+    },
+    {
+      "name": "amaze_utils_installed_alias",
+      "value": "感谢您安装Amaze系列文件工具。正将您重定向到指定应用。"
+    },
+    {
+      "name": "analyse_storage",
+      "value": "存储分析"
+    },
+    {
+      "name": "android_data_prompt_saf_access_title",
+      "value": "获取“存储访问框架”权限"
+    },
+    {
+      "name": "anonymous",
+      "value": "匿名用户"
+    },
+    {
+      "name": "aperture_value",
+      "value": "光圈值"
+    },
+    {
+      "name": "apks",
+      "value": "安裝包"
+    },
+    {
+      "name": "app_name",
+      "value": "Amaze 檔案管理員"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "App/UI 死咗"
+    },
+    {
+      "name": "appearance",
+      "value": "外观"
+    },
+    {
+      "name": "appearance_summary",
+      "value": "定制文件管理器的主题、颜色和外观"
+    },
+    {
+      "name": "apps",
+      "value": "應用程式管理"
+    },
+    {
+      "name": "archive",
+      "value": "壓縮檔"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "壓縮檔解壓縮資料夾"
+    },
+    {
+      "name": "archive_password_prompt",
+      "value": "請輸入壓縮檔密碼："
+    },
+    {
+      "name": "archive_summary",
+      "value": "压缩包内的文件会被解压到此目录，默认解压到压缩包所在目录。"
+    },
+    {
+      "name": "archive_text",
+      "value": "呢個係一個壓縮檔，你想點做？"
+    },
+    {
+      "name": "archive_unsupported_or_corrupt",
+      "value": "无法打开压缩文件 “%s”。我们无法打开压缩文件，或是压缩文件已损坏。"
+    },
+    {
+      "name": "artist",
+      "value": "演出者"
+    },
+    {
+      "name": "ascending",
+      "value": "遞增"
+    },
+    {
+      "name": "audio",
+      "value": "音乐"
+    },
+    {
+      "name": "authenticate_password",
+      "value": "输入密码"
+    },
+    {
+      "name": "author",
+      "value": "作者"
+    },
+    {
+      "name": "authors",
+      "value": "開發人員"
+    },
+    {
+      "name": "back_summary",
+      "value": "在清單的頂部顯示返回導覽"
+    },
+    {
+      "name": "back_title",
+      "value": "顯示返回導覽"
+    },
+    {
+      "name": "backup",
+      "value": "備份"
+    },
+    {
+      "name": "backup_summary",
+      "value": "导出 / 导入 Amaze 设置"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "巴斯克語"
+    },
+    {
+      "name": "behavior",
+      "value": "行为"
+    },
+    {
+      "name": "behavior_summary",
+      "value": "修改诸如高级搜索或是否以新任务打开文件等行为"
+    },
+    {
+      "name": "bitrate",
+      "value": "位元速率"
+    },
+    {
+      "name": "black",
+      "value": "OLED 黑"
+    },
+    {
+      "name": "blue",
+      "value": "蓝色"
+    },
+    {
+      "name": "bluetooth",
+      "value": "藍牙裝置"
+    },
+    {
+      "name": "bookmark_exists",
+      "value": "條書籤已經喺度啦喎"
+    },
+    {
+      "name": "bookmark_lost",
+      "value": "无法找到书签，正在重新创建…"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "書籤已添加"
+    },
+    {
+      "name": "byte_singular",
+      "value": "字节"
+    },
+    {
+      "name": "bytes",
+      "value": "字节"
+    },
+    {
+      "name": "calculating",
+      "value": "正在计算"
+    },
+    {
+      "name": "camera_brand",
+      "value": "相機牌子"
+    },
+    {
+      "name": "camera_model",
+      "value": "相機型號"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "cancel_recommended",
+      "value": "取消（建議）"
+    },
+    {
+      "name": "cancelled",
+      "value": "已取消"
+    },
+    {
+      "name": "cannot_delete_file",
+      "value": "无法删除文件"
+    },
+    {
+      "name": "cannot_delete_file_with_reason",
+      "value": "无法删除文件 - %s"
+    },
+    {
+      "name": "cannot_extract_archive",
+      "value": "不能解压文件“%s”： %s"
+    },
+    {
+      "name": "cannot_overwrite",
+      "value": "覆寫唔到個檔案。"
+    },
+    {
+      "name": "cannot_read_directory",
+      "value": "无法读取文件夹%s-%s"
+    },
+    {
+      "name": "cannot_rename_file",
+      "value": "无法重命名文件%s-%s"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s 不能為空"
+    },
+    {
+      "name": "change",
+      "value": "更改"
+    },
+    {
+      "name": "changelog",
+      "value": "更新日誌"
+    },
+    {
+      "name": "channel_description_ftp",
+      "value": "Amaze 文件管理器 文件传输协议服务器的通知"
+    },
+    {
+      "name": "channel_description_normal",
+      "value": "來自 Amaze檔案管理器嘅通知"
+    },
+    {
+      "name": "channel_name_ftp",
+      "value": "Amaze FTP伺服器"
+    },
+    {
+      "name": "channel_name_normal",
+      "value": "Amaze通知"
+    },
+    {
+      "name": "channels",
+      "value": "声道"
+    },
+    {
+      "name": "checking_conflicts",
+      "value": "冲突检查"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "簡體中文"
+    },
+    {
+      "name": "choose_color",
+      "value": "選擇顏色"
+    },
+    {
+      "name": "choose_different_app",
+      "value": "揀過第二個 app"
+    },
+    {
+      "name": "choose_folder",
+      "value": "选择此文件夹"
+    },
+    {
+      "name": "choose_operation",
+      "value": "選擇要進行嘅動作"
+    },
+    {
+      "name": "circular_icons",
+      "value": "使用圓形圖示"
+    },
+    {
+      "name": "circular_images",
+      "value": "對圖片和影片使用圓形圖示"
+    },
+    {
+      "name": "clear",
+      "value": "清空"
+    },
+    {
+      "name": "clear_open_file",
+      "value": "清除缓存"
+    },
+    {
+      "name": "clear_open_file_summary",
+      "value": "清除預設要使用嘅程式選擇"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "路径已复制到剪切板"
+    },
+    {
+      "name": "close",
+      "value": "關閉"
+    },
+    {
+      "name": "cloud_box",
+      "value": "Box"
+    },
+    {
+      "name": "cloud_connection",
+      "value": "网盘"
+    },
+    {
+      "name": "cloud_connection_new",
+      "value": "添加网盘"
+    },
+    {
+      "name": "cloud_drive",
+      "value": "Google雲端硬碟™"
+    },
+    {
+      "name": "cloud_drive_tooltip",
+      "value": "建立到 Google雲端硬碟™的連線，以便在 Amaze檔案管理員內管理在雲端硬碟上的檔案。"
+    },
+    {
+      "name": "cloud_dropbox",
+      "value": "Dropbox"
+    },
+    {
+      "name": "cloud_error_failed_restart",
+      "value": "无法加载此连接，请再次打开 Amaze Cloud。"
+    },
+    {
+      "name": "cloud_error_fdroid",
+      "value": "在F-Droid版本的Amaze文件管理器上，不支持云插件功能。请使用谷歌应用商店版本的Amaze文件管理器"
+    },
+    {
+      "name": "cloud_error_plugin",
+      "value": "无法找到 Amaze Cloud 插件，请从应用商店下载。"
+    },
+    {
+      "name": "cloud_fail_authenticate",
+      "value": "身份验证失败"
+    },
+    {
+      "name": "cloud_get",
+      "value": "获取网盘插件"
+    },
+    {
+      "name": "cloud_onedrive",
+      "value": "OneDrive"
+    },
+    {
+      "name": "cloud_remove",
+      "value": "您想要移除此网盘吗？"
+    },
+    {
+      "name": "cloud_share_copied",
+      "value": "分享用連結已複製到剪貼簿"
+    },
+    {
+      "name": "cloud_token_lost",
+      "value": "登录信息过期，请重新登录"
+    },
+    {
+      "name": "codec",
+      "value": "編解碼器"
+    },
+    {
+      "name": "color_summary",
+      "value": "为各种界面组件设置颜色"
+    },
+    {
+      "name": "color_title",
+      "value": "顏色"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "導覽列變色"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "設定導覽列是否跟隨色彩樣式變色"
+    },
+    {
+      "name": "colorize",
+      "value": "多彩圖示"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "设置静态图标的颜色，不会覆盖目录图标设置"
+    },
+    {
+      "name": "comment",
+      "value": "备注"
+    },
+    {
+      "name": "complete_paste_warning",
+      "value": "请首先完成粘贴操作"
+    },
+    {
+      "name": "compress",
+      "value": "壓縮"
+    },
+    {
+      "name": "compress_file_suggest_zip_extension",
+      "value": "请使用“.zip”作为文件后缀名"
+    },
+    {
+      "name": "compressed",
+      "value": "已壓縮"
+    },
+    {
+      "name": "compressed_explorer_fragment_error_open_uri",
+      "value": "读取 URI \"%s\" 时发生错误。"
+    },
+    {
+      "name": "compressing",
+      "value": "正在压缩"
+    },
+    {
+      "name": "compression_complete",
+      "value": "壓縮完成"
+    },
+    {
+      "name": "confirmation",
+      "value": "确认"
+    },
+    {
+      "name": "connection_exists",
+      "value": "连接已存在"
+    },
+    {
+      "name": "connection_name",
+      "value": "连接名称"
+    },
+    {
+      "name": "container",
+      "value": "容器格式文件"
+    },
+    {
+      "name": "contributors",
+      "value": "贡献者"
+    },
+    {
+      "name": "contributors_1_summary",
+      "value": "语言翻译"
+    },
+    {
+      "name": "contributors_2_summary",
+      "value": "图标和横幅"
+    },
+    {
+      "name": "contributors_3_summary",
+      "value": "主题引擎"
+    },
+    {
+      "name": "contributors_4_summary",
+      "value": "浮动操作按钮阴影"
+    },
+    {
+      "name": "contributors_5_summary",
+      "value": "在选项卡间滑动时的颜色过渡"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "FTP 伺服器"
+    },
+    {
+      "name": "contributors_7_summary",
+      "value": "启动交互式 Shell"
+    },
+    {
+      "name": "copied",
+      "value": "已复制"
+    },
+    {
+      "name": "copy",
+      "value": "複製"
+    },
+    {
+      "name": "copy_complete",
+      "value": "複製完成"
+    },
+    {
+      "name": "copy_error",
+      "value": "有些文件操作未成功 %s"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "複製已格式化嘅報告"
+    },
+    {
+      "name": "copy_low_memory",
+      "value": "运行内存不足，请清除一些后台程序"
+    },
+    {
+      "name": "copying",
+      "value": "正在複製"
+    },
+    {
+      "name": "copyingapks",
+      "value": "正复制%d个 APK 文件至%s"
+    },
+    {
+      "name": "crash_report_copied",
+      "value": "死 app報告已經複製到剪貼簿"
+    },
+    {
+      "name": "create",
+      "value": "新增"
+    },
+    {
+      "name": "create_bookmark",
+      "value": "建立書籤"
+    },
+    {
+      "name": "create_file_suggest_txt_extension",
+      "value": "请使用“.txt”作为文件后缀名"
+    },
+    {
+      "name": "create_hidden_file_warn",
+      "value": "建立咗嘅檔案唔會喺檔案列表度睇到。"
+    },
+    {
+      "name": "created",
+      "value": "创建时间"
+    },
+    {
+      "name": "creatingfile",
+      "value": "建立檔案中"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "正在创建文件夹"
+    },
+    {
+      "name": "creator",
+      "value": "创建者"
+    },
+    {
+      "name": "crypt_decrypt",
+      "value": "解密"
+    },
+    {
+      "name": "crypt_decrypted",
+      "value": "已解密"
+    },
+    {
+      "name": "crypt_decrypting",
+      "value": "正在解密"
+    },
+    {
+      "name": "crypt_decryption_fail",
+      "value": "解密失败"
+    },
+    {
+      "name": "crypt_decryption_fail_password",
+      "value": "密码错误！"
+    },
+    {
+      "name": "crypt_encrypt",
+      "value": "加密"
+    },
+    {
+      "name": "crypt_encrypted",
+      "value": "已加密"
+    },
+    {
+      "name": "crypt_encrypting",
+      "value": "正在加密"
+    },
+    {
+      "name": "crypt_encryption_fail",
+      "value": "加密失败"
+    },
+    {
+      "name": "crypt_fingerprint_authenticate",
+      "value": "请触摸传感器以继续"
+    },
+    {
+      "name": "crypt_fingerprint_no_permission",
+      "value": "缺少指纹权限"
+    },
+    {
+      "name": "crypt_fingerprint_no_security",
+      "value": "未设置锁屏安全"
+    },
+    {
+      "name": "crypt_fingerprint_not_enrolled",
+      "value": "没有可用的指纹录入"
+    },
+    {
+      "name": "crypt_pref_fingerprint_summary",
+      "value": "使用指纹进行加密验证"
+    },
+    {
+      "name": "crypt_pref_fingerprint_title",
+      "value": "指纹"
+    },
+    {
+      "name": "crypt_pref_master_password_summary",
+      "value": "为加密操作设置主密码。如果您想要移除密码，请留空。"
+    },
+    {
+      "name": "crypt_pref_master_password_title",
+      "value": "主密码"
+    },
+    {
+      "name": "crypt_warning_key",
+      "value": "注意，当您在系统设置中改变安全模式时，您将无法解密此内容。"
+    },
+    {
+      "name": "current_speed",
+      "value": "当前频率"
+    },
+    {
+      "name": "custom",
+      "value": "自訂"
+    },
+    {
+      "name": "customize",
+      "value": "自訂"
+    },
+    {
+      "name": "cut",
+      "value": "剪下"
+    },
+    {
+      "name": "dark",
+      "value": "Material 深色"
+    },
+    {
+      "name": "database",
+      "value": "資料庫"
+    },
+    {
+      "name": "databasereader",
+      "value": "数据库读取器"
+    },
+    {
+      "name": "date",
+      "value": "時間戳："
+    },
+    {
+      "name": "date_modified",
+      "value": "修改时间"
+    },
+    {
+      "name": "date_taken",
+      "value": "拍攝日期"
+    },
+    {
+      "name": "daytime",
+      "value": "随昼夜变化"
+    },
+    {
+      "name": "default_string",
+      "value": "默认"
+    },
+    {
+      "name": "delbook",
+      "value": "刪除書籤"
+    },
+    {
+      "name": "delete",
+      "value": "刪除"
+    },
+    {
+      "name": "delete_permanently_checkbox",
+      "value": "永久删除"
+    },
+    {
+      "name": "deleting",
+      "value": "正在刪除"
+    },
+    {
+      "name": "descending",
+      "value": "遞減"
+    },
+    {
+      "name": "deselect_all",
+      "value": "取消全選"
+    },
+    {
+      "name": "details",
+      "value": "详细信息"
+    },
+    {
+      "name": "developers",
+      "value": "開發者"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "目录"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "近期檔案"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "您确定要永久删除这些文件吗？删除后将无法恢复。"
+    },
+    {
+      "name": "dialog_delete_temporarily_disclaimer",
+      "value": "您确定要删除以下项目吗？"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "永久删除？"
+    },
+    {
+      "name": "dialog_restore_disclaimer",
+      "value": "您确定要恢复以下项目吗？"
+    },
+    {
+      "name": "dimensions",
+      "value": "规格"
+    },
+    {
+      "name": "directory",
+      "value": "目录"
+    },
+    {
+      "name": "directorysort",
+      "value": "目錄排序方式"
+    },
+    {
+      "name": "disable",
+      "value": "停用"
+    },
+    {
+      "name": "disableIpcSignature",
+      "value": "關閉 IPC簽名檢查（對應舊式嘅 SMBv1伺服器 - 唔安全㗎！）"
+    },
+    {
+      "name": "disable_player_intent_filters",
+      "value": "禁止应用来响应与播放器关联的打开方式"
+    },
+    {
+      "name": "disable_player_intent_filters_summary",
+      "value": "Amaze内置的媒体播放器，禁止它出现在文件打开方式中"
+    },
+    {
+      "name": "documents",
+      "value": "文件"
+    },
+    {
+      "name": "docx_viewer",
+      "value": "文档浏览器-Amaze"
+    },
+    {
+      "name": "doforall",
+      "value": "對所有項目執行操作"
+    },
+    {
+      "name": "doit",
+      "value": "确定"
+    },
+    {
+      "name": "domain",
+      "value": "網域名稱"
+    },
+    {
+      "name": "donate",
+      "value": "捐贈"
+    },
+    {
+      "name": "donation_thanks",
+      "value": "多謝支持。我哋定當繼續努力 (:"
+    },
+    {
+      "name": "done",
+      "value": "完成"
+    },
+    {
+      "name": "download",
+      "value": "下载"
+    },
+    {
+      "name": "drag_and_drop_preference",
+      "value": "拖拉動作設定（實驗中）"
+    },
+    {
+      "name": "drag_to_move_copy",
+      "value": "拖拉動作代表移動/複製檔案"
+    },
+    {
+      "name": "drag_to_select",
+      "value": "拖拉動作代表選擇檔案"
+    },
+    {
+      "name": "drawer_close",
+      "value": "关闭抽屉式导航栏"
+    },
+    {
+      "name": "drawer_open",
+      "value": "打开抽屉式导航栏"
+    },
+    {
+      "name": "duration",
+      "value": "时长"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "荷蘭語"
+    },
+    {
+      "name": "edit",
+      "value": "編輯"
+    },
+    {
+      "name": "edit_bookmark",
+      "value": "編輯書籤"
+    },
+    {
+      "name": "enable_marquee_filename",
+      "value": "用走馬燈方式顯示檔案名稱"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "啟用 Root 模式"
+    },
+    {
+      "name": "encrypt_file_must_end_with_aes",
+      "value": "加密文件必须以 aes 作为文件后缀名"
+    },
+    {
+      "name": "encrypt_file_must_end_with_aze",
+      "value": "加密文件必须以“.aze”作为文件后缀名"
+    },
+    {
+      "name": "encrypt_file_save_as",
+      "value": "將加密檔案儲存為…"
+    },
+    {
+      "name": "encrypt_folder_save_as",
+      "value": "將加密檔案夾儲存為…"
+    },
+    {
+      "name": "encrypt_option_use_aze",
+      "value": "使用Amaze加密格式"
+    },
+    {
+      "name": "encryption_fail_copy",
+      "value": "更新唔到資料庫入面加密檔案嘅資料"
+    },
+    {
+      "name": "entername",
+      "value": "請輸入名稱"
+    },
+    {
+      "name": "enterpath",
+      "value": "请输入路径"
+    },
+    {
+      "name": "enterzipname",
+      "value": "请输入 Zip 文件名"
+    },
+    {
+      "name": "error",
+      "value": "錯誤"
+    },
+    {
+      "name": "error_listfile_smb",
+      "value": "在 %s : %s 列出文件出错"
+    },
+    {
+      "name": "error_listfile_smb_noipcshare",
+      "value": "在 %s 列出文件列表失败——SMB 服务器可能不允许匿名访问 IPC$ 共享。您可以尝试在连接设置中直接指定共享名称。"
+    },
+    {
+      "name": "error_listfile_smb_title",
+      "value": "无法加载 SMB 文件列表"
+    },
+    {
+      "name": "error_aescrypt_decrypt_failed",
+      "value": "無法解密 '%1$s': '%2$s'"
+    },
+    {
+      "name": "error_archive_cannot_extract",
+      "value": "无法将压缩文件中的目标\"%s\"提取到\"%s\"。"
+    },
+    {
+      "name": "error_archive_password_incorrect",
+      "value": "解压密码有误"
+    },
+    {
+      "name": "error_bad_archive_without_info",
+      "value": "压缩文件 \"%s\" 已损坏。"
+    },
+    {
+      "name": "error_cannot_find_way_open",
+      "value": "找不到打开文件的方式"
+    },
+    {
+      "name": "error_cannot_get_package_info",
+      "value": "无法从文件“%s”中获取安装包信息。该文件可能不是安卓应用安装包，或者该文件已损坏。"
+    },
+    {
+      "name": "error_cant_decompress_that_file",
+      "value": "您请求的压缩文件，无法处理"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "详情："
+    },
+    {
+      "name": "error_empty_archive",
+      "value": "\"%s\" 是空的压缩文件。"
+    },
+    {
+      "name": "error_fetching_google_play_product_list",
+      "value": "在谷歌应用商店获取产品列表时出现错误"
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "错误：无法找到文件"
+    },
+    {
+      "name": "error_file_too_large",
+      "value": "错误：文件太大"
+    },
+    {
+      "name": "error_google_play_cannot_update_myself",
+      "value": "根据谷歌应用市场的强制要求，应用不可自行更新。请您从谷歌应用市场更新应用。"
+    },
+    {
+      "name": "error_io",
+      "value": "I/O 錯誤"
+    },
+    {
+      "name": "error_permission_denied",
+      "value": "权限不足"
+    },
+    {
+      "name": "error_report_button_telegram",
+      "value": "喺 Telegram上報告呢個問題"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "发邮件报告此错误"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "請先睇下有無其他人開咗 issue講緊你嘅問題。"
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "報上 GitHub"
+    },
+    {
+      "name": "error_report_title",
+      "value": "事故報告"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "報告"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "唔好意思，出咗啲問題。"
+    },
+    {
+      "name": "error_unsupported_v5_rar",
+      "value": "RAR 压缩文件\"%s\"是尚未支持的RAR v5 文件。"
+    },
+    {
+      "name": "exit",
+      "value": "退出"
+    },
+    {
+      "name": "exporting_failed",
+      "value": "导出失败：无法写入备份文件"
+    },
+    {
+      "name": "exposure_time",
+      "value": "曝光時間"
+    },
+    {
+      "name": "extract",
+      "value": "解壓縮"
+    },
+    {
+      "name": "extract_complete",
+      "value": "解压完成"
+    },
+    {
+      "name": "extracted",
+      "value": "已解壓"
+    },
+    {
+      "name": "extracting",
+      "value": "解壓中"
+    },
+    {
+      "name": "failed_cloud_api_key",
+      "value": "認證雲端連線套件失敗"
+    },
+    {
+      "name": "failed_cloud_new_connection",
+      "value": "新增雲端連線失敗"
+    },
+    {
+      "name": "failed_install_apk",
+      "value": "隻 app裝唔到"
+    },
+    {
+      "name": "failed_no_connection",
+      "value": "無法載入檔案。請檢查網絡連線。"
+    },
+    {
+      "name": "failed_smb_decrypt_path",
+      "value": "无法加载 SMB 连接"
+    },
+    {
+      "name": "feedback",
+      "value": "反馈意见"
+    },
+    {
+      "name": "field_empty",
+      "value": "字段不能为空"
+    },
+    {
+      "name": "file",
+      "value": "檔案"
+    },
+    {
+      "name": "file_empty",
+      "value": "個檔案空㗎"
+    },
+    {
+      "name": "file_read_only",
+      "value": "檔案以唯讀模式開啟。"
+    },
+    {
+      "name": "file_too_long",
+      "value": "该文件太长而不能编辑，您仍可以查看前%d个字符"
+    },
+    {
+      "name": "fileexist",
+      "value": "已存在同名文件"
+    },
+    {
+      "name": "filename",
+      "value": "檔案名稱"
+    },
+    {
+      "name": "files",
+      "value": "近期檔案"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "檔案排先"
+    },
+    {
+      "name": "find",
+      "value": "尋找頁面"
+    },
+    {
+      "name": "flash_fired",
+      "value": "闪光灯"
+    },
+    {
+      "name": "focal_length",
+      "value": "焦距"
+    },
+    {
+      "name": "folder",
+      "value": "資料夾"
+    },
+    {
+      "name": "folderfilecount",
+      "value": "%1$d 個檔案夾， %2$d 個檔案"
+    },
+    {
+      "name": "folders",
+      "value": "資料夾"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "資料夾排先"
+    },
+    {
+      "name": "follow_battery_saver_title",
+      "value": "跟随省电模式"
+    },
+    {
+      "name": "format",
+      "value": "格式"
+    },
+    {
+      "name": "frame_rate",
+      "value": "幀速"
+    },
+    {
+      "name": "free",
+      "value": "剩余空间"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "法文"
+    },
+    {
+      "name": "ftp",
+      "value": "FTP 伺服器"
+    },
+    {
+      "name": "ftp_connection",
+      "value": "FTP 连接"
+    },
+    {
+      "name": "ftp_login",
+      "value": "登录"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "请确保您已连接上可用的无线局域网"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "FTP 服务器正在启动中"
+    },
+    {
+      "name": "ftp_notif_starting_title",
+      "value": "FTP 伺服器"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "停止"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "在 %s"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "Amaze FTP 服务器已启动"
+    },
+    {
+      "name": "ftp_path",
+      "value": "共享路径"
+    },
+    {
+      "name": "ftp_path_change_error_invalid",
+      "value": "路径无效"
+    },
+    {
+      "name": "ftp_path_change_success",
+      "value": "FTP 路径更改成功"
+    },
+    {
+      "name": "ftp_path_hint",
+      "value": "共享目录的根路径"
+    },
+    {
+      "name": "ftp_port",
+      "value": "端口号"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "选定的端口号无效"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "FTP 端口更改成功"
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "选择 FTP 端口"
+    },
+    {
+      "name": "ftp_preference_saf_filesystem",
+      "value": "启用此功能，进而可以在新版本的安卓系统上使用外部存储"
+    },
+    {
+      "name": "ftp_preference_saf_filesystem_title",
+      "value": "使用傳統檔案系統"
+    },
+    {
+      "name": "ftp_prompt_accept_first_start_saf_access_title",
+      "value": "俾 FTP伺服器用 SAF存取檔案系統"
+    },
+    {
+      "name": "ftp_prompt_restart_server",
+      "value": "要使設定生效，請重新啟動 FTP伺服器"
+    },
+    {
+      "name": "ftp_readonly",
+      "value": "唯讀模式"
+    },
+    {
+      "name": "ftp_seconds",
+      "value": "秒"
+    },
+    {
+      "name": "ftp_server_fallback_path_reset_prompt",
+      "value": "由于您正在切换回旧版的文件系统的实现方式，文件传输协议服务器的共享路径已经被重新设定为内部存储。请您根据自身需求，通过右上角的菜单选择新路径。"
+    },
+    {
+      "name": "ftp_server_open_settings",
+      "value": "打开设置"
+    },
+    {
+      "name": "ftp_server_prompt_connect_to_network",
+      "value": "駁番上網，或者開咗你個 hotspot先啦。"
+    },
+    {
+      "name": "ftp_server_reset_notify",
+      "value": "FTP服务器的共享路径已被重置为内部存储"
+    },
+    {
+      "name": "ftp_server_root_unavailable",
+      "value": "访问当前路径需要根权限。如果您的设备已获取根权限，请在设置中启用根权限浏览器功能"
+    },
+    {
+      "name": "ftp_status_no_connection",
+      "value": "无连接"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "没有运行"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "正在运行"
+    },
+    {
+      "name": "ftp_status_secure_connection",
+      "value": "安全连接"
+    },
+    {
+      "name": "ftp_status_title",
+      "value": "状态"
+    },
+    {
+      "name": "ftp_timeout",
+      "value": "超时设置"
+    },
+    {
+      "name": "ftps_connection",
+      "value": "FTPS 连接"
+    },
+    {
+      "name": "general",
+      "value": "一般"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "德文"
+    },
+    {
+      "name": "go",
+      "value": "去"
+    },
+    {
+      "name": "goback",
+      "value": "返回上一層"
+    },
+    {
+      "name": "got_it",
+      "value": "知道了!"
+    },
+    {
+      "name": "grant",
+      "value": "授予"
+    },
+    {
+      "name": "grant_apkinstall_permission",
+      "value": "程式需要安裝程式的權限以繼續。"
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "该应用需要用户授予“读写存储空间”的权限，关闭对话框将退出应用。"
+    },
+    {
+      "name": "grantfailed",
+      "value": "未授予權限"
+    },
+    {
+      "name": "grantper",
+      "value": "授予權限"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "希臘語"
+    },
+    {
+      "name": "green",
+      "value": "綠色"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "网格列数"
+    },
+    {
+      "name": "gridview",
+      "value": "网格视图"
+    },
+    {
+      "name": "hash_sha256",
+      "value": "SHA-256"
+    },
+    {
+      "name": "height",
+      "value": "高度"
+    },
+    {
+      "name": "hidden",
+      "value": "显示隐藏文件和文件夹"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "已隐藏文件"
+    },
+    {
+      "name": "hide",
+      "value": "手动隐藏"
+    },
+    {
+      "name": "hide_media",
+      "value": "從媒體瀏覽器中隱藏"
+    },
+    {
+      "name": "history",
+      "value": "歷史記錄"
+    },
+    {
+      "name": "home",
+      "value": "首页"
+    },
+    {
+      "name": "icon",
+      "value": "圖示"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "为图标设置颜色"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "图标颜色"
+    },
+    {
+      "name": "image",
+      "value": "图片"
+    },
+    {
+      "name": "image_iso",
+      "value": "ISO 速度"
+    },
+    {
+      "name": "image_type",
+      "value": "圖片類型"
+    },
+    {
+      "name": "image_viewer",
+      "value": "Amaze图像查看器"
+    },
+    {
+      "name": "images",
+      "value": "圖像"
+    },
+    {
+      "name": "import_failed_for",
+      "value": "导入失败："
+    },
+    {
+      "name": "importing_completed",
+      "value": "导入完成"
+    },
+    {
+      "name": "importing_failed",
+      "value": "导入失败：无法读取备份文件"
+    },
+    {
+      "name": "in_safe",
+      "value": "空間不足"
+    },
+    {
+      "name": "information",
+      "value": "資訊"
+    },
+    {
+      "name": "install",
+      "value": "安裝"
+    },
+    {
+      "name": "intellihide_toolbar_summary",
+      "value": "页面滚动时自动隐藏工具栏"
+    },
+    {
+      "name": "intellihide_toolbar_title",
+      "value": "自动隐藏工具栏"
+    },
+    {
+      "name": "intent_save_as",
+      "value": "儲存為…"
+    },
+    {
+      "name": "invalid",
+      "value": "无效的 %s"
+    },
+    {
+      "name": "invalid_backup_file",
+      "value": "无效的备份文件"
+    },
+    {
+      "name": "invalid_name",
+      "value": "无效的名称"
+    },
+    {
+      "name": "ip",
+      "value": "位址"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "意大利文"
+    },
+    {
+      "name": "item",
+      "value": "项目"
+    },
+    {
+      "name": "items",
+      "value": "個項目"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "日文"
+    },
+    {
+      "name": "just_once",
+      "value": "仅本次"
+    },
+    {
+      "name": "keywords",
+      "value": "关键字"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "韓文"
+    },
+    {
+      "name": "lastModified",
+      "value": "最后修改时间"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "显示修改时间"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "显示文件的最后修改时间"
+    },
+    {
+      "name": "legacy_listing_summary",
+      "value": "開啟呢個設定嘅話，Amaze會用番原有嘅方法列出文件"
+    },
+    {
+      "name": "legacy_listing_title",
+      "value": "喺 Root模式使用舊有方式列出文件"
+    },
+    {
+      "name": "libraries",
+      "value": "程式庫"
+    },
+    {
+      "name": "license",
+      "value": "開源許可"
+    },
+    {
+      "name": "light",
+      "value": "Material 浅色"
+    },
+    {
+      "name": "listview",
+      "value": "列表视图"
+    },
+    {
+      "name": "loading",
+      "value": "正在加载…"
+    },
+    {
+      "name": "local_inet_addr_error",
+      "value": "攞唔到你部機嘅 IP地址"
+    },
+    {
+      "name": "location",
+      "value": "路径"
+    },
+    {
+      "name": "match_content",
+      "value": "符合的內容"
+    },
+    {
+      "name": "match_content_summary",
+      "value": "启用此选项后，正则表达式将匹配整个文件名，否则将进行一般查找。"
+    },
+    {
+      "name": "md5",
+      "value": "MD5"
+    },
+    {
+      "name": "medium_text",
+      "value": "中号字体"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "其他"
+    },
+    {
+      "name": "modified",
+      "value": "修改日期"
+    },
+    {
+      "name": "monofont",
+      "value": "等宽字体"
+    },
+    {
+      "name": "move",
+      "value": "移动"
+    },
+    {
+      "name": "moved",
+      "value": "已移动"
+    },
+    {
+      "name": "moving",
+      "value": "正在移動"
+    },
+    {
+      "name": "multiple_invalid_archive_entries",
+      "value": "壓縮檔入面有啲檔案攞唔到出嚟。可能個壓縮檔壞咗，或者個壓縮檔本身有古怪。"
+    },
+    {
+      "name": "name",
+      "value": "名稱"
+    },
+    {
+      "name": "needs_access",
+      "value": "需要寫入的權限"
+    },
+    {
+      "name": "newfile",
+      "value": "新增檔案"
+    },
+    {
+      "name": "newfolder",
+      "value": "新資料夾"
+    },
+    {
+      "name": "no",
+      "value": "否"
+    },
+    {
+      "name": "no_app_found",
+      "value": "无法找到可以打开此文件的应用"
+    },
+    {
+      "name": "no_app_found_intent",
+      "value": "未找到应用去处理此目标。您是否有安装安卓系统文件管理器？"
+    },
+    {
+      "name": "no_applications",
+      "value": "没有应用程序"
+    },
+    {
+      "name": "no_bitcoin_app",
+      "value": "裝番個 Bitcoin銀包 app先啦"
+    },
+    {
+      "name": "no_device_found",
+      "value": "找不到裝置"
+    },
+    {
+      "name": "no_file_error",
+      "value": "有啲唔妥。無嘢開嘅!\\?"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "未覆蓋任何檔案"
+    },
+    {
+      "name": "no_files",
+      "value": "無檔案"
+    },
+    {
+      "name": "no_items",
+      "value": "无项目"
+    },
+    {
+      "name": "no_name",
+      "value": "文件名不能为空"
+    },
+    {
+      "name": "no_obtainable_info",
+      "value": "無呢個檔案嘅資料"
+    },
+    {
+      "name": "none_on_top",
+      "value": "檔案同檔案夾混合顯示"
+    },
+    {
+      "name": "not_allowed",
+      "value": "此操作不被允许"
+    },
+    {
+      "name": "not_finding_what_you_re_looking_for",
+      "value": "没有找到？"
+    },
+    {
+      "name": "not_found_enabled_webview",
+      "value": "没有可用的浏览器"
+    },
+    {
+      "name": "of",
+      "value": "中的"
+    },
+    {
+      "name": "ok",
+      "value": "確定"
+    },
+    {
+      "name": "open",
+      "value": "開啟"
+    },
+    {
+      "name": "open_as",
+      "value": "打开方式"
+    },
+    {
+      "name": "open_parent",
+      "value": "打開上一層目錄"
+    },
+    {
+      "name": "open_with",
+      "value": "打开方式"
+    },
+    {
+      "name": "open_with_amaze",
+      "value": "使用Amaze打开"
+    },
+    {
+      "name": "operation_fail_following",
+      "value": "以下文件操作失败"
+    },
+    {
+      "name": "operation_not_supported",
+      "value": "不支持此操作"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "操作失败"
+    },
+    {
+      "name": "optimized",
+      "value": "优化"
+    },
+    {
+      "name": "orange",
+      "value": "橘黄色"
+    },
+    {
+      "name": "otg_access",
+      "value": "选择根目录下的 OTG 设备"
+    },
+    {
+      "name": "other",
+      "value": "其他"
+    },
+    {
+      "name": "out_of",
+      "value": "不超过"
+    },
+    {
+      "name": "overwrite",
+      "value": "覆蓋"
+    },
+    {
+      "name": "package_installer",
+      "value": "應用包安裝程式"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "呢個係一個應用程式 apk，你想點做？"
+    },
+    {
+      "name": "pages",
+      "value": "页数"
+    },
+    {
+      "name": "paper_size",
+      "value": "纸张大小"
+    },
+    {
+      "name": "password",
+      "value": "密碼"
+    },
+    {
+      "name": "password_no_match",
+      "value": "密碼不符"
+    },
+    {
+      "name": "password_repeat",
+      "value": "再入多次個密碼"
+    },
+    {
+      "name": "password_unchanged",
+      "value": "（無變）"
+    },
+    {
+      "name": "paste",
+      "value": "貼上"
+    },
+    {
+      "name": "path",
+      "value": "路徑"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "Paypal ID 已複製到剪貼簿"
+    },
+    {
+      "name": "pdf_viewer",
+      "value": "文档浏览器-Amaze"
+    },
+    {
+      "name": "permission",
+      "value": "權限"
+    },
+    {
+      "name": "permission_execute",
+      "value": "執行"
+    },
+    {
+      "name": "permission_group",
+      "value": "群組"
+    },
+    {
+      "name": "permission_other",
+      "value": "其他"
+    },
+    {
+      "name": "permission_owner",
+      "value": "擁有者"
+    },
+    {
+      "name": "permission_read",
+      "value": "读取"
+    },
+    {
+      "name": "permission_write",
+      "value": "写入"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "揀個檔案"
+    },
+    {
+      "name": "pick_files",
+      "value": "选择一个或多个文件"
+    },
+    {
+      "name": "play",
+      "value": "入 Google Play睇"
+    },
+    {
+      "name": "please_wait",
+      "value": "请稍候"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "波蘭語"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "葡萄牙語"
+    },
+    {
+      "name": "pref_export",
+      "value": "导出"
+    },
+    {
+      "name": "pref_export_summary",
+      "value": "到处是隋朝"
+    },
+    {
+      "name": "pref_import",
+      "value": "导入"
+    },
+    {
+      "name": "pref_import_summary",
+      "value": "导入设置"
+    },
+    {
+      "name": "preference_delete_confirmation",
+      "value": "确认删除"
+    },
+    {
+      "name": "preference_delete_confirmation_summary",
+      "value": "确认删除请求，强烈建议您不要关闭该功能"
+    },
+    {
+      "name": "preference_language_dialog_title",
+      "value": "选择语言"
+    },
+    {
+      "name": "preference_language_system_default",
+      "value": "系统默认"
+    },
+    {
+      "name": "preference_language_title",
+      "value": "APP 语言"
+    },
+    {
+      "name": "preference_newstack_summary",
+      "value": "可以新工作開啟檔案，它會出現在系統的總覽畫面。"
+    },
+    {
+      "name": "preference_newstack_title",
+      "value": "以新工作開啟檔案"
+    },
+    {
+      "name": "preselected_configs_title",
+      "value": "預設設定"
+    },
+    {
+      "name": "press_again",
+      "value": "㩒多一次「返回鍵」退出"
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "设置左侧面板大部分控件的颜色"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "主色调（左侧面板）"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "设置右侧面板大部分控件的颜色"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "主色调（右侧面板）"
+    },
+    {
+      "name": "process_viewer",
+      "value": "處理程序管理員"
+    },
+    {
+      "name": "processed",
+      "value": "已處理"
+    },
+    {
+      "name": "processing",
+      "value": "處理中…"
+    },
+    {
+      "name": "processing_file",
+      "value": "正在處理檔案"
+    },
+    {
+      "name": "producer",
+      "value": "生产商"
+    },
+    {
+      "name": "properties",
+      "value": "屬性"
+    },
+    {
+      "name": "properties_copied_clipboard",
+      "value": "已复制到剪切板"
+    },
+    {
+      "name": "protocol_ftps",
+      "value": "安全型文件传输协议"
+    },
+    {
+      "name": "question_delete_bookmark",
+      "value": "刪除書籤？"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "您确定要将当前路径设置为此选项卡的首页吗？"
+    },
+    {
+      "name": "quick",
+      "value": "快速访问"
+    },
+    {
+      "name": "quick_desc",
+      "value": "最近通过 Amaze 访问的文件"
+    },
+    {
+      "name": "random",
+      "value": "隨機色彩"
+    },
+    {
+      "name": "random_summary",
+      "value": "每次啟動都使用隨機主題"
+    },
+    {
+      "name": "rate",
+      "value": "為本應用程式評分"
+    },
+    {
+      "name": "recent",
+      "value": "最近访问文件"
+    },
+    {
+      "name": "recent_desc",
+      "value": "最近创建或修改的文件"
+    },
+    {
+      "name": "regular_expression",
+      "value": "正規運算式"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "使用基于 BASH 的正则表达式进行搜索"
+    },
+    {
+      "name": "remember",
+      "value": "記住下次都係咁"
+    },
+    {
+      "name": "rename",
+      "value": "改名"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "修改书签"
+    },
+    {
+      "name": "renaming",
+      "value": "正在重命名"
+    },
+    {
+      "name": "reopen_from_source",
+      "value": "无法打开，请使用之前用过的应用重新打开此文件"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "反馈问题或提交新功能需求"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "反馈问题"
+    },
+    {
+      "name": "restore",
+      "value": "恢复"
+    },
+    {
+      "name": "restore_files",
+      "value": "恢复文件"
+    },
+    {
+      "name": "restoring",
+      "value": "正在恢复……"
+    },
+    {
+      "name": "results",
+      "value": "结果"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "罗马尼亚语"
+    },
+    {
+      "name": "root_directory",
+      "value": "根目錄"
+    },
+    {
+      "name": "root_failure",
+      "value": "未獲取 Root 訪問許可權"
+    },
+    {
+      "name": "root_mode",
+      "value": "Root 檔案總管"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "僅供已獲取 Root 許可權嘅設備使用。你知你做緊乜先好開呀。"
+    },
+    {
+      "name": "root_pref",
+      "value": "顯示許可權"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "顯示檔案及資料夾的權限"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "俄文"
+    },
+    {
+      "name": "saf_otg_explanation",
+      "value": "出于安全原因，您现在将进入安卓的文件系统。请从左侧的列表中选择 USB 设备。"
+    },
+    {
+      "name": "same_dir_move_error",
+      "value": "要移动的目标文件夹和源文件夹相同。"
+    },
+    {
+      "name": "sample_rate",
+      "value": "取樣率"
+    },
+    {
+      "name": "save",
+      "value": "儲存"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "當你開啟 Amaze 檔案管理器時，每個分頁將顯示你上次訪問的目錄"
+    },
+    {
+      "name": "save_paths",
+      "value": "记住路径"
+    },
+    {
+      "name": "saved_multi_files",
+      "value": "儲存咗%d 個檔案。"
+    },
+    {
+      "name": "saved_single_file",
+      "value": "檔案儲存為 '%s'."
+    },
+    {
+      "name": "saving",
+      "value": "儲存"
+    },
+    {
+      "name": "scp_connection",
+      "value": "SCP/SFTP 連線"
+    },
+    {
+      "name": "scp_default_path",
+      "value": "默认路径（可选）"
+    },
+    {
+      "name": "scp_port",
+      "value": "端口号"
+    },
+    {
+      "name": "search",
+      "value": "搜尋"
+    },
+    {
+      "name": "search_hint",
+      "value": "请输入要搜索的内容…"
+    },
+    {
+      "name": "search_recent",
+      "value": "最近的"
+    },
+    {
+      "name": "search_results",
+      "value": "%s 的搜尋結果"
+    },
+    {
+      "name": "searching",
+      "value": "搜尋中：%s"
+    },
+    {
+      "name": "searching_devices",
+      "value": "正在搜尋裝置"
+    },
+    {
+      "name": "security",
+      "value": "安全性"
+    },
+    {
+      "name": "security_error",
+      "value": "檔案不能以此 app開啟"
+    },
+    {
+      "name": "security_summary",
+      "value": "设置口令与加密"
+    },
+    {
+      "name": "select",
+      "value": "選擇項目"
+    },
+    {
+      "name": "select_all",
+      "value": "全选"
+    },
+    {
+      "name": "select_by_date",
+      "value": "选择同日期"
+    },
+    {
+      "name": "select_by_type",
+      "value": "选择同类型"
+    },
+    {
+      "name": "select_color_config",
+      "value": "選擇配色"
+    },
+    {
+      "name": "select_fill",
+      "value": "选择填充"
+    },
+    {
+      "name": "select_intent",
+      "value": "選擇"
+    },
+    {
+      "name": "select_inverse",
+      "value": "反选"
+    },
+    {
+      "name": "select_save_location",
+      "value": "选择保存位置"
+    },
+    {
+      "name": "select_similar",
+      "value": "选择相似项"
+    },
+    {
+      "name": "send_email_to",
+      "value": "寫個電郵去"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "塞爾維亞語"
+    },
+    {
+      "name": "server_address",
+      "value": "伺服器 IP 位址"
+    },
+    {
+      "name": "service_timer",
+      "value": "用时"
+    },
+    {
+      "name": "set",
+      "value": "应用"
+    },
+    {
+      "name": "set_as_home",
+      "value": "设为首页"
+    },
+    {
+      "name": "set_random",
+      "value": "更改将在重启应用后生效"
+    },
+    {
+      "name": "setting",
+      "value": "设置"
+    },
+    {
+      "name": "share",
+      "value": "分享"
+    },
+    {
+      "name": "share_limit",
+      "value": "最多只能分享 100 个文件"
+    },
+    {
+      "name": "share_logs",
+      "value": "分享日志"
+    },
+    {
+      "name": "share_logs_summary",
+      "value": "使用邮件或电报来分享已抓取的日志"
+    },
+    {
+      "name": "showHeaders",
+      "value": "显示页眉"
+    },
+    {
+      "name": "show_bookmarks_pref",
+      "value": "书签"
+    },
+    {
+      "name": "show_bookmarks_pref_title",
+      "value": "顯示書籤"
+    },
+    {
+      "name": "show_dividers",
+      "value": "显示分割线"
+    },
+    {
+      "name": "show_quick_access_pref",
+      "value": "快速存取"
+    },
+    {
+      "name": "show_quick_access_pref_title",
+      "value": "顯示快速存取"
+    },
+    {
+      "name": "show_system_apps",
+      "value": "顯示系統應用程式"
+    },
+    {
+      "name": "sidebar_bookmarks_title",
+      "value": "側欄書籤"
+    },
+    {
+      "name": "sidebar_preferences",
+      "value": "側欄"
+    },
+    {
+      "name": "sidebar_quick_access_title",
+      "value": "侧边栏快速访问"
+    },
+    {
+      "name": "signin_with_google_title",
+      "value": "登入以使用 Google雲端硬碟™"
+    },
+    {
+      "name": "size",
+      "value": "文件夹大小"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "大小"
+    },
+    {
+      "name": "size_pref",
+      "value": "顯示大小"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "顯示檔案大小及資料夾內檔案數量"
+    },
+    {
+      "name": "skip",
+      "value": "略過"
+    },
+    {
+      "name": "smb_connection",
+      "value": "SMB 連線"
+    },
+    {
+      "name": "smb_launch_error",
+      "value": "您需要将此文件复制到存储空间中才能打开它"
+    },
+    {
+      "name": "smb_share",
+      "value": "分享路径"
+    },
+    {
+      "name": "software",
+      "value": "軟體"
+    },
+    {
+      "name": "some_files_failed_invalid_operation",
+      "value": "jjhbhbknjhbhubuhbhjn"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Sor，唔應該出啲咁嘅事。"
+    },
+    {
+      "name": "sort",
+      "value": "排序"
+    },
+    {
+      "name": "sort_by",
+      "value": "排序方式"
+    },
+    {
+      "name": "sort_by_colon",
+      "value": "排列方式："
+    },
+    {
+      "name": "sort_name",
+      "value": "名稱"
+    },
+    {
+      "name": "sort_only_this",
+      "value": "只限呢個檔案夾"
+    },
+    {
+      "name": "sort_size",
+      "value": "大小"
+    },
+    {
+      "name": "source_summary",
+      "value": "在 GitHub 上查看源代码"
+    },
+    {
+      "name": "source_title",
+      "value": "源代码"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "西班牙文"
+    },
+    {
+      "name": "ssh_authentication_failure_key",
+      "value": "登入失敗：無法使用你俾嘅用戶名稱同私鑰登入。"
+    },
+    {
+      "name": "ssh_authentication_failure_password",
+      "value": "登入失敗：無法使用你俾嘅用戶名稱同密碼登入。"
+    },
+    {
+      "name": "ssh_connect_failed",
+      "value": "駁唔到去 %1$s:%2$d：%3$s"
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_title",
+      "value": "注意：伺服器身份變咗！"
+    },
+    {
+      "name": "ssh_host_key_verification_prompt_title",
+      "value": "伺服器確認"
+    },
+    {
+      "name": "ssh_key_invalid_passphrase",
+      "value": "私鑰嘅密碼唔啱。"
+    },
+    {
+      "name": "ssh_key_no_decoder_decrypt",
+      "value": "没有有效的解码器来解密 PEM。"
+    },
+    {
+      "name": "ssh_key_prompt_passphrase",
+      "value": "請輸入私鑰密碼。"
+    },
+    {
+      "name": "ssh_pem_key_parse_error",
+      "value": "讀唔到你揀嘅 PEM：%s"
+    },
+    {
+      "name": "ssh_select_pem",
+      "value": "選擇登入認證用嘅私鑰"
+    },
+    {
+      "name": "ssh_select_pem_button",
+      "value": "SSH私鑰"
+    },
+    {
+      "name": "start_ftp",
+      "value": "開始"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "停止"
+    },
+    {
+      "name": "stopping",
+      "value": "停止中"
+    },
+    {
+      "name": "storage_internal",
+      "value": "内部存储"
+    },
+    {
+      "name": "storage_sd_card",
+      "value": "外置存储卡"
+    },
+    {
+      "name": "subject",
+      "value": "标题"
+    },
+    {
+      "name": "support_development",
+      "value": "协助开发"
+    },
+    {
+      "name": "system",
+      "value": "系统 (跟随系统主题)"
+    },
+    {
+      "name": "system_apps",
+      "value": "系統應用程式"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "泰米爾語"
+    },
+    {
+      "name": "text",
+      "value": "文字"
+    },
+    {
+      "name": "text_editor",
+      "value": "文字編輯器設定"
+    },
+    {
+      "name": "textreader",
+      "value": "文本阅读器"
+    },
+    {
+      "name": "theme",
+      "value": "主題"
+    },
+    {
+      "name": "thumb",
+      "value": "顯示縮圖"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "顯示應用程式同圖片嘅縮圖"
+    },
+    {
+      "name": "time_remaining",
+      "value": "剩餘時間"
+    },
+    {
+      "name": "title",
+      "value": "標題"
+    },
+    {
+      "name": "total",
+      "value": "总计："
+    },
+    {
+      "name": "transfer_rate",
+      "value": "傳送速度"
+    },
+    {
+      "name": "translate_summary",
+      "value": "前往 Amaze 本地化系统进行语言翻译"
+    },
+    {
+      "name": "translate_title",
+      "value": "贡献翻译"
+    },
+    {
+      "name": "translators",
+      "value": "翻譯人員"
+    },
+    {
+      "name": "trash_bin",
+      "value": "回收站"
+    },
+    {
+      "name": "trash_bin_cleanup_interval_summary",
+      "value": "触发自动清洁间隔（小时）"
+    },
+    {
+      "name": "trash_bin_cleanup_interval_title",
+      "value": "清洁间隔"
+    },
+    {
+      "name": "trash_bin_retention_bytes_summary",
+      "value": "回收站可存储的最大大小（MB）"
+    },
+    {
+      "name": "trash_bin_retention_days_summary",
+      "value": "回收站可以存储文件的最大天数"
+    },
+    {
+      "name": "trash_bin_retention_days_title",
+      "value": "保留天数"
+    },
+    {
+      "name": "trash_bin_retention_num_of_files_summary",
+      "value": "回收站最多可以存储"
+    },
+    {
+      "name": "try_deep_search",
+      "value": "尝试深度（Deep）搜索！"
+    },
+    {
+      "name": "try_indexed_search",
+      "value": "尝试索引（Indexed）搜索！"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "土耳其語"
+    },
+    {
+      "name": "type",
+      "value": "類型"
+    },
+    {
+      "name": "typeable_paths_summary",
+      "value": "长按路径栏，以输入自定义路径"
+    },
+    {
+      "name": "typeable_paths_title",
+      "value": "自定义路径"
+    },
+    {
+      "name": "ui",
+      "value": "介面"
+    },
+    {
+      "name": "ui_summary",
+      "value": "控制信息展示，定制侧边栏，以及个性化界面"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "烏克蘭語"
+    },
+    {
+      "name": "unavailable",
+      "value": "不可用"
+    },
+    {
+      "name": "uninstall",
+      "value": "卸載"
+    },
+    {
+      "name": "unknown",
+      "value": "未知"
+    },
+    {
+      "name": "unknown_error",
+      "value": "出错了！"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "更改未被儲存"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "您已经修改了此文件，是否要在退出前保存您所作的修改？"
+    },
+    {
+      "name": "update",
+      "value": "更新"
+    },
+    {
+      "name": "update_host_key",
+      "value": "更新热键"
+    },
+    {
+      "name": "used",
+      "value": "已用空间"
+    },
+    {
+      "name": "used_by_others",
+      "value": "已被其他人使用"
+    },
+    {
+      "name": "user_apps",
+      "value": "用户应用"
+    },
+    {
+      "name": "username",
+      "value": "用户名"
+    },
+    {
+      "name": "version",
+      "value": "版本"
+    },
+    {
+      "name": "video",
+      "value": "影片"
+    },
+    {
+      "name": "video_player",
+      "value": "Amaze视频播放器"
+    },
+    {
+      "name": "videos",
+      "value": "影片"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "越南語"
+    },
+    {
+      "name": "view",
+      "value": "檢視"
+    },
+    {
+      "name": "waiting_content",
+      "value": "正在等待操作结束"
+    },
+    {
+      "name": "waiting_title",
+      "value": "正在等待"
+    },
+    {
+      "name": "want_help",
+      "value": "需要幫助嗎？"
+    },
+    {
+      "name": "warning",
+      "value": "警告"
+    },
+    {
+      "name": "warning_confirm",
+      "value": "知道了!"
+    },
+    {
+      "name": "warning_never_show",
+      "value": "不再通知"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "資料："
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "发生了："
+    },
+    {
+      "name": "width",
+      "value": "寬度"
+    },
+    {
+      "name": "wifip2p",
+      "value": "点对点式无线局域网"
+    },
+    {
+      "name": "written",
+      "value": "已写入"
+    },
+    {
+      "name": "xda_title",
+      "value": "XDA 鏈接"
+    },
+    {
+      "name": "year",
+      "value": "年份"
+    },
+    {
+      "name": "yes",
+      "value": "是"
+    },
+    {
+      "name": "your_comment",
+      "value": "有乜想講（英文吖唔該）："
+    },
+    {
+      "name": "zip_viewer",
+      "value": "ZIP 壓縮檔檢視器"
+    }
+  ]
+}
