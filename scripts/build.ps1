@@ -33,6 +33,15 @@ if (-not $SdkRoot) {
     throw "Set HARMONYOS_SDK_HOME to your HarmonyOS/OpenHarmony SDK root. The script also checks '<DEVECO_STUDIO_HOME>/sdk'. For OpenHarmony projects, OPENHARMONY_SDK_HOME may be used."
   }
 }
+elseif ((Test-Path -LiteralPath (Join-Path $SdkRoot "sdk/default/sdk-pkg.json"))) {
+  $SdkRoot = Join-Path $SdkRoot "sdk"
+}
+elseif (-not (Test-Path -LiteralPath (Join-Path $SdkRoot "default/sdk-pkg.json"))) {
+  $DefaultSdkRoot = Join-Path $DevEco "sdk"
+  if (Test-Path -LiteralPath (Join-Path $DefaultSdkRoot "default/sdk-pkg.json")) {
+    $SdkRoot = $DefaultSdkRoot
+  }
+}
 
 $SdkRoot = (Resolve-Path -LiteralPath $SdkRoot).Path
 if ((Split-Path -Leaf $SdkRoot) -eq "default" -and (Test-Path -LiteralPath (Join-Path (Split-Path -Parent $SdkRoot) "default/sdk-pkg.json"))) {

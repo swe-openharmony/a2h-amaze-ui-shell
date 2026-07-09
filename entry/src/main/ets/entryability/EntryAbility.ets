@@ -5,16 +5,12 @@ import { window } from '@kit.ArkUI';
 const DOMAIN = 0x0000;
 
 export default class EntryAbility extends UIAbility {
-  onCreate(want: Want, launchParam: AbilityConstant.LaunchParam): void {
+  onCreate(_want: Want, _launchParam: AbilityConstant.LaunchParam): void {
     try {
       this.context.getApplicationContext().setColorMode(ConfigurationConstant.ColorMode.COLOR_MODE_NOT_SET);
     } catch (err) {
       hilog.error(DOMAIN, 'testTag', 'Failed to set colorMode. Cause: %{public}s', JSON.stringify(err));
     }
-    const params = want.parameters as Record<string, Object> | undefined;
-    const stateParam = params?.['state_id'];
-    const requestedState = typeof stateParam === 'string' ? stateParam : 'main_default';
-    AppStorage.setOrCreate<string>('a2h_state_id', requestedState);
     hilog.info(DOMAIN, 'testTag', '%{public}s', 'Ability onCreate');
   }
 
@@ -57,12 +53,8 @@ export default class EntryAbility extends UIAbility {
     hilog.info(DOMAIN, 'testTag', '%{public}s', 'Ability onForeground');
   }
 
-  onNewWant(want: Want, launchParam: AbilityConstant.LaunchParam): void {
-    const params = want.parameters as Record<string, Object> | undefined;
-    const stateParam = params?.['state_id'];
-    if (typeof stateParam === 'string') {
-      AppStorage.setOrCreate<string>('a2h_state_id', stateParam);
-    }
+  onNewWant(_want: Want, _launchParam: AbilityConstant.LaunchParam): void {
+    hilog.info(DOMAIN, 'testTag', '%{public}s', 'Ability onNewWant');
   }
 
   onBackground(): void {

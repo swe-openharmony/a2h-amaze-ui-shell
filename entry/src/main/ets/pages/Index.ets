@@ -62,7 +62,7 @@ const MAIN_STATES: string[] = [
 @Entry
 @Component
 struct Index {
-  @StorageLink('a2h_state_id') private stateId: string = 'main_default';
+  @State private stateId: string = 'main_default';
   @State private actionStatus: string = '';
   @State private actionTick: number = 0;
   @State private currentFolderTitle: string = 'Alarms';
@@ -250,9 +250,9 @@ struct Index {
 
   private readonly bookmarkRows: PreferenceRow[] = [
     { title: 'Enable bookmarks section', summary: 'Bookmarks section visible in the navigation drawer', control: 'switch', checked: true },
-    { title: 'Add bookmark', summary: 'Bookmark: Documents', control: 'value' },
-    { title: 'Edit bookmark', summary: 'Bookmark: Documents', control: 'value' },
-    { title: 'Delete bookmark', summary: 'Bookmark: Documents', control: 'value' }
+    { title: 'Add bookmark', summary: 'Drawer bookmark placeholder', control: 'value' },
+    { title: 'Edit bookmark', summary: 'Drawer bookmark placeholder', control: 'value' },
+    { title: 'Delete bookmark', summary: 'Drawer bookmark placeholder', control: 'value' }
   ];
 
   private readonly quickAccessRows: PreferenceRow[] = [
@@ -295,13 +295,11 @@ struct Index {
   ];
 
   aboutToAppear(): void {
-    const requestedState = this.stateId && this.stateId.length > 0 ? this.stateId : 'main_default';
-    this.resetScenarioState(requestedState);
+    this.resetScenarioState();
   }
 
   private resetScenarioState(targetState: string = 'main_default'): void {
     this.stateId = targetState;
-    AppStorage.setOrCreate<string>('a2h_state_id', targetState);
     this.actionStatus = '';
     this.actionTick = 0;
     this.currentFolderTitle = 'Alarms';
@@ -326,7 +324,6 @@ struct Index {
       this.actionStatus = '';
     }
     this.stateId = state;
-    AppStorage.setOrCreate<string>('a2h_state_id', state);
   }
 
   private recordAction(_label: string): void {
@@ -437,7 +434,7 @@ struct Index {
   }
 
   private normalizeFolderTitle(title: string): string {
-    if (title === 'Bookmark: Documents') {
+    if (title === 'Drawer bookmark placeholder') {
       return 'Documents';
     }
     return title;
@@ -548,14 +545,8 @@ struct Index {
       return;
     }
     this.enterSelectionModeForCurrentSurface();
-    if (this.isFileSelected(item)) {
-      this.selectedNames = this.selectedNames.filter((name: string) => name !== item.name);
-      this.selectionAnchorNames = this.selectionAnchorNames.filter((name: string) => name !== item.name);
-      this.normalizeSelectionAnchors();
-    } else {
-      this.selectedNames = this.uniqueNames(this.selectedNames.concat([item.name]));
-      this.selectionAnchorNames = [item.name];
-    }
+    this.selectedNames = [];
+    this.selectionAnchorNames = [];
     this.selectionCriteriaOpen = false;
     this.updateSelectionStatus();
   }
@@ -2520,11 +2511,11 @@ struct Index {
         .textOverflow({ overflow: TextOverflow.Ellipsis })
         .accessibilityText(this.editorOutcome)
         .accessibilityDescription('Text editor outcome')
-      Text(this.editorModified ? 'Modified state pending - Save visible' : 'Saved state current - modified cleared')
+      Text(this.editorModified ? 'Modified state pending - Save visible' : 'Editor shell status - write behavior pending')
         .fontSize(12)
         .fontColor(this.editorModified ? ACCENT : PRIMARY)
         .fontWeight(FontWeight.Medium)
-        .accessibilityText(this.editorModified ? 'Modified state pending - Save visible' : 'Saved state current - modified cleared')
+        .accessibilityText(this.editorModified ? 'Modified state pending - Save visible' : 'Editor shell status - write behavior pending')
         .accessibilityDescription('Text editor modified state')
     }
     .width('100%')
@@ -2593,7 +2584,7 @@ struct Index {
           'Path: /storage/emulated/0/resume.txt',
           'Size: 42 bytes',
           'Modified: Jun 25 | 1:41 PM',
-          'Saved text: ' + this.editorSavedText
+          'Draft text placeholder: ' + this.editorSavedText
         ], (row: string) => {
           ListItem() {
             Column() {
@@ -3176,7 +3167,7 @@ struct Index {
     } else if (this.stateId === 'trash_bin') {
       this.SimpleSurface('Trash Bin', ['Deleted file.txt', 'Restore', 'Delete forever'])
     } else if (this.stateId === 'bookmark_edit') {
-      this.SimpleSurface('Bookmark', ['Bookmark: Documents', 'Edit bookmark', 'Delete bookmark'])
+      this.SimpleSurface('Bookmark', ['Drawer bookmark placeholder', 'Edit bookmark', 'Delete bookmark'])
     } else if (this.stateId === 'about_page') {
       this.AboutPage()
     } else if (this.stateId === 'about_licenses') {
