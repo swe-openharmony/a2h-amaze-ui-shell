@@ -250,6 +250,7 @@ struct Index {
 
   private readonly bookmarkRows: PreferenceRow[] = [
     { title: 'Enable bookmarks section', summary: 'Bookmarks section visible in the navigation drawer', control: 'switch', checked: true },
+    { title: 'Documents', summary: '/storage/emulated/0/Documents', control: 'value' },
     { title: 'Add bookmark', summary: 'Drawer bookmark placeholder', control: 'value' },
     { title: 'Edit bookmark', summary: 'Drawer bookmark placeholder', control: 'value' },
     { title: 'Delete bookmark', summary: 'Drawer bookmark placeholder', control: 'value' }
