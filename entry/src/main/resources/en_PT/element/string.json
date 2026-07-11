@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "default_string",
+      "value": "Default"
+    },
+    {
+      "name": "exit",
+      "value": "Exit"
+    }
+  ]
+}

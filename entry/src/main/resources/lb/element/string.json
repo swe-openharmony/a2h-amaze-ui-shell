@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "default_string",
+      "value": "Standard"
+    },
+    {
+      "name": "home",
+      "value": "Doheem"
+    },
+    {
+      "name": "no",
+      "value": "Nee"
+    },
+    {
+      "name": "other",
+      "value": "Aner"
+    },
+    {
+      "name": "password",
+      "value": "Passwuert"
+    },
+    {
+      "name": "permission_other",
+      "value": "Aner"
+    },
+    {
+      "name": "skip",
+      "value": "Iwwersprangen"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Start"
+    },
+    {
+      "name": "yes",
+      "value": "Jo"
+    }
+  ]
+}

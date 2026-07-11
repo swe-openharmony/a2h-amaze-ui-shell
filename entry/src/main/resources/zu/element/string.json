@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "cancel",
+      "value": "KHANSELA"
+    },
+    {
+      "name": "color_title",
+      "value": "Umbala"
+    },
+    {
+      "name": "delete",
+      "value": "Susa"
+    },
+    {
+      "name": "details",
+      "value": "Imininingwane"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Qinisekisa"
+    },
+    {
+      "name": "duration",
+      "value": "Ubude besikhathi"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Isikhathi esisobala"
+    },
+    {
+      "name": "focal_length",
+      "value": "Ubude befokhasi"
+    },
+    {
+      "name": "height",
+      "value": "Ubude"
+    },
+    {
+      "name": "information",
+      "value": "Ulwazi"
+    },
+    {
+      "name": "path",
+      "value": "Indlela"
+    },
+    {
+      "name": "save",
+      "value": "Londoloza"
+    },
+    {
+      "name": "share",
+      "value": "Yabelana"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Usayizi"
+    },
+    {
+      "name": "sort_size",
+      "value": "Usayizi"
+    },
+    {
+      "name": "version",
+      "value": "Inguqulo"
+    },
+    {
+      "name": "width",
+      "value": "Ububanzi"
+    }
+  ]
+}

@@ -1,0 +1,1424 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "O nas"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "O Amaze upravitelju datotek"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "Barva poudarka"
+    },
+    {
+      "name": "accessed",
+      "value": "Zadnji dostop"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "Dodaj bližnjico"
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "Dodaj med zaznamke"
+    },
+    {
+      "name": "advanced_search",
+      "value": "Napredno iskanje"
+    },
+    {
+      "name": "album",
+      "value": "Album"
+    },
+    {
+      "name": "anonymous",
+      "value": "Anonimni"
+    },
+    {
+      "name": "aperture_value",
+      "value": "Vrednost zaslonke"
+    },
+    {
+      "name": "apks",
+      "value": "Apk-ji"
+    },
+    {
+      "name": "app_name",
+      "value": "Amaze"
+    },
+    {
+      "name": "apps",
+      "value": "Upravljalec aplikacij"
+    },
+    {
+      "name": "archive",
+      "value": "Arhiv"
+    },
+    {
+      "name": "archive_text",
+      "value": "To je Arhiv. Katero dejanje želite izvesti?"
+    },
+    {
+      "name": "artist",
+      "value": "Izvajalec"
+    },
+    {
+      "name": "ascending",
+      "value": "Naraščajoče"
+    },
+    {
+      "name": "audio",
+      "value": "Zvok"
+    },
+    {
+      "name": "authenticate_password",
+      "value": "Vnesite geslo"
+    },
+    {
+      "name": "author",
+      "value": "Avtor"
+    },
+    {
+      "name": "authors",
+      "value": "Avtorji"
+    },
+    {
+      "name": "backup",
+      "value": "Varnostna kopija"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "Baskovščina"
+    },
+    {
+      "name": "bitrate",
+      "value": "Bitna hitrost"
+    },
+    {
+      "name": "bluetooth",
+      "value": "Bluetooth"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "Zaznamek dodan"
+    },
+    {
+      "name": "byte_singular",
+      "value": "bajt"
+    },
+    {
+      "name": "bytes",
+      "value": "bajtov"
+    },
+    {
+      "name": "calculating",
+      "value": "preračunavam"
+    },
+    {
+      "name": "camera_brand",
+      "value": "Znamka fotoaparata"
+    },
+    {
+      "name": "camera_model",
+      "value": "Model"
+    },
+    {
+      "name": "cancel",
+      "value": "PREKLIČI"
+    },
+    {
+      "name": "change",
+      "value": "Spremeni"
+    },
+    {
+      "name": "changelog",
+      "value": "Zadnje spremembe"
+    },
+    {
+      "name": "channels",
+      "value": "Kanali"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "Kitajščina"
+    },
+    {
+      "name": "choose_color",
+      "value": "Izberite barvo"
+    },
+    {
+      "name": "circular_icons",
+      "value": "Uporabi krožno ikono"
+    },
+    {
+      "name": "circular_images",
+      "value": "Uporabi krožne ikone za slike in video posnetke"
+    },
+    {
+      "name": "clear",
+      "value": "Počisti"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "Pot kopirana v odložišče"
+    },
+    {
+      "name": "cloud_box",
+      "value": "Box"
+    },
+    {
+      "name": "cloud_connection",
+      "value": "Povezava v oblak"
+    },
+    {
+      "name": "cloud_connection_new",
+      "value": "Nova povezava v oblak"
+    },
+    {
+      "name": "cloud_dropbox",
+      "value": "Dropbox"
+    },
+    {
+      "name": "cloud_error_plugin",
+      "value": "Vtičnika za Amaze oblak ni mogoče najti. Prenesite si ga iz trgovine play."
+    },
+    {
+      "name": "cloud_fail_authenticate",
+      "value": "Preverjanje pristnosti ni uspelo"
+    },
+    {
+      "name": "cloud_get",
+      "value": "Dobi vtičnik za oblak"
+    },
+    {
+      "name": "cloud_onedrive",
+      "value": "OneDrive"
+    },
+    {
+      "name": "cloud_remove",
+      "value": "Ali želite odstraniti povezavo v oblak?"
+    },
+    {
+      "name": "cloud_share_copied",
+      "value": "Povezava za izvoz kopirana v odložišče"
+    },
+    {
+      "name": "codec",
+      "value": "Kodek"
+    },
+    {
+      "name": "color_summary",
+      "value": "Nastavite izgled uporabniškega vmesnika"
+    },
+    {
+      "name": "color_title",
+      "value": "Barva"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "Barvna vrstica za krmarjenje"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "Ne glede na to, ali je sistemska navigacijska vrstica obarvana s preobleko"
+    },
+    {
+      "name": "colorize",
+      "value": "Barvne ikone"
+    },
+    {
+      "name": "comment",
+      "value": "Komentar"
+    },
+    {
+      "name": "compress",
+      "value": "Stisni"
+    },
+    {
+      "name": "connection_exists",
+      "value": "Povezava že obstaja"
+    },
+    {
+      "name": "connection_name",
+      "value": "Ime povezave"
+    },
+    {
+      "name": "contributors",
+      "value": "Sodelavci"
+    },
+    {
+      "name": "contributors_1_summary",
+      "value": "Prevod"
+    },
+    {
+      "name": "contributors_2_summary",
+      "value": "Ikone in transparenti"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "FTP strežnik"
+    },
+    {
+      "name": "copied",
+      "value": "kopirano"
+    },
+    {
+      "name": "copy",
+      "value": "Kopiraj"
+    },
+    {
+      "name": "copy_complete",
+      "value": "Kopiranje končano"
+    },
+    {
+      "name": "copy_low_memory",
+      "value": "Zmanjkuje pomnilnika, počistite nekaj RAM-a"
+    },
+    {
+      "name": "copying",
+      "value": "Kopiranje"
+    },
+    {
+      "name": "create",
+      "value": "USTVARI"
+    },
+    {
+      "name": "created",
+      "value": "Ustvarjeno"
+    },
+    {
+      "name": "creatingfile",
+      "value": "Ustvarjanje nove datoteke"
+    },
+    {
+      "name": "creator",
+      "value": "Avtor"
+    },
+    {
+      "name": "crypt_decrypt",
+      "value": "Dešifriranje"
+    },
+    {
+      "name": "crypt_decrypted",
+      "value": "Dešifrirano"
+    },
+    {
+      "name": "crypt_decrypting",
+      "value": "Dešifriram"
+    },
+    {
+      "name": "crypt_decryption_fail",
+      "value": "Ni bilo mogoče dešifrirati"
+    },
+    {
+      "name": "crypt_decryption_fail_password",
+      "value": "Napačno geslo!"
+    },
+    {
+      "name": "crypt_encrypt",
+      "value": "Šifriranje"
+    },
+    {
+      "name": "crypt_encrypted",
+      "value": "Šifrirano"
+    },
+    {
+      "name": "crypt_encrypting",
+      "value": "Šifriram"
+    },
+    {
+      "name": "crypt_encryption_fail",
+      "value": "Ni bilo mogoče šifrirati"
+    },
+    {
+      "name": "crypt_fingerprint_authenticate",
+      "value": "Dotaknite se senzorja za nadaljevanje"
+    },
+    {
+      "name": "crypt_fingerprint_no_permission",
+      "value": "Dovoljenja za prstni odtis mankajo"
+    },
+    {
+      "name": "crypt_pref_fingerprint_summary",
+      "value": "Uporabi prstni odtis za preverjanje pristnosti pri šifriranju"
+    },
+    {
+      "name": "crypt_pref_fingerprint_title",
+      "value": "Prstni odtis"
+    },
+    {
+      "name": "crypt_pref_master_password_summary",
+      "value": "Nastaviti glavno geslo za šifriranje.         Pustite prazno, če želite odstraniti."
+    },
+    {
+      "name": "crypt_pref_master_password_title",
+      "value": "Glavno geslo"
+    },
+    {
+      "name": "current_speed",
+      "value": "Trenutna hitrost"
+    },
+    {
+      "name": "cut",
+      "value": "Izreži"
+    },
+    {
+      "name": "dark",
+      "value": "Temne barve"
+    },
+    {
+      "name": "databasereader",
+      "value": "Bralnik zbirke podatkov"
+    },
+    {
+      "name": "date",
+      "value": "Datum"
+    },
+    {
+      "name": "date_taken",
+      "value": "Datum posnetka"
+    },
+    {
+      "name": "daytime",
+      "value": "Dnevni čas"
+    },
+    {
+      "name": "default_string",
+      "value": "Privzeto"
+    },
+    {
+      "name": "delbook",
+      "value": "Izbriši zaznamek"
+    },
+    {
+      "name": "delete",
+      "value": "Izbriši"
+    },
+    {
+      "name": "descending",
+      "value": "Padajoče"
+    },
+    {
+      "name": "details",
+      "value": "Podrobnosti"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "Mape"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "Datoteke"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "Če izbrišete spodnje elemente, jih trajno odstranite iz naprave in jih ni mogoče obnoviti."
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Potrdi"
+    },
+    {
+      "name": "dimensions",
+      "value": "Dimenzije"
+    },
+    {
+      "name": "directory",
+      "value": "Mapa"
+    },
+    {
+      "name": "documents",
+      "value": "Dokumenti"
+    },
+    {
+      "name": "doforall",
+      "value": "Za vse elemente"
+    },
+    {
+      "name": "doit",
+      "value": "Naredi to"
+    },
+    {
+      "name": "domain",
+      "value": "Domena"
+    },
+    {
+      "name": "donate",
+      "value": "Prispevaj"
+    },
+    {
+      "name": "done",
+      "value": "Opravljeno"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Zapri navigacijsko okno"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Odpri navigacijsko okno"
+    },
+    {
+      "name": "duration",
+      "value": "Trajanje"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "Nizozemsko"
+    },
+    {
+      "name": "edit",
+      "value": "Uredi"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "Usposobi skrbniški način"
+    },
+    {
+      "name": "entername",
+      "value": "Vstavite ime"
+    },
+    {
+      "name": "enterpath",
+      "value": "Vnesite pot"
+    },
+    {
+      "name": "enterzipname",
+      "value": "Vnesite ime Zip"
+    },
+    {
+      "name": "error",
+      "value": "Napaka"
+    },
+    {
+      "name": "exit",
+      "value": "Izhod"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Čas osvetlitve"
+    },
+    {
+      "name": "extract",
+      "value": "Razširi"
+    },
+    {
+      "name": "extracting",
+      "value": "Razširjanje"
+    },
+    {
+      "name": "feedback",
+      "value": "Pošlji povratne info"
+    },
+    {
+      "name": "field_empty",
+      "value": "Polje ne sme biti prazno"
+    },
+    {
+      "name": "file",
+      "value": "Datoteka"
+    },
+    {
+      "name": "file_empty",
+      "value": "Datoteka je prezna"
+    },
+    {
+      "name": "fileexist",
+      "value": "Datoteka z istim imenom že obstaja"
+    },
+    {
+      "name": "files",
+      "value": "Datoteke"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "Datoteke na vrhu"
+    },
+    {
+      "name": "find",
+      "value": "Najdi na strani"
+    },
+    {
+      "name": "flash_fired",
+      "value": "Uporaba bliskavice"
+    },
+    {
+      "name": "focal_length",
+      "value": "Goriščna razdalja"
+    },
+    {
+      "name": "folder",
+      "value": "Mapa"
+    },
+    {
+      "name": "folders",
+      "value": "Mape"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "Mape na vrhu"
+    },
+    {
+      "name": "frame_rate",
+      "value": "Hitrost sličic"
+    },
+    {
+      "name": "free",
+      "value": "nezaseden prostor"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "Francoščina"
+    },
+    {
+      "name": "ftp",
+      "value": "FTP strežnik"
+    },
+    {
+      "name": "ftp_login",
+      "value": "Prijava"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "Preverite, ali imate vzpostavljeno povezavo Wi-Fi"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "FTP strežnik se zaganja"
+    },
+    {
+      "name": "ftp_notif_starting_title",
+      "value": "FTP strežnik"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "STOP"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "v %s"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "Amaze FTP server teče"
+    },
+    {
+      "name": "ftp_path",
+      "value": "Skupna pot"
+    },
+    {
+      "name": "ftp_path_change_error_invalid",
+      "value": "Neveljavna pot"
+    },
+    {
+      "name": "ftp_path_change_success",
+      "value": "FTP pot uspešno spremenjena"
+    },
+    {
+      "name": "ftp_port",
+      "value": "Vrata"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "Izbrana neveljavna vrata"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "FTP vrata uspešno spremenjena"
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "FTP vrata"
+    },
+    {
+      "name": "ftp_seconds",
+      "value": "Sekund"
+    },
+    {
+      "name": "ftp_status_no_connection",
+      "value": "Ni povezave"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "Ustavljen"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "V teku"
+    },
+    {
+      "name": "ftp_status_secure_connection",
+      "value": "Varna povezava"
+    },
+    {
+      "name": "ftp_status_title",
+      "value": "Stanje"
+    },
+    {
+      "name": "general",
+      "value": "Splošno"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "Nemščina"
+    },
+    {
+      "name": "goback",
+      "value": "Pojdi nazaj"
+    },
+    {
+      "name": "got_it",
+      "value": "Razumem!"
+    },
+    {
+      "name": "grant",
+      "value": "Odobri"
+    },
+    {
+      "name": "grantfailed",
+      "value": "Dovoljenje ni odobreno"
+    },
+    {
+      "name": "grantper",
+      "value": "Odobri dovoljenje"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "Grško"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "Število stolpcev v mrežnem pogledu"
+    },
+    {
+      "name": "gridview",
+      "value": "Mrežni pogled"
+    },
+    {
+      "name": "hash_sha256",
+      "value": "SHA-256"
+    },
+    {
+      "name": "height",
+      "value": "Višina"
+    },
+    {
+      "name": "hidden",
+      "value": "Prikaži skrite datoteke in mape"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "Skrite datoteke"
+    },
+    {
+      "name": "hide",
+      "value": "Skrij"
+    },
+    {
+      "name": "history",
+      "value": "Zgodovina"
+    },
+    {
+      "name": "home",
+      "value": "Doma"
+    },
+    {
+      "name": "icon",
+      "value": "ikona"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "Nastavi barvo za ikone"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "Barva ikone"
+    },
+    {
+      "name": "image",
+      "value": "Slike"
+    },
+    {
+      "name": "image_iso",
+      "value": "ISO hitrost"
+    },
+    {
+      "name": "image_type",
+      "value": "Vrsta slike"
+    },
+    {
+      "name": "images",
+      "value": "Slike"
+    },
+    {
+      "name": "in_safe",
+      "value": "Premalo prostora"
+    },
+    {
+      "name": "information",
+      "value": "Podatki"
+    },
+    {
+      "name": "install",
+      "value": "Namesti"
+    },
+    {
+      "name": "intellihide_toolbar_summary",
+      "value": "Samodejno skrije orodno vrstico med drsenjem"
+    },
+    {
+      "name": "intellihide_toolbar_title",
+      "value": "Pametna orodna vrstica"
+    },
+    {
+      "name": "invalid",
+      "value": "Neveljaven %s"
+    },
+    {
+      "name": "invalid_name",
+      "value": "Neveljavno ime"
+    },
+    {
+      "name": "ip",
+      "value": "Naslov"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "Italijanščina"
+    },
+    {
+      "name": "item",
+      "value": "element"
+    },
+    {
+      "name": "items",
+      "value": "elementi"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "Japonsko"
+    },
+    {
+      "name": "keywords",
+      "value": "Ključne besede"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "Korejsko"
+    },
+    {
+      "name": "lastModified",
+      "value": "Zadnje spremembe"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "Pokaži zadnje spremembe"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "Prikaži datum in čas, kdaj je bila datoteka spremenjena zadnjič"
+    },
+    {
+      "name": "light",
+      "value": "Svetle barve"
+    },
+    {
+      "name": "listview",
+      "value": "Seznamski pogled"
+    },
+    {
+      "name": "loading",
+      "value": "Nalaganje…"
+    },
+    {
+      "name": "location",
+      "value": "Lokacija"
+    },
+    {
+      "name": "md5",
+      "value": "MD5"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "Razno"
+    },
+    {
+      "name": "modified",
+      "value": "Spremenjeno"
+    },
+    {
+      "name": "monofont",
+      "value": "Monospace pisave"
+    },
+    {
+      "name": "moving",
+      "value": "Premikam"
+    },
+    {
+      "name": "name",
+      "value": "Ime"
+    },
+    {
+      "name": "newfile",
+      "value": "Nova datoteka"
+    },
+    {
+      "name": "newfolder",
+      "value": "Nova mapa"
+    },
+    {
+      "name": "no",
+      "value": "Ne"
+    },
+    {
+      "name": "no_app_found",
+      "value": "Program za odpiranje ni najden"
+    },
+    {
+      "name": "no_device_found",
+      "value": "Ni najdenih naprav"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "Nobena datoteka prepisana"
+    },
+    {
+      "name": "no_files",
+      "value": "Ni datotek"
+    },
+    {
+      "name": "no_items",
+      "value": "Ni predmetov"
+    },
+    {
+      "name": "no_name",
+      "value": "Datoteka mora imeti ime"
+    },
+    {
+      "name": "none_on_top",
+      "value": "Brez prilog na vrhu"
+    },
+    {
+      "name": "not_allowed",
+      "value": "Ni dovoljeno"
+    },
+    {
+      "name": "of",
+      "value": "od"
+    },
+    {
+      "name": "ok",
+      "value": "V redu"
+    },
+    {
+      "name": "open",
+      "value": "Odpri"
+    },
+    {
+      "name": "open_as",
+      "value": "Odpri kot"
+    },
+    {
+      "name": "open_with",
+      "value": "Odpri z"
+    },
+    {
+      "name": "operation_fail_following",
+      "value": "Operacija ni uspela za te datoteke"
+    },
+    {
+      "name": "optimized",
+      "value": "Optimizirano"
+    },
+    {
+      "name": "otg_access",
+      "value": "Izberite koren OTG naprave"
+    },
+    {
+      "name": "other",
+      "value": "Drugo"
+    },
+    {
+      "name": "out_of",
+      "value": "od"
+    },
+    {
+      "name": "overwrite",
+      "value": "Prepiši"
+    },
+    {
+      "name": "pages",
+      "value": "Število strani"
+    },
+    {
+      "name": "paper_size",
+      "value": "Velikost papirja"
+    },
+    {
+      "name": "password",
+      "value": "Geslo"
+    },
+    {
+      "name": "paste",
+      "value": "Prilepi"
+    },
+    {
+      "name": "path",
+      "value": "Pot"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "PayPal id kopiran v odložišče"
+    },
+    {
+      "name": "permission",
+      "value": "Dovoljenja"
+    },
+    {
+      "name": "permission_group",
+      "value": "Skupina"
+    },
+    {
+      "name": "permission_other",
+      "value": "Drugo"
+    },
+    {
+      "name": "permission_owner",
+      "value": "Lastnik"
+    },
+    {
+      "name": "permission_read",
+      "value": "Preberi"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "Izberite datoteko"
+    },
+    {
+      "name": "play",
+      "value": "Trgovina play"
+    },
+    {
+      "name": "please_wait",
+      "value": "Prosim, počakajte"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "Poljščina"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "Portugalščina"
+    },
+    {
+      "name": "press_again",
+      "value": "Ponovno pritisnite za izhod"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "Primarne barve (Desni tab)"
+    },
+    {
+      "name": "processing_file",
+      "value": "Obdelava datoteke"
+    },
+    {
+      "name": "properties",
+      "value": "Lastnosti"
+    },
+    {
+      "name": "quick",
+      "value": "Hitri dostop"
+    },
+    {
+      "name": "random",
+      "value": "Naključna preobleka"
+    },
+    {
+      "name": "rate",
+      "value": "Ocenite aplikacijo"
+    },
+    {
+      "name": "recent",
+      "value": "Nedavne datoteke"
+    },
+    {
+      "name": "regular_expression",
+      "value": "Običajni izraz"
+    },
+    {
+      "name": "rename",
+      "value": "Preimenuj"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "Spremeni zaznamek"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "Prijavi napako ali zahtevaj novo funkcijo"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "Prijavi napako"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "Romunsko"
+    },
+    {
+      "name": "root_directory",
+      "value": "Koren"
+    },
+    {
+      "name": "root_failure",
+      "value": "Skrbniški dostop ni odobren"
+    },
+    {
+      "name": "root_pref",
+      "value": "Pokaži dovoljenja"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "Prikaz dovoljenj za datoteke in mape"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "Ruščina"
+    },
+    {
+      "name": "sample_rate",
+      "value": "Hitrost vzorčenja"
+    },
+    {
+      "name": "save",
+      "value": "Shrani"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "Pri zagonu si v vsakem jezičku zapolni nazadnje ogledane mape"
+    },
+    {
+      "name": "save_paths",
+      "value": "Ne pozabi poti"
+    },
+    {
+      "name": "saving",
+      "value": "Shranjujem"
+    },
+    {
+      "name": "scp_port",
+      "value": "Vrata"
+    },
+    {
+      "name": "search",
+      "value": "Iskanje"
+    },
+    {
+      "name": "search_hint",
+      "value": "Vnesite besedilo za iskanje…"
+    },
+    {
+      "name": "search_results",
+      "value": "Rezultati iskanja %s"
+    },
+    {
+      "name": "searching_devices",
+      "value": "Iskanje naprav"
+    },
+    {
+      "name": "security",
+      "value": "Varnost"
+    },
+    {
+      "name": "select",
+      "value": "Izberite element"
+    },
+    {
+      "name": "select_all",
+      "value": "Izberi vse"
+    },
+    {
+      "name": "select_intent",
+      "value": "Izberi"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "Srbščina"
+    },
+    {
+      "name": "server_address",
+      "value": "IP naslov strežnika"
+    },
+    {
+      "name": "set",
+      "value": "Nastavi"
+    },
+    {
+      "name": "set_as_home",
+      "value": "Nastavi kot doma"
+    },
+    {
+      "name": "set_random",
+      "value": "Spremembe bodo vidne po ponovnem zagonu aplikacije"
+    },
+    {
+      "name": "setting",
+      "value": "Nastavitve"
+    },
+    {
+      "name": "share",
+      "value": "Skupna raba"
+    },
+    {
+      "name": "share_limit",
+      "value": "Ne moremo deliti več kot 100 datotek"
+    },
+    {
+      "name": "showHeaders",
+      "value": "Pokaži glavo"
+    },
+    {
+      "name": "show_dividers",
+      "value": "Prikaži delilnike"
+    },
+    {
+      "name": "show_quick_access_pref",
+      "value": "Hitri dostop"
+    },
+    {
+      "name": "show_quick_access_pref_title",
+      "value": "Pokaži hiter dostop"
+    },
+    {
+      "name": "sidebar_quick_access_title",
+      "value": "Hitri dostop stranske vrstice"
+    },
+    {
+      "name": "size",
+      "value": "velikost mape"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Velikost"
+    },
+    {
+      "name": "size_pref",
+      "value": "Pokaži velikosti"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "Pokaži velikosti datotek in število elementov v mapah"
+    },
+    {
+      "name": "skip",
+      "value": "Preskoči"
+    },
+    {
+      "name": "smb_connection",
+      "value": "SMB povezava"
+    },
+    {
+      "name": "software",
+      "value": "Programska oprema"
+    },
+    {
+      "name": "sort",
+      "value": "Razvrsti"
+    },
+    {
+      "name": "sort_by",
+      "value": "Razvrsti po"
+    },
+    {
+      "name": "sort_name",
+      "value": "Ime"
+    },
+    {
+      "name": "sort_size",
+      "value": "Velikost"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "Španščina"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Začni"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "Ustavi"
+    },
+    {
+      "name": "stopping",
+      "value": "Ustavljanje"
+    },
+    {
+      "name": "subject",
+      "value": "Zadeva"
+    },
+    {
+      "name": "support_development",
+      "value": "Podprite razvoj"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "Tamilsko"
+    },
+    {
+      "name": "text",
+      "value": "Besedilo"
+    },
+    {
+      "name": "textreader",
+      "value": "Bralnik"
+    },
+    {
+      "name": "theme",
+      "value": "Tema"
+    },
+    {
+      "name": "thumb",
+      "value": "Prikaži sličice"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "Prikaži sličice aplikacij in slik"
+    },
+    {
+      "name": "title",
+      "value": "Naslov"
+    },
+    {
+      "name": "total",
+      "value": "Skupaj:"
+    },
+    {
+      "name": "translate_summary",
+      "value": "Prevedite Amaze v vaš jezik"
+    },
+    {
+      "name": "translate_title",
+      "value": "Prevajanje"
+    },
+    {
+      "name": "translators",
+      "value": "Prevajalci"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "Turščina"
+    },
+    {
+      "name": "type",
+      "value": "Vrsta"
+    },
+    {
+      "name": "ui",
+      "value": "Vmesnik"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "Ukrajinščina"
+    },
+    {
+      "name": "unin_system_apk",
+      "value": "To je sistemska aplikacija, brisanje le te lahko prevede do nestabilnosti sistema. \\nNadeljujem?"
+    },
+    {
+      "name": "uninstall",
+      "value": "Odstrani"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Ops... nekaj je šlo narobe!"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "Neshranjene spremembe"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "Imate neshranjene spremembe, jih želite shraniti preden zaprete program?"
+    },
+    {
+      "name": "used",
+      "value": "zasedeno"
+    },
+    {
+      "name": "used_by_others",
+      "value": "uporabljajo drugi"
+    },
+    {
+      "name": "username",
+      "value": "Uporabniško ime"
+    },
+    {
+      "name": "version",
+      "value": "Različica"
+    },
+    {
+      "name": "video",
+      "value": "Video posnetki"
+    },
+    {
+      "name": "videos",
+      "value": "Video posnetki"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "Vietnamsko"
+    },
+    {
+      "name": "view",
+      "value": "Prikaz"
+    },
+    {
+      "name": "waiting_title",
+      "value": "Čakam"
+    },
+    {
+      "name": "want_help",
+      "value": "Potrebujete pomoč?"
+    },
+    {
+      "name": "warning",
+      "value": "Opozorilo"
+    },
+    {
+      "name": "warning_confirm",
+      "value": "Razumem!"
+    },
+    {
+      "name": "warning_never_show",
+      "value": "Ne prikaži več"
+    },
+    {
+      "name": "width",
+      "value": "Širina"
+    },
+    {
+      "name": "xda_summary",
+      "value": "Q & A, pomoč & odpravljanje težav"
+    },
+    {
+      "name": "xda_title",
+      "value": "XDA nit"
+    },
+    {
+      "name": "year",
+      "value": "Leto"
+    },
+    {
+      "name": "yes",
+      "value": "Da"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "Zip pregledovalnik"
+    }
+  ]
+}

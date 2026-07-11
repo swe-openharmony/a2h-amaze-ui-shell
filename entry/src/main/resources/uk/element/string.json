@@ -1,0 +1,2164 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Про програму"
+    },
+    {
+      "name": "about_amaze",
+      "value": "Менеджер файлів дизайну матеріалів для Android"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "Про Amaze File Manager"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "Встановить колір плаваючої кнопки FAB та інших дрібних елементів UI"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "Колір акценту"
+    },
+    {
+      "name": "accessed",
+      "value": "Доступно"
+    },
+    {
+      "name": "add_item",
+      "value": "Додати елемент"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "Додати ярлик"
+    },
+    {
+      "name": "add_shortcut_not_supported_by_launcher",
+      "value": "Створення ярликів не підтримується вашою панеллю запуску."
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "Додати у закладки"
+    },
+    {
+      "name": "advanced",
+      "value": "Розширений"
+    },
+    {
+      "name": "advanced_search",
+      "value": "Розширений пошук"
+    },
+    {
+      "name": "album",
+      "value": "Альбом"
+    },
+    {
+      "name": "always",
+      "value": "Завжди"
+    },
+    {
+      "name": "anonymous",
+      "value": "Анонім"
+    },
+    {
+      "name": "aperture_value",
+      "value": "Значення діафрагми"
+    },
+    {
+      "name": "apks",
+      "value": "Apk"
+    },
+    {
+      "name": "app_name",
+      "value": "Файловий менеджер Amaze"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "Додаток / користувацький інтерфейс аварійно завершив роботу"
+    },
+    {
+      "name": "apps",
+      "value": "Менеджер додатків"
+    },
+    {
+      "name": "archive",
+      "value": "Архіви"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "Тека для розпаковування архівів"
+    },
+    {
+      "name": "archive_password_prompt",
+      "value": "Будь ласка, введіть пароль до архіву:"
+    },
+    {
+      "name": "archive_summary",
+      "value": "Файли з архіву буде розпаковано до вказаної теки. За замовчуванням це тека та ж тека, де знаходиться архів"
+    },
+    {
+      "name": "archive_text",
+      "value": "Це архів. Яку дію ви хотіли б виконати?"
+    },
+    {
+      "name": "artist",
+      "value": "Виконавець"
+    },
+    {
+      "name": "ascending",
+      "value": "За зростанням"
+    },
+    {
+      "name": "audio",
+      "value": "Аудіо"
+    },
+    {
+      "name": "authenticate_password",
+      "value": "Введіть пароль"
+    },
+    {
+      "name": "author",
+      "value": "Автор"
+    },
+    {
+      "name": "authors",
+      "value": "Автори"
+    },
+    {
+      "name": "back_summary",
+      "value": "Вмикає кнопку назад у верхній частині списку"
+    },
+    {
+      "name": "back_title",
+      "value": "Кнопка назад"
+    },
+    {
+      "name": "backup",
+      "value": "Резервна копія"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "Баскська"
+    },
+    {
+      "name": "bitrate",
+      "value": "Бітрейт"
+    },
+    {
+      "name": "black",
+      "value": "Чорний (для OLED)"
+    },
+    {
+      "name": "blue",
+      "value": "Синій"
+    },
+    {
+      "name": "bluetooth",
+      "value": "Bluetooth"
+    },
+    {
+      "name": "bookmark_lost",
+      "value": "Закладки не знайдено, перестворення…"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "Додані в вибране"
+    },
+    {
+      "name": "byte_singular",
+      "value": "байт"
+    },
+    {
+      "name": "bytes",
+      "value": "Байт"
+    },
+    {
+      "name": "calculating",
+      "value": "обчислюю"
+    },
+    {
+      "name": "camera_brand",
+      "value": "Бренд камери"
+    },
+    {
+      "name": "camera_model",
+      "value": "Модель камери"
+    },
+    {
+      "name": "cancel",
+      "value": "Скасувати"
+    },
+    {
+      "name": "cancelled",
+      "value": "Скасовано"
+    },
+    {
+      "name": "cannot_delete_file",
+      "value": "Не вдається видалити файл"
+    },
+    {
+      "name": "cannot_delete_file_with_reason",
+      "value": "Не вдається видалити файл - %s"
+    },
+    {
+      "name": "cannot_overwrite",
+      "value": "Не вдалось перезаписати файл."
+    },
+    {
+      "name": "cannot_read_directory",
+      "value": "Не вжається прочитати каталог %s - %s"
+    },
+    {
+      "name": "cannot_rename_file",
+      "value": "Не вдається перейменувати файл %s - %s"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s не може бути пустим"
+    },
+    {
+      "name": "change",
+      "value": "Змінити"
+    },
+    {
+      "name": "changelog",
+      "value": "Історія змін"
+    },
+    {
+      "name": "channel_description_ftp",
+      "value": "Сповіщення FTP серверу файлового менеджнеру Amaze"
+    },
+    {
+      "name": "channel_description_normal",
+      "value": "Сповіщення файлового менеджнеру Amaze"
+    },
+    {
+      "name": "channel_name_ftp",
+      "value": "Amaze FTP сервер"
+    },
+    {
+      "name": "channel_name_normal",
+      "value": "Сповіщення Amaze"
+    },
+    {
+      "name": "channels",
+      "value": "Канали"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "Китайська"
+    },
+    {
+      "name": "choose_color",
+      "value": "Обрати колір"
+    },
+    {
+      "name": "choose_different_app",
+      "value": "Виберіть іншу програму"
+    },
+    {
+      "name": "circular_icons",
+      "value": "Використовувати круглі іконки"
+    },
+    {
+      "name": "circular_images",
+      "value": "Використовувати круглі іконки для зображень і відео"
+    },
+    {
+      "name": "clear",
+      "value": "Очистити"
+    },
+    {
+      "name": "clear_open_file",
+      "value": "Очистити кеш"
+    },
+    {
+      "name": "clear_open_file_summary",
+      "value": "Очищає вибрані програми відкриття файлів за замовчуванням"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "Шлях скопійований в буфер обміну"
+    },
+    {
+      "name": "close",
+      "value": "Закрити"
+    },
+    {
+      "name": "cloud_box",
+      "value": "Ящик"
+    },
+    {
+      "name": "cloud_connection",
+      "value": "Підключення до хмари"
+    },
+    {
+      "name": "cloud_connection_new",
+      "value": "Нове підключення до хмари"
+    },
+    {
+      "name": "cloud_drive",
+      "value": "Google Drive™"
+    },
+    {
+      "name": "cloud_dropbox",
+      "value": "Dropbox"
+    },
+    {
+      "name": "cloud_error_failed_restart",
+      "value": "Помилка завантаження. Будь ласка, выдкрийте Amaze Cloud."
+    },
+    {
+      "name": "cloud_error_plugin",
+      "value": "Плагін для цієї хмари не знайдено. Будь ласка, завантажити з Play Store."
+    },
+    {
+      "name": "cloud_fail_authenticate",
+      "value": "Не вдалося здійснити автентифікацію"
+    },
+    {
+      "name": "cloud_get",
+      "value": "Отримати плагін хмари"
+    },
+    {
+      "name": "cloud_onedrive",
+      "value": "OneDrive"
+    },
+    {
+      "name": "cloud_remove",
+      "value": "Ви хочете видалити підключення до хмари?"
+    },
+    {
+      "name": "cloud_share_copied",
+      "value": "Це посилання зкопійовано до буфера обміну"
+    },
+    {
+      "name": "cloud_token_lost",
+      "value": "Token втрачено, будь ласка авторизуйтесь знову"
+    },
+    {
+      "name": "codec",
+      "value": "Кодек"
+    },
+    {
+      "name": "color_summary",
+      "value": "Встановити колір для різних компонентів UI"
+    },
+    {
+      "name": "color_title",
+      "value": "Колір"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "Кольорова навігаційна панель"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "Чи буде навігаційна панель мати колір теми"
+    },
+    {
+      "name": "colorize",
+      "value": "Розфарбувати іконки"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "Встановлює кольори іконок відрізняються від теми"
+    },
+    {
+      "name": "comment",
+      "value": "Коментар"
+    },
+    {
+      "name": "compress",
+      "value": "Архівувати"
+    },
+    {
+      "name": "compress_file_suggest_zip_extension",
+      "value": "Рекомендується використовувати \".zip\" як розширення файлу."
+    },
+    {
+      "name": "compressed",
+      "value": "Стискається"
+    },
+    {
+      "name": "compressing",
+      "value": "Стиснення"
+    },
+    {
+      "name": "compression_complete",
+      "value": "Повне стиснення"
+    },
+    {
+      "name": "connection_exists",
+      "value": "З'єднання вже існує"
+    },
+    {
+      "name": "connection_name",
+      "value": "Назва з'єднання"
+    },
+    {
+      "name": "container",
+      "value": "Контейнер"
+    },
+    {
+      "name": "contributors",
+      "value": "Розробники"
+    },
+    {
+      "name": "contributors_1_summary",
+      "value": "Переклад"
+    },
+    {
+      "name": "contributors_2_summary",
+      "value": "Іконка і банери"
+    },
+    {
+      "name": "contributors_3_summary",
+      "value": "Движок тем"
+    },
+    {
+      "name": "contributors_4_summary",
+      "value": "Тінь позаду FAB"
+    },
+    {
+      "name": "contributors_5_summary",
+      "value": "Колірний перехід, при перемиканні вкладок"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "FTP Сервер"
+    },
+    {
+      "name": "contributors_7_summary",
+      "value": "Запустити інтерактивну оболонку"
+    },
+    {
+      "name": "copied",
+      "value": "скопійовано"
+    },
+    {
+      "name": "copy",
+      "value": "Копіювати"
+    },
+    {
+      "name": "copy_complete",
+      "value": "Копіювання завершено"
+    },
+    {
+      "name": "copy_error",
+      "value": "Деякі файли не були успішно %s"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Скопіювати відформатований звіт"
+    },
+    {
+      "name": "copy_low_memory",
+      "value": "Не вистачає пам'яті, будь ласка звільніть оперативну пам'ять"
+    },
+    {
+      "name": "copying",
+      "value": "Копіювання"
+    },
+    {
+      "name": "crash_report_copied",
+      "value": "Звіт про збій скопійовано в буфер обміну"
+    },
+    {
+      "name": "create",
+      "value": "Створити"
+    },
+    {
+      "name": "create_file_suggest_txt_extension",
+      "value": "Рекомендується використовувати \".txt\" як розширення файлу."
+    },
+    {
+      "name": "create_hidden_file_warn",
+      "value": "Створений файл буде приховано у файловому списку."
+    },
+    {
+      "name": "created",
+      "value": "Створено"
+    },
+    {
+      "name": "creatingfile",
+      "value": "Створення файлу"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "Створення теки"
+    },
+    {
+      "name": "creator",
+      "value": "Автор"
+    },
+    {
+      "name": "crypt_decrypt",
+      "value": "Розшифрувати"
+    },
+    {
+      "name": "crypt_decrypted",
+      "value": "Розшифровано"
+    },
+    {
+      "name": "crypt_decrypting",
+      "value": "Дешифрування"
+    },
+    {
+      "name": "crypt_decryption_fail",
+      "value": "Не вдалося розшифрувати"
+    },
+    {
+      "name": "crypt_decryption_fail_password",
+      "value": "Пароль невірний!"
+    },
+    {
+      "name": "crypt_encrypt",
+      "value": "Шифрувати"
+    },
+    {
+      "name": "crypt_encrypted",
+      "value": "Зашифровано"
+    },
+    {
+      "name": "crypt_encrypting",
+      "value": "Шифрування"
+    },
+    {
+      "name": "crypt_encryption_fail",
+      "value": "Не вдалося зашифрувати"
+    },
+    {
+      "name": "crypt_fingerprint_authenticate",
+      "value": "Торкніться сенсору для продовження"
+    },
+    {
+      "name": "crypt_fingerprint_no_permission",
+      "value": "Відсутні дозволи відбитка пальців"
+    },
+    {
+      "name": "crypt_fingerprint_no_security",
+      "value": "Захист блокування екрану не знайдено"
+    },
+    {
+      "name": "crypt_fingerprint_not_enrolled",
+      "value": "Відсутні зареєстровані відбитки пальця"
+    },
+    {
+      "name": "crypt_pref_fingerprint_summary",
+      "value": "Використайте відбиток пальця для підтвердження шифрування"
+    },
+    {
+      "name": "crypt_pref_fingerprint_title",
+      "value": "Відбиток пальця"
+    },
+    {
+      "name": "crypt_pref_master_password_summary",
+      "value": "Встановіть основний пароль для шифрування.          Залиште порожнім для видалення."
+    },
+    {
+      "name": "crypt_pref_master_password_title",
+      "value": "Основний пароль"
+    },
+    {
+      "name": "crypt_warning_key",
+      "value": "Майте на увазі, при зміні графічного ключа          в параметрах системи, ви не зможете розшифрувати цей вміст."
+    },
+    {
+      "name": "current_speed",
+      "value": "Поточна швидкість"
+    },
+    {
+      "name": "custom",
+      "value": "Користувацькі налаштування"
+    },
+    {
+      "name": "customize",
+      "value": "Налаштувати"
+    },
+    {
+      "name": "cut",
+      "value": "Вирізати"
+    },
+    {
+      "name": "dark",
+      "value": "Темний"
+    },
+    {
+      "name": "database",
+      "value": "База даних"
+    },
+    {
+      "name": "databasereader",
+      "value": "Читач бази даних"
+    },
+    {
+      "name": "date",
+      "value": "Дата:"
+    },
+    {
+      "name": "date_modified",
+      "value": "Дата змінення"
+    },
+    {
+      "name": "date_taken",
+      "value": "Дата зйомки"
+    },
+    {
+      "name": "daytime",
+      "value": "Денний час"
+    },
+    {
+      "name": "default_string",
+      "value": "За замовчуванням"
+    },
+    {
+      "name": "delbook",
+      "value": "Видалити закладку"
+    },
+    {
+      "name": "delete",
+      "value": "Видалити"
+    },
+    {
+      "name": "deleting",
+      "value": "Видалення..."
+    },
+    {
+      "name": "descending",
+      "value": "За спаданням"
+    },
+    {
+      "name": "deselect_all",
+      "value": "Скасувати вибір усіх"
+    },
+    {
+      "name": "details",
+      "value": "Читати далі"
+    },
+    {
+      "name": "developers",
+      "value": "Розробники"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "Каталоги"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "Файли"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "Видалення наведених нижче елементів назавжди видалить їх із пристрою, і їх неможливо відновити."
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Видалити елементи назавжди?"
+    },
+    {
+      "name": "dimensions",
+      "value": "Розміри"
+    },
+    {
+      "name": "directory",
+      "value": "Каталог"
+    },
+    {
+      "name": "directorysort",
+      "value": "Режим сортування каталогу"
+    },
+    {
+      "name": "disable",
+      "value": "Вимкнено"
+    },
+    {
+      "name": "disableIpcSignature",
+      "value": "Вимкнути перевірку підписання IPC (для застарілих серверів SMBv1 - НЕБЕЗПЕЧНО!)"
+    },
+    {
+      "name": "documents",
+      "value": "Документи"
+    },
+    {
+      "name": "doforall",
+      "value": "Виконати для всіх елементів"
+    },
+    {
+      "name": "doit",
+      "value": "Робити це"
+    },
+    {
+      "name": "domain",
+      "value": "Домен"
+    },
+    {
+      "name": "donate",
+      "value": "Пожертвувати"
+    },
+    {
+      "name": "donation_thanks",
+      "value": "Дякую за вашу підтримку, це мотивує нас! (:"
+    },
+    {
+      "name": "done",
+      "value": "Закінчено"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Закрити меню навігації"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Відкрити меню навігації"
+    },
+    {
+      "name": "duration",
+      "value": "Тривалість"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "Нідерландська"
+    },
+    {
+      "name": "edit",
+      "value": "Редагувати"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "Включити режим рут прав"
+    },
+    {
+      "name": "encrypt_file_must_end_with_aze",
+      "value": "Зашифровані файли повинні використовувати \".aze\" як розширення."
+    },
+    {
+      "name": "encrypt_file_save_as",
+      "value": "Збережено зашифрований файл як…"
+    },
+    {
+      "name": "encrypt_folder_save_as",
+      "value": "Збережено зашифровану теку як…"
+    },
+    {
+      "name": "encryption_fail_copy",
+      "value": "Не вдалося оновити запис шифрування в базі даних"
+    },
+    {
+      "name": "entername",
+      "value": "Введіть ім'я"
+    },
+    {
+      "name": "enterpath",
+      "value": "Введіть шлях"
+    },
+    {
+      "name": "enterzipname",
+      "value": "Введіть ім'я zip архіву"
+    },
+    {
+      "name": "error",
+      "value": "Помилка"
+    },
+    {
+      "name": "error_archive_password_incorrect",
+      "value": "Не вірний пароль архіву."
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Подробиці:"
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "Помилка: Файл не знайдено"
+    },
+    {
+      "name": "error_file_too_large",
+      "value": "Помилка: Файл надто великий"
+    },
+    {
+      "name": "error_io",
+      "value": "Помилка вводу/виводу"
+    },
+    {
+      "name": "error_permission_denied",
+      "value": "Дозвіл відмовлено"
+    },
+    {
+      "name": "error_report_button_telegram",
+      "value": "Повідомити про цю помилку через Telegram"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Повідомити про цю помилку через e-mail"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Перевірте, чи вже існує тема, що обговорює вашу проблему."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Звітувати на GitHub"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Звіт про помилку"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Звіт"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Вибач, щось пішло не так."
+    },
+    {
+      "name": "exit",
+      "value": "Вихід"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Час експозиції"
+    },
+    {
+      "name": "extract",
+      "value": "Розпакувати"
+    },
+    {
+      "name": "extract_complete",
+      "value": "Повне вилучення"
+    },
+    {
+      "name": "extracted",
+      "value": "Видобувається"
+    },
+    {
+      "name": "extracting",
+      "value": "Розпаковування..."
+    },
+    {
+      "name": "failed_cloud_api_key",
+      "value": "Не вдалося автентифікувати плагін Cloud"
+    },
+    {
+      "name": "failed_cloud_new_connection",
+      "value": "Не вдалося створити нове з'єднання з Хмарою"
+    },
+    {
+      "name": "failed_install_apk",
+      "value": "Помилка інсталяції"
+    },
+    {
+      "name": "failed_no_connection",
+      "value": "Збій завантаження файлів. Будь ласка, перевірте з'єднання."
+    },
+    {
+      "name": "failed_smb_decrypt_path",
+      "value": "Збій підключення до SMB"
+    },
+    {
+      "name": "feedback",
+      "value": "Відправити відгук"
+    },
+    {
+      "name": "field_empty",
+      "value": "Поле не може бути порожнім"
+    },
+    {
+      "name": "file",
+      "value": "Файл"
+    },
+    {
+      "name": "file_empty",
+      "value": "Файл порожній"
+    },
+    {
+      "name": "file_read_only",
+      "value": "Файл відкрито лише для читання"
+    },
+    {
+      "name": "fileexist",
+      "value": "Файл з такою назваю вже існує"
+    },
+    {
+      "name": "filename",
+      "value": "Назва файлу"
+    },
+    {
+      "name": "files",
+      "value": "Файли"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "Файли на вершині"
+    },
+    {
+      "name": "find",
+      "value": "Пошук на сторінці"
+    },
+    {
+      "name": "flash_fired",
+      "value": "Спалах увімкнено"
+    },
+    {
+      "name": "focal_length",
+      "value": "Фокусна відстань"
+    },
+    {
+      "name": "folder",
+      "value": "Папка"
+    },
+    {
+      "name": "folderfilecount",
+      "value": "%1$d папок та %2$d файлів"
+    },
+    {
+      "name": "folders",
+      "value": "Теки"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "Теки зверху"
+    },
+    {
+      "name": "format",
+      "value": "Форматувати"
+    },
+    {
+      "name": "frame_rate",
+      "value": "Частота кадрів"
+    },
+    {
+      "name": "free",
+      "value": "вільний простір"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "Французька"
+    },
+    {
+      "name": "ftp",
+      "value": "FTP Сервер"
+    },
+    {
+      "name": "ftp_login",
+      "value": "Логін"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "Впевніться що ви підключені до Wi-Fi"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "FTP Server запускається"
+    },
+    {
+      "name": "ftp_notif_starting_title",
+      "value": "FTP Сервер"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "ЗУПИНИТИ"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "на %s"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "Amaze FTP Сервер працює"
+    },
+    {
+      "name": "ftp_path",
+      "value": "Спільний шлях"
+    },
+    {
+      "name": "ftp_path_change_error_invalid",
+      "value": "Недійсний шлях"
+    },
+    {
+      "name": "ftp_path_change_success",
+      "value": "Порт FTP змінено успішно"
+    },
+    {
+      "name": "ftp_path_hint",
+      "value": "Шлях до кореневої директорії для поширення"
+    },
+    {
+      "name": "ftp_port",
+      "value": "Порт"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "Вибрано неприпустимий номер порта"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "Порт FTP змінено успішно"
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "Вибрати порт FTP"
+    },
+    {
+      "name": "ftp_seconds",
+      "value": "Секунди"
+    },
+    {
+      "name": "ftp_server_open_settings",
+      "value": "Відкрити налаштування"
+    },
+    {
+      "name": "ftp_status_no_connection",
+      "value": "Відсутнє з'єднання"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "Не працює"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "Працює"
+    },
+    {
+      "name": "ftp_status_secure_connection",
+      "value": "Безпечне з'єднання"
+    },
+    {
+      "name": "ftp_status_title",
+      "value": "Статус"
+    },
+    {
+      "name": "ftp_timeout",
+      "value": "Час простою"
+    },
+    {
+      "name": "general",
+      "value": "Загальні"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "Німецька"
+    },
+    {
+      "name": "go",
+      "value": "Вперед"
+    },
+    {
+      "name": "goback",
+      "value": "Повернутися"
+    },
+    {
+      "name": "got_it",
+      "value": "Готово!"
+    },
+    {
+      "name": "grant",
+      "value": "Дозволити"
+    },
+    {
+      "name": "grant_apkinstall_permission",
+      "value": "Додаток потребує дозволи щоб продовжити встановлення додатку."
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "Додатку потрібен дозвіл роботи з сховищем для продовження. Закриття цього діалогу завершить додаток."
+    },
+    {
+      "name": "grantfailed",
+      "value": "Дозвіл не надано"
+    },
+    {
+      "name": "grantper",
+      "value": "Надати дозвіл"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "Грецька"
+    },
+    {
+      "name": "green",
+      "value": "Зелений"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "Кількість колонок в сітці"
+    },
+    {
+      "name": "gridview",
+      "value": "Сітка"
+    },
+    {
+      "name": "hash_sha256",
+      "value": "SHA-256"
+    },
+    {
+      "name": "height",
+      "value": "Висота"
+    },
+    {
+      "name": "hidden",
+      "value": "Показувати приховані файли і теки"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "Приховані файли"
+    },
+    {
+      "name": "hide",
+      "value": "Приховати"
+    },
+    {
+      "name": "history",
+      "value": "Історія"
+    },
+    {
+      "name": "home",
+      "value": "Додому"
+    },
+    {
+      "name": "icon",
+      "value": "іконка"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "Встановити колір іконок"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "Колір іконок"
+    },
+    {
+      "name": "image",
+      "value": "Зображення"
+    },
+    {
+      "name": "image_iso",
+      "value": "Чутливість ISO"
+    },
+    {
+      "name": "image_type",
+      "value": "Тип зображення"
+    },
+    {
+      "name": "images",
+      "value": "Зображення"
+    },
+    {
+      "name": "in_safe",
+      "value": "Недостатньо вільного місця"
+    },
+    {
+      "name": "info_labels",
+      "value": "Що:\\\\nЗапит:\\\\nЧас GMT:\\\\nПакет:\\\\nВерсія:\\\\nOS-версія:\\\\ nПристрій:\\\\nМодель:\\\\nПродукт:"
+    },
+    {
+      "name": "information",
+      "value": "Інформація"
+    },
+    {
+      "name": "install",
+      "value": "Установка"
+    },
+    {
+      "name": "intellihide_toolbar_summary",
+      "value": "Автоматично приховувати панель інструментів при прокручуванні"
+    },
+    {
+      "name": "intellihide_toolbar_title",
+      "value": "Інтелектуальна панель інструментів"
+    },
+    {
+      "name": "intent_save_as",
+      "value": "Збережено якs…"
+    },
+    {
+      "name": "invalid",
+      "value": "Неприпустимий %s"
+    },
+    {
+      "name": "invalid_name",
+      "value": "Неприпустиме ім'я"
+    },
+    {
+      "name": "ip",
+      "value": "IP адреса"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "Італійська"
+    },
+    {
+      "name": "item",
+      "value": "Елемент"
+    },
+    {
+      "name": "items",
+      "value": "Елементи"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "Японська"
+    },
+    {
+      "name": "just_once",
+      "value": "Лише цього разу"
+    },
+    {
+      "name": "keywords",
+      "value": "Ключові слова"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "Корейська"
+    },
+    {
+      "name": "lastModified",
+      "value": "Дата останнього зміни"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "Показати останні зміни"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "Показати дату і час, коли файл було змінено в останній раз"
+    },
+    {
+      "name": "legacy_listing_title",
+      "value": "Використовуйте застарілий список для root"
+    },
+    {
+      "name": "libraries",
+      "value": "Бібліотеки"
+    },
+    {
+      "name": "license",
+      "value": "Ліцензія"
+    },
+    {
+      "name": "light",
+      "value": "Світлий"
+    },
+    {
+      "name": "listview",
+      "value": "Список"
+    },
+    {
+      "name": "loading",
+      "value": "Завантаження..."
+    },
+    {
+      "name": "local_inet_addr_error",
+      "value": "Помилка отримання місцевої адреси inet"
+    },
+    {
+      "name": "location",
+      "value": "Розташований в:"
+    },
+    {
+      "name": "match_content",
+      "value": "Пошук контенту"
+    },
+    {
+      "name": "match_content_summary",
+      "value": "Якщо встановлено, то регулярний вираз буде проводити порівняння з повним ім'ям файлу, в іншому випадку буде шукати входження."
+    },
+    {
+      "name": "md5",
+      "value": "MD5"
+    },
+    {
+      "name": "medium_text",
+      "value": "Середній текст"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "Інше"
+    },
+    {
+      "name": "modified",
+      "value": "Змінено"
+    },
+    {
+      "name": "monofont",
+      "value": "Моноширинний шрифт"
+    },
+    {
+      "name": "move",
+      "value": "Перемістити"
+    },
+    {
+      "name": "moved",
+      "value": "переміщено"
+    },
+    {
+      "name": "moving",
+      "value": "Переміщення"
+    },
+    {
+      "name": "name",
+      "value": "Ім'я:"
+    },
+    {
+      "name": "needs_access",
+      "value": "Необхідний доступ на запис"
+    },
+    {
+      "name": "needs_access_summary",
+      "value": "Будь ласка виберіть кореневий каталог \\t"
+    },
+    {
+      "name": "needs_access_summary1",
+      "value": "\\tнадати доступ на запис для роботи"
+    },
+    {
+      "name": "newfile",
+      "value": "Новий файл"
+    },
+    {
+      "name": "newfolder",
+      "value": "Нова папка"
+    },
+    {
+      "name": "no",
+      "value": "Ні"
+    },
+    {
+      "name": "no_app_found",
+      "value": "Немає додатків для відкриття цього файлу"
+    },
+    {
+      "name": "no_applications",
+      "value": "Додатки відсутні"
+    },
+    {
+      "name": "no_bitcoin_app",
+      "value": "Будь ласка, встановіть застосунок Bitcoin Wallet"
+    },
+    {
+      "name": "no_device_found",
+      "value": "Пристроїв не знайдено"
+    },
+    {
+      "name": "no_file_error",
+      "value": "Щось трапилось, тут нічого відкривати"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "Не перезаписувати файл"
+    },
+    {
+      "name": "no_files",
+      "value": "Немає файлів"
+    },
+    {
+      "name": "no_items",
+      "value": "Немає елементів"
+    },
+    {
+      "name": "no_name",
+      "value": "Файл повинен мати назву"
+    },
+    {
+      "name": "no_obtainable_info",
+      "value": "Немає інформації про цей файл"
+    },
+    {
+      "name": "none_on_top",
+      "value": "Ні один на вершині"
+    },
+    {
+      "name": "not_allowed",
+      "value": "Не дозволяється"
+    },
+    {
+      "name": "of",
+      "value": "з"
+    },
+    {
+      "name": "ok",
+      "value": "ОК"
+    },
+    {
+      "name": "open",
+      "value": "Відкрити"
+    },
+    {
+      "name": "open_as",
+      "value": "Відкрити як"
+    },
+    {
+      "name": "open_parent",
+      "value": "Відкрити батьківську директорію"
+    },
+    {
+      "name": "open_with",
+      "value": "Відкрити з допомогою"
+    },
+    {
+      "name": "operation_fail_following",
+      "value": "Невдала операція для наступних файлів"
+    },
+    {
+      "name": "operation_not_supported",
+      "value": "Операція не підтримується"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "Невдала операція"
+    },
+    {
+      "name": "optimized",
+      "value": "Оптимізовано"
+    },
+    {
+      "name": "orange",
+      "value": "Помаранчевий"
+    },
+    {
+      "name": "otg_access",
+      "value": "Виберіть кореневу папку OTG пристрою"
+    },
+    {
+      "name": "other",
+      "value": "Різне"
+    },
+    {
+      "name": "out_of",
+      "value": "з"
+    },
+    {
+      "name": "overwrite",
+      "value": "Перезаписати"
+    },
+    {
+      "name": "package_installer",
+      "value": "Установник пакетів"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "Це пакет інсталятора. Яку дію ви хотіли б виконати?"
+    },
+    {
+      "name": "pages",
+      "value": "Кількість сторінок"
+    },
+    {
+      "name": "paper_size",
+      "value": "Розмір паперу"
+    },
+    {
+      "name": "password",
+      "value": "Пароль"
+    },
+    {
+      "name": "password_no_match",
+      "value": "Паролі не збігаються"
+    },
+    {
+      "name": "password_repeat",
+      "value": "Повторіть пароль"
+    },
+    {
+      "name": "password_unchanged",
+      "value": "(Без змін)"
+    },
+    {
+      "name": "paste",
+      "value": "Вставити"
+    },
+    {
+      "name": "path",
+      "value": "Шлях"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "PayPal id скопійовано до буфера обміну"
+    },
+    {
+      "name": "permission",
+      "value": "Права"
+    },
+    {
+      "name": "permission_execute",
+      "value": "Виконати"
+    },
+    {
+      "name": "permission_group",
+      "value": "Група"
+    },
+    {
+      "name": "permission_other",
+      "value": "Інший"
+    },
+    {
+      "name": "permission_owner",
+      "value": "Власник"
+    },
+    {
+      "name": "permission_read",
+      "value": "Прочитати"
+    },
+    {
+      "name": "permission_write",
+      "value": "Записати"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "Вибрати файл"
+    },
+    {
+      "name": "play",
+      "value": "Відкрити в Маркеті"
+    },
+    {
+      "name": "please_wait",
+      "value": "Будь ласка, зачекайте"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "Польська"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "Португальська"
+    },
+    {
+      "name": "preference_newstack_summary",
+      "value": "Дозволяє відкривати файли в окремих завданнях. Доступ до них із екрана програм."
+    },
+    {
+      "name": "preference_newstack_title",
+      "value": "Відкрити файли як нове завдання"
+    },
+    {
+      "name": "preselected_configs_title",
+      "value": "Попередньо вибрані конфігурації"
+    },
+    {
+      "name": "press_again",
+      "value": "Натисніть ще раз, щоб вийти."
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "Встановити колір основних елементів інтерфейсу для лівої вкладки"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "Первинний колір (ліва вкладка)"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "Встановити колір основних елементів інтерфейсу для правої вкладки"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "Первинний колір (права вкладка)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "Перегляд процесів"
+    },
+    {
+      "name": "processed",
+      "value": "Оброблено"
+    },
+    {
+      "name": "processing",
+      "value": "Обробка…"
+    },
+    {
+      "name": "processing_file",
+      "value": "Обробка файлу"
+    },
+    {
+      "name": "producer",
+      "value": "Продюсер"
+    },
+    {
+      "name": "properties",
+      "value": "Властивості"
+    },
+    {
+      "name": "properties_copied_clipboard",
+      "value": "скопійовано до буфера обміну"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "Бажаєте встановити поточний шлях як домашній для цієї вкладки?"
+    },
+    {
+      "name": "quick",
+      "value": "Швидкий доступ"
+    },
+    {
+      "name": "random",
+      "value": "Випадкова тема"
+    },
+    {
+      "name": "random_summary",
+      "value": "Встановлює випадкову тему при запуску"
+    },
+    {
+      "name": "rate",
+      "value": "Оцініть додаток"
+    },
+    {
+      "name": "recent",
+      "value": "Нещодавні файли"
+    },
+    {
+      "name": "regular_expression",
+      "value": "Регулярний вираз"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "Пошук з використанням регулярних виразів в стилі BASH"
+    },
+    {
+      "name": "rename",
+      "value": "Перейменувати"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "Змінити закладку"
+    },
+    {
+      "name": "renaming",
+      "value": "Перейменування"
+    },
+    {
+      "name": "reopen_from_source",
+      "value": "Не вишло, будь ласка, відкрийте з останнього додатку"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "Повідомляти про помилки або запитати нову функцію"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "Звіт про помилку"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "Румунська"
+    },
+    {
+      "name": "root_directory",
+      "value": "Root"
+    },
+    {
+      "name": "root_failure",
+      "value": "Рут доступ не надано"
+    },
+    {
+      "name": "root_mode",
+      "value": "Root Explorer"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "Тільки для пристроїв з рут правами. Використовуйте з обережністю, якщо впевнені у своїх діях."
+    },
+    {
+      "name": "root_pref",
+      "value": "Відображати дозволи"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "Відображати дозволи для файлів і тек"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "Російська"
+    },
+    {
+      "name": "sample_rate",
+      "value": "Частота дискретизації"
+    },
+    {
+      "name": "save",
+      "value": "Зберегти"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "При запуске будуть відображатися нещодавно переглянуті папки для кожної вкладки"
+    },
+    {
+      "name": "save_paths",
+      "value": "Запам'ятати розташування"
+    },
+    {
+      "name": "saved_multi_files",
+      "value": "%dфайлів збережено."
+    },
+    {
+      "name": "saved_single_file",
+      "value": "Файл збережено як '%s'."
+    },
+    {
+      "name": "saving",
+      "value": "Збереження"
+    },
+    {
+      "name": "scp_connection",
+      "value": "SCP/SFTP З'єднання"
+    },
+    {
+      "name": "scp_port",
+      "value": "Порт"
+    },
+    {
+      "name": "search",
+      "value": "Пошук"
+    },
+    {
+      "name": "search_hint",
+      "value": "Введіть текст для пошуку…"
+    },
+    {
+      "name": "search_results",
+      "value": "Результати пошуку %s"
+    },
+    {
+      "name": "searching",
+      "value": "Пошук %s"
+    },
+    {
+      "name": "searching_devices",
+      "value": "Пошук пристроїв"
+    },
+    {
+      "name": "security",
+      "value": "Безпека"
+    },
+    {
+      "name": "select",
+      "value": "Вибрати елемент"
+    },
+    {
+      "name": "select_all",
+      "value": "Вибрати все"
+    },
+    {
+      "name": "select_color_config",
+      "value": "Виберіть конфігурацію кольору"
+    },
+    {
+      "name": "select_intent",
+      "value": "Обрати"
+    },
+    {
+      "name": "send_email_to",
+      "value": "Надіслати електронне повідомлення на адресу"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "Сербська"
+    },
+    {
+      "name": "server_address",
+      "value": "IP-адреса сервера"
+    },
+    {
+      "name": "service_timer",
+      "value": "Пройшло часу"
+    },
+    {
+      "name": "set",
+      "value": "Встановити"
+    },
+    {
+      "name": "set_as_home",
+      "value": "Зробити домашньою текою"
+    },
+    {
+      "name": "set_random",
+      "value": "Зміни будуть використані після перезапуску програми"
+    },
+    {
+      "name": "setting",
+      "value": "Налаштування"
+    },
+    {
+      "name": "share",
+      "value": "Надіслати"
+    },
+    {
+      "name": "share_limit",
+      "value": "Неможливо обмінюватися понад 100 файлами"
+    },
+    {
+      "name": "showHeaders",
+      "value": "Відображати заголовки"
+    },
+    {
+      "name": "show_bookmarks_pref",
+      "value": "Закладки"
+    },
+    {
+      "name": "show_dividers",
+      "value": "Показати розділювачі"
+    },
+    {
+      "name": "show_quick_access_pref",
+      "value": "Швидкий доступ"
+    },
+    {
+      "name": "show_quick_access_pref_title",
+      "value": "Показати швидкий доступ"
+    },
+    {
+      "name": "sidebar_preferences",
+      "value": "Бічна панель"
+    },
+    {
+      "name": "sidebar_quick_access_title",
+      "value": "Швидкий доступ бічної панелі"
+    },
+    {
+      "name": "size",
+      "value": "розмір папки"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Розмір"
+    },
+    {
+      "name": "size_pref",
+      "value": "Показати розміри"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "Показати розміри файлів і кількість елементів в теках"
+    },
+    {
+      "name": "skip",
+      "value": "Пропуск"
+    },
+    {
+      "name": "smb_connection",
+      "value": "Samba з'єднання"
+    },
+    {
+      "name": "smb_launch_error",
+      "value": "Вам знадобиться скопіювати файл для зберігання даних, щоб відкрити його"
+    },
+    {
+      "name": "smb_manual_enter_host",
+      "value": "Введіть ім'я хоста вручну"
+    },
+    {
+      "name": "smb_server",
+      "value": "Ім'я хоста сервера SMB"
+    },
+    {
+      "name": "smb_share",
+      "value": "Поширити шлях"
+    },
+    {
+      "name": "software",
+      "value": "Програмне забезпечення"
+    },
+    {
+      "name": "sort",
+      "value": "Сортувати"
+    },
+    {
+      "name": "sort_by",
+      "value": "Сортувати"
+    },
+    {
+      "name": "sort_name",
+      "value": "Ім'я"
+    },
+    {
+      "name": "sort_only_this",
+      "value": "Лише ця папка"
+    },
+    {
+      "name": "sort_size",
+      "value": "Розмір"
+    },
+    {
+      "name": "source_summary",
+      "value": "Переглянути вихідний код на GitHub"
+    },
+    {
+      "name": "source_title",
+      "value": "Вихідний код"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "Іспанська"
+    },
+    {
+      "name": "ssh_authentication_failure_key",
+      "value": "Помилка входу: Неможливо виконати автентифікацію за допомогою наданого імені користувача та приватного ключа."
+    },
+    {
+      "name": "ssh_authentication_failure_password",
+      "value": "Помилка входу: Неможливо виконати автентифікацію за допомогою наданого імені користувача та пароля."
+    },
+    {
+      "name": "ssh_connect_failed",
+      "value": "Не вдалось з'єднання до %1$s:%2$d:%3$s"
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_message",
+      "value": "МОЖЛИВО, ЩО У ВАС НЕПРИЄМНОСТІ!\\n\\nХтось може підслуховувати вас прямо зараз (атака \"людина посередині\")! Також можливо, що ключ хосту щойно змінено. Відбиток пальця для відкритого ключа, надісланого віддаленим хостом, не відповідає такому, що зберігається у Amaze.\\n\\nЗверніться до свого системного адміністратора або налаштуйте нове з’єднання, щоб продовжити підключення до сервера."
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_prompt",
+      "value": "МОЖЛИВО, ЩО У ВАС НЕПРИЄМНОСТІ!\\n\\nХтось може підслуховувати вас прямо зараз (атака \"людина посередині\")! Також можливо, що ключ хосту щойно змінено. Відбиток пальця для відкритого ключа, надісланого віддаленим хостом, не відповідає такому, що зберігається у Amaze.\\n\\nВи можете продовжити оновлення відбитка хоста або скасувати оновлення налаштувань з’єднання SSH."
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_title",
+      "value": "ПОПЕРЕДЖЕННЯ: ДИСТАНЦІЙНУ ІДЕНТИФІКАЦІЮ ЗМІНЕНО!"
+    },
+    {
+      "name": "ssh_host_key_verification_prompt",
+      "value": "Справжність хоста '%1$s' не може бути встановлена.\\n\\n%2$sвідбиток ключа є%3$s.\\n\\nБудь ласка натисніть 'Так' для підтвердження; інакше натисніть 'Ні'."
+    },
+    {
+      "name": "ssh_host_key_verification_prompt_title",
+      "value": "Підтвердження хоста"
+    },
+    {
+      "name": "ssh_key_invalid_passphrase",
+      "value": "Недійсна ключова фраза."
+    },
+    {
+      "name": "ssh_key_prompt_passphrase",
+      "value": "Введіть ключову фразу."
+    },
+    {
+      "name": "ssh_pem_key_parse_error",
+      "value": "Не вдається прочитати вибраний PEM: %s"
+    },
+    {
+      "name": "ssh_select_pem",
+      "value": "Виберіть приватний ключ для автентифікації"
+    },
+    {
+      "name": "ssh_select_pem_button",
+      "value": "Приватний ключ SSH"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Запустити"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "Зупинити"
+    },
+    {
+      "name": "stopping",
+      "value": "Зупинка"
+    },
+    {
+      "name": "storage_sd_card",
+      "value": "SD картка"
+    },
+    {
+      "name": "subject",
+      "value": "Тема"
+    },
+    {
+      "name": "support_development",
+      "value": "Підтримати розробку"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "Тамільська"
+    },
+    {
+      "name": "text",
+      "value": "Текст"
+    },
+    {
+      "name": "text_editor",
+      "value": "Налаштування текстового редактора"
+    },
+    {
+      "name": "textreader",
+      "value": "Читач текстів"
+    },
+    {
+      "name": "theme",
+      "value": "Теми"
+    },
+    {
+      "name": "thumb",
+      "value": "Показувати мініатюри"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "Показувати мініатюри додатків та образів"
+    },
+    {
+      "name": "title",
+      "value": "Назва"
+    },
+    {
+      "name": "total",
+      "value": "Загалом:"
+    },
+    {
+      "name": "translate_summary",
+      "value": "Перекласти Amaze вашою мовою"
+    },
+    {
+      "name": "translate_title",
+      "value": "Перекласти"
+    },
+    {
+      "name": "translators",
+      "value": "Перекладачі"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "Турецька"
+    },
+    {
+      "name": "type",
+      "value": "Тип"
+    },
+    {
+      "name": "typeable_paths_summary",
+      "value": "Тривале натискання на рядок шляху, щоб налаштувати користувацький шлях"
+    },
+    {
+      "name": "typeable_paths_title",
+      "value": "Користувацький шлях"
+    },
+    {
+      "name": "ui",
+      "value": "Інтерфейс"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "Українська"
+    },
+    {
+      "name": "unin_system_apk",
+      "value": "Це системний додаток, його видалення може спричинити нестабільність системи.\nВи хочете продовжити?"
+    },
+    {
+      "name": "uninstall",
+      "value": "Видалити"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Дідько... щось пішло не так!"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "Незбережені зміни"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "У Вас є незбережені зміни, ви хочете зберегти їх перед виходом?"
+    },
+    {
+      "name": "update",
+      "value": "ОНОВИТИ"
+    },
+    {
+      "name": "used",
+      "value": "використаний простір"
+    },
+    {
+      "name": "used_by_others",
+      "value": "використовується іншим"
+    },
+    {
+      "name": "username",
+      "value": "Користувач"
+    },
+    {
+      "name": "version",
+      "value": "Версія"
+    },
+    {
+      "name": "video",
+      "value": "Відео"
+    },
+    {
+      "name": "videos",
+      "value": "Відео"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "В'єтнамська"
+    },
+    {
+      "name": "view",
+      "value": "Перегляд"
+    },
+    {
+      "name": "waiting_content",
+      "value": "Очікування на операцію, для завершення"
+    },
+    {
+      "name": "waiting_title",
+      "value": "Очікування"
+    },
+    {
+      "name": "want_help",
+      "value": "Потрібна допомога?"
+    },
+    {
+      "name": "warning",
+      "value": "Попередження"
+    },
+    {
+      "name": "warning_confirm",
+      "value": "Готово!"
+    },
+    {
+      "name": "warning_never_show",
+      "value": "Більше не нагадувати"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Інформація:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Що трапилось:"
+    },
+    {
+      "name": "width",
+      "value": "Ширина"
+    },
+    {
+      "name": "written",
+      "value": "Записано"
+    },
+    {
+      "name": "xda_summary",
+      "value": "Q&A, Допомога & Усунення несправностей"
+    },
+    {
+      "name": "xda_title",
+      "value": "XDA тема"
+    },
+    {
+      "name": "year",
+      "value": "Рік"
+    },
+    {
+      "name": "yes",
+      "value": "Так"
+    },
+    {
+      "name": "your_comment",
+      "value": "Твій коментар(Англійською):"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "Перегляд ZIP"
+    }
+  ]
+}

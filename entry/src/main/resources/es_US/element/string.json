@@ -1,0 +1,1676 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Acerca de"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "Acerca de Amaze File Manager"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "Establecer color del botón flotante y otros elementos gráficos"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "Color de énfasis"
+    },
+    {
+      "name": "accessed",
+      "value": "Accedido"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "Añadir acceso directo"
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "Añadir a Marcadores"
+    },
+    {
+      "name": "advanced_search",
+      "value": "Búsqueda avanzada"
+    },
+    {
+      "name": "album",
+      "value": "Álbum"
+    },
+    {
+      "name": "anonymous",
+      "value": "Anónimo"
+    },
+    {
+      "name": "aperture_value",
+      "value": "Valor de la apertura"
+    },
+    {
+      "name": "apks",
+      "value": "APKs"
+    },
+    {
+      "name": "app_name",
+      "value": "Amaze"
+    },
+    {
+      "name": "apps",
+      "value": "Administrador de Apps"
+    },
+    {
+      "name": "archive",
+      "value": "Archivar"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "Carpeta donde extraer los archivadores"
+    },
+    {
+      "name": "archive_summary",
+      "value": "Los ficheros del archivador se extraerán en esta carpeta. El valor por defecto es el directorio donde se encuentre el archivador"
+    },
+    {
+      "name": "archive_text",
+      "value": "El fichero es  un archivador. ¿Qué le gustaría hacer?"
+    },
+    {
+      "name": "artist",
+      "value": "Artista"
+    },
+    {
+      "name": "ascending",
+      "value": "Ascendente"
+    },
+    {
+      "name": "audio",
+      "value": "Audio"
+    },
+    {
+      "name": "authenticate_password",
+      "value": "Introducir contraseña"
+    },
+    {
+      "name": "author",
+      "value": "Autor(a)"
+    },
+    {
+      "name": "authors",
+      "value": "Autores"
+    },
+    {
+      "name": "back_summary",
+      "value": "Habilitar botón personalizado para retroceder en la parte superior de la lista"
+    },
+    {
+      "name": "back_title",
+      "value": "Navegación hacia atrás"
+    },
+    {
+      "name": "backup",
+      "value": "Copia de seguridad"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "Euskera"
+    },
+    {
+      "name": "bitrate",
+      "value": "Tasa de bits"
+    },
+    {
+      "name": "bluetooth",
+      "value": "Bluetooth"
+    },
+    {
+      "name": "bookmark_lost",
+      "value": "Marcador no encontrado, recreando…"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "Marcadores Añadidos"
+    },
+    {
+      "name": "byte_singular",
+      "value": "byte"
+    },
+    {
+      "name": "bytes",
+      "value": "Bytes"
+    },
+    {
+      "name": "calculating",
+      "value": "calculando"
+    },
+    {
+      "name": "camera_brand",
+      "value": "Marca de cámara"
+    },
+    {
+      "name": "camera_model",
+      "value": "Modelo de la cámara"
+    },
+    {
+      "name": "cancel",
+      "value": "CANCELAR"
+    },
+    {
+      "name": "cancelled",
+      "value": "Cancelado"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s no puede estar vacío"
+    },
+    {
+      "name": "change",
+      "value": "Cambio"
+    },
+    {
+      "name": "changelog",
+      "value": "Registro de cambios"
+    },
+    {
+      "name": "channels",
+      "value": "Canales"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "Chino"
+    },
+    {
+      "name": "choose_color",
+      "value": "Elija el color"
+    },
+    {
+      "name": "circular_icons",
+      "value": "Usar iconos circulares"
+    },
+    {
+      "name": "circular_images",
+      "value": "Usar iconos para imágenes y vídeos"
+    },
+    {
+      "name": "clear",
+      "value": "Limpiar"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "Ruta copiada al portapapeles"
+    },
+    {
+      "name": "cloud_box",
+      "value": "Box"
+    },
+    {
+      "name": "cloud_connection",
+      "value": "Conexión con la nube"
+    },
+    {
+      "name": "cloud_connection_new",
+      "value": "Nueva conexión con la nube"
+    },
+    {
+      "name": "cloud_drive",
+      "value": "Google Drive™"
+    },
+    {
+      "name": "cloud_dropbox",
+      "value": "Dropbox"
+    },
+    {
+      "name": "cloud_error_failed_restart",
+      "value": "Error al cargar la conexión.\n        Abre otra vez Amaze Cloud."
+    },
+    {
+      "name": "cloud_error_plugin",
+      "value": "No se ha encontrado el plugin de la nube de Amaze. Por favor descárgalo desde el Play Store."
+    },
+    {
+      "name": "cloud_fail_authenticate",
+      "value": "Se produjo un error al autenticar"
+    },
+    {
+      "name": "cloud_get",
+      "value": "Obtener plugin de la nube"
+    },
+    {
+      "name": "cloud_onedrive",
+      "value": "OneDrive"
+    },
+    {
+      "name": "cloud_remove",
+      "value": "¿Desea quitar la conexión con la nube?"
+    },
+    {
+      "name": "cloud_share_copied",
+      "value": "Link compartible copiado al portapapeles"
+    },
+    {
+      "name": "cloud_token_lost",
+      "value": "Token perdido, por favor vuelve a iniciar sesión"
+    },
+    {
+      "name": "codec",
+      "value": "Códec"
+    },
+    {
+      "name": "color_summary",
+      "value": "Establecer el color de varios componentes gráficos"
+    },
+    {
+      "name": "color_title",
+      "value": "Color"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "Barra de navegación coloreada"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "Establece si la barra de navegación del sistema se colorea en función del tema"
+    },
+    {
+      "name": "colorize",
+      "value": "Colorear Iconos"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "Establece un color diferente al tema para algunos iconos. No sobrescribe la preferencia del color para los iconos de los directorios."
+    },
+    {
+      "name": "comment",
+      "value": "Comentar"
+    },
+    {
+      "name": "compress",
+      "value": "Comprimir"
+    },
+    {
+      "name": "compressing",
+      "value": "Comprimiendo"
+    },
+    {
+      "name": "compression_complete",
+      "value": "Compresión completada"
+    },
+    {
+      "name": "connection_exists",
+      "value": "Ya existe la conexión"
+    },
+    {
+      "name": "connection_name",
+      "value": "Nombre de la conexión"
+    },
+    {
+      "name": "container",
+      "value": "Contenedor"
+    },
+    {
+      "name": "contributors",
+      "value": "Colaboradores"
+    },
+    {
+      "name": "contributors_1_summary",
+      "value": "Traducción"
+    },
+    {
+      "name": "contributors_2_summary",
+      "value": "Iconos y banners"
+    },
+    {
+      "name": "contributors_3_summary",
+      "value": "Motor de tema"
+    },
+    {
+      "name": "contributors_4_summary",
+      "value": "Sombra detrás de FAB"
+    },
+    {
+      "name": "contributors_5_summary",
+      "value": "Transición de color al barrer pestañas"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "Servidor FTP"
+    },
+    {
+      "name": "contributors_7_summary",
+      "value": "Creando una pantalla de comandos interactiva"
+    },
+    {
+      "name": "copied",
+      "value": "copiado"
+    },
+    {
+      "name": "copy",
+      "value": "Copiar"
+    },
+    {
+      "name": "copy_complete",
+      "value": "Copia completada"
+    },
+    {
+      "name": "copy_error",
+      "value": "Algunos archivos no fueron correctamente %s"
+    },
+    {
+      "name": "copy_low_memory",
+      "value": "Corriendo sin memoria, por favor quita algo de la RAM"
+    },
+    {
+      "name": "copying",
+      "value": "Copiando"
+    },
+    {
+      "name": "create",
+      "value": "CREAR"
+    },
+    {
+      "name": "created",
+      "value": "Creado"
+    },
+    {
+      "name": "creatingfile",
+      "value": "Creando fichero"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "Creando carpeta"
+    },
+    {
+      "name": "creator",
+      "value": "Autor"
+    },
+    {
+      "name": "crypt_decrypt",
+      "value": "Descifrar"
+    },
+    {
+      "name": "crypt_decrypted",
+      "value": "Descifrado"
+    },
+    {
+      "name": "crypt_decrypting",
+      "value": "Descifrando"
+    },
+    {
+      "name": "crypt_decryption_fail",
+      "value": "Error al Descifrar"
+    },
+    {
+      "name": "crypt_decryption_fail_password",
+      "value": "¡Contraseña incorrecta!"
+    },
+    {
+      "name": "crypt_encrypt",
+      "value": "Cifrar"
+    },
+    {
+      "name": "crypt_encrypted",
+      "value": "Cifrado"
+    },
+    {
+      "name": "crypt_encrypting",
+      "value": "Cifrando"
+    },
+    {
+      "name": "crypt_encryption_fail",
+      "value": "Error al Cifrar"
+    },
+    {
+      "name": "crypt_fingerprint_authenticate",
+      "value": "Tocar sensor para continuar"
+    },
+    {
+      "name": "crypt_fingerprint_no_permission",
+      "value": "Permisos de la huella digital faltantes"
+    },
+    {
+      "name": "crypt_fingerprint_no_security",
+      "value": "No hay seguridad establecida en la pantalla de bloqueo"
+    },
+    {
+      "name": "crypt_fingerprint_not_enrolled",
+      "value": "No hay huellas dactilares registradas"
+    },
+    {
+      "name": "crypt_pref_fingerprint_summary",
+      "value": "Usar la huella para la autenticación del cifrado"
+    },
+    {
+      "name": "crypt_pref_fingerprint_title",
+      "value": "Huella digital"
+    },
+    {
+      "name": "crypt_pref_master_password_summary",
+      "value": "Establecer una contraseña maestra para el cifrado.\n        Deje en blanco para eliminar."
+    },
+    {
+      "name": "crypt_pref_master_password_title",
+      "value": "Contraseña maestra"
+    },
+    {
+      "name": "crypt_warning_key",
+      "value": "Tenga en cuenta que al cambiar su patrón de seguridad del sistema, tu no serás capaz de descifrar este contenido."
+    },
+    {
+      "name": "current_speed",
+      "value": "Velocidad actual"
+    },
+    {
+      "name": "cut",
+      "value": "Cortar"
+    },
+    {
+      "name": "dark",
+      "value": "Oscuro"
+    },
+    {
+      "name": "database",
+      "value": "Base de datos"
+    },
+    {
+      "name": "databasereader",
+      "value": "Lector de base de datos"
+    },
+    {
+      "name": "date",
+      "value": "Fecha"
+    },
+    {
+      "name": "date_modified",
+      "value": "Fecha modificada"
+    },
+    {
+      "name": "date_taken",
+      "value": "Fecha de captura"
+    },
+    {
+      "name": "daytime",
+      "value": "Durante el día"
+    },
+    {
+      "name": "default_string",
+      "value": "Predeterminado"
+    },
+    {
+      "name": "delbook",
+      "value": "Borrar marcador"
+    },
+    {
+      "name": "delete",
+      "value": "Eliminar"
+    },
+    {
+      "name": "deleting",
+      "value": "Eliminando"
+    },
+    {
+      "name": "descending",
+      "value": "Descendente"
+    },
+    {
+      "name": "details",
+      "value": "Detalles"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "Directorios"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "Archivos"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "Al eliminar los siguientes elementos serán permanentemente removidos del dispositivo y no pueden ser recuperados."
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "¿Eliminar elementos permanentemente?"
+    },
+    {
+      "name": "dimensions",
+      "value": "Dimensiones"
+    },
+    {
+      "name": "directory",
+      "value": "Directorio"
+    },
+    {
+      "name": "directorysort",
+      "value": "Modo de ordenación del directorio"
+    },
+    {
+      "name": "documents",
+      "value": "Documentos"
+    },
+    {
+      "name": "doforall",
+      "value": "Aplicar para todos los elementos"
+    },
+    {
+      "name": "doit",
+      "value": "Aplicar"
+    },
+    {
+      "name": "domain",
+      "value": "Dominio"
+    },
+    {
+      "name": "donate",
+      "value": "Donar"
+    },
+    {
+      "name": "done",
+      "value": "Hecho"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Cierre el cajón navegación"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Abra el cajón navegación"
+    },
+    {
+      "name": "duration",
+      "value": "Duración"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "Alemán"
+    },
+    {
+      "name": "easter_egg_title",
+      "value": "Modo de estudio"
+    },
+    {
+      "name": "edit",
+      "value": "Editar"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "Activar modo Root"
+    },
+    {
+      "name": "entername",
+      "value": "Introducir nombre"
+    },
+    {
+      "name": "enterpath",
+      "value": "Escribe la ruta"
+    },
+    {
+      "name": "enterzipname",
+      "value": "Introducir nombre del Zip"
+    },
+    {
+      "name": "error",
+      "value": "Error"
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "Error: Archivo no encontrado"
+    },
+    {
+      "name": "error_io",
+      "value": "Error de E/S"
+    },
+    {
+      "name": "exit",
+      "value": "Salir"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Duración de la exposición"
+    },
+    {
+      "name": "extract",
+      "value": "Extraer"
+    },
+    {
+      "name": "extract_complete",
+      "value": "Extracción completada"
+    },
+    {
+      "name": "extracting",
+      "value": "Extrayendo"
+    },
+    {
+      "name": "feedback",
+      "value": "Enviar Comentarios"
+    },
+    {
+      "name": "field_empty",
+      "value": "El campo no puede estar vacio"
+    },
+    {
+      "name": "file",
+      "value": "Archivo"
+    },
+    {
+      "name": "file_empty",
+      "value": "El fichero está vacío"
+    },
+    {
+      "name": "fileexist",
+      "value": "Ya existe un archivo con el mismo nombre"
+    },
+    {
+      "name": "files",
+      "value": "Archivos"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "Archivos primero"
+    },
+    {
+      "name": "find",
+      "value": "Buscar dentro de la página"
+    },
+    {
+      "name": "flash_fired",
+      "value": "Flash disparado"
+    },
+    {
+      "name": "focal_length",
+      "value": "Longitud focal"
+    },
+    {
+      "name": "folder",
+      "value": "Carpeta"
+    },
+    {
+      "name": "folders",
+      "value": "Directorios"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "Carpetas primero"
+    },
+    {
+      "name": "format",
+      "value": "Formato"
+    },
+    {
+      "name": "frame_rate",
+      "value": "Frecuencia de imagen"
+    },
+    {
+      "name": "free",
+      "value": "espacio libre"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "Francés"
+    },
+    {
+      "name": "ftp",
+      "value": "Servidor FTP"
+    },
+    {
+      "name": "ftp_login",
+      "value": "Entrar"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "Asegúrese de que está conectado a Wi-Fi"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "Se está iniciando el servidor FTP"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "PARAR"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "en %s"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "Servidor FTP de Amaze funcionando"
+    },
+    {
+      "name": "ftp_path",
+      "value": "Directorio guardado"
+    },
+    {
+      "name": "ftp_path_change_error_invalid",
+      "value": "Ruta inválida"
+    },
+    {
+      "name": "ftp_path_change_success",
+      "value": "Directorio FTP cambiado correctamente"
+    },
+    {
+      "name": "ftp_path_hint",
+      "value": "Ruta a la raíz del directorio para compartir"
+    },
+    {
+      "name": "ftp_port",
+      "value": "Puerto"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "Numero de puerto seleccionado no valido"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "Puerto FTB cambiado con éxito"
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "Elija el puerto FTP"
+    },
+    {
+      "name": "ftp_seconds",
+      "value": "Segundos"
+    },
+    {
+      "name": "ftp_status_no_connection",
+      "value": "No hay conexión"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "No funcionando"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "Funcionando"
+    },
+    {
+      "name": "ftp_status_secure_connection",
+      "value": "Conexión segura"
+    },
+    {
+      "name": "ftp_status_title",
+      "value": "Estado"
+    },
+    {
+      "name": "ftp_timeout",
+      "value": "Tiempo de inactividad"
+    },
+    {
+      "name": "general",
+      "value": "General"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "Alemán"
+    },
+    {
+      "name": "goback",
+      "value": "Regresar"
+    },
+    {
+      "name": "grant",
+      "value": "Conceder"
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "La aplicación necesita permiso para acceder al almacenamiento. Al cancelar este diálogo se cerrará la aplicación."
+    },
+    {
+      "name": "grantfailed",
+      "value": "Permiso no concedido"
+    },
+    {
+      "name": "grantper",
+      "value": "Conceder permiso"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "Griego"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "Número de columnas en la vista de cuadrícula"
+    },
+    {
+      "name": "gridview",
+      "value": "Vista de cuadrícula"
+    },
+    {
+      "name": "hash_sha256",
+      "value": "SHA-256"
+    },
+    {
+      "name": "height",
+      "value": "Altura"
+    },
+    {
+      "name": "hidden",
+      "value": "Mostrar archivos y carpetas ocultos"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "Archivos ocultos"
+    },
+    {
+      "name": "hide",
+      "value": "Ocultar"
+    },
+    {
+      "name": "history",
+      "value": "Historial"
+    },
+    {
+      "name": "home",
+      "value": "Casa"
+    },
+    {
+      "name": "icon",
+      "value": "icono"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "Establecer color para los iconos"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "Color de los iconos"
+    },
+    {
+      "name": "image",
+      "value": "Imagen"
+    },
+    {
+      "name": "image_iso",
+      "value": "Velocidad ISO máxima"
+    },
+    {
+      "name": "image_type",
+      "value": "Tipo de imagen"
+    },
+    {
+      "name": "images",
+      "value": "Imágenes"
+    },
+    {
+      "name": "in_safe",
+      "value": "Espacio insuficiente"
+    },
+    {
+      "name": "information",
+      "value": "Información"
+    },
+    {
+      "name": "install",
+      "value": "Instalar"
+    },
+    {
+      "name": "intellihide_toolbar_summary",
+      "value": "Barra de herramientas que se oculta automáticamente mientas se desplaza"
+    },
+    {
+      "name": "intellihide_toolbar_title",
+      "value": "Barra de herramientas Intellihide"
+    },
+    {
+      "name": "invalid",
+      "value": "%s inválido"
+    },
+    {
+      "name": "invalid_name",
+      "value": "Nombre no válido"
+    },
+    {
+      "name": "ip",
+      "value": "Dirección"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "Italiano"
+    },
+    {
+      "name": "item",
+      "value": "Elemento"
+    },
+    {
+      "name": "items",
+      "value": "Elementos"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "Japones"
+    },
+    {
+      "name": "keywords",
+      "value": "Palabras clave"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "Coreano"
+    },
+    {
+      "name": "lastModified",
+      "value": "Última modificación"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "Mostrar la última modificación"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "Mostrar la fecha y hora en que el archivo fue modificado por última vez"
+    },
+    {
+      "name": "light",
+      "value": "Claro"
+    },
+    {
+      "name": "listview",
+      "value": "Vista de lista"
+    },
+    {
+      "name": "loading",
+      "value": "Cargando…"
+    },
+    {
+      "name": "location",
+      "value": "Ubicación"
+    },
+    {
+      "name": "match_content",
+      "value": "Igualar contenido"
+    },
+    {
+      "name": "match_content_summary",
+      "value": "Si se activa, las expresiones regulares se aplicarán al completo del nombre del archivo;         si no, se buscarán ocurrencias."
+    },
+    {
+      "name": "md5",
+      "value": "MD5:"
+    },
+    {
+      "name": "medium_text",
+      "value": "Texto medio"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "Otros"
+    },
+    {
+      "name": "modified",
+      "value": "Modificado"
+    },
+    {
+      "name": "monofont",
+      "value": "Fuente monoespacio"
+    },
+    {
+      "name": "moved",
+      "value": "movido"
+    },
+    {
+      "name": "moving",
+      "value": "Moviendo"
+    },
+    {
+      "name": "name",
+      "value": "Nombre"
+    },
+    {
+      "name": "needs_access",
+      "value": "Se requiere acceso de escritura"
+    },
+    {
+      "name": "needs_access_summary",
+      "value": "Por favor elije el directorio raíz de \\t"
+    },
+    {
+      "name": "needs_access_summary1",
+      "value": "\\tpara conceder permisos de escritura y proceder"
+    },
+    {
+      "name": "newfile",
+      "value": "Nuevo archivo"
+    },
+    {
+      "name": "newfolder",
+      "value": "Nueva Carpeta"
+    },
+    {
+      "name": "no",
+      "value": "No"
+    },
+    {
+      "name": "no_app_found",
+      "value": "No se encontró una aplicación para abrir este archivo"
+    },
+    {
+      "name": "no_applications",
+      "value": "No hay aplicaciones"
+    },
+    {
+      "name": "no_device_found",
+      "value": "No se encuentran dispositivos"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "No se ha sobreescrito el archivo"
+    },
+    {
+      "name": "no_files",
+      "value": "No hay archivos"
+    },
+    {
+      "name": "no_items",
+      "value": "No hay items"
+    },
+    {
+      "name": "no_name",
+      "value": "Archivo debe tener un nombre"
+    },
+    {
+      "name": "none_on_top",
+      "value": "Ninguno encima"
+    },
+    {
+      "name": "not_allowed",
+      "value": "No permitido"
+    },
+    {
+      "name": "of",
+      "value": "de"
+    },
+    {
+      "name": "ok",
+      "value": "Aceptar"
+    },
+    {
+      "name": "open",
+      "value": "Abrir"
+    },
+    {
+      "name": "open_as",
+      "value": "Abrir como"
+    },
+    {
+      "name": "open_parent",
+      "value": "Abrir directorio padre"
+    },
+    {
+      "name": "open_with",
+      "value": "Abrir con"
+    },
+    {
+      "name": "opening",
+      "value": "Abriendo..."
+    },
+    {
+      "name": "operation_fail_following",
+      "value": "Error en la operación para los siguientes archivos"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "Operación fallida"
+    },
+    {
+      "name": "optimized",
+      "value": "Optimizado"
+    },
+    {
+      "name": "otg_access",
+      "value": "Seleccione la raíz del dispositivo OTG"
+    },
+    {
+      "name": "other",
+      "value": "Otro"
+    },
+    {
+      "name": "out_of",
+      "value": "fuera de"
+    },
+    {
+      "name": "overwrite",
+      "value": "Sobreescribir"
+    },
+    {
+      "name": "package_installer",
+      "value": "Paquete de instalación"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "El archivo es un paquete de instalación. ¿Qué le gustaría hacer?"
+    },
+    {
+      "name": "pages",
+      "value": "Número de páginas"
+    },
+    {
+      "name": "paper_size",
+      "value": "Tamaño del papel"
+    },
+    {
+      "name": "password",
+      "value": "Contraseña"
+    },
+    {
+      "name": "paste",
+      "value": "Pegar"
+    },
+    {
+      "name": "path",
+      "value": "Ruta"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "Id de Paypal copiado al portapapeles"
+    },
+    {
+      "name": "permission",
+      "value": "Permisos"
+    },
+    {
+      "name": "permission_execute",
+      "value": "Ejecutar"
+    },
+    {
+      "name": "permission_group",
+      "value": "Grupo"
+    },
+    {
+      "name": "permission_other",
+      "value": "Otro"
+    },
+    {
+      "name": "permission_owner",
+      "value": "Propietario"
+    },
+    {
+      "name": "permission_read",
+      "value": "Leer"
+    },
+    {
+      "name": "permission_write",
+      "value": "Escribir"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "Escoja un archivo"
+    },
+    {
+      "name": "play",
+      "value": "Play Store"
+    },
+    {
+      "name": "please_wait",
+      "value": "Por favor, espere"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "Polaco"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "Portugués"
+    },
+    {
+      "name": "press_again",
+      "value": "Presione nuevamente para salir"
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "Establecer color para grande elementos gráficos"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "Color principal"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "Establecer el color para los elementos de la interfaz de usuario de la pestaña derecha"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "Color primario (pestaña derecha)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "Visor de procesos"
+    },
+    {
+      "name": "processing_file",
+      "value": "Procesando el archivo"
+    },
+    {
+      "name": "producer",
+      "value": "Productor"
+    },
+    {
+      "name": "properties",
+      "value": "Propiedades"
+    },
+    {
+      "name": "properties_copied_clipboard",
+      "value": "copiado al portapapeles"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "¿Quieres establecer la ruta actual como base para esta pestaña?"
+    },
+    {
+      "name": "quick",
+      "value": "Acceso rápido"
+    },
+    {
+      "name": "random",
+      "value": "Piel Aleatoria"
+    },
+    {
+      "name": "random_summary",
+      "value": "Establece tema al azar al iniciar"
+    },
+    {
+      "name": "rate",
+      "value": "Calificar la aplicacion"
+    },
+    {
+      "name": "recent",
+      "value": "Archivos recientes"
+    },
+    {
+      "name": "regular_expression",
+      "value": "Expresión regular"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "Buscar usando una expresión regular de BASH"
+    },
+    {
+      "name": "rename",
+      "value": "Renombrar"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "Modificar marcador"
+    },
+    {
+      "name": "renaming",
+      "value": "Renombrando"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "Informar errores o solicitar nuevas características"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "Reportar de errores"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "Rumano"
+    },
+    {
+      "name": "root_directory",
+      "value": "Raíz"
+    },
+    {
+      "name": "root_failure",
+      "value": "Acceso de Superusuario no concedido"
+    },
+    {
+      "name": "root_mode",
+      "value": "Explorador Root"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "Para el dispositivos root solamente. Activar solo si estas seguro de ello."
+    },
+    {
+      "name": "root_pref",
+      "value": "Mostrar permisos"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "Mostrar permisos de archivos y carpetas"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "Ruso"
+    },
+    {
+      "name": "sample_rate",
+      "value": "Frecuencia de muestreo"
+    },
+    {
+      "name": "save",
+      "value": "Guardar"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "Al iniciar, se mostrará la carpeta vista más recientemente para cada pestaña"
+    },
+    {
+      "name": "save_paths",
+      "value": "Recordar rutas"
+    },
+    {
+      "name": "saving",
+      "value": "Guardando"
+    },
+    {
+      "name": "search",
+      "value": "Buscar"
+    },
+    {
+      "name": "search_hint",
+      "value": "Escribe para buscar…"
+    },
+    {
+      "name": "searching_devices",
+      "value": "Buscando dispositivos"
+    },
+    {
+      "name": "security",
+      "value": "Seguridad"
+    },
+    {
+      "name": "select",
+      "value": "Seleccionar elemento"
+    },
+    {
+      "name": "select_all",
+      "value": "Seleccionar todo"
+    },
+    {
+      "name": "select_intent",
+      "value": "Seleccionar"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "Serbio"
+    },
+    {
+      "name": "server_address",
+      "value": "Dirección IP del servidor"
+    },
+    {
+      "name": "service_timer",
+      "value": "Tiempo transcurrido"
+    },
+    {
+      "name": "set",
+      "value": "Ajustar"
+    },
+    {
+      "name": "set_as_home",
+      "value": "Establecer como carpeta principal"
+    },
+    {
+      "name": "set_random",
+      "value": "Los cambios tendrán lugar después de reiniciar la aplicación"
+    },
+    {
+      "name": "setting",
+      "value": "Configuración"
+    },
+    {
+      "name": "share",
+      "value": "Compartir"
+    },
+    {
+      "name": "share_limit",
+      "value": "No se pueden compartir más de 100 archivos"
+    },
+    {
+      "name": "showHeaders",
+      "value": "Mostrar cabeceras"
+    },
+    {
+      "name": "show_dividers",
+      "value": "Mostrar divisores"
+    },
+    {
+      "name": "show_quick_access_pref",
+      "value": "Accesos rápidos"
+    },
+    {
+      "name": "show_quick_access_pref_title",
+      "value": "Mostrar accesos rápidos"
+    },
+    {
+      "name": "sidebar_quick_access_title",
+      "value": "Barra lateral de accesos rápidos"
+    },
+    {
+      "name": "size",
+      "value": "tamaño de carpeta"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Tamaño"
+    },
+    {
+      "name": "size_pref",
+      "value": "Mostrar Tamaños"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "Mostrar tamaño de los archivos y el número de elementos de las carpetas"
+    },
+    {
+      "name": "skip",
+      "value": "Saltar"
+    },
+    {
+      "name": "smb_connection",
+      "value": "Conexión SMB"
+    },
+    {
+      "name": "smb_launch_error",
+      "value": "Necesitará copiar este archivo al almacenamiento para abrirlo"
+    },
+    {
+      "name": "software",
+      "value": "Software"
+    },
+    {
+      "name": "sort",
+      "value": "Ordenar"
+    },
+    {
+      "name": "sort_by",
+      "value": "Ordenar por"
+    },
+    {
+      "name": "sort_name",
+      "value": "Nombre"
+    },
+    {
+      "name": "sort_size",
+      "value": "Tamaño"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "Español"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Iniciar"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "Parar"
+    },
+    {
+      "name": "stopping",
+      "value": "Deteniendo"
+    },
+    {
+      "name": "subject",
+      "value": "Asunto"
+    },
+    {
+      "name": "support_development",
+      "value": "Apoyar el desarrollo"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "Tamil"
+    },
+    {
+      "name": "text",
+      "value": "Texto"
+    },
+    {
+      "name": "textreader",
+      "value": "Lector de texto"
+    },
+    {
+      "name": "theme",
+      "value": "Tema"
+    },
+    {
+      "name": "thumb",
+      "value": "Mostrar miniaturas"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "Mostrar miniaturas de aplicaciones e imágenes"
+    },
+    {
+      "name": "title",
+      "value": "Título"
+    },
+    {
+      "name": "total",
+      "value": "Total:"
+    },
+    {
+      "name": "translate_summary",
+      "value": "Asombro"
+    },
+    {
+      "name": "translate_title",
+      "value": "Traducir"
+    },
+    {
+      "name": "translators",
+      "value": "Traductores"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "Turco"
+    },
+    {
+      "name": "type",
+      "value": "Tipo"
+    },
+    {
+      "name": "ui",
+      "value": "Interfaz"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "Ucraniano"
+    },
+    {
+      "name": "unin_system_apk",
+      "value": "Esta es una aplicación del sistema, borrarla puede provocar inestabilidad en el sistema.\\n¿Continuar?"
+    },
+    {
+      "name": "uninstall",
+      "value": "Desinstalar"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Uyyy, algo ha salido mal!"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "Cambios sin guardar"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "Tienes cambios sin guardar, ¿quieres guardarlos antes de salir?"
+    },
+    {
+      "name": "used",
+      "value": "espacio utilizado"
+    },
+    {
+      "name": "used_by_others",
+      "value": "utilizado por otros"
+    },
+    {
+      "name": "username",
+      "value": "Nombre de usuario"
+    },
+    {
+      "name": "version",
+      "value": "Versión"
+    },
+    {
+      "name": "video",
+      "value": "Vídeo"
+    },
+    {
+      "name": "videos",
+      "value": "Vídeos"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "Vietnamita"
+    },
+    {
+      "name": "view",
+      "value": "Vista"
+    },
+    {
+      "name": "waiting_content",
+      "value": "A la espera de completar la operación"
+    },
+    {
+      "name": "waiting_title",
+      "value": "Esperando"
+    },
+    {
+      "name": "want_help",
+      "value": "¿Necesitas ayuda?"
+    },
+    {
+      "name": "warning",
+      "value": "Advertencia"
+    },
+    {
+      "name": "warning_confirm",
+      "value": "¡Entiendo!"
+    },
+    {
+      "name": "warning_never_show",
+      "value": "No informar otra vez"
+    },
+    {
+      "name": "width",
+      "value": "Ancho"
+    },
+    {
+      "name": "written",
+      "value": "Escrito"
+    },
+    {
+      "name": "xda_summary",
+      "value": "Q&A, ayuda y resolución de problemas"
+    },
+    {
+      "name": "xda_title",
+      "value": "Hilo en XDA"
+    },
+    {
+      "name": "year",
+      "value": "Año"
+    },
+    {
+      "name": "yes",
+      "value": "Sí"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "Visor de ZIP"
+    }
+  ]
+}

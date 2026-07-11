@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "color_title",
+      "value": "रंग"
+    },
+    {
+      "name": "exposure_time",
+      "value": "एक्सपोजर वेळ"
+    },
+    {
+      "name": "focal_length",
+      "value": "फोकल लेंथः"
+    },
+    {
+      "name": "information",
+      "value": "माहिती"
+    },
+    {
+      "name": "password",
+      "value": "संकेतशब्द"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "आकार"
+    },
+    {
+      "name": "sort_size",
+      "value": "आकार"
+    },
+    {
+      "name": "text",
+      "value": "मजकूर"
+    },
+    {
+      "name": "version",
+      "value": "आवृत्ती"
+    }
+  ]
+}

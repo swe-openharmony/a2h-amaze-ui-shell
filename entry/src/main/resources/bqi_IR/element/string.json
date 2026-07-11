@@ -1,0 +1,2196 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "زبار"
+    },
+    {
+      "name": "about_amaze",
+      "value": "دیوؤداری فایل تراهی متریال سی ٱندروید"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "زبار دؽوۉداری فایل ٱمیز"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "ساموو داڌن رنگ و دویمه شور وو رابت منتوری کۊچیر دیری"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "تاکیڌ رنگ"
+    },
+    {
+      "name": "accessed",
+      "value": "دسرسی گرؽڌ"
+    },
+    {
+      "name": "add_item",
+      "value": "ازاف کردن مۉرد"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "ٱووردن ره نهنگ"
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "ٱووردن و نشووکا"
+    },
+    {
+      "name": "advanced",
+      "value": "پؽش رئڌه"
+    },
+    {
+      "name": "advanced_search",
+      "value": "پیتینیڌن پؽش رئڌه"
+    },
+    {
+      "name": "album",
+      "value": "آلبوم"
+    },
+    {
+      "name": "always",
+      "value": "همیشه"
+    },
+    {
+      "name": "amaze_audio_player",
+      "value": "پشک کون آرنگ ٱمیز"
+    },
+    {
+      "name": "android_data_prompt_saf_access_title",
+      "value": "دسرسی داڌن و SAF"
+    },
+    {
+      "name": "anonymous",
+      "value": "ناشناس"
+    },
+    {
+      "name": "aperture_value",
+      "value": "هندا دیافراگم"
+    },
+    {
+      "name": "apks",
+      "value": "برنومه یل"
+    },
+    {
+      "name": "app_name",
+      "value": "دؽوۉداری فایل ٱمیز"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "برنومه / رابت منتوری خراو ابۊ"
+    },
+    {
+      "name": "appearance",
+      "value": "شؽوات"
+    },
+    {
+      "name": "apps",
+      "value": "دیوۉداری برنومه یل"
+    },
+    {
+      "name": "archive",
+      "value": "بایگۊوی"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "دوبلگه دراووردن بایگۊوی"
+    },
+    {
+      "name": "archive_password_prompt",
+      "value": "رزم آرشیوی ک اخۊین بزنین"
+    },
+    {
+      "name": "archive_text",
+      "value": "یو ی بایگۊوی هڌ، ایسا دلتۉݩ اخو چ کاری ٱنجوم دین؟"
+    },
+    {
+      "name": "artist",
+      "value": "هونزمند"
+    },
+    {
+      "name": "ascending",
+      "value": "ری و رو"
+    },
+    {
+      "name": "audio",
+      "value": "دونگ"
+    },
+    {
+      "name": "authenticate_password",
+      "value": "رزمته بزݩ"
+    },
+    {
+      "name": "author",
+      "value": "هؽل کوݩ"
+    },
+    {
+      "name": "authors",
+      "value": "هؽل کونۉݩ"
+    },
+    {
+      "name": "back_summary",
+      "value": "دویمه وورگشتنن وارو نومگه ن فعال اکونه"
+    },
+    {
+      "name": "back_title",
+      "value": "وورگرت"
+    },
+    {
+      "name": "backup",
+      "value": "لادراری گرؽڌن"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "باسکایی"
+    },
+    {
+      "name": "behavior",
+      "value": "رفتار"
+    },
+    {
+      "name": "bitrate",
+      "value": "بیت ریت"
+    },
+    {
+      "name": "black",
+      "value": "شه (سی OLED)"
+    },
+    {
+      "name": "blue",
+      "value": "کوۊ"
+    },
+    {
+      "name": "bluetooth",
+      "value": "بۊلۊتۊس"
+    },
+    {
+      "name": "bookmark_exists",
+      "value": "نشووک ن هڌ"
+    },
+    {
+      "name": "bookmark_lost",
+      "value": "نشووکن نجوست، هونی دووارته وورکل ابۊ…"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "نشۉوکا ٱووڌن"
+    },
+    {
+      "name": "byte_singular",
+      "value": "بایت"
+    },
+    {
+      "name": "bytes",
+      "value": "بایتا"
+    },
+    {
+      "name": "calculating",
+      "value": "هونی براوورد اکونه"
+    },
+    {
+      "name": "camera_brand",
+      "value": "نوم تجاری شؽواتگر"
+    },
+    {
+      "name": "camera_model",
+      "value": "مودل شؽواتگر"
+    },
+    {
+      "name": "cancel",
+      "value": "رڌ کردن"
+    },
+    {
+      "name": "cancelled",
+      "value": "رڌ وابی"
+    },
+    {
+      "name": "cannot_delete_file",
+      "value": "پاک کردن فایل مومکن نؽ"
+    },
+    {
+      "name": "cannot_delete_file_with_reason",
+      "value": "پاک کردن فایل مومکن نؽ - %s"
+    },
+    {
+      "name": "cannot_read_directory",
+      "value": "خوندن تور مومکن نؽ %s - %s"
+    },
+    {
+      "name": "cannot_rename_file",
+      "value": "آلشت نوم فایل مومکن نؽ %s - %s"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s نتره پتی بۊ"
+    },
+    {
+      "name": "change",
+      "value": "آلشت"
+    },
+    {
+      "name": "changelog",
+      "value": "گوزارش آلشتکاریا"
+    },
+    {
+      "name": "channel_description_ftp",
+      "value": "وارسۊویا سرور FTP دؽوۉداری فایل ٱمیز"
+    },
+    {
+      "name": "channel_description_normal",
+      "value": "وارسۊویا دؽوۉداری فایل ٱمیز"
+    },
+    {
+      "name": "channel_name_ftp",
+      "value": "سرور FTP ٱمیز"
+    },
+    {
+      "name": "channel_name_normal",
+      "value": "وارسۊویا ٱمیز"
+    },
+    {
+      "name": "channels",
+      "value": "تورگه یل"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "چینی"
+    },
+    {
+      "name": "choose_color",
+      "value": "پسند رنگ"
+    },
+    {
+      "name": "choose_different_app",
+      "value": "پسند ی برنومه پؽش فرز دی"
+    },
+    {
+      "name": "choose_folder",
+      "value": "ای دوبلگه ن پسند کوݩ"
+    },
+    {
+      "name": "choose_operation",
+      "value": "عملیاتن سی ٱنجوم داڌن پسند کوݩ"
+    },
+    {
+      "name": "circular_icons",
+      "value": "و کار گرؽڌن آیکونا دایره یی"
+    },
+    {
+      "name": "circular_images",
+      "value": "ز آیکونا دایره ای سی شؽواتا وو فیلما استفاڌه کۊنین"
+    },
+    {
+      "name": "clear",
+      "value": "روفتن"
+    },
+    {
+      "name": "clear_open_file",
+      "value": "روفتن کش"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "تور منه ویرگه لف گیری وابی"
+    },
+    {
+      "name": "close",
+      "value": "بستن"
+    },
+    {
+      "name": "cloud_box",
+      "value": "جئوه"
+    },
+    {
+      "name": "cloud_connection",
+      "value": "منپیز ٱوری"
+    },
+    {
+      "name": "cloud_connection_new",
+      "value": "منپیز ٱوری نۊ"
+    },
+    {
+      "name": "cloud_drive",
+      "value": "گۊگل داریو™"
+    },
+    {
+      "name": "cloud_dropbox",
+      "value": "دراپ باکس"
+    },
+    {
+      "name": "cloud_fail_authenticate",
+      "value": "ائراز هۊویت نامووفق بی"
+    },
+    {
+      "name": "cloud_get",
+      "value": "پلاگین Cloud ن بیگیرین"
+    },
+    {
+      "name": "cloud_onedrive",
+      "value": "وان درایو"
+    },
+    {
+      "name": "cloud_remove",
+      "value": "اخۊی منپیز ٱوری ن پاک کۊنی؟"
+    },
+    {
+      "name": "cloud_share_copied",
+      "value": "لینگ قابل و یک رسۊوی منه ویرگه لف گیری وابی"
+    },
+    {
+      "name": "codec",
+      "value": "کودک"
+    },
+    {
+      "name": "color_summary",
+      "value": "رنگ اجزا رابت منتوری ن پسند کۊنین"
+    },
+    {
+      "name": "color_title",
+      "value": "رنگ"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "نوار پیمایش رنگی"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "یو ک سیستوم نومگه کشاری وا پۊسته رنگی بۊ یا نه"
+    },
+    {
+      "name": "colorize",
+      "value": "رنگ کردن آیکونا"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "رنگ آیکونا ن ساموو اده، رنگ پسند بیڌه، آیکون دوبلگه ن آلشت نؽڌه."
+    },
+    {
+      "name": "comment",
+      "value": "منشڌ"
+    },
+    {
+      "name": "compress",
+      "value": "تپنیڌن"
+    },
+    {
+      "name": "compressed",
+      "value": "تپنیڌه وابی"
+    },
+    {
+      "name": "compressing",
+      "value": "هونی اتپنس"
+    },
+    {
+      "name": "compression_complete",
+      "value": "تپنیڌن کامل وابی"
+    },
+    {
+      "name": "confirmation",
+      "value": "تاییدیا"
+    },
+    {
+      "name": "connection_name",
+      "value": "نوم منپیز"
+    },
+    {
+      "name": "container",
+      "value": "زرف"
+    },
+    {
+      "name": "contributors",
+      "value": "موشارکت کرده یل"
+    },
+    {
+      "name": "contributors_1_summary",
+      "value": "ولرنیڌن"
+    },
+    {
+      "name": "contributors_2_summary",
+      "value": "آیکون وو بنرا"
+    },
+    {
+      "name": "contributors_3_summary",
+      "value": "موتور تم"
+    },
+    {
+      "name": "contributors_4_summary",
+      "value": "سا پوشت FAB"
+    },
+    {
+      "name": "contributors_5_summary",
+      "value": "آلشت رنگ مجال کشیڌن دوبلگه یل"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "سرور FTP / جا گورو کردن فایل"
+    },
+    {
+      "name": "copied",
+      "value": "لف گیری وابی"
+    },
+    {
+      "name": "copy",
+      "value": "لف گیری"
+    },
+    {
+      "name": "copy_complete",
+      "value": "لف گیری کامل وابی"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "گوزارش قالوو بندی بیڌه ن لف گیری کۊنین"
+    },
+    {
+      "name": "copy_low_memory",
+      "value": "ویرگه هونی تموم ابۊ. یتی ز ویرگه RAM ن برۊفن"
+    },
+    {
+      "name": "copying",
+      "value": "هونی لف گیری ابۊ"
+    },
+    {
+      "name": "copyingapks",
+      "value": "لف گیری فایل APK ز %d و %s"
+    },
+    {
+      "name": "crash_report_copied",
+      "value": "گوزارش خراوی منه ویرگه لف گیری وابی"
+    },
+    {
+      "name": "create",
+      "value": "وورکل بۊ"
+    },
+    {
+      "name": "create_bookmark",
+      "value": "وورکل نشووک"
+    },
+    {
+      "name": "created",
+      "value": "وورکل وابی"
+    },
+    {
+      "name": "creatingfile",
+      "value": "فایل هونی وورکل ابۊ"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "دوبلگه هونی وورکل ابۊ"
+    },
+    {
+      "name": "creator",
+      "value": "وورکل کوݩ"
+    },
+    {
+      "name": "crypt_decrypt",
+      "value": "گۊشیڌن رزم"
+    },
+    {
+      "name": "crypt_decrypted",
+      "value": "رزم گۊشیڌه بیڌه"
+    },
+    {
+      "name": "crypt_decrypting",
+      "value": "هونی رزمسه اگوشه"
+    },
+    {
+      "name": "crypt_decryption_fail",
+      "value": "گۊشیڌن رزم ٱنجوم نوابی"
+    },
+    {
+      "name": "crypt_decryption_fail_password",
+      "value": "رزم اشتوا هڌ"
+    },
+    {
+      "name": "crypt_encrypt",
+      "value": "ناهاڌن رزم"
+    },
+    {
+      "name": "crypt_encrypted",
+      "value": "رزم ناهاڌه بیڌه"
+    },
+    {
+      "name": "crypt_encrypting",
+      "value": "هونی رزم انه ریس"
+    },
+    {
+      "name": "crypt_fingerprint_authenticate",
+      "value": "سی رئڌن وا پؽش، دستتۉݩ ن بنین ری سنسور"
+    },
+    {
+      "name": "crypt_fingerprint_not_enrolled",
+      "value": "هیچ جا کلکی زفت نوابیڌه"
+    },
+    {
+      "name": "crypt_pref_fingerprint_title",
+      "value": "جا کلک"
+    },
+    {
+      "name": "crypt_pref_master_password_title",
+      "value": "رزم ٱسلی"
+    },
+    {
+      "name": "current_speed",
+      "value": "ترات هیم سکویی"
+    },
+    {
+      "name": "custom",
+      "value": "سفارشی"
+    },
+    {
+      "name": "customize",
+      "value": "سفارشی کردن"
+    },
+    {
+      "name": "cut",
+      "value": "جا گورو"
+    },
+    {
+      "name": "dark",
+      "value": "متریال تاریک"
+    },
+    {
+      "name": "database",
+      "value": "دیتابیس"
+    },
+    {
+      "name": "databasereader",
+      "value": "خونده گر پایگا داده"
+    },
+    {
+      "name": "date",
+      "value": "ویرگار"
+    },
+    {
+      "name": "date_modified",
+      "value": "ویرگار آلشتکاری"
+    },
+    {
+      "name": "date_taken",
+      "value": "ویرگار گرؽڌن"
+    },
+    {
+      "name": "daytime",
+      "value": "زمۉݩ رۊز"
+    },
+    {
+      "name": "default_string",
+      "value": "پؽش فرز"
+    },
+    {
+      "name": "delbook",
+      "value": "پاک کردن نشووک"
+    },
+    {
+      "name": "delete",
+      "value": "پاک کردن"
+    },
+    {
+      "name": "deleting",
+      "value": "هونی پاک ابۊ"
+    },
+    {
+      "name": "descending",
+      "value": "ری و لم"
+    },
+    {
+      "name": "deselect_all",
+      "value": "لقو پسند کردن پوی"
+    },
+    {
+      "name": "details",
+      "value": "جۊزیات"
+    },
+    {
+      "name": "developers",
+      "value": "هؽل کونۉݩ برنومه"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "دوبلگه یل"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "فایلا"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "وا پاک کردن مۉردا لمی، هونۉݩ سی همیشه ز دسگا ایسا پاک ابۊن وو دی نترین وورگنینسۉݩ."
+    },
+    {
+      "name": "dialog_delete_temporarily_disclaimer",
+      "value": "اخۊی مۉردا لمی ن پاک کۊنی؟"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "اخۊی یونۉݩ سی همیشه پاک بۊن؟"
+    },
+    {
+      "name": "dialog_restore_disclaimer",
+      "value": "اخۊی مۉردا لمی ن وورگنی؟"
+    },
+    {
+      "name": "directory",
+      "value": "دوبلگه"
+    },
+    {
+      "name": "directorysort",
+      "value": "هالت کتن کردن دوبلگه"
+    },
+    {
+      "name": "disable",
+      "value": "قیر فعال کردن"
+    },
+    {
+      "name": "documents",
+      "value": "سندا"
+    },
+    {
+      "name": "docx_viewer",
+      "value": "نیشتگر سند ٱمیز"
+    },
+    {
+      "name": "doforall",
+      "value": "سی پوی مۉردا ٱنجوم بۊ"
+    },
+    {
+      "name": "doit",
+      "value": "ٱنجوم داڌن"
+    },
+    {
+      "name": "domain",
+      "value": "دامنه"
+    },
+    {
+      "name": "donate",
+      "value": "لادراری مالی"
+    },
+    {
+      "name": "done",
+      "value": "ٱنجوم وابی"
+    },
+    {
+      "name": "download",
+      "value": "دانلود"
+    },
+    {
+      "name": "drawer_close",
+      "value": "بستن نومگه کشاری"
+    },
+    {
+      "name": "drawer_open",
+      "value": "گۊشیڌن نومگه کشاری"
+    },
+    {
+      "name": "duration",
+      "value": "موڌت"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "هولندی"
+    },
+    {
+      "name": "edit",
+      "value": "آلشت"
+    },
+    {
+      "name": "edit_bookmark",
+      "value": "آلشت نشووک"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "فعال کردن هالت رۊت"
+    },
+    {
+      "name": "encrypt_file_save_as",
+      "value": "زفت فایل رزم ناهاڌه بیڌه و عونوان…"
+    },
+    {
+      "name": "entername",
+      "value": "نومن بزݩ"
+    },
+    {
+      "name": "enterpath",
+      "value": "تور ت دیاری کوݩ"
+    },
+    {
+      "name": "enterzipname",
+      "value": "نوم فایل زیپن بزݩ"
+    },
+    {
+      "name": "error",
+      "value": "ختا"
+    },
+    {
+      "name": "error_archive_password_incorrect",
+      "value": "رزم آرشیو اشتوا هڌ"
+    },
+    {
+      "name": "error_cannot_find_way_open",
+      "value": "رهی سی گۊشیڌن فایل نجۊرست"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "جۊزیات:"
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "ختا: فایلن نجوست"
+    },
+    {
+      "name": "error_file_too_large",
+      "value": "ختا: فایل قلوه گپ هڌ"
+    },
+    {
+      "name": "error_io",
+      "value": "ختا I/O"
+    },
+    {
+      "name": "error_permission_denied",
+      "value": "موجوز رڌ وابی"
+    },
+    {
+      "name": "error_report_button_telegram",
+      "value": "ای ختا ن وا تلگرام گوزارش بڌه."
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "ای ختا ن وا ایمیل گوزارش بڌه."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "منه گیتهاب گوزارش بڌه"
+    },
+    {
+      "name": "error_report_title",
+      "value": "گوزارش ختا"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "گوزارش"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "وابخشی ، تفاقی اشتوا پؽش ٱووڌ."
+    },
+    {
+      "name": "exit",
+      "value": "و در رئڌن"
+    },
+    {
+      "name": "exporting_failed",
+      "value": "و در کشیڌن ٱنجوم نوابی: فایل لادراری، نتره ک هؽل کونه"
+    },
+    {
+      "name": "exposure_time",
+      "value": "زموو نۊر داڌن"
+    },
+    {
+      "name": "extract",
+      "value": "دراووردن"
+    },
+    {
+      "name": "extract_complete",
+      "value": "دراووردن کامل وابی"
+    },
+    {
+      "name": "extracted",
+      "value": "دراوورده وابی"
+    },
+    {
+      "name": "extracting",
+      "value": "هونی ادرارس"
+    },
+    {
+      "name": "failed_cloud_api_key",
+      "value": "تاییڌ اعتبار پلاگین Cloud ٱنجوم نوابی"
+    },
+    {
+      "name": "failed_cloud_new_connection",
+      "value": "منپیز Cloud نۊ ازاف نوابی"
+    },
+    {
+      "name": "failed_install_apk",
+      "value": "پۊرنیڌن ٱنجوم نوابی"
+    },
+    {
+      "name": "failed_smb_decrypt_path",
+      "value": "منپیز SMB بار ونی نوابی"
+    },
+    {
+      "name": "feedback",
+      "value": "فشناڌن منشڌ"
+    },
+    {
+      "name": "field_empty",
+      "value": "فیلد نتره پتی بۊ"
+    },
+    {
+      "name": "file",
+      "value": "فایل"
+    },
+    {
+      "name": "file_empty",
+      "value": "فایل پتی هڌ"
+    },
+    {
+      "name": "file_read_only",
+      "value": "فایل نگوشست، تینا تره خونده بۊ."
+    },
+    {
+      "name": "fileexist",
+      "value": "ی فایل وا هیم نوم ز پؽش تر بیڌس"
+    },
+    {
+      "name": "filename",
+      "value": "نوم فایل"
+    },
+    {
+      "name": "files",
+      "value": "فایلا"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "فایلا وارو بۊن"
+    },
+    {
+      "name": "find",
+      "value": "جوستن من بلگه"
+    },
+    {
+      "name": "focal_length",
+      "value": "فاسله کانۊوی"
+    },
+    {
+      "name": "folder",
+      "value": "دوبلگه"
+    },
+    {
+      "name": "folderfilecount",
+      "value": "%1$d دوبلگه یل وو %2$d فایلا"
+    },
+    {
+      "name": "folders",
+      "value": "دوبلگه یل"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "دوبلگه یل وارو بۊن"
+    },
+    {
+      "name": "follow_battery_saver_title",
+      "value": "ودین کردن سرفه جۊیی من قوبه"
+    },
+    {
+      "name": "format",
+      "value": "فورمت"
+    },
+    {
+      "name": "frame_rate",
+      "value": "فریم ریت"
+    },
+    {
+      "name": "free",
+      "value": "جاگه پتی"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "فرانسوی"
+    },
+    {
+      "name": "ftp",
+      "value": "سرور FTP / جا گورو کردن فایل"
+    },
+    {
+      "name": "ftp_connection",
+      "value": "منپیز FTP"
+    },
+    {
+      "name": "ftp_login",
+      "value": "و من بیاین"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "موتمعن بۊ ک، و وای فای منپیز هڌ"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "سرور اف تی بی هونی انه پا کار"
+    },
+    {
+      "name": "ftp_notif_starting_title",
+      "value": "سرور FTP / جا گورو کردن فایل"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "واڌاشتن"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "من %s"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "سرور اف تی پی ٱمیز هونی ر اۊفته"
+    },
+    {
+      "name": "ftp_path",
+      "value": "تور یک رسۊوی بیڌه"
+    },
+    {
+      "name": "ftp_path_change_error_invalid",
+      "value": "تور زبال نؽ"
+    },
+    {
+      "name": "ftp_path_change_success",
+      "value": "تور FTP وا مووفقیت آلشت وابی"
+    },
+    {
+      "name": "ftp_path_hint",
+      "value": "ی تور و دوبلگه رۊت سی یک رسۊوی"
+    },
+    {
+      "name": "ftp_port",
+      "value": "درگه"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "نومره پورت ناموئتبر پسند وابیڌه"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "پورت FTP و خۊوی آلشت وابی"
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "پورت FTP"
+    },
+    {
+      "name": "ftp_preference_saf_filesystem_title",
+      "value": "ز فایل سیستوم قڌیمی استفاڌه کوݩ"
+    },
+    {
+      "name": "ftp_prompt_accept_first_start_saf_access_title",
+      "value": "داڌن دسرسی SAF سی سرور FTP"
+    },
+    {
+      "name": "ftp_readonly",
+      "value": "دسرسی تینا خۊندنی"
+    },
+    {
+      "name": "ftp_seconds",
+      "value": "سانیه یل"
+    },
+    {
+      "name": "ftp_server_open_settings",
+      "value": "سامووا ن بوگوش"
+    },
+    {
+      "name": "ftp_status_no_connection",
+      "value": "بؽ منپیز"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "من ره ونی نؽ"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "هونی ره اۊفته"
+    },
+    {
+      "name": "ftp_status_secure_connection",
+      "value": "منپیز ٱمن"
+    },
+    {
+      "name": "ftp_status_title",
+      "value": "وزعیت"
+    },
+    {
+      "name": "ftp_timeout",
+      "value": "مجال بؽ کاری"
+    },
+    {
+      "name": "general",
+      "value": "پوی وولاتی"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "آلمانی"
+    },
+    {
+      "name": "go",
+      "value": "راو"
+    },
+    {
+      "name": "goback",
+      "value": "وورگرت"
+    },
+    {
+      "name": "got_it",
+      "value": "فئمیم!"
+    },
+    {
+      "name": "grant",
+      "value": "هشتن"
+    },
+    {
+      "name": "grantfailed",
+      "value": "موجوز نداڌ"
+    },
+    {
+      "name": "grantper",
+      "value": "هشتن موجوز"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "یۊنانی"
+    },
+    {
+      "name": "green",
+      "value": "ساوز"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "تعداد سۊتۊنا من نما شبکه ای"
+    },
+    {
+      "name": "gridview",
+      "value": "نما شبکه ای"
+    },
+    {
+      "name": "hash_sha256",
+      "value": "SHA-256"
+    },
+    {
+      "name": "height",
+      "value": "درازا"
+    },
+    {
+      "name": "hidden",
+      "value": "نشۉݩ داڌن فایلا وو دوبلگه یل بؽڌاری"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "فایلا بؽڌاری"
+    },
+    {
+      "name": "hide",
+      "value": "بؽڌار بۊ"
+    },
+    {
+      "name": "history",
+      "value": "ویرگار"
+    },
+    {
+      "name": "home",
+      "value": "هووه"
+    },
+    {
+      "name": "icon",
+      "value": "آیکون"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "ساموو رنگ سی آیکونا"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "رنگ آیکوݩ"
+    },
+    {
+      "name": "image",
+      "value": "شؽوات"
+    },
+    {
+      "name": "image_type",
+      "value": "نوع شؽوات"
+    },
+    {
+      "name": "image_viewer",
+      "value": "نیشتگر شؽوات ٱمیز"
+    },
+    {
+      "name": "images",
+      "value": "شؽواتا"
+    },
+    {
+      "name": "import_failed_for",
+      "value": "و من ٱووردن ٱنجوم نوابی سی:"
+    },
+    {
+      "name": "importing_completed",
+      "value": "و من ٱووردن ٱنجوم وابی"
+    },
+    {
+      "name": "importing_failed",
+      "value": "و من ٱووردن ٱنجوم نوابی: فایل لادراری، نتره ک خونده بۊ"
+    },
+    {
+      "name": "in_safe",
+      "value": "جاگه کم"
+    },
+    {
+      "name": "information",
+      "value": "دووسمندیا"
+    },
+    {
+      "name": "install",
+      "value": "پۊرنیڌن"
+    },
+    {
+      "name": "intellihide_toolbar_summary",
+      "value": "بؽڌار کردن خوتکار نوار ٱوزار مجال پیمایش"
+    },
+    {
+      "name": "intellihide_toolbar_title",
+      "value": "نوار ٱوزار Intellihide"
+    },
+    {
+      "name": "intent_save_as",
+      "value": "زفت و عونوان…"
+    },
+    {
+      "name": "invalid",
+      "value": "%s تاییڌ نوابیڌه"
+    },
+    {
+      "name": "invalid_backup_file",
+      "value": "فایل لادراری زبال نؽ"
+    },
+    {
+      "name": "invalid_name",
+      "value": "نوم زبال نؽ"
+    },
+    {
+      "name": "ip",
+      "value": "آدرس"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "ایتالیایی"
+    },
+    {
+      "name": "item",
+      "value": "مۉرد"
+    },
+    {
+      "name": "items",
+      "value": "مۉردا"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "ژاپۊنی"
+    },
+    {
+      "name": "just_once",
+      "value": "تینا سی ی کرت"
+    },
+    {
+      "name": "keywords",
+      "value": "کیلیت واژه یل"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "کوره یی"
+    },
+    {
+      "name": "lastModified",
+      "value": "آلشت دیندایی"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "نشۉݩ داڌن آلشتکاری دیندایی"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "ویرگار وو زمۉݩ آلشت دیندایی ن نشۉݩ بڌه"
+    },
+    {
+      "name": "legacy_listing_title",
+      "value": "سی رۊت، ز نومگه قڌیمی استفاڌه کوݩ"
+    },
+    {
+      "name": "libraries",
+      "value": "کتاو هووه یل"
+    },
+    {
+      "name": "license",
+      "value": "موجوز"
+    },
+    {
+      "name": "light",
+      "value": "متریال رۊشن"
+    },
+    {
+      "name": "listview",
+      "value": "نما نومگه"
+    },
+    {
+      "name": "loading",
+      "value": "هونی بار ونی بۊ…"
+    },
+    {
+      "name": "local_inet_addr_error",
+      "value": "ختا منه گرؽڌن آدرس شبکه مهلی"
+    },
+    {
+      "name": "location",
+      "value": "جاگه"
+    },
+    {
+      "name": "match_content",
+      "value": "هموهنگ کردن موئتوا"
+    },
+    {
+      "name": "md5",
+      "value": "MD5"
+    },
+    {
+      "name": "medium_text",
+      "value": "هؽل موتوست"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "موتفرقه"
+    },
+    {
+      "name": "modified",
+      "value": "آلشتکاری وابی"
+    },
+    {
+      "name": "monofont",
+      "value": "فونت Monospace"
+    },
+    {
+      "name": "move",
+      "value": "جا گورو"
+    },
+    {
+      "name": "moved",
+      "value": "جا گورو وابی"
+    },
+    {
+      "name": "moving",
+      "value": "هونی جا گورو ابۊ"
+    },
+    {
+      "name": "name",
+      "value": "نوم"
+    },
+    {
+      "name": "needs_access",
+      "value": "نیازمند دسرسی و هؽل کردن"
+    },
+    {
+      "name": "newfile",
+      "value": "فایل نۊ"
+    },
+    {
+      "name": "newfolder",
+      "value": "دوبلگه نۊ"
+    },
+    {
+      "name": "no",
+      "value": "ن"
+    },
+    {
+      "name": "no_app_found",
+      "value": "هیچ برنومه ای سی گۊشیڌن ای فایل نجۊرست"
+    },
+    {
+      "name": "no_applications",
+      "value": "هیچ برنومه ای نؽ"
+    },
+    {
+      "name": "no_device_found",
+      "value": "دسگاهؽ نجوست"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "هیچ فایلؽ جا نوسته"
+    },
+    {
+      "name": "no_files",
+      "value": "فایلؽ نؽ"
+    },
+    {
+      "name": "no_items",
+      "value": "هیچ مۉردی نؽ"
+    },
+    {
+      "name": "no_name",
+      "value": "فایل وا ی نوم داشته بۊ"
+    },
+    {
+      "name": "no_obtainable_info",
+      "value": "هیچ دووسمندی زبار ای فایل نؽ"
+    },
+    {
+      "name": "none_on_top",
+      "value": "هیشکویکسوو وارو نبۊ"
+    },
+    {
+      "name": "not_allowed",
+      "value": "موجاز نؽ"
+    },
+    {
+      "name": "of",
+      "value": "ز"
+    },
+    {
+      "name": "ok",
+      "value": "خا"
+    },
+    {
+      "name": "open",
+      "value": "گۊشیڌن"
+    },
+    {
+      "name": "open_as",
+      "value": "گۊشیڌن وا"
+    },
+    {
+      "name": "open_parent",
+      "value": "دوبلگه روئی ن بوگوش"
+    },
+    {
+      "name": "open_with",
+      "value": "گۊشیڌن وا"
+    },
+    {
+      "name": "open_with_amaze",
+      "value": "گۊشیڌن وا ٱمیز"
+    },
+    {
+      "name": "operation_not_supported",
+      "value": "ز ای کار لادراری نؽبۊ"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "عملیات نامووفق"
+    },
+    {
+      "name": "optimized",
+      "value": "بؽڌر وابیڌه"
+    },
+    {
+      "name": "orange",
+      "value": "نارنجی"
+    },
+    {
+      "name": "other",
+      "value": "دیر"
+    },
+    {
+      "name": "out_of",
+      "value": "در ز"
+    },
+    {
+      "name": "overwrite",
+      "value": "جا وندن"
+    },
+    {
+      "name": "package_installer",
+      "value": "پۊرنی کون کتن"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "یو ی پۊرنی کوݩ کتن هڌ، ایسا دلتۉݩ اخو چ کاری ٱنجوم دین؟"
+    },
+    {
+      "name": "pages",
+      "value": "نومره بلگه یل"
+    },
+    {
+      "name": "paper_size",
+      "value": "هندا بلگه"
+    },
+    {
+      "name": "password",
+      "value": "رزم"
+    },
+    {
+      "name": "password_no_match",
+      "value": "رزم ی جۊر نؽ"
+    },
+    {
+      "name": "password_repeat",
+      "value": "تکرار رزم"
+    },
+    {
+      "name": "password_unchanged",
+      "value": "(بؽ آلشت)"
+    },
+    {
+      "name": "paste",
+      "value": "جا وندن"
+    },
+    {
+      "name": "path",
+      "value": "جاگه"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "آیدی پی پال، من ویرگه لف گیری بۊ"
+    },
+    {
+      "name": "pdf_viewer",
+      "value": "نیشتگر سند ٱمیز"
+    },
+    {
+      "name": "permission",
+      "value": "جوازا"
+    },
+    {
+      "name": "permission_execute",
+      "value": "ر ونین"
+    },
+    {
+      "name": "permission_group",
+      "value": "جرگه"
+    },
+    {
+      "name": "permission_other",
+      "value": "دیر"
+    },
+    {
+      "name": "permission_owner",
+      "value": "ساهاو"
+    },
+    {
+      "name": "permission_read",
+      "value": "خوندن"
+    },
+    {
+      "name": "permission_write",
+      "value": "هؽل کردن"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "ی فایل ن پسند کوݩ"
+    },
+    {
+      "name": "pick_files",
+      "value": "ی فایل یا چن فایل ن پسند کوݩ"
+    },
+    {
+      "name": "play",
+      "value": "فۊرۊشگا گۊگل پلی"
+    },
+    {
+      "name": "please_wait",
+      "value": "مندیر بۊ"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "لهستۊوی"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "پورتقالی"
+    },
+    {
+      "name": "pref_export",
+      "value": "و در کشیڌن"
+    },
+    {
+      "name": "pref_export_summary",
+      "value": "و در کشیڌن سامووا"
+    },
+    {
+      "name": "pref_import",
+      "value": "و من ٱووردن"
+    },
+    {
+      "name": "pref_import_summary",
+      "value": "و من ٱووردن سامووا"
+    },
+    {
+      "name": "preference_delete_confirmation",
+      "value": "تاییڌ سی پاک کردن"
+    },
+    {
+      "name": "preference_language_dialog_title",
+      "value": "پسند زۉݩ"
+    },
+    {
+      "name": "preference_language_system_default",
+      "value": "پؽش فرز سیستوم"
+    },
+    {
+      "name": "preference_language_title",
+      "value": "زۉݩ برنومه"
+    },
+    {
+      "name": "preference_newstack_title",
+      "value": "گۊشیڌن فایلا و عونوان کار نۊ"
+    },
+    {
+      "name": "preselected_configs_title",
+      "value": "سامووا ز پؽش پسند بیڌه"
+    },
+    {
+      "name": "press_again",
+      "value": "سی ب در زیڌن، دو کرت بزݩ ری دویمه وورگشتن"
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "ساموو داڌن رنگ و رابت منتوری گپ سی بلگه سمت چپ"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "رنگ ٱولیه (بلگه سمت چپ)"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "ساموو داڌن رنگ و رابت منتوری گپ سی بلگه سمت راست"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "رنگ ٱولیه (بلگه سمت راست)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "نشۉگر فعالیتا"
+    },
+    {
+      "name": "properties",
+      "value": "دووسمندیا"
+    },
+    {
+      "name": "properties_copied_clipboard",
+      "value": "منه ویرگه لف گیری وابی"
+    },
+    {
+      "name": "protocol_ftps",
+      "value": "FTP ٱمن"
+    },
+    {
+      "name": "question_delete_bookmark",
+      "value": "نشووک پاک بۊ؟"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "اخۊی تور هیملانی ن، سی تور هووه ای بلگه ساموو کۊنی؟"
+    },
+    {
+      "name": "quick",
+      "value": "دسرسی زل"
+    },
+    {
+      "name": "random",
+      "value": "پۊسته تساڌۊفی"
+    },
+    {
+      "name": "random_summary",
+      "value": "رنگ ٱولیه تساڌۊفی ن، من وارو ٱووڌن ساموو کوݩ"
+    },
+    {
+      "name": "rate",
+      "value": "امتیاز داڌن و برنومه"
+    },
+    {
+      "name": "recent",
+      "value": "فایلا هیم دمۊوی"
+    },
+    {
+      "name": "recent_desc",
+      "value": "فایلایی ک هیم دمۊویا وورکل یا آلشتکاری وابین"
+    },
+    {
+      "name": "regular_expression",
+      "value": "شره معمۊلی"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "پیتینیڌن وا شره ساڌه"
+    },
+    {
+      "name": "remember",
+      "value": "سی ی کرت دی ویرت بۊ"
+    },
+    {
+      "name": "rename",
+      "value": "آلشت نوم"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "آلشت نشووک"
+    },
+    {
+      "name": "renaming",
+      "value": "نوم هونی آلشت ابۊ"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "گوزارش موشکلا یا درخاست ویژیی نۊ"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "گوزارش موشکلا"
+    },
+    {
+      "name": "restore",
+      "value": "وورگندن"
+    },
+    {
+      "name": "restore_files",
+      "value": "وورگندن فایلا"
+    },
+    {
+      "name": "restoring",
+      "value": "هونی اوورگنه..."
+    },
+    {
+      "name": "results",
+      "value": "نتیجه یل"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "رومانیایی"
+    },
+    {
+      "name": "root_directory",
+      "value": "رۊت"
+    },
+    {
+      "name": "root_failure",
+      "value": "دسرسی رۊت ن نڌاره"
+    },
+    {
+      "name": "root_mode",
+      "value": "پیتینیگر رۊت"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "تینا سی دوبلگه رۊت بیڌه، ٱر زس اتمینوو داری، امتهووس کوݩ."
+    },
+    {
+      "name": "root_pref",
+      "value": "سیل کردن جوازا"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "نشۉݩ داڌن موجوزا فایلا وو دوبلگه یل"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "رۊسی"
+    },
+    {
+      "name": "sample_rate",
+      "value": "نرخ نمووه"
+    },
+    {
+      "name": "save",
+      "value": "زفت کردن"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "نشۉݩ داڌن دوبلگه گۊشیڌه بیڌه دیندایی، دیندا گۊشیڌن برنومه"
+    },
+    {
+      "name": "save_paths",
+      "value": "ویر ونی تورل"
+    },
+    {
+      "name": "saving",
+      "value": "هونی زفت ابۊ"
+    },
+    {
+      "name": "scp_default_path",
+      "value": "تور پؽش فرز (اختیاری)"
+    },
+    {
+      "name": "scp_port",
+      "value": "درگه"
+    },
+    {
+      "name": "search",
+      "value": "پیتینیڌن"
+    },
+    {
+      "name": "search_hint",
+      "value": "سی پیتینیڌن هؽل کوݩ …"
+    },
+    {
+      "name": "search_results",
+      "value": "نتیجه یل پیتینیڌن سی %s"
+    },
+    {
+      "name": "searching",
+      "value": "پیتینیڌن %s"
+    },
+    {
+      "name": "searching_devices",
+      "value": "پیتینیڌن سی دسگایل"
+    },
+    {
+      "name": "security",
+      "value": "ٱمنیت"
+    },
+    {
+      "name": "select",
+      "value": "مۉردن پسند کوݩ"
+    },
+    {
+      "name": "select_all",
+      "value": "پسند پوی"
+    },
+    {
+      "name": "select_by_date",
+      "value": "پسند و ری ویرگار"
+    },
+    {
+      "name": "select_by_type",
+      "value": "و ری نوع پسند کوݩ"
+    },
+    {
+      "name": "select_color_config",
+      "value": "رنگ پیکربندی ن پسند کۊنین"
+    },
+    {
+      "name": "select_fill",
+      "value": "پور کردنن پسند کوݩ"
+    },
+    {
+      "name": "select_intent",
+      "value": "پسند"
+    },
+    {
+      "name": "select_inverse",
+      "value": "پسند چواسه"
+    },
+    {
+      "name": "select_save_location",
+      "value": "ی جاگه ن سی زفت کردن پسند کوݩ"
+    },
+    {
+      "name": "select_similar",
+      "value": "جۊر یکن پسند کوݩ"
+    },
+    {
+      "name": "send_email_to",
+      "value": "فشناڌن ی ایمیل و"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "سربی"
+    },
+    {
+      "name": "server_address",
+      "value": "آدرسا آی پی سرور"
+    },
+    {
+      "name": "service_timer",
+      "value": "زموو گوڌشتن"
+    },
+    {
+      "name": "set",
+      "value": "ساموو"
+    },
+    {
+      "name": "set_as_home",
+      "value": "ساموو و عونوان هووه"
+    },
+    {
+      "name": "set_random",
+      "value": "برنومنه بووند وو ز نۊ بوگوش تا آلشتکاریا ٱنجوم بۊن"
+    },
+    {
+      "name": "setting",
+      "value": "سامووا"
+    },
+    {
+      "name": "share",
+      "value": "یک رسۊوی"
+    },
+    {
+      "name": "share_limit",
+      "value": "بیشتر ز 100 فایلن نؽبۊ یک رسۊوی کرد"
+    },
+    {
+      "name": "share_logs",
+      "value": "یک رسۊوی گوزارش"
+    },
+    {
+      "name": "showHeaders",
+      "value": "نشۉݩ داڌن سر بلگه یل"
+    },
+    {
+      "name": "show_bookmarks_pref",
+      "value": "نشووکا"
+    },
+    {
+      "name": "show_bookmarks_pref_title",
+      "value": "نشۉݩ داڌن نشووکا"
+    },
+    {
+      "name": "show_dividers",
+      "value": "نشۉݩ داڌن درایور"
+    },
+    {
+      "name": "show_quick_access_pref",
+      "value": "دسرسیا زل"
+    },
+    {
+      "name": "show_quick_access_pref_title",
+      "value": "نشۉݩ داڌن دسرسیا زل"
+    },
+    {
+      "name": "show_system_apps",
+      "value": "نشۉݩ داڌن برنومه یل سیستوم"
+    },
+    {
+      "name": "sidebar_bookmarks_title",
+      "value": "نشووکا نوار کلی"
+    },
+    {
+      "name": "sidebar_preferences",
+      "value": "نوار کلی"
+    },
+    {
+      "name": "sidebar_quick_access_title",
+      "value": "دسرسی زل نوار کلی"
+    },
+    {
+      "name": "size",
+      "value": "هندا دوبلگه"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "هندا"
+    },
+    {
+      "name": "size_pref",
+      "value": "نشۉݩ داڌن هندا یل"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "هندا فایلا وو تعداد مۉردا من دوبلگه یل ن نشۉݩ بڌه"
+    },
+    {
+      "name": "skip",
+      "value": "رڌ کردن"
+    },
+    {
+      "name": "smb_connection",
+      "value": "منپیز SMB"
+    },
+    {
+      "name": "smb_share",
+      "value": "یک رسۊوی تور"
+    },
+    {
+      "name": "software",
+      "value": "برنومه"
+    },
+    {
+      "name": "sorry_string",
+      "value": "وابخشی، ای تفاق نواست اۊفته."
+    },
+    {
+      "name": "sort",
+      "value": "کتن کردن"
+    },
+    {
+      "name": "sort_by",
+      "value": "کتن و ری"
+    },
+    {
+      "name": "sort_by_colon",
+      "value": "کتن و ری:"
+    },
+    {
+      "name": "sort_name",
+      "value": "نوم"
+    },
+    {
+      "name": "sort_only_this",
+      "value": "تینا ای دوبلگه"
+    },
+    {
+      "name": "sort_relevance",
+      "value": "ارتبات"
+    },
+    {
+      "name": "sort_size",
+      "value": "هندا"
+    },
+    {
+      "name": "source_summary",
+      "value": "کود بونچک ایمانه منه گیت هاب بنیرین"
+    },
+    {
+      "name": "source_title",
+      "value": "کود بونچک"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "اسپانیایی"
+    },
+    {
+      "name": "ssh_connect_failed",
+      "value": "نتره و %1$s:%2$d: %3$s منپیز بۊ"
+    },
+    {
+      "name": "ssh_host_key_verification_prompt_title",
+      "value": "هاستن تاییڌ کۊنین"
+    },
+    {
+      "name": "ssh_key_invalid_passphrase",
+      "value": "کیلیت رزم زبال نؽ"
+    },
+    {
+      "name": "ssh_select_pem_button",
+      "value": "کیلیت سیخومی SSH"
+    },
+    {
+      "name": "start_ftp",
+      "value": "ناهاڌن پا"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "واڌاشتن"
+    },
+    {
+      "name": "stopping",
+      "value": "هونی واڌارنس"
+    },
+    {
+      "name": "storage_internal",
+      "value": "ویرگه منی"
+    },
+    {
+      "name": "storage_sd_card",
+      "value": "ویرگه دری"
+    },
+    {
+      "name": "subject",
+      "value": "سرتال"
+    },
+    {
+      "name": "support_development",
+      "value": "لادراری هؽل کونۉݩ برنومه"
+    },
+    {
+      "name": "system",
+      "value": "پؽش فرز سیستوم (گۊش گر سیستوم بۊ)"
+    },
+    {
+      "name": "system_apps",
+      "value": "برنومه یل سیستومی"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "تامیلی"
+    },
+    {
+      "name": "text",
+      "value": "هؽل"
+    },
+    {
+      "name": "text_editor",
+      "value": "سامووا آلشتگری هؽل"
+    },
+    {
+      "name": "textreader",
+      "value": "هؽل خۉݩ"
+    },
+    {
+      "name": "theme",
+      "value": "تم"
+    },
+    {
+      "name": "thumb",
+      "value": "نشۉݩ داڌن شؽواتا کۊچیر"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "نشۉݩ داڌن شؽواتا کۊچیر وو برنومه یل وو شؽواتا"
+    },
+    {
+      "name": "time_remaining",
+      "value": "زموو باقی منده"
+    },
+    {
+      "name": "title",
+      "value": "عونوان"
+    },
+    {
+      "name": "total",
+      "value": "جمع پوی:"
+    },
+    {
+      "name": "translate_summary",
+      "value": "دؽوۉداری فایل ٱمیز ن، و زۉݩ خوتۉݩ ولرن"
+    },
+    {
+      "name": "translate_title",
+      "value": "ولرنیڌن"
+    },
+    {
+      "name": "translators",
+      "value": "ولرنی کارۉݩ"
+    },
+    {
+      "name": "trash_bin",
+      "value": "دلاشقالی"
+    },
+    {
+      "name": "trash_bin_cleanup_interval_title",
+      "value": "فاسله روفتن"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "تۊرکی"
+    },
+    {
+      "name": "type",
+      "value": "نوع"
+    },
+    {
+      "name": "typeable_paths_title",
+      "value": "پچا سفارشی"
+    },
+    {
+      "name": "ui",
+      "value": "رابت"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "اوکراینی"
+    },
+    {
+      "name": "unavailable",
+      "value": "من دسرس نؽ"
+    },
+    {
+      "name": "uninstall",
+      "value": "لقو پۊرنیڌن"
+    },
+    {
+      "name": "unknown",
+      "value": "نشناخته"
+    },
+    {
+      "name": "unknown_error",
+      "value": "وۊی، موشکلی پؽش ٱووڌ!"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "آلشتکاریا زفت نوابین"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "ایسا آلشتکاریا زفت نوابیڌه دارین، اخۊین هونۉݩ ن پؽش ز و در زیڌن ز برنومه زفت کۊنین؟"
+    },
+    {
+      "name": "update",
+      "value": "ورۊ کردن"
+    },
+    {
+      "name": "used",
+      "value": "جاگه و کار گرؽڌه بیڌه"
+    },
+    {
+      "name": "used_by_others",
+      "value": "و دس دیرۉ و کار گرؽڌه وابیڌه"
+    },
+    {
+      "name": "user_apps",
+      "value": "برنومه یل منتور"
+    },
+    {
+      "name": "username",
+      "value": "نوم منتوری"
+    },
+    {
+      "name": "version",
+      "value": "نوسخه"
+    },
+    {
+      "name": "video",
+      "value": "فیلم"
+    },
+    {
+      "name": "video_player",
+      "value": "پشک کون ویدیۉ ٱمیز"
+    },
+    {
+      "name": "videos",
+      "value": "فیلما"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "ویتنامی"
+    },
+    {
+      "name": "view",
+      "value": "نیشتن"
+    },
+    {
+      "name": "waiting_content",
+      "value": "مندیر سی ٱنجوم وابیڌن عملیات"
+    },
+    {
+      "name": "waiting_title",
+      "value": "مندیر هڌ"
+    },
+    {
+      "name": "want_help",
+      "value": "لنگ هیاری هڌی؟"
+    },
+    {
+      "name": "warning",
+      "value": "بپا"
+    },
+    {
+      "name": "warning_confirm",
+      "value": "فئمیم!"
+    },
+    {
+      "name": "warning_never_show",
+      "value": "ز نۊ و ویروم مون"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "دووسمندیا:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "چ تفاقی وست:"
+    },
+    {
+      "name": "width",
+      "value": "پئنا"
+    },
+    {
+      "name": "wifip2p",
+      "value": "Wi-Fi P2P"
+    },
+    {
+      "name": "written",
+      "value": "هؽل وابیڌه"
+    },
+    {
+      "name": "xda_title",
+      "value": "ایکس دی ای"
+    },
+    {
+      "name": "year",
+      "value": "سال"
+    },
+    {
+      "name": "yes",
+      "value": "هری"
+    },
+    {
+      "name": "your_comment",
+      "value": "منشڌ ایسا (و زۉݩ اینگیلیسی):"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "نیشتگر فایل تپنیڌه"
+    }
+  ]
+}

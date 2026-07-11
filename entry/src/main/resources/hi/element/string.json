@@ -1,0 +1,76 @@
+{
+  "string": [
+    {
+      "name": "cancel",
+      "value": "रद्द करें"
+    },
+    {
+      "name": "color_title",
+      "value": "रंग"
+    },
+    {
+      "name": "delete",
+      "value": "हटाएं"
+    },
+    {
+      "name": "details",
+      "value": "विवरण"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "पुष्टि करें"
+    },
+    {
+      "name": "duration",
+      "value": "अवधि"
+    },
+    {
+      "name": "exposure_time",
+      "value": "एक्स्पोज़र समय"
+    },
+    {
+      "name": "focal_length",
+      "value": "फ़ोकल लंबाई"
+    },
+    {
+      "name": "height",
+      "value": "ऊंचाई"
+    },
+    {
+      "name": "information",
+      "value": "जानकारी"
+    },
+    {
+      "name": "password",
+      "value": "पासवर्ड"
+    },
+    {
+      "name": "path",
+      "value": "पथ"
+    },
+    {
+      "name": "save",
+      "value": "सहेजें"
+    },
+    {
+      "name": "share",
+      "value": "साझा करें"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "आकार"
+    },
+    {
+      "name": "sort_size",
+      "value": "आकार"
+    },
+    {
+      "name": "version",
+      "value": "वर्शन"
+    },
+    {
+      "name": "width",
+      "value": "चौड़ाई"
+    }
+  ]
+}

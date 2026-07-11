@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "color_title",
+      "value": "Cor"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Tempo de exposición"
+    },
+    {
+      "name": "focal_length",
+      "value": "Distancia focal"
+    },
+    {
+      "name": "information",
+      "value": "Información"
+    },
+    {
+      "name": "password",
+      "value": "Contrasinal"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Tamaño"
+    },
+    {
+      "name": "sort_size",
+      "value": "Tamaño"
+    },
+    {
+      "name": "text",
+      "value": "Texto"
+    },
+    {
+      "name": "version",
+      "value": "Versión"
+    },
+    {
+      "name": "warning",
+      "value": "Aviso"
+    }
+  ]
+}

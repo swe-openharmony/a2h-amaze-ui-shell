@@ -1,0 +1,2376 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Về"
+    },
+    {
+      "name": "about_amaze",
+      "value": "Trình quản lý tệp thiết kế nguyên vật liệu dành cho Android"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "Về Amaze File Manager"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "Đặt màu cho FAB và các yếu tố UI nhỏ khác"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "Màu điểm nhấn"
+    },
+    {
+      "name": "accessed",
+      "value": "Đã truy cập"
+    },
+    {
+      "name": "add_item",
+      "value": "Thêm mục"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "Thêm lối tắt"
+    },
+    {
+      "name": "add_shortcut_not_supported_by_launcher",
+      "value": "Tạo lối tắt không được hỗ trợ bởi trình khởi chạy của bạn."
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "Thêm vào Bookmark"
+    },
+    {
+      "name": "advanced",
+      "value": "Nâng cao"
+    },
+    {
+      "name": "advanced_search",
+      "value": "Tìm kiếm nâng cao"
+    },
+    {
+      "name": "album",
+      "value": "Album"
+    },
+    {
+      "name": "always",
+      "value": "Luôn luôn"
+    },
+    {
+      "name": "android_data_prompt_saf_access",
+      "value": "Kể từ Android 10, Android đã áp đặt các hạn chế đối với một số thư mục nhất định và họ cần truy cập bằng Storage Access Framework.\\n\\nVui lòng cho phép Amaze truy cập vào thư mục từ trình quản lý tệp của hệ thống bằng cách nhấn vào \"Cho phép truy cập\"."
+    },
+    {
+      "name": "android_data_prompt_saf_access_title",
+      "value": "Cấp quyền truy cập SAF"
+    },
+    {
+      "name": "anonymous",
+      "value": "Ẩn danh"
+    },
+    {
+      "name": "aperture_value",
+      "value": "Giá trị khẩu độ"
+    },
+    {
+      "name": "apks",
+      "value": "Các tệp Apk"
+    },
+    {
+      "name": "app_name",
+      "value": "Amaze File Manager"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "Ứng dụng/UI gặp sự cố"
+    },
+    {
+      "name": "apps",
+      "value": "Quản lý ứng dụng"
+    },
+    {
+      "name": "archive",
+      "value": "Lưu trữ"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "Thư mục lưu trữ giải nén"
+    },
+    {
+      "name": "archive_password_prompt",
+      "value": "Vui lòng nhập mật khẩu lưu trữ:"
+    },
+    {
+      "name": "archive_summary",
+      "value": "Tệp tin lưu trữ sẽ được giải nén vào thư mục này. Giá trị mặc định là thư mục mà tệp lưu trữ đã hiện diện"
+    },
+    {
+      "name": "archive_text",
+      "value": "Đây là một gói lưu trữ. Hành động bạn muốn thực thi là gì?"
+    },
+    {
+      "name": "archive_unsupported_or_corrupt",
+      "value": "Không thể mở tệp lưu trữ \"%s\". Chúng tôi không thể mở tệp lưu trữ hoặc tệp lưu trữ đã bị hỏng."
+    },
+    {
+      "name": "artist",
+      "value": "Nghệ sĩ"
+    },
+    {
+      "name": "ascending",
+      "value": "Tăng dần"
+    },
+    {
+      "name": "audio",
+      "value": "Âm thanh"
+    },
+    {
+      "name": "authenticate_password",
+      "value": "Nhập mật khẩu"
+    },
+    {
+      "name": "author",
+      "value": "Tác giả"
+    },
+    {
+      "name": "authors",
+      "value": "Tác giả"
+    },
+    {
+      "name": "back_summary",
+      "value": "Kích hoạt điều hướng qua lại tại đỉnh của danh sách"
+    },
+    {
+      "name": "back_title",
+      "value": "Điều hướng quay lại"
+    },
+    {
+      "name": "backup",
+      "value": "Sao lưu"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "Tiếng Basque"
+    },
+    {
+      "name": "bitrate",
+      "value": "Tốc độ bit"
+    },
+    {
+      "name": "black",
+      "value": "Đen (cho OLED)"
+    },
+    {
+      "name": "blue",
+      "value": "Xanh dương"
+    },
+    {
+      "name": "bluetooth",
+      "value": "Bluetooth"
+    },
+    {
+      "name": "bookmark_exists",
+      "value": "Dấu trang tồn tại"
+    },
+    {
+      "name": "bookmark_lost",
+      "value": "Không phát hiện dấu trang, đang tạo lại…"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "Bookmark đã được thêm vào"
+    },
+    {
+      "name": "byte_singular",
+      "value": "byte"
+    },
+    {
+      "name": "bytes",
+      "value": "bytes"
+    },
+    {
+      "name": "calculating",
+      "value": "đang tính toán"
+    },
+    {
+      "name": "camera_brand",
+      "value": "Thương hiệu máy ảnh"
+    },
+    {
+      "name": "camera_model",
+      "value": "Kiểu máy ảnh"
+    },
+    {
+      "name": "cancel",
+      "value": "Thoát"
+    },
+    {
+      "name": "cancel_recommended",
+      "value": "Hủy (Khuyến khích)"
+    },
+    {
+      "name": "cancelled",
+      "value": "Đã huỷ bỏ"
+    },
+    {
+      "name": "cannot_delete_file",
+      "value": "Không thể xóa tập tin"
+    },
+    {
+      "name": "cannot_delete_file_with_reason",
+      "value": "Không thể xóa tập tin - %s"
+    },
+    {
+      "name": "cannot_extract_archive",
+      "value": "Không thể giải nén tệp lưu trữ \"%s\": %s"
+    },
+    {
+      "name": "cannot_overwrite",
+      "value": "Không thể ghi đè tập tin"
+    },
+    {
+      "name": "cannot_read_directory",
+      "value": "Không thể đọc thư mục %s - %s"
+    },
+    {
+      "name": "cannot_rename_file",
+      "value": "Không thể đổi tên tập tin %s - %s"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s không thể để trống"
+    },
+    {
+      "name": "change",
+      "value": "Thay đổi"
+    },
+    {
+      "name": "changelog",
+      "value": "Bản ghi thay đổi"
+    },
+    {
+      "name": "channel_description_ftp",
+      "value": "Thông báo từ Máy chủ FTP Amaze File Manager"
+    },
+    {
+      "name": "channel_description_normal",
+      "value": "Thông báo từ Amaze File Manager"
+    },
+    {
+      "name": "channel_name_ftp",
+      "value": "Máy chủ FTP Amaze"
+    },
+    {
+      "name": "channel_name_normal",
+      "value": "Thông báo từ Amaze"
+    },
+    {
+      "name": "channels",
+      "value": "Kênh"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "Tiếng Trung Quốc"
+    },
+    {
+      "name": "choose_color",
+      "value": "Chọn màu"
+    },
+    {
+      "name": "choose_different_app",
+      "value": "Chọn ứng dụng khác"
+    },
+    {
+      "name": "choose_folder",
+      "value": "Chọn thư mục này"
+    },
+    {
+      "name": "choose_operation",
+      "value": "Chọn thao tác để thực hiện"
+    },
+    {
+      "name": "circular_icons",
+      "value": "Dùng biểu tượng hình tròn"
+    },
+    {
+      "name": "circular_images",
+      "value": "Dùng biểu tượng hình tròn cho hình ảnh và video"
+    },
+    {
+      "name": "clear",
+      "value": "Xóa"
+    },
+    {
+      "name": "clear_open_file",
+      "value": "Dọn cache"
+    },
+    {
+      "name": "clear_open_file_summary",
+      "value": "Xóa các ứng dụng mở tệp mặc định đã chọn"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "Đường dẫn đã được sao chép đến clipboard"
+    },
+    {
+      "name": "close",
+      "value": "Thoát"
+    },
+    {
+      "name": "cloud_box",
+      "value": "Hộp"
+    },
+    {
+      "name": "cloud_connection",
+      "value": "Kết nối đám mây"
+    },
+    {
+      "name": "cloud_connection_new",
+      "value": "Kết nối đám mây mới"
+    },
+    {
+      "name": "cloud_drive",
+      "value": "Google Drive™"
+    },
+    {
+      "name": "cloud_drive_tooltip",
+      "value": "Tạo một kết nối Google Drive™ để quản lý tệp từ trong Amaze File Manager."
+    },
+    {
+      "name": "cloud_dropbox",
+      "value": "Dropbox"
+    },
+    {
+      "name": "cloud_error_failed_restart",
+      "value": "Không thể tải kết nối.\n        Vui lòng mở Amaze Cloud một lần."
+    },
+    {
+      "name": "cloud_error_plugin",
+      "value": "Không tìm thấy plugin Amaze Cloud. Vui lòng tải xuống từ Cửa hàng Play."
+    },
+    {
+      "name": "cloud_fail_authenticate",
+      "value": "Không thể xác thực"
+    },
+    {
+      "name": "cloud_get",
+      "value": "Tải xuống plugin Đám mây"
+    },
+    {
+      "name": "cloud_onedrive",
+      "value": "OneDrive"
+    },
+    {
+      "name": "cloud_remove",
+      "value": "Bạn có muốn xóa kết nối đám mây không?"
+    },
+    {
+      "name": "cloud_share_copied",
+      "value": "Đã sao chép liên kết có thể chia sẻ vào khay nhớ tạm"
+    },
+    {
+      "name": "cloud_token_lost",
+      "value": "Token bị mất, vui lòng đăng nhập lại"
+    },
+    {
+      "name": "codec",
+      "value": "Bộ mã"
+    },
+    {
+      "name": "color_summary",
+      "value": "Đặt màu cho các thành phần UI khác nhau"
+    },
+    {
+      "name": "color_title",
+      "value": "Màu"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "Thanh điều hướng đã được màu"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "Có hay không thanh điều hướng hệ thống được màu cùng với giao diện"
+    },
+    {
+      "name": "colorize",
+      "value": "Màu sắc hóa biểu tượng"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "Thiết lập màu sắc biểu tượng tĩnh. Đừng ghi đè tùy chọn biểu tượng màu danh mục."
+    },
+    {
+      "name": "comment",
+      "value": "Bình luận"
+    },
+    {
+      "name": "compress",
+      "value": "Nén"
+    },
+    {
+      "name": "compress_file_suggest_zip_extension",
+      "value": "Được khuyến khích nên sử dụng \".zip\" để làm phần mở rộng tệp."
+    },
+    {
+      "name": "compressed",
+      "value": "Đã nén"
+    },
+    {
+      "name": "compressed_explorer_fragment_error_open_uri",
+      "value": "Lỗi khi mở URI \"%s\" để đọc."
+    },
+    {
+      "name": "compressing",
+      "value": "Đang nén"
+    },
+    {
+      "name": "compression_complete",
+      "value": "Nén hoàn thành"
+    },
+    {
+      "name": "connection_exists",
+      "value": "Kết nối đã tồn tại"
+    },
+    {
+      "name": "connection_name",
+      "value": "Tên kết nối"
+    },
+    {
+      "name": "container",
+      "value": "Bộ chứa"
+    },
+    {
+      "name": "contributors",
+      "value": "Người đóng góp"
+    },
+    {
+      "name": "contributors_1_summary",
+      "value": "Dịch thuật"
+    },
+    {
+      "name": "contributors_2_summary",
+      "value": "Biểu tượng và biểu ngữ"
+    },
+    {
+      "name": "contributors_3_summary",
+      "value": "Công cụ Chủ đề"
+    },
+    {
+      "name": "contributors_4_summary",
+      "value": "Đổ bóng sau FAB"
+    },
+    {
+      "name": "contributors_5_summary",
+      "value": "Chuyển màu khi vuốt các tab"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "Máy chủ FTP"
+    },
+    {
+      "name": "contributors_7_summary",
+      "value": "Kích hoạt một shell tương tác"
+    },
+    {
+      "name": "copied",
+      "value": "chép"
+    },
+    {
+      "name": "copy",
+      "value": "Sao chép"
+    },
+    {
+      "name": "copy_complete",
+      "value": "Sao chép hoàn thành"
+    },
+    {
+      "name": "copy_error",
+      "value": "Một số tập tin không được %s thành công"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Sao chép báo cáo đã định dạng"
+    },
+    {
+      "name": "copy_low_memory",
+      "value": "Sắp hết bộ nhớ, vui lòng dọn một số RAM"
+    },
+    {
+      "name": "copying",
+      "value": "Đang sao chép"
+    },
+    {
+      "name": "crash_report_copied",
+      "value": "Đã sao chép báo cáo sự cố vào khay nhớ tạm"
+    },
+    {
+      "name": "create",
+      "value": "Tạo"
+    },
+    {
+      "name": "create_bookmark",
+      "value": "Tạo dấu trang"
+    },
+    {
+      "name": "create_file_suggest_txt_extension",
+      "value": "Được khuyến khích nên sử dụng \".txt\" để làm phần mở rộng tệp."
+    },
+    {
+      "name": "create_hidden_file_warn",
+      "value": "Tệp đã tạo sẽ bị ẩn trong danh sách tệp."
+    },
+    {
+      "name": "created",
+      "value": "Đã tạo"
+    },
+    {
+      "name": "creatingfile",
+      "value": "Đang tạo tệp tin"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "Đang tạo thư mục"
+    },
+    {
+      "name": "creator",
+      "value": "Trình tạo"
+    },
+    {
+      "name": "crypt_decrypt",
+      "value": "Giải mã"
+    },
+    {
+      "name": "crypt_decrypted",
+      "value": "Đã giải mã"
+    },
+    {
+      "name": "crypt_decrypting",
+      "value": "Đang giải mã"
+    },
+    {
+      "name": "crypt_decryption_fail",
+      "value": "Không giải mã được"
+    },
+    {
+      "name": "crypt_decryption_fail_password",
+      "value": "Sai mật khẩu!"
+    },
+    {
+      "name": "crypt_encrypt",
+      "value": "Mã hóa"
+    },
+    {
+      "name": "crypt_encrypted",
+      "value": "Đã mã hóa"
+    },
+    {
+      "name": "crypt_encrypting",
+      "value": "Đang mã hóa"
+    },
+    {
+      "name": "crypt_encryption_fail",
+      "value": "Không mã hóa được"
+    },
+    {
+      "name": "crypt_fingerprint_authenticate",
+      "value": "Chạm vào cảm biến để tiếp tục"
+    },
+    {
+      "name": "crypt_fingerprint_no_permission",
+      "value": "Thiếu quyền sử dụng dấu vân tay"
+    },
+    {
+      "name": "crypt_fingerprint_no_security",
+      "value": "Không có màn hình khóa bảo mật nào được tìm thấy"
+    },
+    {
+      "name": "crypt_fingerprint_not_enrolled",
+      "value": "Không có dấu vân tay nào được đăng ký"
+    },
+    {
+      "name": "crypt_pref_fingerprint_summary",
+      "value": "Sử dụng dấu vân tay để xác thực mã hóa"
+    },
+    {
+      "name": "crypt_pref_fingerprint_title",
+      "value": "Dấu vân tay"
+    },
+    {
+      "name": "crypt_pref_master_password_summary",
+      "value": "Đặt một mật khẩu chính để mã hóa.\n         Để trống để loại bỏ."
+    },
+    {
+      "name": "crypt_pref_master_password_title",
+      "value": "Mật khảu chính"
+    },
+    {
+      "name": "crypt_warning_key",
+      "value": "Hãy lưu ý, khi bạn thay đổi hình thức bảo mật của mình từ\n        Cài đặt hệ thống, bạn sẽ không thể giải mã nội dung này."
+    },
+    {
+      "name": "current_speed",
+      "value": "Tốc độ hiện tại"
+    },
+    {
+      "name": "custom",
+      "value": "Tùy chỉnh"
+    },
+    {
+      "name": "customize",
+      "value": "Tùy chỉnh"
+    },
+    {
+      "name": "cut",
+      "value": "Cắt"
+    },
+    {
+      "name": "dark",
+      "value": "Material Tối"
+    },
+    {
+      "name": "database",
+      "value": "Dữ liệu"
+    },
+    {
+      "name": "databasereader",
+      "value": "Trình đọc dữ liệu"
+    },
+    {
+      "name": "date",
+      "value": "Ngày:"
+    },
+    {
+      "name": "date_modified",
+      "value": "Ngày thay đổi"
+    },
+    {
+      "name": "date_taken",
+      "value": "Ngày chụp"
+    },
+    {
+      "name": "daytime",
+      "value": "Daytime"
+    },
+    {
+      "name": "default_string",
+      "value": "Mặc định"
+    },
+    {
+      "name": "delbook",
+      "value": "Xoá dấu trang"
+    },
+    {
+      "name": "delete",
+      "value": "Xóa"
+    },
+    {
+      "name": "deleting",
+      "value": "Đang xóa"
+    },
+    {
+      "name": "descending",
+      "value": "Giảm dần"
+    },
+    {
+      "name": "deselect_all",
+      "value": "Bỏ chọn tất cả"
+    },
+    {
+      "name": "details",
+      "value": "Chi tiết"
+    },
+    {
+      "name": "developers",
+      "value": "Những nhà phát triển"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "Thư mục"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "Tập tin"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "Bạn có thực sự muốn xóa các tập tin sau đây?"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Xác nhận"
+    },
+    {
+      "name": "dimensions",
+      "value": "Kích thước"
+    },
+    {
+      "name": "directory",
+      "value": "Thư mục"
+    },
+    {
+      "name": "directorysort",
+      "value": "Chế độ sắp xếp danh mục"
+    },
+    {
+      "name": "disable",
+      "value": "Vô hiệu hóa"
+    },
+    {
+      "name": "disableIpcSignature",
+      "value": "Tắt kiểm tra ký IPC (Đối với máy chủ SMBv1 cũ - KHÔNG AN TOÀN!)"
+    },
+    {
+      "name": "documents",
+      "value": "Tài liệu"
+    },
+    {
+      "name": "doforall",
+      "value": "Làm cho tất cả các mục"
+    },
+    {
+      "name": "doit",
+      "value": "Thực thi nó"
+    },
+    {
+      "name": "domain",
+      "value": "Tên miền"
+    },
+    {
+      "name": "donate",
+      "value": "Ủng hộ"
+    },
+    {
+      "name": "donation_thanks",
+      "value": "Cảm ơn bạn đã đóng góp, điều này giúp chúng tôi có động lực! (:"
+    },
+    {
+      "name": "done",
+      "value": "Hoàn tất"
+    },
+    {
+      "name": "drag_and_drop_preference",
+      "value": "Chọn tùy chọn kéo và thả (Thử nghiệm)"
+    },
+    {
+      "name": "drag_to_move_copy",
+      "value": "Chạm và kéo để di chuyển hoặc sao chép tệp"
+    },
+    {
+      "name": "drag_to_select",
+      "value": "Chạm và kéo để chọn tệp"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Thoát ngăn kéo điều hướng"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Mở ngăn kéo điều hướng"
+    },
+    {
+      "name": "duration",
+      "value": "Thời lượng"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "Tiếng Hà Lan"
+    },
+    {
+      "name": "edit",
+      "value": "Sửa"
+    },
+    {
+      "name": "edit_bookmark",
+      "value": "Sửa dấu trang"
+    },
+    {
+      "name": "enable_marquee_filename",
+      "value": "Bật hiệu ứng marquee cho tên tệp"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "Kích hoạt chế độ Root"
+    },
+    {
+      "name": "encrypt_file_must_end_with_aze",
+      "value": "Các tệp được mã hóa phải sử dụng \".aze\" làm phần mở rộng tệp."
+    },
+    {
+      "name": "encrypt_file_save_as",
+      "value": "Lưu tập tin đã mã hóa thành…"
+    },
+    {
+      "name": "encrypt_folder_save_as",
+      "value": "Lưu thư mục đã mã hóa thành…"
+    },
+    {
+      "name": "encryption_fail_copy",
+      "value": "Không cập nhật được mục nhập mã hóa trong cơ sở dữ liệu"
+    },
+    {
+      "name": "entername",
+      "value": "Nhập tên"
+    },
+    {
+      "name": "enterpath",
+      "value": "Nhập đường dẫn"
+    },
+    {
+      "name": "enterzipname",
+      "value": "Nhập tên Zip"
+    },
+    {
+      "name": "error",
+      "value": "Lỗi"
+    },
+    {
+      "name": "error_archive_cannot_extract",
+      "value": "Không thể giải nén mục nhập lưu trữ \"%s\" đến \"%s\"."
+    },
+    {
+      "name": "error_archive_password_incorrect",
+      "value": "Mật khẩu lưu trữ sai."
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Chi tiết:"
+    },
+    {
+      "name": "error_empty_archive",
+      "value": "\"%s\" là một tệp lưu trữ trống."
+    },
+    {
+      "name": "error_fetching_google_play_product_list",
+      "value": "Lỗi khi lấy danh sách sản phẩm từ Google Play."
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "Lỗi: Không tìm thấy tập tin"
+    },
+    {
+      "name": "error_file_too_large",
+      "value": "Lỗi: Tập tin quá lớn"
+    },
+    {
+      "name": "error_io",
+      "value": "Lỗi I/O"
+    },
+    {
+      "name": "error_permission_denied",
+      "value": "Quyền bị từ chối"
+    },
+    {
+      "name": "error_report_button_telegram",
+      "value": "Báo cáo lỗi này qua telegram"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Báo cáo lỗi này qua e-mail"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Vui lòng kiểm tra xem vấn đề thảo luận về sự cố của bạn đã tồn tại hay chưa."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Báo cáo trên GitHub"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Báo cáo lỗi"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Báo cáo"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Xin lỗi, đã xảy ra lỗi."
+    },
+    {
+      "name": "error_unsupported_v5_rar",
+      "value": "Lưu trữ RAR \"%s\" là lưu trữ RAR v5 không được hỗ trợ."
+    },
+    {
+      "name": "exit",
+      "value": "Đóng"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Thời gian phơi sáng"
+    },
+    {
+      "name": "extract",
+      "value": "Giải nén"
+    },
+    {
+      "name": "extract_complete",
+      "value": "Trích xuất hoàn thành"
+    },
+    {
+      "name": "extracted",
+      "value": "Đã giải nén"
+    },
+    {
+      "name": "extracting",
+      "value": "Đang giải nén"
+    },
+    {
+      "name": "failed_cloud_api_key",
+      "value": "Không xác thực được plugin Cloud"
+    },
+    {
+      "name": "failed_cloud_new_connection",
+      "value": "Không thêm được kết nối Đám mây mới"
+    },
+    {
+      "name": "failed_install_apk",
+      "value": "Cài đặt thất bại"
+    },
+    {
+      "name": "failed_no_connection",
+      "value": "Không tải được tệp. Vui lòng kiểm tra kết nối của bạn."
+    },
+    {
+      "name": "failed_smb_decrypt_path",
+      "value": "Không tải được kết nối SMB"
+    },
+    {
+      "name": "feedback",
+      "value": "Gửi phản hồi"
+    },
+    {
+      "name": "field_empty",
+      "value": "Trường không được để trống"
+    },
+    {
+      "name": "file",
+      "value": "Tệp"
+    },
+    {
+      "name": "file_empty",
+      "value": "Tệp rỗng"
+    },
+    {
+      "name": "file_read_only",
+      "value": "Tệp được mở là tệp chỉ đọc."
+    },
+    {
+      "name": "fileexist",
+      "value": "Tệp có cùng tên đã tồn tại"
+    },
+    {
+      "name": "filename",
+      "value": "Tên tập tin"
+    },
+    {
+      "name": "files",
+      "value": "Tệp"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "Tệp trên đầu"
+    },
+    {
+      "name": "find",
+      "value": "Tìm trong trang"
+    },
+    {
+      "name": "flash_fired",
+      "value": "Sử dụng đèn flash"
+    },
+    {
+      "name": "focal_length",
+      "value": "Tiêu cự"
+    },
+    {
+      "name": "folder",
+      "value": "Thư mục"
+    },
+    {
+      "name": "folderfilecount",
+      "value": "%1$d thư mục và %2$d tệp tin"
+    },
+    {
+      "name": "folders",
+      "value": "Thư mục"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "Thư mục trên đầu"
+    },
+    {
+      "name": "format",
+      "value": "Định dạng"
+    },
+    {
+      "name": "frame_rate",
+      "value": "Tốc độ khung"
+    },
+    {
+      "name": "free",
+      "value": "không gian trống"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "Tiếng Pháp"
+    },
+    {
+      "name": "ftp",
+      "value": "Máy chủ FTP"
+    },
+    {
+      "name": "ftp_login",
+      "value": "Đăng nhập"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "Hãy chắc rằng bạn đã kết nối đến Wi-Fi"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "Máy chủ FTP đang bắt đầu"
+    },
+    {
+      "name": "ftp_notif_starting_title",
+      "value": "Máy chủ FTP"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "Ngừng"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "tại %s"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "Máy chủ FTP Amaze đang chạy"
+    },
+    {
+      "name": "ftp_path",
+      "value": "Đường dẫn được chia sẻ"
+    },
+    {
+      "name": "ftp_path_change_error_invalid",
+      "value": "Đường dẫn không hợp lệ"
+    },
+    {
+      "name": "ftp_path_change_success",
+      "value": "Đường dẫn FTP đã thay đổi thành công"
+    },
+    {
+      "name": "ftp_path_hint",
+      "value": "Đường dẫn đến thư mục gốc để chia sẻ"
+    },
+    {
+      "name": "ftp_port",
+      "value": "Cổng"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "Đã chọn số cổng không hợp lệ"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "Thay đổi cổng FTP thành công"
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "Chọn công FTP"
+    },
+    {
+      "name": "ftp_preference_saf_filesystem",
+      "value": "Bật tính năng này để được hỗ trợ sử dụng bộ nhớ ngoài của thiết bị trên các phiên bản Android mới hơn"
+    },
+    {
+      "name": "ftp_preference_saf_filesystem_title",
+      "value": "Sử dụng filesystem cũ"
+    },
+    {
+      "name": "ftp_prompt_accept_first_start_saf_access",
+      "value": "Vì đây là lần đầu tiên bạn chạy máy chủ FTP và bạn đang sử dụng bộ nhớ trong của thiết bị làm thư mục chia sẻ, vui lòng cho phép Amaze truy cập bộ nhớ bằng SAF.\\n\\n\n\nBạn chỉ cần làm điều này một lần cho đến lần tiếp theo bạn chọn một vị trí mới để chia sẻ."
+    },
+    {
+      "name": "ftp_prompt_accept_first_start_saf_access_title",
+      "value": "Cấp quyền truy cập SAF cho máy chủ FTP"
+    },
+    {
+      "name": "ftp_prompt_restart_server",
+      "value": "Bạn sẽ cần khởi động lại máy chủ FTP để các thay đổi có hiệu lực."
+    },
+    {
+      "name": "ftp_readonly",
+      "value": "Truy cập chỉ đọc"
+    },
+    {
+      "name": "ftp_seconds",
+      "value": "Giây"
+    },
+    {
+      "name": "ftp_server_fallback_path_reset_prompt",
+      "value": "Đường dẫn chia sẻ của máy chủ FTP đã được đặt lại thành bộ nhớ trong khi bạn đang chuyển về triển khai filesystem cũ. Vui lòng chọn một đường dẫn mới bằng cách sử dụng menu ở trên cùng bên phải nếu cần."
+    },
+    {
+      "name": "ftp_server_open_settings",
+      "value": "Mở cài đặt"
+    },
+    {
+      "name": "ftp_server_prompt_connect_to_network",
+      "value": "Kết nối với mạng hoặc bật AP"
+    },
+    {
+      "name": "ftp_status_no_connection",
+      "value": "Không có kết nối"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "Chưa chạy"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "Đang chạy"
+    },
+    {
+      "name": "ftp_status_secure_connection",
+      "value": "Kết nối an toàn"
+    },
+    {
+      "name": "ftp_status_title",
+      "value": "Trạng thái"
+    },
+    {
+      "name": "ftp_timeout",
+      "value": "Thời gian chờ đã hết"
+    },
+    {
+      "name": "general",
+      "value": "Thiết lập chung"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "Tiếng Đức"
+    },
+    {
+      "name": "go",
+      "value": "Đi"
+    },
+    {
+      "name": "goback",
+      "value": "Quay lại"
+    },
+    {
+      "name": "got_it",
+      "value": "Hiểu rồi!"
+    },
+    {
+      "name": "grant",
+      "value": "Cấp"
+    },
+    {
+      "name": "grant_all_files_permission",
+      "value": "Amaze cần quyền truy cập tất cả tệp để tiếp tục.\n        \\nỞ màn hình tiếp theo, vui lòng chọn Amaze và chọn tuỳ chọn Cho phép quản lý tất cả tệp.\n            \\n\\nViệc huỷ hộp thoại này sẽ thoát ứng dụng."
+    },
+    {
+      "name": "grant_apkinstall_permission",
+      "value": "Ứng dụng cần quyền để tiếp tục cài đặt ứng dụng."
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "Ứng dụng cần sự cho phép lưu trữ để tiếp tục. Thoát hộp thoại này sẽ thoát khỏi ứng dụng."
+    },
+    {
+      "name": "grantfailed",
+      "value": "Cấp phép chưa được cấp"
+    },
+    {
+      "name": "grantper",
+      "value": "Cấp phép Grant"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "Tiếng Hy Lạp"
+    },
+    {
+      "name": "green",
+      "value": "Xanh lá cây"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "Số lượng cột trong chế độ lưới"
+    },
+    {
+      "name": "gridview",
+      "value": "Chế độ xem lưới"
+    },
+    {
+      "name": "hash_sha256",
+      "value": "SHA-256"
+    },
+    {
+      "name": "height",
+      "value": "Chiều cao"
+    },
+    {
+      "name": "hidden",
+      "value": "Hiển thi tệp và thư mục ẩn"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "Những tệp ẩn"
+    },
+    {
+      "name": "hide",
+      "value": "Ẩn"
+    },
+    {
+      "name": "hide_media",
+      "value": "Ẩn khỏi trình duyệt phương tiện"
+    },
+    {
+      "name": "history",
+      "value": "Lịch sử"
+    },
+    {
+      "name": "home",
+      "value": "Nhà"
+    },
+    {
+      "name": "icon",
+      "value": "biểu tượng"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "Đặt màu cho biểu tượng"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "Màu biểu tượng"
+    },
+    {
+      "name": "image",
+      "value": "Hình ảnh"
+    },
+    {
+      "name": "image_iso",
+      "value": "Tốc độ ISO"
+    },
+    {
+      "name": "image_type",
+      "value": "Kiểu ảnh"
+    },
+    {
+      "name": "images",
+      "value": "Hình ảnh"
+    },
+    {
+      "name": "in_safe",
+      "value": "Không đủ bộ nhớ"
+    },
+    {
+      "name": "info_labels",
+      "value": "Lỗi:\\\\nYêu cầu:\\\\nThời gian:\\\\nGói:\\\\nPhiên bản:\\\\nPhiên bản HĐH:\\\\nThiết bị:\\\\nMẫu:\\\\nSản phẩm:"
+    },
+    {
+      "name": "information",
+      "value": "Thông tin"
+    },
+    {
+      "name": "install",
+      "value": "Cài đặt"
+    },
+    {
+      "name": "intellihide_toolbar_summary",
+      "value": "Tự động ẩn thanh công cụ khi cuộn"
+    },
+    {
+      "name": "intellihide_toolbar_title",
+      "value": "Thanh công cụ Intellihide"
+    },
+    {
+      "name": "intent_save_as",
+      "value": "Lưu thành…"
+    },
+    {
+      "name": "invalid",
+      "value": "Không hợp lệ %s"
+    },
+    {
+      "name": "invalid_name",
+      "value": "Tên không hợp lệ"
+    },
+    {
+      "name": "ip",
+      "value": "Địa chỉ"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "Tiếng Ý"
+    },
+    {
+      "name": "item",
+      "value": "Mục"
+    },
+    {
+      "name": "items",
+      "value": "Các mục"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "Tiếng Nhật"
+    },
+    {
+      "name": "just_once",
+      "value": "Chỉ một lần"
+    },
+    {
+      "name": "keywords",
+      "value": "Từ khóa"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "Tiếng Hàn Quốc"
+    },
+    {
+      "name": "lastModified",
+      "value": "Lần chỉnh sửa cuối"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "Hiện chỉnh sửa cuối"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "Hiển thị ngày và thời gian khi tệp tin được sửa đổi lần cuối"
+    },
+    {
+      "name": "legacy_listing_summary",
+      "value": "Nếu được bật, sẽ sử dụng phương pháp cũ để liệt kê các tệp"
+    },
+    {
+      "name": "legacy_listing_title",
+      "value": "Sử dụng danh sách cũ cho root"
+    },
+    {
+      "name": "libraries",
+      "value": "Thư viện"
+    },
+    {
+      "name": "license",
+      "value": "Giấy phép"
+    },
+    {
+      "name": "light",
+      "value": "Material Sáng"
+    },
+    {
+      "name": "listview",
+      "value": "Chế độ xem danh sách"
+    },
+    {
+      "name": "loading",
+      "value": "Đang tải…"
+    },
+    {
+      "name": "local_inet_addr_error",
+      "value": "Lỗi khi lấy địa chỉ inet cục bộ"
+    },
+    {
+      "name": "location",
+      "value": "Vị trí:"
+    },
+    {
+      "name": "match_content",
+      "value": "Khớp nội dung"
+    },
+    {
+      "name": "match_content_summary",
+      "value": "Nếu đặt, cú pháp thường dùng sẽ được xuất hiện với toàn bộ tên tệp tin,\n        sẽ xem xét cho sự xuất hiện khác."
+    },
+    {
+      "name": "md5",
+      "value": "md5:"
+    },
+    {
+      "name": "medium_text",
+      "value": "Cỡ chữ trung bình"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "Chuyên sâu"
+    },
+    {
+      "name": "modified",
+      "value": "Đã thay đổi"
+    },
+    {
+      "name": "monofont",
+      "value": "Phông chữ Monospace"
+    },
+    {
+      "name": "move",
+      "value": "Di chuyển"
+    },
+    {
+      "name": "moved",
+      "value": "di chuyển"
+    },
+    {
+      "name": "moving",
+      "value": "Đang di dời"
+    },
+    {
+      "name": "multiple_invalid_archive_entries",
+      "value": "Không thể trích xuất một số tệp trong kho lưu trữ; kho lưu trữ có thể bị hỏng hoặc đến từ nguồn độc hại."
+    },
+    {
+      "name": "name",
+      "value": "Tên:"
+    },
+    {
+      "name": "needs_access",
+      "value": "Yêu cầu ghi truy cập"
+    },
+    {
+      "name": "needs_access_summary",
+      "value": "Vui lòng chọn thư mục gốc của \\t"
+    },
+    {
+      "name": "needs_access_summary1",
+      "value": "\\tđể ghi truy cập cho việc thao tác"
+    },
+    {
+      "name": "newfile",
+      "value": "Tệp mới"
+    },
+    {
+      "name": "newfolder",
+      "value": "Thư mục mới"
+    },
+    {
+      "name": "no",
+      "value": "Không"
+    },
+    {
+      "name": "no_app_found",
+      "value": "Không tìm thấy ứng dụng để mở tệp"
+    },
+    {
+      "name": "no_applications",
+      "value": "Không có ứng dụng nào"
+    },
+    {
+      "name": "no_bitcoin_app",
+      "value": "Vui lòng cài đặt một ứng dụng Ví Bitcoin"
+    },
+    {
+      "name": "no_device_found",
+      "value": "Không có thiết bị nào được tìm thấy"
+    },
+    {
+      "name": "no_file_error",
+      "value": "Đã xảy ra lỗi, không có gì để mở"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "Không có tệp ghi đè"
+    },
+    {
+      "name": "no_files",
+      "value": "Không có tệp"
+    },
+    {
+      "name": "no_items",
+      "value": "Không có mục nào"
+    },
+    {
+      "name": "no_name",
+      "value": "Tập tin nên có tên"
+    },
+    {
+      "name": "no_obtainable_info",
+      "value": "Không có thông tin nào về tập tin này"
+    },
+    {
+      "name": "none_on_top",
+      "value": "Không ở trên đầu"
+    },
+    {
+      "name": "not_allowed",
+      "value": "Không được cho chép"
+    },
+    {
+      "name": "of",
+      "value": "trên"
+    },
+    {
+      "name": "ok",
+      "value": "Đồng ý"
+    },
+    {
+      "name": "open",
+      "value": "Mở"
+    },
+    {
+      "name": "open_as",
+      "value": "Mở dưới dạng"
+    },
+    {
+      "name": "open_parent",
+      "value": "Mở danh mục chính"
+    },
+    {
+      "name": "open_with",
+      "value": "Mở bằng"
+    },
+    {
+      "name": "operation_fail_following",
+      "value": "Thao tác không thành công đối với các tệp sau"
+    },
+    {
+      "name": "operation_not_supported",
+      "value": "Thao tác không hỗ trợ"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "Thao tác không thành công"
+    },
+    {
+      "name": "optimized",
+      "value": "Đã tối ưu hóa"
+    },
+    {
+      "name": "orange",
+      "value": "Cam"
+    },
+    {
+      "name": "otg_access",
+      "value": "Chọn thư mục gốc của thiết bị OTG"
+    },
+    {
+      "name": "other",
+      "value": "Khác"
+    },
+    {
+      "name": "out_of",
+      "value": "trên"
+    },
+    {
+      "name": "overwrite",
+      "value": "Ghi đè"
+    },
+    {
+      "name": "package_installer",
+      "value": "Trình cài đặt gói"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "Đây là một gói cài đặt. Hành động bạn muốn thực thi là gì?"
+    },
+    {
+      "name": "pages",
+      "value": "Số trang"
+    },
+    {
+      "name": "paper_size",
+      "value": "Cỡ giấy"
+    },
+    {
+      "name": "password",
+      "value": "Mật khẩu"
+    },
+    {
+      "name": "password_no_match",
+      "value": "Mật khẩu không khớp"
+    },
+    {
+      "name": "password_repeat",
+      "value": "Lặp lại mật khẩu"
+    },
+    {
+      "name": "password_unchanged",
+      "value": "(không thay đổi)"
+    },
+    {
+      "name": "paste",
+      "value": "Dán"
+    },
+    {
+      "name": "path",
+      "value": "Đường dẫn"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "Đã chép ID Paypal vào clipboard"
+    },
+    {
+      "name": "permission",
+      "value": "Cấp phép"
+    },
+    {
+      "name": "permission_execute",
+      "value": "Thực thi"
+    },
+    {
+      "name": "permission_group",
+      "value": "Nhóm"
+    },
+    {
+      "name": "permission_other",
+      "value": "Khác"
+    },
+    {
+      "name": "permission_owner",
+      "value": "Chủ sở hữu"
+    },
+    {
+      "name": "permission_read",
+      "value": "Đọc"
+    },
+    {
+      "name": "permission_write",
+      "value": "Ghi"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "Chọn một tệp"
+    },
+    {
+      "name": "play",
+      "value": "Cửa hàng Play"
+    },
+    {
+      "name": "please_wait",
+      "value": "Vui lòng đợi"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "Tiếng Ba Lan"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "Tiếng Bồ Đào Nha"
+    },
+    {
+      "name": "preference_newstack_summary",
+      "value": "Cho phép bạn mở các tệp trong các tác vụ riêng biệt. Truy cập chúng từ màn hình gần đây của hệ thống."
+    },
+    {
+      "name": "preference_newstack_title",
+      "value": "Mở tệp dưới dạng tác vụ mới"
+    },
+    {
+      "name": "preselected_configs_title",
+      "value": "Các cấu hình được chọn trước"
+    },
+    {
+      "name": "press_again",
+      "value": "Nhấn lần nữa để thoát"
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "Đặt màu sắc cho các yếu tố UI lớn cho các thẻ bên trái"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "Màu nguyên thủy (Thẻ trái)"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "Đặt màu sắc cho các yếu tố UI lớn cho các thẻ bên phải"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "Màu nguyên thủy (Thẻ phải)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "Trình xem tiến trình"
+    },
+    {
+      "name": "processed",
+      "value": "Đã xử lí"
+    },
+    {
+      "name": "processing",
+      "value": "Đang xử lí…"
+    },
+    {
+      "name": "processing_file",
+      "value": "Đang xử lý tập tin"
+    },
+    {
+      "name": "producer",
+      "value": "Nhà sản xuất"
+    },
+    {
+      "name": "properties",
+      "value": "Thuộc tính"
+    },
+    {
+      "name": "properties_copied_clipboard",
+      "value": "đã chép vào bảng tạm"
+    },
+    {
+      "name": "question_delete_bookmark",
+      "value": "Xoá dấu trang"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "Bạn có muốn thiết lập đường dẫn hiện tại như nhà cho thẻ này?"
+    },
+    {
+      "name": "quick",
+      "value": "Truy cập nhanh"
+    },
+    {
+      "name": "random",
+      "value": "Giao diện ngẫu nhiên"
+    },
+    {
+      "name": "random_summary",
+      "value": "Thiết lập màu cơ bản ngẫu nhiên lúc khởi động"
+    },
+    {
+      "name": "rate",
+      "value": "Xếp hạng ứng dụng"
+    },
+    {
+      "name": "recent",
+      "value": "Các tệp gần đây"
+    },
+    {
+      "name": "regular_expression",
+      "value": "Cú pháp thường dùng"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "Tìm kiếm dùng một dạng cú pháp BASH thường dùng"
+    },
+    {
+      "name": "remember",
+      "value": "Nhớ cho lần sau"
+    },
+    {
+      "name": "rename",
+      "value": "Đổi tên"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "Sửa Dấu trang"
+    },
+    {
+      "name": "renaming",
+      "value": "Đang đổi tên"
+    },
+    {
+      "name": "reopen_from_source",
+      "value": "Không thể, vui lòng mở lại từ ứng dụng cuối cùng"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "Báo lỗi hoặc yêu cầu tính năng mới"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "Báo lỗi"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "Tiếng Romania"
+    },
+    {
+      "name": "root_directory",
+      "value": "Root"
+    },
+    {
+      "name": "root_failure",
+      "value": "Truy cập root không được cấp phép"
+    },
+    {
+      "name": "root_mode",
+      "value": "Root Explorer"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "Chỉ cho thiết bị đã được root. Chỉ kiểm tra khi bạn chắc chắn về nó."
+    },
+    {
+      "name": "root_pref",
+      "value": "Hiện cấp phép"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "Hiện cấp phép cho tệp và thư mục"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "Tiếng Nga"
+    },
+    {
+      "name": "saf_otg_explanation",
+      "value": "Bây giờ bạn sẽ truy cập hệ thống tệp của Android vì lý do bảo mật. Vui lòng chọn thiết bị USB từ danh sách bên trái."
+    },
+    {
+      "name": "sample_rate",
+      "value": "Tốc độ mẫu"
+    },
+    {
+      "name": "save",
+      "value": "Lưu"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "Lúc khởi động, thư mục được xem gần đây nhất của từng thẻ sẽ được hiển thị"
+    },
+    {
+      "name": "save_paths",
+      "value": "Nhớ đường dẫn"
+    },
+    {
+      "name": "saved_multi_files",
+      "value": "%d tập tin đã lưu."
+    },
+    {
+      "name": "saved_single_file",
+      "value": "Tập tin được lưu thành '%s'."
+    },
+    {
+      "name": "saving",
+      "value": "Đang lưu"
+    },
+    {
+      "name": "scp_connection",
+      "value": "Kết nối SCP/SFTP"
+    },
+    {
+      "name": "scp_default_path",
+      "value": "Đường dẫn mặc định (Tùy chọn)"
+    },
+    {
+      "name": "scp_port",
+      "value": "Cổng"
+    },
+    {
+      "name": "search",
+      "value": "Tìm kiếm"
+    },
+    {
+      "name": "search_hint",
+      "value": "Nhập để tìm kiếm…"
+    },
+    {
+      "name": "search_results",
+      "value": "Tìm kết quả của %s"
+    },
+    {
+      "name": "searching",
+      "value": "Đang tìm %s"
+    },
+    {
+      "name": "searching_devices",
+      "value": "Đang tìm kiếm thiết bị"
+    },
+    {
+      "name": "security",
+      "value": "Bảo mật"
+    },
+    {
+      "name": "security_error",
+      "value": "Tập tin không thể được mở bằng ứng dụng này"
+    },
+    {
+      "name": "select",
+      "value": "Chọn mục"
+    },
+    {
+      "name": "select_all",
+      "value": "Chọn hết"
+    },
+    {
+      "name": "select_by_date",
+      "value": "Chọn theo ngày"
+    },
+    {
+      "name": "select_by_type",
+      "value": "Chọn theo loại"
+    },
+    {
+      "name": "select_color_config",
+      "value": "Chọn cấu hình màu"
+    },
+    {
+      "name": "select_intent",
+      "value": "Chọn"
+    },
+    {
+      "name": "select_inverse",
+      "value": "Chọn ngược lại"
+    },
+    {
+      "name": "select_save_location",
+      "value": "Chọn vị trí để lưu"
+    },
+    {
+      "name": "select_similar",
+      "value": "Chọn tương tự"
+    },
+    {
+      "name": "send_email_to",
+      "value": "Gửi một e-mail đến"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "Tiếng Serbia"
+    },
+    {
+      "name": "server_address",
+      "value": "Địa chỉ IP máy chủ"
+    },
+    {
+      "name": "service_timer",
+      "value": "Thời gian đã trôi"
+    },
+    {
+      "name": "set",
+      "value": "Đặt"
+    },
+    {
+      "name": "set_as_home",
+      "value": "Đặt như nhà"
+    },
+    {
+      "name": "set_random",
+      "value": "Thay đổi sẽ được thay thế sau khi khởi động ứng dụng"
+    },
+    {
+      "name": "setting",
+      "value": "Thiết lập"
+    },
+    {
+      "name": "share",
+      "value": "Chia sẻ"
+    },
+    {
+      "name": "share_limit",
+      "value": "Không thể chia sẻ hơn 100 tập tin"
+    },
+    {
+      "name": "showHeaders",
+      "value": "Hiển thị tiêu đề"
+    },
+    {
+      "name": "show_bookmarks_pref",
+      "value": "Bookmark"
+    },
+    {
+      "name": "show_bookmarks_pref_title",
+      "value": "Hiển thị dấu trang"
+    },
+    {
+      "name": "show_dividers",
+      "value": "Hiện bộ chia"
+    },
+    {
+      "name": "show_quick_access_pref",
+      "value": "Truy cập nhanh"
+    },
+    {
+      "name": "show_quick_access_pref_title",
+      "value": "Hiển thị các quyền truy cập nhanh"
+    },
+    {
+      "name": "show_system_apps",
+      "value": "Hiện ứng dụng hệ thống"
+    },
+    {
+      "name": "sidebar_bookmarks_title",
+      "value": "Dấu trang thanh bên"
+    },
+    {
+      "name": "sidebar_preferences",
+      "value": "Thanh bên"
+    },
+    {
+      "name": "sidebar_quick_access_title",
+      "value": "Truy cập nhanh vào thanh bên"
+    },
+    {
+      "name": "signin_with_google_title",
+      "value": "Xác thực để sử dụng Google Drive™"
+    },
+    {
+      "name": "size",
+      "value": "kích thước thư mục"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Kích thước"
+    },
+    {
+      "name": "size_pref",
+      "value": "Hiện kích thước"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "Hiện kích thước của tệp tin và số mục trong thư mục"
+    },
+    {
+      "name": "skip",
+      "value": "Giữ"
+    },
+    {
+      "name": "smb_connection",
+      "value": "Kết nối SMB"
+    },
+    {
+      "name": "smb_launch_error",
+      "value": "Bạn sẽ cần chép tập tin này sang bộ nhớ để mở nó"
+    },
+    {
+      "name": "smb_share",
+      "value": "Chia sẻ đường dẫn"
+    },
+    {
+      "name": "software",
+      "value": "Phần mềm"
+    },
+    {
+      "name": "some_files_failed_invalid_operation",
+      "value": "Một số tệp không thành công do thao tác không hợp lệ"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Xin lỗi, điều đó không nên xảy ra."
+    },
+    {
+      "name": "sort",
+      "value": "Sắp xếp"
+    },
+    {
+      "name": "sort_by",
+      "value": "Sắp xếp theo"
+    },
+    {
+      "name": "sort_name",
+      "value": "Tên"
+    },
+    {
+      "name": "sort_only_this",
+      "value": "Chỉ thư mục này"
+    },
+    {
+      "name": "sort_size",
+      "value": "Kích thuớc"
+    },
+    {
+      "name": "source_summary",
+      "value": "Xem mã nguồn của chúng tôi trên GitHub"
+    },
+    {
+      "name": "source_title",
+      "value": "Mã nguồn"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "Tiếng Tây Ban Nha"
+    },
+    {
+      "name": "ssh_authentication_failure_key",
+      "value": "Đăng nhập thất bại: Không thể xác thực với tên người dùng và khóa cá nhân được cung cấp."
+    },
+    {
+      "name": "ssh_authentication_failure_password",
+      "value": "Đăng nhập thất bại: Không thể xác thực với tên người dùng và mật khẩu được cung cấp."
+    },
+    {
+      "name": "ssh_connect_failed",
+      "value": "Không thể kết nối với %1$s:%2$d: %3$s"
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_message",
+      "value": "CÓ THỂ MỘT AI ĐÓ ĐANG LÀM GÌ ĐÓ BẨN THỈU!\\n\\nMột người nào đó có thể đang nghe trộm bạn ngay bây giờ (tấn công man-in-the-middle)! Cũng có thể là khóa máy chủ vừa được thay đổi. Tệp tham chiếu cho khóa công khai do máy chủ từ xa gửi không khớp với tệp được lưu trữ trong Amaze.\\n\\nVui lòng liên hệ với quản trị viên hệ thống của bạn hoặc thiết lập kết nối mới để tiếp tục kết nối với máy chủ."
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_prompt",
+      "value": "CÓ THỂ MỘT AI ĐÓ ĐANG LÀM GÌ ĐÓ BẨN THỈU!\\n\\nMột người nào đó có thể đang nghe trộm bạn ngay bây giờ (tấn công man-in-the-middle)! Cũng có thể là khóa máy chủ vừa được thay đổi. Vân tay cho khóa công khai do máy chủ từ xa gửi không khớp với vân tay được lưu trữ trong Amaze.\\n\\nBạn có thể tiếp tục cập nhật vân tay máy chủ hoặc hủy cập nhật cài đặt kết nối SSH."
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_title",
+      "value": "CẢNH BÁO: NHẬN DIỆN TRANG WEB TỪ XA ĐÃ THAY ĐỔI!"
+    },
+    {
+      "name": "ssh_host_key_verification_prompt",
+      "value": "Tính xác thực của máy chủ '%1$s' không thể được thiết lập.\\n\\n%2$s dấu vân tay chính là %3$s.\\n\\nVui lòng nhấn \"Có\" để xác nhận danh tính; nếu không, vui lòng nhấn \"Không\"."
+    },
+    {
+      "name": "ssh_host_key_verification_prompt_title",
+      "value": "Xác minh Máy chủ"
+    },
+    {
+      "name": "ssh_key_invalid_passphrase",
+      "value": "Cụm mật khẩu không hợp lệ."
+    },
+    {
+      "name": "ssh_key_prompt_passphrase",
+      "value": "Vui lòng nhập cụm mật khẩu chính."
+    },
+    {
+      "name": "ssh_pem_key_parse_error",
+      "value": "Không thể đọc PEM đã chọn: %s"
+    },
+    {
+      "name": "ssh_select_pem",
+      "value": "Chọn khóa cá nhân để xác thực"
+    },
+    {
+      "name": "ssh_select_pem_button",
+      "value": "Khóa cá nhân SSH"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Bắt đầu"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "Ngừng"
+    },
+    {
+      "name": "stopping",
+      "value": "Đang ngừng"
+    },
+    {
+      "name": "storage_internal",
+      "value": "Bộ nhớ Trong"
+    },
+    {
+      "name": "storage_sd_card",
+      "value": "Thẻ nhớ SD"
+    },
+    {
+      "name": "subject",
+      "value": "Tiêu đề"
+    },
+    {
+      "name": "support_development",
+      "value": "Ủng hộ phát triển"
+    },
+    {
+      "name": "system_apps",
+      "value": "Ứng dụng hệ thống"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "Tiếng Tamil"
+    },
+    {
+      "name": "text",
+      "value": "Văn bản"
+    },
+    {
+      "name": "text_editor",
+      "value": "Cài đặt Trình soạn thảo văn bản"
+    },
+    {
+      "name": "textreader",
+      "value": "Trình đọc văn bản thô"
+    },
+    {
+      "name": "theme",
+      "value": "Chủ đề"
+    },
+    {
+      "name": "third_party_apps",
+      "value": "Ứng dụng bên thứ ba"
+    },
+    {
+      "name": "thumb",
+      "value": "Hiện ảnh thu nhỏ"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "Hiện ảnh thu nhỏ ứng dụng và hình ảnh"
+    },
+    {
+      "name": "time_remaining",
+      "value": "Thời gian còn lại"
+    },
+    {
+      "name": "title",
+      "value": "Tiêu đề"
+    },
+    {
+      "name": "total",
+      "value": "Tổng cộng"
+    },
+    {
+      "name": "transfer_rate",
+      "value": "Tốc độ truyền tải"
+    },
+    {
+      "name": "translate_summary",
+      "value": "Dịch Amaze sang ngôn ngữ của bạn"
+    },
+    {
+      "name": "translate_title",
+      "value": "Dịch"
+    },
+    {
+      "name": "translators",
+      "value": "Phiên dịch viên"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "Tiếng Thổ Nhĩ Kỳ"
+    },
+    {
+      "name": "type",
+      "value": "Loại"
+    },
+    {
+      "name": "typeable_paths_summary",
+      "value": "Nhấn và giữ thanh đường dẫn để nhập đường dẫn tùy chỉnh"
+    },
+    {
+      "name": "typeable_paths_title",
+      "value": "Đường dẫn tùy chỉnh"
+    },
+    {
+      "name": "ui",
+      "value": "Giao diện"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "Tiếng Ukraina"
+    },
+    {
+      "name": "unin_system_apk",
+      "value": "Đây là một ứng dụng hệ thống, xóa nó có thể dẫn đến sự mất ổn định hệ thống.\\nThực thi?"
+    },
+    {
+      "name": "uninstall",
+      "value": "Gỡ bỏ"
+    },
+    {
+      "name": "unknown",
+      "value": "không xác định"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Oops, đã xảy ra lỗi!"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "Những thay đổi vẫn chưa được lưu"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "Bạn có thay đổi chưa được lưu, bạn có muốn lưu chúng trước khi thoát?"
+    },
+    {
+      "name": "update",
+      "value": "CẬP NHẬT"
+    },
+    {
+      "name": "update_host_key",
+      "value": "Cập nhật khóa máy chủ"
+    },
+    {
+      "name": "used",
+      "value": "không gian đã dùng"
+    },
+    {
+      "name": "used_by_others",
+      "value": "được sử dụng bởi những mục khác"
+    },
+    {
+      "name": "username",
+      "value": "Tên người dùng"
+    },
+    {
+      "name": "version",
+      "value": "Phiên bản"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "videos",
+      "value": "Video"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "Tiếng Việt Nam"
+    },
+    {
+      "name": "view",
+      "value": "Xem"
+    },
+    {
+      "name": "waiting_content",
+      "value": "Đang chờ hoạt động hoàn thành"
+    },
+    {
+      "name": "waiting_title",
+      "value": "Đang chờ"
+    },
+    {
+      "name": "want_help",
+      "value": "Cần trợ giúp?"
+    },
+    {
+      "name": "warning",
+      "value": "Cảnh báo"
+    },
+    {
+      "name": "warning_confirm",
+      "value": "Hiểu rồi!"
+    },
+    {
+      "name": "warning_never_show",
+      "value": "Đừng thông báo lại"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Thông tin:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Đã xảy ra:"
+    },
+    {
+      "name": "width",
+      "value": "Chiều rộng"
+    },
+    {
+      "name": "written",
+      "value": "Đã ghi"
+    },
+    {
+      "name": "xda_summary",
+      "value": "H&Đ, Hướng dẫn & Gỡ rối"
+    },
+    {
+      "name": "xda_title",
+      "value": "Chủ đề tại XDA"
+    },
+    {
+      "name": "year",
+      "value": "Năm"
+    },
+    {
+      "name": "yes",
+      "value": "Có"
+    },
+    {
+      "name": "your_comment",
+      "value": "Bình luận của bạn (trong Tiếng Anh):"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "Trình xem Zip"
+    }
+  ]
+}

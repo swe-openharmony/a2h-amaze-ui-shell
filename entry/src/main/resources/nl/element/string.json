@@ -1,0 +1,1420 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Over"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "Over Amaze-bestandsbeheerder"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "Kleur instellen voor FAB en andere kleine UI-elementen"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "Accentkleur"
+    },
+    {
+      "name": "accessed",
+      "value": "Geopend"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "Snelkoppeling toevoegen"
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "Toevoegen aan bladwijzers"
+    },
+    {
+      "name": "advanced_search",
+      "value": "Geavanceerd zoeken"
+    },
+    {
+      "name": "album",
+      "value": "Album"
+    },
+    {
+      "name": "anonymous",
+      "value": "Anoniem"
+    },
+    {
+      "name": "apks",
+      "value": "Apk's"
+    },
+    {
+      "name": "app_name",
+      "value": "Amaze-bestandsbeheerder"
+    },
+    {
+      "name": "apps",
+      "value": "Applicatiebeheerder"
+    },
+    {
+      "name": "archive",
+      "value": "Archief"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "Uitpakmap voor archief"
+    },
+    {
+      "name": "archive_summary",
+      "value": "Archiefbestanden worden uitgepakt naar deze map. Standaardmap is de map waarin het archiefbestand staat opgeslagen"
+    },
+    {
+      "name": "archive_text",
+      "value": "Dit is een archief. Welke actie wil je uitvoeren?"
+    },
+    {
+      "name": "artist",
+      "value": "Artiest"
+    },
+    {
+      "name": "ascending",
+      "value": "Oplopend"
+    },
+    {
+      "name": "audio",
+      "value": "Geluidsbestand"
+    },
+    {
+      "name": "author",
+      "value": "Auteur"
+    },
+    {
+      "name": "authors",
+      "value": "Auteurs"
+    },
+    {
+      "name": "back_summary",
+      "value": "Aangepaste Terugnavigatie aanzetten aan de bovenkant van de lijst"
+    },
+    {
+      "name": "back_title",
+      "value": "Terugnavigatie"
+    },
+    {
+      "name": "backup",
+      "value": "Back-up maken"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "Baskisch"
+    },
+    {
+      "name": "bitrate",
+      "value": "Bitrate"
+    },
+    {
+      "name": "blue",
+      "value": "Blauw"
+    },
+    {
+      "name": "bluetooth",
+      "value": "Bluetooth"
+    },
+    {
+      "name": "bookmark_lost",
+      "value": "Bladwijzer niet gevonden, opnieuw aan het maken…"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "Bladwijzers toegevoegd"
+    },
+    {
+      "name": "calculating",
+      "value": "berekenen"
+    },
+    {
+      "name": "camera_brand",
+      "value": "Camera merk"
+    },
+    {
+      "name": "camera_model",
+      "value": "Camera model"
+    },
+    {
+      "name": "cancel",
+      "value": "ANNULEREN"
+    },
+    {
+      "name": "cancelled",
+      "value": "Geannuleerd"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s mag niet leeg zijn"
+    },
+    {
+      "name": "changelog",
+      "value": "Logboek"
+    },
+    {
+      "name": "channels",
+      "value": "Kanalen"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "Chinees"
+    },
+    {
+      "name": "choose_color",
+      "value": "Kleur kiezen"
+    },
+    {
+      "name": "circular_icons",
+      "value": "Ronde pictogrammen gebruiken"
+    },
+    {
+      "name": "circular_images",
+      "value": "Ronde pictogrammen gebruiken voor afbeeldingen en video's"
+    },
+    {
+      "name": "clear",
+      "value": "Wissen"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "Pad gekopieerd naar klembord"
+    },
+    {
+      "name": "close",
+      "value": "Sluiten"
+    },
+    {
+      "name": "codec",
+      "value": "Codec"
+    },
+    {
+      "name": "color_summary",
+      "value": "Kleur instellen voor enkele UI-componenten"
+    },
+    {
+      "name": "color_title",
+      "value": "Kleur"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "Gekleurde navigatiebalk"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "Of de systeemnavigatiebalk gekleurd is met het thema"
+    },
+    {
+      "name": "colorize",
+      "value": "Pictogrammen inkleuren"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "Stelt een statische pictogramkleur in. Overschrijft de voorkeur voor de kleur van het mappictogram niet."
+    },
+    {
+      "name": "comment",
+      "value": "Reageer"
+    },
+    {
+      "name": "compress",
+      "value": "Comprimeren"
+    },
+    {
+      "name": "compressing",
+      "value": "Comprimeren"
+    },
+    {
+      "name": "compression_complete",
+      "value": "Comprimeren voltooid"
+    },
+    {
+      "name": "connection_name",
+      "value": "Naam van de verbinding"
+    },
+    {
+      "name": "container",
+      "value": "Container"
+    },
+    {
+      "name": "contributors",
+      "value": "Bijdragers"
+    },
+    {
+      "name": "contributors_1_summary",
+      "value": "Vertaling"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "FTP–Server"
+    },
+    {
+      "name": "contributors_7_summary",
+      "value": "Interactieve shell starten"
+    },
+    {
+      "name": "copied",
+      "value": "gekopieerd"
+    },
+    {
+      "name": "copy",
+      "value": "Kopiëren"
+    },
+    {
+      "name": "copy_complete",
+      "value": "Kopiëren voltooid"
+    },
+    {
+      "name": "copy_error",
+      "value": "Sommige bestanden niet (goed) %s"
+    },
+    {
+      "name": "copying",
+      "value": "Kopiëren"
+    },
+    {
+      "name": "create",
+      "value": "AANMAKEN"
+    },
+    {
+      "name": "created",
+      "value": "Gemaakt op"
+    },
+    {
+      "name": "creatingfile",
+      "value": "Bestand aanmaken"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "Map aanmaken"
+    },
+    {
+      "name": "creator",
+      "value": "Auteur of maker"
+    },
+    {
+      "name": "current_speed",
+      "value": "Huidige snelheid"
+    },
+    {
+      "name": "cut",
+      "value": "Verplaatsen"
+    },
+    {
+      "name": "dark",
+      "value": "Materiaal Donker"
+    },
+    {
+      "name": "database",
+      "value": "Database"
+    },
+    {
+      "name": "databasereader",
+      "value": "Databases bekijken"
+    },
+    {
+      "name": "date",
+      "value": "Datum:"
+    },
+    {
+      "name": "date_modified",
+      "value": "Datum bijgewerkt"
+    },
+    {
+      "name": "date_taken",
+      "value": "Datum genomen"
+    },
+    {
+      "name": "daytime",
+      "value": "Daglight"
+    },
+    {
+      "name": "default_string",
+      "value": "Standaard"
+    },
+    {
+      "name": "delbook",
+      "value": "Bladwijzer verwijderen"
+    },
+    {
+      "name": "delete",
+      "value": "Verwijderen"
+    },
+    {
+      "name": "deleting",
+      "value": "Verwijderen"
+    },
+    {
+      "name": "descending",
+      "value": "Aflopend"
+    },
+    {
+      "name": "details",
+      "value": "Details"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "Mappen"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "Bestanden"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "Weet je zeker dat je de volgende bestanden wilt verwijderen?"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Bevestigen"
+    },
+    {
+      "name": "dimensions",
+      "value": "Afmetingen"
+    },
+    {
+      "name": "directorysort",
+      "value": "Sorteermodus van mappen"
+    },
+    {
+      "name": "documents",
+      "value": "Documenten"
+    },
+    {
+      "name": "doforall",
+      "value": "Voor alle items"
+    },
+    {
+      "name": "doit",
+      "value": "Doe het"
+    },
+    {
+      "name": "domain",
+      "value": "Domein"
+    },
+    {
+      "name": "donate",
+      "value": "Doneren"
+    },
+    {
+      "name": "done",
+      "value": "Gereed"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Navigatielade sluiten"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Navigatielade openen"
+    },
+    {
+      "name": "duration",
+      "value": "Duur"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "Nederlands"
+    },
+    {
+      "name": "easter_egg_title",
+      "value": "Studiomodus"
+    },
+    {
+      "name": "edit",
+      "value": "Bewerken"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "Root-modus activeren"
+    },
+    {
+      "name": "entername",
+      "value": "Naam invoeren"
+    },
+    {
+      "name": "enterpath",
+      "value": "Pad invoeren"
+    },
+    {
+      "name": "enterzipname",
+      "value": "Zip-naam invoeren"
+    },
+    {
+      "name": "error",
+      "value": "Fout"
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "Fout: Bestand niet gevonden"
+    },
+    {
+      "name": "error_io",
+      "value": "I/O-fout"
+    },
+    {
+      "name": "exit",
+      "value": "Afsluiten"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Belichtingstijd"
+    },
+    {
+      "name": "extract",
+      "value": "Uitpakken"
+    },
+    {
+      "name": "extract_complete",
+      "value": "Uitpakken voltooid"
+    },
+    {
+      "name": "extracting",
+      "value": "Uitpakken"
+    },
+    {
+      "name": "feedback",
+      "value": "Feedback versturen"
+    },
+    {
+      "name": "field_empty",
+      "value": "Veld mag niet leeg zijn"
+    },
+    {
+      "name": "file",
+      "value": "Bestand"
+    },
+    {
+      "name": "file_empty",
+      "value": "Bestand is leeg"
+    },
+    {
+      "name": "fileexist",
+      "value": "Bestand met dezelfde naam bestaat al"
+    },
+    {
+      "name": "files",
+      "value": "Bestanden"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "Bestanden bovenaan"
+    },
+    {
+      "name": "find",
+      "value": "Zoeken in pagina"
+    },
+    {
+      "name": "flash_fired",
+      "value": "Flits gebruikt"
+    },
+    {
+      "name": "focal_length",
+      "value": "Brandpuntafstand"
+    },
+    {
+      "name": "folder",
+      "value": "Map"
+    },
+    {
+      "name": "folders",
+      "value": "Mappen"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "Mappen bovenaan"
+    },
+    {
+      "name": "frame_rate",
+      "value": "Frame Rate"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "Frans"
+    },
+    {
+      "name": "ftp",
+      "value": "FTP–Server"
+    },
+    {
+      "name": "ftp_login",
+      "value": "Inloggen"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "Zorg ervoor dat u bent verbonden met Wi-Fi"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "FTP server wordt gestart"
+    },
+    {
+      "name": "ftp_notif_starting_title",
+      "value": "FTP Server"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "STOP"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "op %s"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "Amaze FTP Server actief"
+    },
+    {
+      "name": "ftp_port",
+      "value": "Poort"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "Ongeldige poortnummer geselecteerd"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "FTP poort succesvol veranderd"
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "Kies FTP poort"
+    },
+    {
+      "name": "ftp_seconds",
+      "value": "Seconden"
+    },
+    {
+      "name": "ftp_status_no_connection",
+      "value": "Geen verbinding"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "Niet actief"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "Actief"
+    },
+    {
+      "name": "ftp_status_secure_connection",
+      "value": "Beveiligde verbinding"
+    },
+    {
+      "name": "ftp_status_title",
+      "value": "Status"
+    },
+    {
+      "name": "general",
+      "value": "Algemeen"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "Duits"
+    },
+    {
+      "name": "goback",
+      "value": "Terug"
+    },
+    {
+      "name": "grant",
+      "value": "Toestaan"
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "De app heeft opslag-rechten nodig om te functioneren. Als u op annuleren drukt, wordt de app afgesloten."
+    },
+    {
+      "name": "grantfailed",
+      "value": "Geen toestemming verleend"
+    },
+    {
+      "name": "grantper",
+      "value": "Toestemming geven"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "Grieks"
+    },
+    {
+      "name": "green",
+      "value": "Groen"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "Aantal kolommen in roosterweergave"
+    },
+    {
+      "name": "gridview",
+      "value": "Roosterweergave"
+    },
+    {
+      "name": "hash_sha256",
+      "value": "SHA-256"
+    },
+    {
+      "name": "height",
+      "value": "Hoogte"
+    },
+    {
+      "name": "hidden",
+      "value": "Verborgen bestanden en mappen tonen"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "Verborgen bestanden"
+    },
+    {
+      "name": "hide",
+      "value": "Verbergen"
+    },
+    {
+      "name": "history",
+      "value": "Geschiedenis"
+    },
+    {
+      "name": "home",
+      "value": "Thuis"
+    },
+    {
+      "name": "icon",
+      "value": "pictogram"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "Kleur instellen voor pictogrammen"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "Pictogramkleur"
+    },
+    {
+      "name": "image",
+      "value": "Afbeelding"
+    },
+    {
+      "name": "image_type",
+      "value": "Afbeeldingstype"
+    },
+    {
+      "name": "images",
+      "value": "Afbeeldingen"
+    },
+    {
+      "name": "in_safe",
+      "value": "Onvoldoende ruimte"
+    },
+    {
+      "name": "information",
+      "value": "Informatie"
+    },
+    {
+      "name": "install",
+      "value": "Installeren"
+    },
+    {
+      "name": "invalid",
+      "value": "Niet geldig %s"
+    },
+    {
+      "name": "invalid_name",
+      "value": "Ongeldige naam"
+    },
+    {
+      "name": "ip",
+      "value": "Adres"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "Italiaans"
+    },
+    {
+      "name": "item",
+      "value": "Object"
+    },
+    {
+      "name": "items",
+      "value": "Objecten"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "Japanse"
+    },
+    {
+      "name": "keywords",
+      "value": "Zoekwoorden"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "Koreaans"
+    },
+    {
+      "name": "lastModified",
+      "value": "Laatst gewijzigd"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "Laatst gewijzigd weergeven"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "Datum en tijd weergeven wanneer het bestand voor het laatst is gewijzigd"
+    },
+    {
+      "name": "light",
+      "value": "Materiaal licht"
+    },
+    {
+      "name": "listview",
+      "value": "Lijstweergave"
+    },
+    {
+      "name": "loading",
+      "value": "Laden…"
+    },
+    {
+      "name": "location",
+      "value": "Locatie:"
+    },
+    {
+      "name": "match_content",
+      "value": "Maak content bijpassend"
+    },
+    {
+      "name": "match_content_summary",
+      "value": "Als dit ingesteld is, zal een veel voorkomende expressie gepaard worden met de volledige bestandsnaam,\nAnders wordt er naar een voorval gezocht."
+    },
+    {
+      "name": "md5",
+      "value": "md5-hash:"
+    },
+    {
+      "name": "medium_text",
+      "value": "Medium Tekst"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "Overig"
+    },
+    {
+      "name": "modified",
+      "value": "Gewijzigd"
+    },
+    {
+      "name": "moved",
+      "value": "verplaatst"
+    },
+    {
+      "name": "moving",
+      "value": "Verplaatsen"
+    },
+    {
+      "name": "name",
+      "value": "Naam:"
+    },
+    {
+      "name": "needs_access",
+      "value": "Schrijfrechten benodigd"
+    },
+    {
+      "name": "needs_access_summary",
+      "value": "Kies de bovenste map van \\t"
+    },
+    {
+      "name": "needs_access_summary1",
+      "value": "\\tom schrijfrechten te geven om te werken"
+    },
+    {
+      "name": "newfile",
+      "value": "Nieuw bestand"
+    },
+    {
+      "name": "newfolder",
+      "value": "Nieuwe map"
+    },
+    {
+      "name": "no",
+      "value": "Nee"
+    },
+    {
+      "name": "no_app_found",
+      "value": "Geen app gevonden om dit bestand te openen"
+    },
+    {
+      "name": "no_device_found",
+      "value": "Geen apparaat gevonden"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "Geen bestand overschreven"
+    },
+    {
+      "name": "no_files",
+      "value": "Geen bestanden"
+    },
+    {
+      "name": "none_on_top",
+      "value": "Geen bovenaan"
+    },
+    {
+      "name": "not_allowed",
+      "value": "Niet toegestaan"
+    },
+    {
+      "name": "of",
+      "value": "van de"
+    },
+    {
+      "name": "ok",
+      "value": "Oké"
+    },
+    {
+      "name": "open",
+      "value": "Openen"
+    },
+    {
+      "name": "open_as",
+      "value": "Open als"
+    },
+    {
+      "name": "open_parent",
+      "value": "Open bovenliggende map"
+    },
+    {
+      "name": "open_with",
+      "value": "Openen met"
+    },
+    {
+      "name": "opening",
+      "value": "Openen.."
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "Uitvoeren mislukt"
+    },
+    {
+      "name": "optimized",
+      "value": "Geoptimaliseerd"
+    },
+    {
+      "name": "orange",
+      "value": "Oranje"
+    },
+    {
+      "name": "other",
+      "value": "Overig"
+    },
+    {
+      "name": "out_of",
+      "value": "van de"
+    },
+    {
+      "name": "overwrite",
+      "value": "Overschrijven"
+    },
+    {
+      "name": "package_installer",
+      "value": "Pakketinstallatieprogramma"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "Dit is een pakketinstallatieprogramma. Welke actie wil je uitvoeren?"
+    },
+    {
+      "name": "pages",
+      "value": "Aantal pagina's"
+    },
+    {
+      "name": "paper_size",
+      "value": "Afmetingen papier"
+    },
+    {
+      "name": "password",
+      "value": "Wachtwoord"
+    },
+    {
+      "name": "paste",
+      "value": "Plakken"
+    },
+    {
+      "name": "path",
+      "value": "Locatie"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "PayPal Id gekopieerd naar klembord"
+    },
+    {
+      "name": "permission",
+      "value": "Permissies"
+    },
+    {
+      "name": "permission_execute",
+      "value": "Uitvoeren"
+    },
+    {
+      "name": "permission_group",
+      "value": "Groep"
+    },
+    {
+      "name": "permission_other",
+      "value": "Anders"
+    },
+    {
+      "name": "permission_owner",
+      "value": "Eigenaar"
+    },
+    {
+      "name": "permission_read",
+      "value": "Lezen"
+    },
+    {
+      "name": "permission_write",
+      "value": "Schrijven"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "Bestand kiezen"
+    },
+    {
+      "name": "play",
+      "value": "Play Store"
+    },
+    {
+      "name": "please_wait",
+      "value": "Een ogenblik geduld"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "Pools"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "Portugees"
+    },
+    {
+      "name": "press_again",
+      "value": "Druk opnieuw om af te sluiten"
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "Kleur instellen voor grote UI-elementen"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "Primaire kleur"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "Kleur instellen voor grote UI-elementen voor de juiste tabblas"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "Primaire kleur (Rechter Tabblad)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "Processen bekijken"
+    },
+    {
+      "name": "processing_file",
+      "value": "Bestand wordt verwerkt..."
+    },
+    {
+      "name": "producer",
+      "value": "Producent"
+    },
+    {
+      "name": "properties",
+      "value": "Eigenschappen"
+    },
+    {
+      "name": "properties_copied_clipboard",
+      "value": "gekopieerd naar klembord"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "Wilt u het huidige pad instellen als standaard voor dit tabblad?"
+    },
+    {
+      "name": "quick",
+      "value": "Snelle Toegang"
+    },
+    {
+      "name": "random",
+      "value": "Willekeurig thema"
+    },
+    {
+      "name": "random_summary",
+      "value": "Stelt een willekeurige primaire kleur in tijdens het opstarten"
+    },
+    {
+      "name": "rate",
+      "value": "Beoordeel de app"
+    },
+    {
+      "name": "recent",
+      "value": "Recente bestanden"
+    },
+    {
+      "name": "regular_expression",
+      "value": "Reguliere uitdrukking"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "Zoeken met behulp van een BASH stijl reguliere expressie"
+    },
+    {
+      "name": "rename",
+      "value": "Naam wijzigen"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "Bladwijzer aanpassen"
+    },
+    {
+      "name": "renaming",
+      "value": "Hernoemen"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "Meld een bug of verzoek nieuwe functies"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "Bugs melden"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "Roemeens"
+    },
+    {
+      "name": "root_directory",
+      "value": "Bovenste map"
+    },
+    {
+      "name": "root_failure",
+      "value": "Root-toegang niet verleend"
+    },
+    {
+      "name": "root_mode",
+      "value": "Root-bestandsbeheerder"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "Alleen voor apparaten met root-toegang. Alleen activeren als je het zeker weet."
+    },
+    {
+      "name": "root_pref",
+      "value": "Permissies weergeven"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "Permissies van bestanden en mappen weergeven"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "Russisch"
+    },
+    {
+      "name": "sample_rate",
+      "value": "Sample Rate"
+    },
+    {
+      "name": "save",
+      "value": "Opslaan"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "Bij het opstarten, wordt de meest recent bekeken map voor elk tabblad weergegeven"
+    },
+    {
+      "name": "save_paths",
+      "value": "Paden onthouden"
+    },
+    {
+      "name": "saving",
+      "value": "Opslaan"
+    },
+    {
+      "name": "scp_port",
+      "value": "Poort"
+    },
+    {
+      "name": "search",
+      "value": "Zoeken"
+    },
+    {
+      "name": "search_hint",
+      "value": "Type om te zoeken…"
+    },
+    {
+      "name": "searching_devices",
+      "value": "Zoeken naar apparaten"
+    },
+    {
+      "name": "security",
+      "value": "Beveiliging"
+    },
+    {
+      "name": "select",
+      "value": "Item selecteren"
+    },
+    {
+      "name": "select_all",
+      "value": "Alles selecteren"
+    },
+    {
+      "name": "select_intent",
+      "value": "Selecteren"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "Servisch"
+    },
+    {
+      "name": "server_address",
+      "value": "Server: IP-adres of IP-adres/GedeeldeMap"
+    },
+    {
+      "name": "service_timer",
+      "value": "Verstreken tijd"
+    },
+    {
+      "name": "set",
+      "value": "Stel in"
+    },
+    {
+      "name": "set_as_home",
+      "value": "Instellen als persoonlijke map"
+    },
+    {
+      "name": "set_random",
+      "value": "Wijzigingen worden toegepast nadat je de app herstart"
+    },
+    {
+      "name": "setting",
+      "value": "Instellingen"
+    },
+    {
+      "name": "share",
+      "value": "Delen"
+    },
+    {
+      "name": "share_limit",
+      "value": "Kan niet meer dan 100 bestanden delen"
+    },
+    {
+      "name": "show_dividers",
+      "value": "Scheidingslijn weergeven"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Grootte"
+    },
+    {
+      "name": "size_pref",
+      "value": "Groottes weergeven"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "Grootte van bestanden en aantal items in mappen weergeven"
+    },
+    {
+      "name": "skip",
+      "value": "Overslaan"
+    },
+    {
+      "name": "smb_connection",
+      "value": "SMB-verbinding"
+    },
+    {
+      "name": "smb_launch_error",
+      "value": "U moet dit bestand kopieren naar de opslag om het te gebruiken"
+    },
+    {
+      "name": "software",
+      "value": "Software"
+    },
+    {
+      "name": "sort",
+      "value": "Sorteren"
+    },
+    {
+      "name": "sort_by",
+      "value": "Sorteren op"
+    },
+    {
+      "name": "sort_name",
+      "value": "Naam"
+    },
+    {
+      "name": "sort_size",
+      "value": "Grootte"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "Spaans"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Beginnen"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "Stop"
+    },
+    {
+      "name": "stopping",
+      "value": "Stoppen"
+    },
+    {
+      "name": "subject",
+      "value": "Onderwerp"
+    },
+    {
+      "name": "support_development",
+      "value": "Ondersteuning ontwikkeling"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "Tamilse"
+    },
+    {
+      "name": "text",
+      "value": "Tekstbestand"
+    },
+    {
+      "name": "textreader",
+      "value": "Tekst bekijken"
+    },
+    {
+      "name": "theme",
+      "value": "Thema"
+    },
+    {
+      "name": "thumb",
+      "value": "Miniatuurweergave inschakelen"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "Miniatuurweergave van apps en afbeeldingen inschakelen"
+    },
+    {
+      "name": "title",
+      "value": "Titel"
+    },
+    {
+      "name": "translate_summary",
+      "value": "Amaze vertalen in uw eigen taal"
+    },
+    {
+      "name": "translate_title",
+      "value": "Vertalen"
+    },
+    {
+      "name": "translators",
+      "value": "Vertalers"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "Turks"
+    },
+    {
+      "name": "type",
+      "value": "Type"
+    },
+    {
+      "name": "ui",
+      "value": "Uiterlijk"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "Oekraïens"
+    },
+    {
+      "name": "unin_system_apk",
+      "value": "Dit is een systeemapp. Het verwijderen kan leiden tot instabiliteit van het systeem.\\nDoorgaan?"
+    },
+    {
+      "name": "uninstall",
+      "value": "Deïnstalleren"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "Niet-opgeslagen wijzigingen"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "Je hebt niet-opgeslagen wijzigingen. Wil je opslaan voor het afsluiten?"
+    },
+    {
+      "name": "username",
+      "value": "Gebruikersnaam"
+    },
+    {
+      "name": "version",
+      "value": "Versie"
+    },
+    {
+      "name": "video",
+      "value": "Videobestand"
+    },
+    {
+      "name": "videos",
+      "value": "Video's"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "Vietnamees"
+    },
+    {
+      "name": "view",
+      "value": "Bekijken"
+    },
+    {
+      "name": "waiting_content",
+      "value": "Wachten tot de opdracht is verwerkt"
+    },
+    {
+      "name": "waiting_title",
+      "value": "Wachten"
+    },
+    {
+      "name": "want_help",
+      "value": "Hulp nodig?"
+    },
+    {
+      "name": "warning",
+      "value": "Waarschuwing"
+    },
+    {
+      "name": "width",
+      "value": "Breedte"
+    },
+    {
+      "name": "written",
+      "value": "Geschreven"
+    },
+    {
+      "name": "xda_summary",
+      "value": "Veelgestelde vragen, help & probleemoplossing"
+    },
+    {
+      "name": "xda_title",
+      "value": "XDA thread"
+    },
+    {
+      "name": "year",
+      "value": "Jaar"
+    },
+    {
+      "name": "yes",
+      "value": "Ja"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "Zip openen"
+    }
+  ]
+}

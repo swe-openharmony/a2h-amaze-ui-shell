@@ -1,0 +1,104 @@
+{
+  "string": [
+    {
+      "name": "cancel",
+      "value": "LƏĞV ET"
+    },
+    {
+      "name": "color_title",
+      "value": "Rəng"
+    },
+    {
+      "name": "default_string",
+      "value": "Susmaya görə"
+    },
+    {
+      "name": "delete",
+      "value": "Silin"
+    },
+    {
+      "name": "details",
+      "value": "Detallar"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Təsdiqlə"
+    },
+    {
+      "name": "duration",
+      "value": "Müddət:"
+    },
+    {
+      "name": "edit",
+      "value": "Dəyiş"
+    },
+    {
+      "name": "exit",
+      "value": "Çıxış"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Ekspozisiya Müddəti"
+    },
+    {
+      "name": "focal_length",
+      "value": "Fokal Uzunluq"
+    },
+    {
+      "name": "height",
+      "value": "Hündürlük"
+    },
+    {
+      "name": "home",
+      "value": "Ev"
+    },
+    {
+      "name": "information",
+      "value": "Məlumat"
+    },
+    {
+      "name": "other",
+      "value": "Digər"
+    },
+    {
+      "name": "password",
+      "value": "Şifrə"
+    },
+    {
+      "name": "path",
+      "value": "Cığır"
+    },
+    {
+      "name": "permission_other",
+      "value": "Digər"
+    },
+    {
+      "name": "save",
+      "value": "Yadda saxla"
+    },
+    {
+      "name": "share",
+      "value": "Paylaşın"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Ölçü"
+    },
+    {
+      "name": "skip",
+      "value": "Keç"
+    },
+    {
+      "name": "sort_size",
+      "value": "Ölçü"
+    },
+    {
+      "name": "version",
+      "value": "Versiya"
+    },
+    {
+      "name": "width",
+      "value": "Enlilik"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "color_title",
+      "value": "Боја"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Време на експозиција"
+    },
+    {
+      "name": "focal_length",
+      "value": "Фокусно растојание"
+    },
+    {
+      "name": "information",
+      "value": "Информации"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Големина"
+    },
+    {
+      "name": "sort_size",
+      "value": "Големина"
+    },
+    {
+      "name": "version",
+      "value": "Верзија"
+    }
+  ]
+}

@@ -1,0 +1,2720 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Über"
+    },
+    {
+      "name": "about_amaze",
+      "value": "Dateimanager im Material Design für Android"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "Über Amaze File Manager"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "Setze Farbe des FAB und anderer kleiner UI Elemente"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "Akzentfarbe"
+    },
+    {
+      "name": "accessed",
+      "value": "Letzter Zugriff"
+    },
+    {
+      "name": "add_item",
+      "value": "Element hinzufügen"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "Schnellwahl"
+    },
+    {
+      "name": "add_shortcut_not_supported_by_launcher",
+      "value": "Die Erstellung von Verknüpfungen wird von Ihrem Launcher nicht unterstützt."
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "Zu Lesezeichen hinzufügen"
+    },
+    {
+      "name": "advanced",
+      "value": "Fortgeschritten"
+    },
+    {
+      "name": "advanced_search",
+      "value": "Erweiterte Suche"
+    },
+    {
+      "name": "album",
+      "value": "Album"
+    },
+    {
+      "name": "always",
+      "value": "Immer"
+    },
+    {
+      "name": "amaze_audio_player",
+      "value": "Amaze-Musikplayer"
+    },
+    {
+      "name": "amaze_utils_installed_alias",
+      "value": "Danke für die Installation der Amaze File Utilities. Sie werden zur App weitergeleitet."
+    },
+    {
+      "name": "analyse_storage",
+      "value": "Speicher analysieren"
+    },
+    {
+      "name": "android_data_prompt_saf_access_title",
+      "value": "Zugriff auf SAF erlauben"
+    },
+    {
+      "name": "anonymous",
+      "value": "Unbekannt"
+    },
+    {
+      "name": "aperture_value",
+      "value": "Blendenzahl"
+    },
+    {
+      "name": "apks",
+      "value": "APKs"
+    },
+    {
+      "name": "app_name",
+      "value": "Amaze Dateimanager"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "App/Oberfläche abgestürzt"
+    },
+    {
+      "name": "appearance",
+      "value": "Aussehen"
+    },
+    {
+      "name": "appearance_summary",
+      "value": "Thema, Farben und Aussehen des Dateimanagers anpassen"
+    },
+    {
+      "name": "apps",
+      "value": "App Manager"
+    },
+    {
+      "name": "archive",
+      "value": "Archiv"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "Verzeichnis zum Entpacken von Archiven"
+    },
+    {
+      "name": "archive_password_prompt",
+      "value": "Bitte geben Sie das Archivpasswort ein:"
+    },
+    {
+      "name": "archive_summary",
+      "value": "Archiv-Dateien werden in dieses Verzeichnis entpackt. Standardmäßig ist dies dasjenige Verzeichnis, in welchem sich das Archiv befindet."
+    },
+    {
+      "name": "archive_text",
+      "value": "Dies ist ein Archiv. Was möchten Sie durchführen\\?"
+    },
+    {
+      "name": "archive_unsupported_or_corrupt",
+      "value": "Das Archiv \"%s\" kann nicht geöffnet werden. Entweder können wir das Archiv nicht öffnen oder das Archiv wurde beschädigt."
+    },
+    {
+      "name": "artist",
+      "value": "Künstler"
+    },
+    {
+      "name": "ascending",
+      "value": "Aufsteigend"
+    },
+    {
+      "name": "audio",
+      "value": "Audio"
+    },
+    {
+      "name": "authenticate_password",
+      "value": "Passwort eingeben"
+    },
+    {
+      "name": "author",
+      "value": "Autor"
+    },
+    {
+      "name": "authors",
+      "value": "Autoren"
+    },
+    {
+      "name": "back_summary",
+      "value": "Schalte Zurück-Schaltfläche am Listenkopf ein"
+    },
+    {
+      "name": "back_title",
+      "value": "Zurück-Schaltfläche"
+    },
+    {
+      "name": "backup",
+      "value": "Sicherung"
+    },
+    {
+      "name": "backup_summary",
+      "value": "Amaze-Einstellungen exportieren/importieren"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "Baskisch"
+    },
+    {
+      "name": "behavior",
+      "value": "Verhalten"
+    },
+    {
+      "name": "behavior_summary",
+      "value": "Ändern Sie Verhaltensweisen wie die erweiterte Suche und ob Dateien als neuer Task geöffnet werden sollen"
+    },
+    {
+      "name": "bitrate",
+      "value": "Bitrate"
+    },
+    {
+      "name": "black",
+      "value": "Schwarz (für OLED)"
+    },
+    {
+      "name": "blue",
+      "value": "Blau"
+    },
+    {
+      "name": "bluetooth",
+      "value": "Bluetooth"
+    },
+    {
+      "name": "bookmark_exists",
+      "value": "Lesezeichen existiert"
+    },
+    {
+      "name": "bookmark_lost",
+      "value": "Lesezeichen nicht gefunden, erstelle erneut…"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "Lesezeichen hinzugefügt"
+    },
+    {
+      "name": "byte_singular",
+      "value": "byte"
+    },
+    {
+      "name": "bytes",
+      "value": "bytes"
+    },
+    {
+      "name": "calculating",
+      "value": "Berechne"
+    },
+    {
+      "name": "camera_brand",
+      "value": "Marke der Kamera"
+    },
+    {
+      "name": "camera_model",
+      "value": "Modell der Kamera"
+    },
+    {
+      "name": "cancel",
+      "value": "Abbrechen"
+    },
+    {
+      "name": "cancel_recommended",
+      "value": "Abbrechen (empfohlen)"
+    },
+    {
+      "name": "cancelled",
+      "value": "Abgebrochen"
+    },
+    {
+      "name": "cannot_delete_file",
+      "value": "Datei kann nicht gelöscht werden"
+    },
+    {
+      "name": "cannot_delete_file_with_reason",
+      "value": "Datei %s kann nicht gelöscht werden"
+    },
+    {
+      "name": "cannot_extract_archive",
+      "value": "Kann Archiv \"%s\":%s nicht extrahieren"
+    },
+    {
+      "name": "cannot_overwrite",
+      "value": "Datei kann nicht überschrieben werden."
+    },
+    {
+      "name": "cannot_read_directory",
+      "value": "Verzeichnis %s - %s kann nicht gelesen werden"
+    },
+    {
+      "name": "cannot_rename_file",
+      "value": "Datei %s - %s kann nicht umbenannt werden"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s darf nicht leer sein"
+    },
+    {
+      "name": "change",
+      "value": "Ändern"
+    },
+    {
+      "name": "changelog",
+      "value": "Changelog"
+    },
+    {
+      "name": "channel_description_ftp",
+      "value": "Benachrichtigungen für den Amaze Dateimanager FTP-Server"
+    },
+    {
+      "name": "channel_description_normal",
+      "value": "Benachrichtigungen von Amaze Dateimanager"
+    },
+    {
+      "name": "channel_name_ftp",
+      "value": "Amaze FTP-Server"
+    },
+    {
+      "name": "channel_name_normal",
+      "value": "Amaze-Benachrichtigungen"
+    },
+    {
+      "name": "channels",
+      "value": "Kanäle"
+    },
+    {
+      "name": "checking_conflicts",
+      "value": "Auf Konflikte prüfen"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "Chinesisch"
+    },
+    {
+      "name": "choose_color",
+      "value": "Farbe auswählen"
+    },
+    {
+      "name": "choose_different_app",
+      "value": "Andere Anwendung auswählen"
+    },
+    {
+      "name": "choose_folder",
+      "value": "Diesen Ordner wählen"
+    },
+    {
+      "name": "choose_operation",
+      "value": "Aktion für Durchführung auswählen"
+    },
+    {
+      "name": "circular_icons",
+      "value": "Runde Icons verwenden"
+    },
+    {
+      "name": "circular_images",
+      "value": "Runde Icons für Bilder und Videos verwenden"
+    },
+    {
+      "name": "clear",
+      "value": "Löschen"
+    },
+    {
+      "name": "clear_open_file",
+      "value": "Cache leeren"
+    },
+    {
+      "name": "clear_open_file_summary",
+      "value": "Setzt die Auswahl der Standard-Apps für das Öffnen von Dateien zurück"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "Pfad in Zwischenablage kopiert"
+    },
+    {
+      "name": "close",
+      "value": "Schließen"
+    },
+    {
+      "name": "cloud_box",
+      "value": "Box"
+    },
+    {
+      "name": "cloud_connection",
+      "value": "Cloud-Verknüpfung"
+    },
+    {
+      "name": "cloud_connection_credentials_cleared",
+      "value": "Anmeldeinformationen für Cloud-Verbindung gelöscht"
+    },
+    {
+      "name": "cloud_connection_credentials_cleared_msg",
+      "value": "Leider konnten wir Ihre Anmeldeinformationen für die Cloud-Verbindung nicht auf das neue Datenbankschema migrieren und mussten sie aus der App entfernen. Bitte erstellen Sie die Cloud-Verbindung erneut."
+    },
+    {
+      "name": "cloud_connection_new",
+      "value": "Neue Cloud-Verknüpfung"
+    },
+    {
+      "name": "cloud_drive",
+      "value": "Google Drive™"
+    },
+    {
+      "name": "cloud_drive_tooltip",
+      "value": "Eine Verbindung mit Google Drive™ erstellen, um Dateien innerhalb Amaze File Manager zu verwalten."
+    },
+    {
+      "name": "cloud_dropbox",
+      "value": "Dropbox"
+    },
+    {
+      "name": "cloud_error_failed_restart",
+      "value": "Fehler beim Laden der Verbindung.\\n         Bitte öffnen Sie Amaze Cloud einmal."
+    },
+    {
+      "name": "cloud_error_fdroid",
+      "value": "Das Amaze Cloud-Plug-In wird von der F-Droid-Version nicht unterstützt. Bitte verwenden Sie die Play Store-Version von Amaze."
+    },
+    {
+      "name": "cloud_error_plugin",
+      "value": "Amaze Cloud-Plugin konnte nicht gefunden werden. Bitte laden Sie es aus dem Play Store herunter."
+    },
+    {
+      "name": "cloud_fail_authenticate",
+      "value": "Authentifizierung fehlgeschlagen"
+    },
+    {
+      "name": "cloud_get",
+      "value": "Suche nach Cloud Plugins"
+    },
+    {
+      "name": "cloud_onedrive",
+      "value": "OneDrive"
+    },
+    {
+      "name": "cloud_remove",
+      "value": "Möchten Sie die Cloud-Verbindung entfernen\\?"
+    },
+    {
+      "name": "cloud_share_copied",
+      "value": "Teilbarer Link wurde in die Zwischenablage kopiert"
+    },
+    {
+      "name": "cloud_token_lost",
+      "value": "Token verloren, bitte melden Sie sich erneut an"
+    },
+    {
+      "name": "codec",
+      "value": "Codec"
+    },
+    {
+      "name": "color_summary",
+      "value": "Farbe für diverse Elemente setzen"
+    },
+    {
+      "name": "color_title",
+      "value": "Farbe"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "Farbige Navigationsleiste"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "Legt fest, ob die Navigationsleiste mit der Farbe des Skins angezeigt wird oder nicht."
+    },
+    {
+      "name": "colorize",
+      "value": "Symbole einfärben"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "Setzt ein paar andere Symbolfarben als das Farbthema."
+    },
+    {
+      "name": "comment",
+      "value": "Kommentar"
+    },
+    {
+      "name": "complete_paste_warning",
+      "value": "Bitte zuerst den Einfügevorgang abschließen"
+    },
+    {
+      "name": "compress",
+      "value": "Komprimieren"
+    },
+    {
+      "name": "compress_file_suggest_zip_extension",
+      "value": "Es wird empfohlen \".zip\" als Dateierweiterung zu verwenden."
+    },
+    {
+      "name": "compressed",
+      "value": "Komprimiert"
+    },
+    {
+      "name": "compressed_explorer_fragment_error_open_uri",
+      "value": "Fehler beim Öffnen der URI \"%s\", um diese zu lesen."
+    },
+    {
+      "name": "compressing",
+      "value": "Komprimiere"
+    },
+    {
+      "name": "compression_complete",
+      "value": "Komprimierung abgeschlossen"
+    },
+    {
+      "name": "confirmation",
+      "value": "Bestätigung"
+    },
+    {
+      "name": "connection_exists",
+      "value": "Verbindung ist bereits vorhanden"
+    },
+    {
+      "name": "connection_name",
+      "value": "Verbindungsname"
+    },
+    {
+      "name": "container",
+      "value": "Behälter"
+    },
+    {
+      "name": "contributors",
+      "value": "Mitwirkende"
+    },
+    {
+      "name": "contributors_1_summary",
+      "value": "Übersetzung"
+    },
+    {
+      "name": "contributors_2_summary",
+      "value": "Symbol und Banner"
+    },
+    {
+      "name": "contributors_3_summary",
+      "value": "Theme Engine"
+    },
+    {
+      "name": "contributors_4_summary",
+      "value": "Schatten hinter FAB"
+    },
+    {
+      "name": "contributors_5_summary",
+      "value": "Farbübergang beim Wischen von Tabs"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "FTP-Server"
+    },
+    {
+      "name": "contributors_7_summary",
+      "value": "Eine interaktive Shell starten"
+    },
+    {
+      "name": "copied",
+      "value": "kopiert"
+    },
+    {
+      "name": "copy",
+      "value": "Kopieren"
+    },
+    {
+      "name": "copy_complete",
+      "value": "Kopiervorgang abgeschlossen"
+    },
+    {
+      "name": "copy_error",
+      "value": "Einige Dateien wurden nicht erfolgreich %s"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Formatierten Bericht kopieren"
+    },
+    {
+      "name": "copy_low_memory",
+      "value": "Speicher fast voll, bitte machen Sie etwas RAM frei"
+    },
+    {
+      "name": "copying",
+      "value": "Kopieren"
+    },
+    {
+      "name": "copyingapks",
+      "value": "%d APK-Dateien nach %s kopieren"
+    },
+    {
+      "name": "crash_report_copied",
+      "value": "Fehlerbericht in Zwischenablage kopiert"
+    },
+    {
+      "name": "create",
+      "value": "Erstellen"
+    },
+    {
+      "name": "create_bookmark",
+      "value": "Lesezeichen erstellen"
+    },
+    {
+      "name": "create_file_suggest_txt_extension",
+      "value": "Es wird empfohlen \".txt\" als Dateierweiterung zu verwenden."
+    },
+    {
+      "name": "create_hidden_file_warn",
+      "value": "Die erstellte Datei wird in der Dateiliste ausgeblendet."
+    },
+    {
+      "name": "created",
+      "value": "Erstellt"
+    },
+    {
+      "name": "creatingfile",
+      "value": "Erstelle Datei"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "Erstelle Verzeichnis"
+    },
+    {
+      "name": "creator",
+      "value": "Erstellt von"
+    },
+    {
+      "name": "crypt_decrypt",
+      "value": "Entschlüsseln"
+    },
+    {
+      "name": "crypt_decrypted",
+      "value": "Entschlüsselt"
+    },
+    {
+      "name": "crypt_decrypting",
+      "value": "Entschlüssele"
+    },
+    {
+      "name": "crypt_decryption_fail",
+      "value": "Fehler beim Entschlüsseln"
+    },
+    {
+      "name": "crypt_decryption_fail_password",
+      "value": "Falsches Passwort!"
+    },
+    {
+      "name": "crypt_encrypt",
+      "value": "Verschlüsseln"
+    },
+    {
+      "name": "crypt_encrypted",
+      "value": "Verschlüsselt"
+    },
+    {
+      "name": "crypt_encrypting",
+      "value": "Verschlüssele"
+    },
+    {
+      "name": "crypt_encryption_fail",
+      "value": "Fehler beim Verschlüsseln"
+    },
+    {
+      "name": "crypt_fingerprint_authenticate",
+      "value": "Berühre den Sensor um fortzufahren"
+    },
+    {
+      "name": "crypt_fingerprint_no_permission",
+      "value": "Fingerabdruck-Berechtigungen fehlen"
+    },
+    {
+      "name": "crypt_fingerprint_no_security",
+      "value": "Keine Displaysperre gefunden"
+    },
+    {
+      "name": "crypt_fingerprint_not_enrolled",
+      "value": "Kein Fingerabdruck vorhanden"
+    },
+    {
+      "name": "crypt_pref_fingerprint_summary",
+      "value": "Verwenden Sie den Fingerabdruck bei der Authentifizierung"
+    },
+    {
+      "name": "crypt_pref_fingerprint_title",
+      "value": "Fingerabdruck"
+    },
+    {
+      "name": "crypt_pref_master_password_summary",
+      "value": "Legen Sie ein Master-Passwort für die Verschlüsselung fest.\\n         Lassen Sie das Feld leer um es zu entfernen."
+    },
+    {
+      "name": "crypt_pref_master_password_title",
+      "value": "Master-Passwort"
+    },
+    {
+      "name": "crypt_warning_key",
+      "value": "Beachten Sie, dass es nicht möglich sein wird diese Inhalte zu entschlüsseln,\\n         wenn Sie Ihr Muster von den Systemeinstellungen aus ändern."
+    },
+    {
+      "name": "current_speed",
+      "value": "Aktuelle Geschwindigkeit"
+    },
+    {
+      "name": "custom",
+      "value": "Angepasst"
+    },
+    {
+      "name": "customize",
+      "value": "Anpassen"
+    },
+    {
+      "name": "cut",
+      "value": "Ausschneiden"
+    },
+    {
+      "name": "dark",
+      "value": "Dunkel"
+    },
+    {
+      "name": "database",
+      "value": "Datenbank"
+    },
+    {
+      "name": "databasereader",
+      "value": "Datenbank-Leser"
+    },
+    {
+      "name": "date",
+      "value": "Datum"
+    },
+    {
+      "name": "date_modified",
+      "value": "Änderungsdatum"
+    },
+    {
+      "name": "date_taken",
+      "value": "Aufnahmedatum"
+    },
+    {
+      "name": "daytime",
+      "value": "Gemäß Tageszeit"
+    },
+    {
+      "name": "default_string",
+      "value": "Standard"
+    },
+    {
+      "name": "delbook",
+      "value": "Lesezeichen löschen"
+    },
+    {
+      "name": "delete",
+      "value": "Löschen"
+    },
+    {
+      "name": "delete_permanently_checkbox",
+      "value": "Unwiderruflich löschen"
+    },
+    {
+      "name": "deleting",
+      "value": "Löschen"
+    },
+    {
+      "name": "descending",
+      "value": "Absteigend"
+    },
+    {
+      "name": "deselect_all",
+      "value": "Alles abwählen"
+    },
+    {
+      "name": "details",
+      "value": "Details"
+    },
+    {
+      "name": "developers",
+      "value": "Entwickler"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "VERZEICHNISSE"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "DATEIEN"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "Möchten Sie die folgenden Dateien wirklich endgültig löschen\\?"
+    },
+    {
+      "name": "dialog_delete_temporarily_disclaimer",
+      "value": "Sind Sie sicher, dass Sie die folgenden Elemente löschen möchten\\?"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Bestätigen"
+    },
+    {
+      "name": "dialog_restore_disclaimer",
+      "value": "Sind Sie sicher, dass Sie die folgenden Elemente wiederherstellen möchten\\?"
+    },
+    {
+      "name": "dimensions",
+      "value": "Format"
+    },
+    {
+      "name": "directory",
+      "value": "Verzeichnis"
+    },
+    {
+      "name": "directorysort",
+      "value": "Sortierungsmodus der Verzeichnisse"
+    },
+    {
+      "name": "disable",
+      "value": "Deaktivieren"
+    },
+    {
+      "name": "disableIpcSignature",
+      "value": "IPC Signaturprüfung deaktivieren (Für veraltete SMBv1 Server - UNSICHER!)"
+    },
+    {
+      "name": "disable_player_intent_filters",
+      "value": "Aktionsfilter für Player deaktivieren"
+    },
+    {
+      "name": "disable_player_intent_filters_summary",
+      "value": "In Amaze integrierten Mediaplayer für Dateiauswahl deaktivieren"
+    },
+    {
+      "name": "documents",
+      "value": "Dokumente"
+    },
+    {
+      "name": "docx_viewer",
+      "value": "Amaze Document Viewer"
+    },
+    {
+      "name": "doforall",
+      "value": "Für alle Elemente"
+    },
+    {
+      "name": "doit",
+      "value": "Ausführen"
+    },
+    {
+      "name": "domain",
+      "value": "Domain"
+    },
+    {
+      "name": "donate",
+      "value": "Spenden"
+    },
+    {
+      "name": "donation_thanks",
+      "value": "Vielen Dank für Ihre Spende. Das hält uns motiviert! (:"
+    },
+    {
+      "name": "done",
+      "value": "Fertig"
+    },
+    {
+      "name": "download",
+      "value": "Download"
+    },
+    {
+      "name": "drag_and_drop_preference",
+      "value": "Drag and Drop Präferenz auswählen (Experimentell)"
+    },
+    {
+      "name": "drag_to_move_copy",
+      "value": "Berühren und wischen um Dateien zu verschieben oder zu kopieren"
+    },
+    {
+      "name": "drag_to_select",
+      "value": "Berühren und wischen um Dateien auszuwählen"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Navigationsleiste schließen"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Navigationsleiste öffnen"
+    },
+    {
+      "name": "duration",
+      "value": "Dauer"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "Niederländisch"
+    },
+    {
+      "name": "edit",
+      "value": "Bearbeiten"
+    },
+    {
+      "name": "edit_bookmark",
+      "value": "Lesezeichen bearbeiten"
+    },
+    {
+      "name": "enable_marquee_filename",
+      "value": "Lauftext für lange Dateinamen aktivieren"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "Root-Modus aktivieren"
+    },
+    {
+      "name": "encrypt_file_must_end_with_aes",
+      "value": "Verschlüsselte Dateien müssen \".aes\" als Dateierweiterung verwenden."
+    },
+    {
+      "name": "encrypt_file_must_end_with_aze",
+      "value": "Verschlüsselte Dateien müssen \".aze\" als Dateierweiterung verwenden."
+    },
+    {
+      "name": "encrypt_file_save_as",
+      "value": "Verschlüsselte Datei speichern als…"
+    },
+    {
+      "name": "encrypt_folder_save_as",
+      "value": "Verschlüsselten Ordner speichern als…"
+    },
+    {
+      "name": "encrypt_option_use_aze",
+      "value": "Amaze-Verschlüsselungsformat verwenden"
+    },
+    {
+      "name": "encryption_fail_copy",
+      "value": "Fehler beim Aktualisieren des Verschlüsselungseintrags in der Datenbank"
+    },
+    {
+      "name": "entername",
+      "value": "Namen eingeben"
+    },
+    {
+      "name": "enterpath",
+      "value": "Pfad eingeben"
+    },
+    {
+      "name": "enterzipname",
+      "value": "Zip-Namen eingeben"
+    },
+    {
+      "name": "error",
+      "value": "Fehler"
+    },
+    {
+      "name": "error_listfile_smb",
+      "value": "Fehler beim Auflisten der Dateien unter %s: %s"
+    },
+    {
+      "name": "error_listfile_smb_noipcshare",
+      "value": "Fehler beim Auflisten der Dateien unter %s - wahrscheinlich erlaubt der SMB-Server keinen anonymen Zugriff auf die IPC$-Freigabe. Sie können versuchen, den Freigabenamen direkt in den Verbindungseinstellungen anzugeben."
+    },
+    {
+      "name": "error_listfile_smb_title",
+      "value": "SMB-Dateiliste kann nicht geladen werden"
+    },
+    {
+      "name": "error_archive_cannot_extract",
+      "value": "Kann Archiv-Eintrag \"%s\" nicht nach \"%s\" extrahieren."
+    },
+    {
+      "name": "error_archive_password_incorrect",
+      "value": "Falsches Archiv-Passwort."
+    },
+    {
+      "name": "error_bad_archive_without_info",
+      "value": "\"%s\" ist ein defektes Archiv."
+    },
+    {
+      "name": "error_cannot_find_way_open",
+      "value": "Keine Möglichkeit gefunden, die Datei zu öffnen"
+    },
+    {
+      "name": "error_cannot_get_package_info",
+      "value": "Die Package-Info aus der Datei \"%s\" zu erhalten war nicht möglich. Entweder ist diese Datei kein APK oder sie ist defekt."
+    },
+    {
+      "name": "error_cant_decompress_that_file",
+      "value": "Angefragtes Archiv kann nicht bearbeitet werden"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Details:"
+    },
+    {
+      "name": "error_empty_archive",
+      "value": "\"%s\" ist ein leeres Archiv."
+    },
+    {
+      "name": "error_fetching_google_play_product_list",
+      "value": "Fehler beim Abruf der Produktliste von Google Play."
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "Fehler: Datei nicht gefunden"
+    },
+    {
+      "name": "error_file_too_large",
+      "value": "Fehler: Datei zu groß"
+    },
+    {
+      "name": "error_google_play_cannot_update_myself",
+      "value": "Laut Google Play-Richtlinien ist es Apps nicht gestattet, sich selbsttätig zu aktualisieren. Bitte aktualisieren Sie die App über den Play Store."
+    },
+    {
+      "name": "error_io",
+      "value": "E/A-Fehler"
+    },
+    {
+      "name": "error_permission_denied",
+      "value": "Berechtigung verweigert"
+    },
+    {
+      "name": "error_report_button_telegram",
+      "value": "Diesen Fehler per Telegram melden"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Diesen Fehler per E-Mail melden"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Bitte prüfen Sie, ob Ihr Absturz bereits in einem Eintrag diskutiert wird."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Auf Github melden"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Fehlerbericht"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Bericht"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Entschuldigung. Etwas ist schief gegangen."
+    },
+    {
+      "name": "error_unsupported_or_null_uri",
+      "value": "Ungültig, nicht unterstützt oder es wurde kein URI angegeben"
+    },
+    {
+      "name": "error_unsupported_v5_rar",
+      "value": "RAR-Archiv \"%s\" ist ein nicht unterstütztes RAR v5-Archiv."
+    },
+    {
+      "name": "exit",
+      "value": "Schließen"
+    },
+    {
+      "name": "exporting_failed",
+      "value": "Exportieren fehlgeschlagen: die Sicherungsdatei konnte nicht geschrieben werden"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Belichtungszeit"
+    },
+    {
+      "name": "extract",
+      "value": "Extrahieren"
+    },
+    {
+      "name": "extract_complete",
+      "value": "Dekomprimierung abgeschlossen"
+    },
+    {
+      "name": "extracted",
+      "value": "Extrahiert"
+    },
+    {
+      "name": "extracting",
+      "value": "Extrahieren"
+    },
+    {
+      "name": "failed_cloud_api_key",
+      "value": "Authentifizierung für Cloud-Plugin fehlgeschlagen"
+    },
+    {
+      "name": "failed_cloud_new_connection",
+      "value": "Hinzufügen neuer Cloud-Verbindung fehlgeschlagen"
+    },
+    {
+      "name": "failed_install_apk",
+      "value": "Installation fehlgeschlagen"
+    },
+    {
+      "name": "failed_no_connection",
+      "value": "Dateien konnten nicht geladen werden. Bitte prüfen Sie Ihre Internetverbindung."
+    },
+    {
+      "name": "failed_smb_decrypt_path",
+      "value": "SMB-Verbindung fehlgeschlagen"
+    },
+    {
+      "name": "feedback",
+      "value": "Feedback senden"
+    },
+    {
+      "name": "field_empty",
+      "value": "Feld darf nicht leer sein"
+    },
+    {
+      "name": "file",
+      "value": "Datei"
+    },
+    {
+      "name": "file_empty",
+      "value": "Datei ist leer"
+    },
+    {
+      "name": "file_read_only",
+      "value": "Die Datei wurde als nur lesend geöffnet."
+    },
+    {
+      "name": "file_too_long",
+      "value": "Die Datei ist zu lang und kann nicht bearbeitet werden. Sie können jedoch die ersten %d Zeichen lesen"
+    },
+    {
+      "name": "fileexist",
+      "value": "Datei existiert bereits"
+    },
+    {
+      "name": "filename",
+      "value": "Dateiname"
+    },
+    {
+      "name": "files",
+      "value": "DATEIEN"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "Dateien oben"
+    },
+    {
+      "name": "find",
+      "value": "Auf der Seite suchen"
+    },
+    {
+      "name": "flash_fired",
+      "value": "Blitzlicht benutzt"
+    },
+    {
+      "name": "focal_length",
+      "value": "Brennweite"
+    },
+    {
+      "name": "folder",
+      "value": "Ordner"
+    },
+    {
+      "name": "folderfilecount",
+      "value": "%1$d Verzeichnisse und %2$d Dateien"
+    },
+    {
+      "name": "folders",
+      "value": "Verzeichnisse"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "Ordner oben"
+    },
+    {
+      "name": "follow_battery_saver_desc",
+      "value": "Wenn diese Option ausgewählt und der Batteriesparmodus aktiviert ist, ändert sich das Design in das dunkle Design"
+    },
+    {
+      "name": "follow_battery_saver_title",
+      "value": "Batteriesparmodus folgen"
+    },
+    {
+      "name": "format",
+      "value": "Format"
+    },
+    {
+      "name": "frame_rate",
+      "value": "Bildfrequenz"
+    },
+    {
+      "name": "free",
+      "value": "freier Speicherplatz"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "Französisch"
+    },
+    {
+      "name": "ftp",
+      "value": "FTP-Server"
+    },
+    {
+      "name": "ftp_connection",
+      "value": "FTP-Verbindung"
+    },
+    {
+      "name": "ftp_login",
+      "value": "Anmelden"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "Stelle sicher, dass du mit Wi-Fi verbunden bist."
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "FTP-Server startet"
+    },
+    {
+      "name": "ftp_notif_starting_title",
+      "value": "FTP-Server"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "STOPP"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "bei %s"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "Amaze FTP-Server startet"
+    },
+    {
+      "name": "ftp_path",
+      "value": "Geteilter Pfad"
+    },
+    {
+      "name": "ftp_path_change_error_invalid",
+      "value": "Ungültiger Pfad"
+    },
+    {
+      "name": "ftp_path_change_success",
+      "value": "FTP-Pfad wurde erfolgreich geändert"
+    },
+    {
+      "name": "ftp_path_hint",
+      "value": "Pfad zum root Verzeichnis teilen"
+    },
+    {
+      "name": "ftp_port",
+      "value": "Port"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "Gewählte Portnummer ist ungültig"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "FTP-Port erfolgreich geändert"
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "FTP-Port wählen"
+    },
+    {
+      "name": "ftp_preference_saf_filesystem",
+      "value": "Auf neuen Android-Versionen aktivieren, für die Unterstützung zur Verwendung externer Speichergeräte"
+    },
+    {
+      "name": "ftp_preference_saf_filesystem_title",
+      "value": "Älteres Dateisystem verwenden"
+    },
+    {
+      "name": "ftp_prompt_accept_first_start_saf_access_title",
+      "value": "Für FTP-Server den Zugriff auf SAF gewähren"
+    },
+    {
+      "name": "ftp_prompt_restart_server",
+      "value": "Sie müssen den FTP-Server neu starten, damit die Änderungen angewendet werden."
+    },
+    {
+      "name": "ftp_readonly",
+      "value": "Nur-Lesen Zugriff"
+    },
+    {
+      "name": "ftp_seconds",
+      "value": "Sekunden"
+    },
+    {
+      "name": "ftp_server_fallback_path_reset_prompt",
+      "value": "Der freigegebene Pfad des FTP-Servers wurde auf den internen Speicher zurückgesetzt, da Sie zur Legacy-Dateisystemimplementierung zurückwechseln. Bitte wählen Sie über das Menü oben rechts einen neuen Pfad aus."
+    },
+    {
+      "name": "ftp_server_open_settings",
+      "value": "Einstellungen öffnen"
+    },
+    {
+      "name": "ftp_server_prompt_connect_to_network",
+      "value": "Verbinden Sie sich mit einem Netzwerk oder aktivieren Sie den AP"
+    },
+    {
+      "name": "ftp_server_reset_notify",
+      "value": "Geteilter Pfad des FTP-Servers wurde auf den internen Speicher zurückgesetzt"
+    },
+    {
+      "name": "ftp_server_root_unavailable",
+      "value": "Sie wählen einen Pfad aus, der Root-Zugriff erfordert. Bitte aktivieren Sie in den Einstellungen den Root-Explorer, wenn Ihr Gerät gerootet ist."
+    },
+    {
+      "name": "ftp_status_no_connection",
+      "value": "Keine Verbindung"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "Läuft nicht"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "Läuft"
+    },
+    {
+      "name": "ftp_status_secure_connection",
+      "value": "Sichere Verbindung"
+    },
+    {
+      "name": "ftp_status_title",
+      "value": "Status"
+    },
+    {
+      "name": "ftp_timeout",
+      "value": "Leerlaufzeitlimit"
+    },
+    {
+      "name": "ftps_connection",
+      "value": "FTP per SSL-Verbindung"
+    },
+    {
+      "name": "general",
+      "value": "Allgemein"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "Deutsch"
+    },
+    {
+      "name": "go",
+      "value": "Los"
+    },
+    {
+      "name": "goback",
+      "value": "Zurück"
+    },
+    {
+      "name": "got_it",
+      "value": "Alles klar!"
+    },
+    {
+      "name": "grant",
+      "value": "Gewähren"
+    },
+    {
+      "name": "grant_apkinstall_permission",
+      "value": "App benötigt die Berechtigung zum Installieren von Apps um fortzufahren."
+    },
+    {
+      "name": "grant_notification_permission",
+      "value": "Amaze benötigt eine Benachrichtigungsberechtigung, um den Fortschritt des Dateivorgangs anzuzeigen, sowie ein praktisches Bedienfeld zum Starten/Stoppen des FTP-Servers."
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "Zum Fortfahren benötigt die App Zugriffsrechte für den Speicherplatz. Der Abbruch dieses Dialogs führt zum Beenden der App."
+    },
+    {
+      "name": "grantfailed",
+      "value": "Erlaubnis nicht erteilen"
+    },
+    {
+      "name": "grantper",
+      "value": "Erlaubnis erteilen"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "Griechisch"
+    },
+    {
+      "name": "green",
+      "value": "Grün"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "Anzahl der Spalten in Tabellenansicht"
+    },
+    {
+      "name": "gridview",
+      "value": "Tabellenansicht"
+    },
+    {
+      "name": "hash_sha256",
+      "value": "SHA-256"
+    },
+    {
+      "name": "height",
+      "value": "Höhe"
+    },
+    {
+      "name": "hidden",
+      "value": "Versteckte Dateien und Ordner anzeigen"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "Versteckte Dateien"
+    },
+    {
+      "name": "hide",
+      "value": "Verstecken"
+    },
+    {
+      "name": "hide_media",
+      "value": "Vor Media-Browser verstecken"
+    },
+    {
+      "name": "history",
+      "value": "Verlauf"
+    },
+    {
+      "name": "home",
+      "value": "Startseite"
+    },
+    {
+      "name": "icon",
+      "value": "Symbol"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "Icon-Farbe setzen"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "Farbe der Icons"
+    },
+    {
+      "name": "image",
+      "value": "Bild"
+    },
+    {
+      "name": "image_iso",
+      "value": "ISO Geschwindigkeit"
+    },
+    {
+      "name": "image_type",
+      "value": "Bildtyp"
+    },
+    {
+      "name": "image_viewer",
+      "value": "Amaze-Bildbetrachter"
+    },
+    {
+      "name": "images",
+      "value": "Bilder"
+    },
+    {
+      "name": "import_failed_for",
+      "value": "Importieren fehlgeschlagen, für:"
+    },
+    {
+      "name": "importing_completed",
+      "value": "Importieren abgeschlossen"
+    },
+    {
+      "name": "importing_failed",
+      "value": "Importieren fehlgeschlagen: die Sicherungsdatei konnte nicht gelesen werden"
+    },
+    {
+      "name": "in_safe",
+      "value": "Nicht genügend Speicherplatz"
+    },
+    {
+      "name": "information",
+      "value": "Informationen"
+    },
+    {
+      "name": "install",
+      "value": "Installieren"
+    },
+    {
+      "name": "intellihide_toolbar_summary",
+      "value": "Verstecke die Werkzeugleiste automatisch, wenn gescrollt wird"
+    },
+    {
+      "name": "intellihide_toolbar_title",
+      "value": "Intellihide Symbolleiste"
+    },
+    {
+      "name": "intent_save_as",
+      "value": "Speichern unter…"
+    },
+    {
+      "name": "invalid",
+      "value": "Ungültig %s"
+    },
+    {
+      "name": "invalid_backup_file",
+      "value": "Ungültige Sicherungsdatei"
+    },
+    {
+      "name": "invalid_name",
+      "value": "Ungültiger Name"
+    },
+    {
+      "name": "ip",
+      "value": "Adresse"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "Italienisch"
+    },
+    {
+      "name": "item",
+      "value": "Objekt"
+    },
+    {
+      "name": "items",
+      "value": "Elemente"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "Japanisch"
+    },
+    {
+      "name": "just_once",
+      "value": "Nur einmal"
+    },
+    {
+      "name": "keywords",
+      "value": "Schlüsselwörter"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "Koreanisch"
+    },
+    {
+      "name": "lastModified",
+      "value": "Änderungsdatum"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "Änderungsdatum anzeigen"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "Datum und Uhrzeit der letzten Änderung anzeigen"
+    },
+    {
+      "name": "legacy_listing_summary",
+      "value": "Wenn aktiviert, wird die Legacy-Methode für die Auflistung von Dateien verwendet"
+    },
+    {
+      "name": "legacy_listing_title",
+      "value": "Alte Auflistung für Root verwenden"
+    },
+    {
+      "name": "libraries",
+      "value": "Bibliotheken"
+    },
+    {
+      "name": "license",
+      "value": "Lizenz"
+    },
+    {
+      "name": "light",
+      "value": "Hell"
+    },
+    {
+      "name": "listview",
+      "value": "Listenansicht"
+    },
+    {
+      "name": "loading",
+      "value": "Lade…"
+    },
+    {
+      "name": "local_inet_addr_error",
+      "value": "Lokale Internetadresse konnte nicht ermittelt werden"
+    },
+    {
+      "name": "location",
+      "value": "Standort"
+    },
+    {
+      "name": "match_content",
+      "value": "Zeige entsprechenden Inhalt an"
+    },
+    {
+      "name": "match_content_summary",
+      "value": "Falls gesetzt wird der Reguläre Ausdruck auf den gesamten Dateinamen angewendet,\\nandernfalls wird nach Treffern gesucht."
+    },
+    {
+      "name": "md5",
+      "value": "MD5:"
+    },
+    {
+      "name": "medium_text",
+      "value": "Mittelgroßer Text"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "Verschiedenes"
+    },
+    {
+      "name": "modified",
+      "value": "Geändert"
+    },
+    {
+      "name": "monofont",
+      "value": "Monospace-Schriftart"
+    },
+    {
+      "name": "move",
+      "value": "Verschieben"
+    },
+    {
+      "name": "moved",
+      "value": "verschoben"
+    },
+    {
+      "name": "moving",
+      "value": "Verschieben"
+    },
+    {
+      "name": "multiple_invalid_archive_entries",
+      "value": "Einige Dateien aus dem Archiv können nicht extrahiert werden. Das Archiv könnte beschädigt sein oder stammt von einer bösartigen Quelle."
+    },
+    {
+      "name": "name",
+      "value": "Name:"
+    },
+    {
+      "name": "needs_access",
+      "value": "Schreibrechte benötigt"
+    },
+    {
+      "name": "newfile",
+      "value": "Neue Datei"
+    },
+    {
+      "name": "newfolder",
+      "value": "Neuer Ordner"
+    },
+    {
+      "name": "no",
+      "value": "Nein"
+    },
+    {
+      "name": "no_app_found",
+      "value": "Keine App zum Öffnen dieser Datei gefunden"
+    },
+    {
+      "name": "no_app_found_intent",
+      "value": "Keine App für diese Aktion gefunden. Haben Sie DocumentsUI installiert\\?"
+    },
+    {
+      "name": "no_applications",
+      "value": "Keine Anwendungen"
+    },
+    {
+      "name": "no_bitcoin_app",
+      "value": "Bitte installieren Sie eine Bitcoin-Wallet-App"
+    },
+    {
+      "name": "no_device_found",
+      "value": "Kein Gerät gefunden"
+    },
+    {
+      "name": "no_file_error",
+      "value": "Etwas ist schief gelaufen, hier gibt es nichts zu öffnen"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "Keine Datei überschrieben"
+    },
+    {
+      "name": "no_files",
+      "value": "Keine Dateien"
+    },
+    {
+      "name": "no_items",
+      "value": "Keine Elemente"
+    },
+    {
+      "name": "no_name",
+      "value": "Datei sollte einen Namen haben"
+    },
+    {
+      "name": "no_obtainable_info",
+      "value": "Es gibt keine Info zu dieser Datei"
+    },
+    {
+      "name": "none_on_top",
+      "value": "Nichts davon oben"
+    },
+    {
+      "name": "not_allowed",
+      "value": "Nicht erlaubt"
+    },
+    {
+      "name": "not_finding_what_you_re_looking_for",
+      "value": "Sie finden nicht was Sie suchen\\?"
+    },
+    {
+      "name": "not_found_enabled_webview",
+      "value": "Kein verfügbarer Browser"
+    },
+    {
+      "name": "of",
+      "value": "von"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "open",
+      "value": "Öffnen"
+    },
+    {
+      "name": "open_as",
+      "value": "Öffnen als"
+    },
+    {
+      "name": "open_parent",
+      "value": "Übergeordnetes Verzeichnis öffnen"
+    },
+    {
+      "name": "open_with",
+      "value": "Öffnen mit"
+    },
+    {
+      "name": "open_with_amaze",
+      "value": "Mit Amaze öffnen"
+    },
+    {
+      "name": "operation_fail_following",
+      "value": "Für die folgenden Dateien ist die Operation fehlgeschlagen"
+    },
+    {
+      "name": "operation_not_supported",
+      "value": "Vorgang nicht unterstützt"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "Vorgang erfolgreich"
+    },
+    {
+      "name": "optimized",
+      "value": "Optimiert"
+    },
+    {
+      "name": "orange",
+      "value": "Orange"
+    },
+    {
+      "name": "otg_access",
+      "value": "Stammverzeichnis des OTG-Geräts wählen"
+    },
+    {
+      "name": "other",
+      "value": "Sonstige"
+    },
+    {
+      "name": "out_of",
+      "value": "von"
+    },
+    {
+      "name": "overwrite",
+      "value": "Überschreiben"
+    },
+    {
+      "name": "package_installer",
+      "value": "Paket-Installer"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "Dies ist ein Installer für Pakete. Was möchten Sie tun\\?"
+    },
+    {
+      "name": "pages",
+      "value": "Anzahl der Seiten"
+    },
+    {
+      "name": "paper_size",
+      "value": "Papiergröße"
+    },
+    {
+      "name": "password",
+      "value": "Passwort"
+    },
+    {
+      "name": "password_no_match",
+      "value": "Passwort stimmt nicht überein"
+    },
+    {
+      "name": "password_repeat",
+      "value": "Passwort wiederholen"
+    },
+    {
+      "name": "password_unchanged",
+      "value": "(unverändert)"
+    },
+    {
+      "name": "paste",
+      "value": "Einfügen"
+    },
+    {
+      "name": "path",
+      "value": "Pfad"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "PayPal-ID in die Zwischenablage kopiert"
+    },
+    {
+      "name": "pdf_viewer",
+      "value": "Amaze Document Viewer"
+    },
+    {
+      "name": "permission",
+      "value": "Berechtigungen"
+    },
+    {
+      "name": "permission_execute",
+      "value": "Ausführen"
+    },
+    {
+      "name": "permission_group",
+      "value": "Gruppe"
+    },
+    {
+      "name": "permission_other",
+      "value": "Sonstige"
+    },
+    {
+      "name": "permission_owner",
+      "value": "Besitzer"
+    },
+    {
+      "name": "permission_read",
+      "value": "Lesen"
+    },
+    {
+      "name": "permission_write",
+      "value": "Schreibrechte"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "Datei auswählen"
+    },
+    {
+      "name": "pick_files",
+      "value": "Eine oder mehrere Dateien auswählen"
+    },
+    {
+      "name": "play",
+      "value": "Play Store"
+    },
+    {
+      "name": "please_wait",
+      "value": "Bitte warten"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "Polnisch"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "Portugiesisch"
+    },
+    {
+      "name": "pref_export",
+      "value": "Exportieren"
+    },
+    {
+      "name": "pref_export_summary",
+      "value": "Einstellungen exportieren"
+    },
+    {
+      "name": "pref_import",
+      "value": "Importieren"
+    },
+    {
+      "name": "pref_import_summary",
+      "value": "Einstellungen importieren"
+    },
+    {
+      "name": "preference_delete_confirmation",
+      "value": "Löschen bestätigen"
+    },
+    {
+      "name": "preference_delete_confirmation_summary",
+      "value": "Sicherheitsabfrage vor dem Löschen von Dateien. Dies sollte möglichst nicht deaktiviert werden."
+    },
+    {
+      "name": "preference_language_dialog_title",
+      "value": "Sprache auswählen"
+    },
+    {
+      "name": "preference_language_system_default",
+      "value": "Systemstandard"
+    },
+    {
+      "name": "preference_language_title",
+      "value": "App-Sprache"
+    },
+    {
+      "name": "preference_newstack_summary",
+      "value": "Erlaubt es Ihnen, Dateien in verschiedenen Aufgaben zu öffnen. Greifen Sie über die Anzeige des letzten Bildschirms des Systems zu."
+    },
+    {
+      "name": "preference_newstack_title",
+      "value": "Dateien als neue Aufgabe öffnen"
+    },
+    {
+      "name": "preselected_configs_title",
+      "value": "Vorausgewählte Konfigurationen"
+    },
+    {
+      "name": "press_again",
+      "value": "Zum Schließen erneut drücken"
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "Farbe für große Elemente des linken Tabs setzen"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "Primärfarbe"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "Farbe für große UI-Elemente im rechten Tab festlegen"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "Primärfarbe (rechter Tab)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "Prozessanzeige"
+    },
+    {
+      "name": "processed",
+      "value": "Verarbeitet"
+    },
+    {
+      "name": "processing",
+      "value": "Bearbeite…"
+    },
+    {
+      "name": "processing_file",
+      "value": "Verarbeite Datei"
+    },
+    {
+      "name": "producer",
+      "value": "Hersteller"
+    },
+    {
+      "name": "properties",
+      "value": "Eigenschaften"
+    },
+    {
+      "name": "properties_copied_clipboard",
+      "value": "in die Zwischenablage kopiert"
+    },
+    {
+      "name": "protocol_ftps",
+      "value": "Secure FTP"
+    },
+    {
+      "name": "question_delete_bookmark",
+      "value": "Lesezeichen löschen\\?"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "Möchten Sie den aktuellen Pfad als Standard für dieses Tab setzen\\?"
+    },
+    {
+      "name": "quick",
+      "value": "Schnellzugriff"
+    },
+    {
+      "name": "quick_desc",
+      "value": "Dateien, auf die über Amaze kürzlich zugegriffen wurde"
+    },
+    {
+      "name": "random",
+      "value": "Zufälliger Skin"
+    },
+    {
+      "name": "random_summary",
+      "value": "Nimm zufälliges Thema beim Starten"
+    },
+    {
+      "name": "rate",
+      "value": "Diese App bewerten"
+    },
+    {
+      "name": "recent",
+      "value": "Kürzlich verwendete Dateien"
+    },
+    {
+      "name": "recent_desc",
+      "value": "Kürzlich erstellte oder geänderte Dateien"
+    },
+    {
+      "name": "regular_expression",
+      "value": "Reguläre Ausdrücke"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "Suche mithilfe eines Regulären Ausdrucks im Stile von BASH"
+    },
+    {
+      "name": "remember",
+      "value": "Für nächstes mal merken"
+    },
+    {
+      "name": "rename",
+      "value": "Umbenennen"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "Lesezeichen ändern"
+    },
+    {
+      "name": "renaming",
+      "value": "Umbenennen"
+    },
+    {
+      "name": "reopen_from_source",
+      "value": "Klappt nicht, bitte erneut von letzter App aus öffnen"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "Fehler melden oder neue Funktionen vorschlagen"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "Fehler melden"
+    },
+    {
+      "name": "restore",
+      "value": "Wiederherstellen"
+    },
+    {
+      "name": "restore_files",
+      "value": "Dateien wiederherstellen"
+    },
+    {
+      "name": "restoring",
+      "value": "Wiederherstellung…"
+    },
+    {
+      "name": "results",
+      "value": "Ergebnisse"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "Rumänisch"
+    },
+    {
+      "name": "root_directory",
+      "value": "Stammverzeichnis"
+    },
+    {
+      "name": "root_failure",
+      "value": "Root-Zugriff nicht gewährt"
+    },
+    {
+      "name": "root_mode",
+      "value": "Root Explorer"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "Nur für gerootete Geräte. Nur aktivieren, wenn Sie ganz sicher sind."
+    },
+    {
+      "name": "root_pref",
+      "value": "Dateiberechtigungen anzeigen"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "Berechtigungen der Dateien und Ordner anzeigen"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "Russisch"
+    },
+    {
+      "name": "saf_otg_explanation",
+      "value": "Aus Sicherheitsgründen wird nun das Dateisystem von Android selbst aufgerufen. Bitte wählen Sie das USB-Gerät aus der Liste auf der linken Seite."
+    },
+    {
+      "name": "same_dir_move_error",
+      "value": "Ziel- und Quellordner sollten zum Verschieben nicht übereinstimmen."
+    },
+    {
+      "name": "same_dir_overwrite_error",
+      "value": "Ziel- und Quellordner sollten zum Überschreiben nicht übereinstimmen."
+    },
+    {
+      "name": "sample_rate",
+      "value": "Abtastrate"
+    },
+    {
+      "name": "save",
+      "value": "Speichern"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "Beim Start zeigt jeder Tab den zuletzt aufgerufenen Ordner an"
+    },
+    {
+      "name": "save_paths",
+      "value": "Pfade merken"
+    },
+    {
+      "name": "saved_multi_files",
+      "value": "%d Dateien gespeichert."
+    },
+    {
+      "name": "saved_single_file",
+      "value": "Datei als '%s' gespeichert."
+    },
+    {
+      "name": "saving",
+      "value": "Speichere"
+    },
+    {
+      "name": "scp_connection",
+      "value": "SCP/SFTP-Verbindung"
+    },
+    {
+      "name": "scp_default_path",
+      "value": "Standardpfad (optional)"
+    },
+    {
+      "name": "scp_port",
+      "value": "Port"
+    },
+    {
+      "name": "search",
+      "value": "Suchen"
+    },
+    {
+      "name": "search_hint",
+      "value": "Eingeben zum Suchen…"
+    },
+    {
+      "name": "search_recent",
+      "value": "Letzte"
+    },
+    {
+      "name": "search_results",
+      "value": "Suchergebnisse für %s"
+    },
+    {
+      "name": "searching",
+      "value": "Suche %s"
+    },
+    {
+      "name": "searching_devices",
+      "value": "Suche nach Geräten"
+    },
+    {
+      "name": "security",
+      "value": "Sicherheit"
+    },
+    {
+      "name": "security_error",
+      "value": "Datei konnte mit dieser App nicht geöffnet werden"
+    },
+    {
+      "name": "security_summary",
+      "value": "Passwort und Verschlüsselung festlegen"
+    },
+    {
+      "name": "select",
+      "value": "Auswählen"
+    },
+    {
+      "name": "select_all",
+      "value": "Alles auswählen"
+    },
+    {
+      "name": "select_by_date",
+      "value": "Nach Datum auswählen"
+    },
+    {
+      "name": "select_by_type",
+      "value": "Nach Typ auswählen"
+    },
+    {
+      "name": "select_color_config",
+      "value": "Farbkonfiguration auswählen"
+    },
+    {
+      "name": "select_fill",
+      "value": "Füllung auswählen"
+    },
+    {
+      "name": "select_intent",
+      "value": "Auswählen"
+    },
+    {
+      "name": "select_inverse",
+      "value": "Auswahl umkehren"
+    },
+    {
+      "name": "select_save_location",
+      "value": "Ort zum Speichern auswählen"
+    },
+    {
+      "name": "select_similar",
+      "value": "Ähnliche auswählen"
+    },
+    {
+      "name": "send_email_to",
+      "value": "Eine E-Mail senden an"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "Serbisch"
+    },
+    {
+      "name": "server_address",
+      "value": "IP-Adresse des Servers"
+    },
+    {
+      "name": "service_timer",
+      "value": "Verstrichene Zeit"
+    },
+    {
+      "name": "set",
+      "value": "Setzen"
+    },
+    {
+      "name": "set_as_home",
+      "value": "Als Home-Verzeichnis festlegen"
+    },
+    {
+      "name": "set_random",
+      "value": "Änderungen werden nach einem Neustart der App durchgeführt"
+    },
+    {
+      "name": "setting",
+      "value": "Einstellungen"
+    },
+    {
+      "name": "share",
+      "value": "Teilen"
+    },
+    {
+      "name": "share_limit",
+      "value": "Es können nicht mehr als 100 Dateien geteilt werden"
+    },
+    {
+      "name": "share_logs",
+      "value": "Protokolle teilen"
+    },
+    {
+      "name": "share_logs_summary",
+      "value": "Erstellte Protokolle per E-Mail / Telegram teilen"
+    },
+    {
+      "name": "showHeaders",
+      "value": "Header anzeigen"
+    },
+    {
+      "name": "show_bookmarks_pref",
+      "value": "Lesezeichen"
+    },
+    {
+      "name": "show_bookmarks_pref_title",
+      "value": "Lesezeichen anzeigen"
+    },
+    {
+      "name": "show_dividers",
+      "value": "Trenner anzeigen"
+    },
+    {
+      "name": "show_quick_access_pref",
+      "value": "Schnellzugriff"
+    },
+    {
+      "name": "show_quick_access_pref_title",
+      "value": "Schnellzugriffe anzeigen"
+    },
+    {
+      "name": "show_system_apps",
+      "value": "System-Apps anzeigen"
+    },
+    {
+      "name": "sidebar_bookmarks_title",
+      "value": "Lesezeichenleiste"
+    },
+    {
+      "name": "sidebar_preferences",
+      "value": "Seitenleiste"
+    },
+    {
+      "name": "sidebar_quick_access_title",
+      "value": "Seitenleiste Schnellzugriff"
+    },
+    {
+      "name": "signin_with_google_title",
+      "value": "Authentifizieren um Google Drive™ zu nutzen"
+    },
+    {
+      "name": "size",
+      "value": "Größe des Ordners"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Größe"
+    },
+    {
+      "name": "size_pref",
+      "value": "Größe anzeigen"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "Dateigrößen und Anzahl der Elemente in Ordnern anzeigen"
+    },
+    {
+      "name": "skip",
+      "value": "Überspringen"
+    },
+    {
+      "name": "smb_connection",
+      "value": "SMB Verbindung"
+    },
+    {
+      "name": "smb_launch_error",
+      "value": "Kopiere diese Datei in den Gerätespeicher, um sie zu öffnen"
+    },
+    {
+      "name": "smb_share",
+      "value": "Pfad teilen"
+    },
+    {
+      "name": "software",
+      "value": "Software"
+    },
+    {
+      "name": "some_files_failed_invalid_operation",
+      "value": "Einige Dateien sind wegen einer ungültigen Aktion fehlgeschlagen"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Entschuldigung. Das sollte nicht passieren."
+    },
+    {
+      "name": "sort",
+      "value": "Sortieren"
+    },
+    {
+      "name": "sort_by",
+      "value": "Sortieren nach"
+    },
+    {
+      "name": "sort_by_colon",
+      "value": "Sortieren nach"
+    },
+    {
+      "name": "sort_name",
+      "value": "Name:"
+    },
+    {
+      "name": "sort_only_this",
+      "value": "Nur diesen Ordner"
+    },
+    {
+      "name": "sort_relevance",
+      "value": "Relevanz"
+    },
+    {
+      "name": "sort_size",
+      "value": "Größe"
+    },
+    {
+      "name": "source_summary",
+      "value": "Quelltext auf Github anzeigen"
+    },
+    {
+      "name": "source_title",
+      "value": "Quelltext"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "Spanisch"
+    },
+    {
+      "name": "ssh_authentication_failure_key",
+      "value": "Anmeldung fehlgeschlagen: Benutzername oder Privater Schlüssel ungültig."
+    },
+    {
+      "name": "ssh_authentication_failure_password",
+      "value": "Anmeldung fehlgeschlagen: Benutzername oder Passwort ungültig."
+    },
+    {
+      "name": "ssh_connect_failed",
+      "value": "Kann keine Verbindung herstellen zu %1$s:%2$d: %3$s"
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_title",
+      "value": "WARNUNG: DIE ID DES ENTFERNTEN COMPUTERS HAT SICH VERÄNDERT!"
+    },
+    {
+      "name": "ssh_host_key_verification_prompt_title",
+      "value": "Gerät verifizieren"
+    },
+    {
+      "name": "ssh_key_invalid_passphrase",
+      "value": "Schlüsselpassphrase ungültig."
+    },
+    {
+      "name": "ssh_key_no_decoder_decrypt",
+      "value": "Kein gültiger Decoder zum Entschlüsseln von PEM."
+    },
+    {
+      "name": "ssh_key_prompt_passphrase",
+      "value": "Bitte geben Sie die Schlüsselpassphrase ein."
+    },
+    {
+      "name": "ssh_pem_key_parse_error",
+      "value": "Lesefehler für ausgewähltes PEM: %s"
+    },
+    {
+      "name": "ssh_select_pem",
+      "value": "Privaten Schlüssel für die Authentifizierung auswählen"
+    },
+    {
+      "name": "ssh_select_pem_button",
+      "value": "Privater SSH-Schlüssel"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Start"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "Stopp"
+    },
+    {
+      "name": "stopping",
+      "value": "Stoppen"
+    },
+    {
+      "name": "storage_internal",
+      "value": "Interner Speicher"
+    },
+    {
+      "name": "storage_sd_card",
+      "value": "SD-Karte"
+    },
+    {
+      "name": "subject",
+      "value": "Betreff"
+    },
+    {
+      "name": "support_development",
+      "value": "Entwicklung fördern"
+    },
+    {
+      "name": "system",
+      "value": "System (folgt dem System)"
+    },
+    {
+      "name": "system_apps",
+      "value": "System-Apps"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "Tamil"
+    },
+    {
+      "name": "text",
+      "value": "Text"
+    },
+    {
+      "name": "text_editor",
+      "value": "Einstellungen für den Texteditor"
+    },
+    {
+      "name": "textreader",
+      "value": "Text-Reader"
+    },
+    {
+      "name": "theme",
+      "value": "Thema"
+    },
+    {
+      "name": "thumb",
+      "value": "Thumbnails anzeigen"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "Miniaturansichten von Apps und Bildern anzeigen"
+    },
+    {
+      "name": "time_remaining",
+      "value": "Zeit verbleibend"
+    },
+    {
+      "name": "title",
+      "value": "Titel"
+    },
+    {
+      "name": "total",
+      "value": "Insgesamt:"
+    },
+    {
+      "name": "transfer_rate",
+      "value": "Transferrate"
+    },
+    {
+      "name": "translate_summary",
+      "value": "Amaze in Ihre Sprache übersetzen"
+    },
+    {
+      "name": "translate_title",
+      "value": "Übersetzen"
+    },
+    {
+      "name": "translators",
+      "value": "Übersetzer"
+    },
+    {
+      "name": "trash_bin",
+      "value": "Papierkorb"
+    },
+    {
+      "name": "trash_bin_cleanup_interval_summary",
+      "value": "Intervall für automatische Bereinigung auslösen (Stunden)"
+    },
+    {
+      "name": "trash_bin_cleanup_interval_title",
+      "value": "Reinigungsintervall"
+    },
+    {
+      "name": "trash_bin_retention_bytes_summary",
+      "value": "Maximale Datenmenge (in MB), die der Papierkorb speichern kann"
+    },
+    {
+      "name": "trash_bin_retention_bytes_title",
+      "value": "Aufbewahrung nach Datengröße"
+    },
+    {
+      "name": "trash_bin_retention_days_summary",
+      "value": "Maximale Anzahl Tage, die Dateien im Papierkorb verbleiben"
+    },
+    {
+      "name": "trash_bin_retention_days_title",
+      "value": "Aufbewahrung nach Tagen"
+    },
+    {
+      "name": "trash_bin_retention_num_of_files_summary",
+      "value": "Maximale Anzahl Dateien, die der Papierkorb speichern kann"
+    },
+    {
+      "name": "trash_bin_retention_num_of_files_title",
+      "value": "Aufbewahrung nach Anzahl der Dateien"
+    },
+    {
+      "name": "try_deep_search",
+      "value": "Tiefe Suche ausprobieren!"
+    },
+    {
+      "name": "try_indexed_search",
+      "value": "Indizierte Suche ausprobieren!"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "Türkisch"
+    },
+    {
+      "name": "type",
+      "value": "Typ"
+    },
+    {
+      "name": "typeable_paths_summary",
+      "value": "Tippen Sie lange auf die Pfadleiste, um einen benutzerspezifischen Pfad anzugeben"
+    },
+    {
+      "name": "typeable_paths_title",
+      "value": "Benutzerdefinierte Pfade"
+    },
+    {
+      "name": "ui",
+      "value": "Benutzeroberfläche"
+    },
+    {
+      "name": "ui_summary",
+      "value": "Steuert, welche Informationen angezeigt werden, erlaubt das Anpassen von Seitenleiste und Oberfläche"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "Ukrainisch"
+    },
+    {
+      "name": "unavailable",
+      "value": "Nicht verfügbar"
+    },
+    {
+      "name": "unin_system_apk",
+      "value": "Dies ist eine System-App, ihre Löschung könnte zu Systeminstabilität führen.Fortsetzen\\?"
+    },
+    {
+      "name": "uninstall",
+      "value": "Deinstallieren"
+    },
+    {
+      "name": "unknown",
+      "value": "unbekannt"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Hoppla! Leider ist etwas schiefgegangen."
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "Ungespeicherte Änderungen"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "Sie haben ungespeicherte Änderungen! Möchten Sie diese vor dem Beenden speichern\\?"
+    },
+    {
+      "name": "update",
+      "value": "AKTUALISIERUNG"
+    },
+    {
+      "name": "update_host_key",
+      "value": "Geräteschlüssel aktualisieren"
+    },
+    {
+      "name": "used",
+      "value": "Belegter Speicherplatz"
+    },
+    {
+      "name": "used_by_others",
+      "value": "von anderen Benutzern"
+    },
+    {
+      "name": "user_apps",
+      "value": "Benutzer-Apps"
+    },
+    {
+      "name": "username",
+      "value": "Benutzername"
+    },
+    {
+      "name": "version",
+      "value": "Version"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "video_player",
+      "value": "Amaze-Videoplayer"
+    },
+    {
+      "name": "videos",
+      "value": "Videos"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "Vietnamesisch"
+    },
+    {
+      "name": "view",
+      "value": "Ansicht"
+    },
+    {
+      "name": "waiting_content",
+      "value": "Warte auf Abschluss des Vorgangs"
+    },
+    {
+      "name": "waiting_title",
+      "value": "Warte"
+    },
+    {
+      "name": "want_help",
+      "value": "Hilfe?"
+    },
+    {
+      "name": "warning",
+      "value": "Warnung"
+    },
+    {
+      "name": "warning_confirm",
+      "value": "Alles klar!"
+    },
+    {
+      "name": "warning_never_show",
+      "value": "Nicht mehr anzeigen"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Info:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Was ist passiert:"
+    },
+    {
+      "name": "width",
+      "value": "Breite"
+    },
+    {
+      "name": "wifip2p",
+      "value": "Wi-Fi P2P"
+    },
+    {
+      "name": "written",
+      "value": "Geschrieben"
+    },
+    {
+      "name": "xda_summary",
+      "value": "F&A, Hilfe & Fehlerlösungen<br data-mce-bogus=\"1\">"
+    },
+    {
+      "name": "xda_title",
+      "value": "XDA Thread"
+    },
+    {
+      "name": "year",
+      "value": "Jahr"
+    },
+    {
+      "name": "yes",
+      "value": "Ja"
+    },
+    {
+      "name": "your_comment",
+      "value": "Ihr Kommentar (auf Englisch):"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "Zip-Betrachter"
+    }
+  ]
+}

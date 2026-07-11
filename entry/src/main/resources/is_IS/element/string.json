@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "color_title",
+      "value": "Litur"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Lýsingartími"
+    },
+    {
+      "name": "focal_length",
+      "value": "Brennivídd"
+    },
+    {
+      "name": "information",
+      "value": "Upplýsingar"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Stærð"
+    },
+    {
+      "name": "sort_size",
+      "value": "Stærð"
+    },
+    {
+      "name": "version",
+      "value": "Útgáfa"
+    }
+  ]
+}

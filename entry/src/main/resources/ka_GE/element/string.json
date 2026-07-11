@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "cancel",
+      "value": "გაუქმება"
+    },
+    {
+      "name": "color_title",
+      "value": "ფერი"
+    },
+    {
+      "name": "delete",
+      "value": "წაშლა"
+    },
+    {
+      "name": "details",
+      "value": "დეტალები"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "დადასტურება"
+    },
+    {
+      "name": "duration",
+      "value": "ხანგრძლივობა:"
+    },
+    {
+      "name": "exposure_time",
+      "value": "ექსპოზიციის დრო"
+    },
+    {
+      "name": "focal_length",
+      "value": "ფოკუსური მანძილი"
+    },
+    {
+      "name": "height",
+      "value": "სიმაღლე"
+    },
+    {
+      "name": "information",
+      "value": "ინფორმაცია"
+    },
+    {
+      "name": "path",
+      "value": "მდებარეობა"
+    },
+    {
+      "name": "save",
+      "value": "შენახვა"
+    },
+    {
+      "name": "share",
+      "value": "გაზიარება"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "ზომა"
+    },
+    {
+      "name": "sort_size",
+      "value": "ზომა"
+    },
+    {
+      "name": "version",
+      "value": "ვერსია"
+    },
+    {
+      "name": "width",
+      "value": "სიგანე"
+    }
+  ]
+}

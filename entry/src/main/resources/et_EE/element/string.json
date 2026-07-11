@@ -1,0 +1,92 @@
+{
+  "string": [
+    {
+      "name": "cancel",
+      "value": "TÜHISTA"
+    },
+    {
+      "name": "color_title",
+      "value": "Värv"
+    },
+    {
+      "name": "default_string",
+      "value": "Vaikimisi"
+    },
+    {
+      "name": "delete",
+      "value": "Kustuta"
+    },
+    {
+      "name": "details",
+      "value": "Üksikasjad"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Kinnitamine"
+    },
+    {
+      "name": "duration",
+      "value": "Kestus"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Säriaeg"
+    },
+    {
+      "name": "focal_length",
+      "value": "Fookuskaugus"
+    },
+    {
+      "name": "height",
+      "value": "Kõrgus"
+    },
+    {
+      "name": "home",
+      "value": "Kodu"
+    },
+    {
+      "name": "information",
+      "value": "Teave"
+    },
+    {
+      "name": "other",
+      "value": "Muud"
+    },
+    {
+      "name": "password",
+      "value": "Parool"
+    },
+    {
+      "name": "path",
+      "value": "Tee"
+    },
+    {
+      "name": "permission_other",
+      "value": "Muud"
+    },
+    {
+      "name": "save",
+      "value": "Salvesta"
+    },
+    {
+      "name": "share",
+      "value": "Jaga"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Suurus"
+    },
+    {
+      "name": "sort_size",
+      "value": "Suurus"
+    },
+    {
+      "name": "version",
+      "value": "Versioon"
+    },
+    {
+      "name": "width",
+      "value": "Laius"
+    }
+  ]
+}

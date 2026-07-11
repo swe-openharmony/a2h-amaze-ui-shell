@@ -1,0 +1,496 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Apie"
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "Pridėti į žymą"
+    },
+    {
+      "name": "app_name",
+      "value": "Amaze bylų tvarkyklė"
+    },
+    {
+      "name": "apps",
+      "value": "Programėlių tvarkyklė"
+    },
+    {
+      "name": "archive",
+      "value": "Archyvas"
+    },
+    {
+      "name": "authors",
+      "value": "Autoriai"
+    },
+    {
+      "name": "backup",
+      "value": "Atsarginė kopija"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "Žymos pridėtos"
+    },
+    {
+      "name": "cancel",
+      "value": "ATŠAUKTI"
+    },
+    {
+      "name": "changelog",
+      "value": "Pakeitimų žurnalas"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "Kelias nukopijuotas į iškarpinę"
+    },
+    {
+      "name": "color_title",
+      "value": "Spalva"
+    },
+    {
+      "name": "colorize",
+      "value": "Nuspalvinti ikonėles"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "Nustato pastovią įkonėlės spalvą. Neperstato direktorijos ikonėlės spalvos nustatymų."
+    },
+    {
+      "name": "compress",
+      "value": "Suspausti"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "FTP Serveris"
+    },
+    {
+      "name": "copy",
+      "value": "Kopijuoti"
+    },
+    {
+      "name": "copying",
+      "value": "Kopijuojama"
+    },
+    {
+      "name": "create",
+      "value": "SUKURTI"
+    },
+    {
+      "name": "dark",
+      "value": "Tamsi"
+    },
+    {
+      "name": "date",
+      "value": "Data:"
+    },
+    {
+      "name": "daytime",
+      "value": "Dienos"
+    },
+    {
+      "name": "default_string",
+      "value": "Numatytas"
+    },
+    {
+      "name": "delete",
+      "value": "Ištrinti"
+    },
+    {
+      "name": "deleting",
+      "value": "Ištrinama"
+    },
+    {
+      "name": "details",
+      "value": "Išsami informacija"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "Ar Jūs tikrai norite ištrinti šias bylas?"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Patvirtinti"
+    },
+    {
+      "name": "directorysort",
+      "value": "Direktorijos rūšiavimo rėžimas"
+    },
+    {
+      "name": "doforall",
+      "value": "Daryti visiems elementams"
+    },
+    {
+      "name": "donate",
+      "value": "Paaukoti"
+    },
+    {
+      "name": "done",
+      "value": "Atlikta"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Uždaryti navigacijos stalčių"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Atidaryti navigacijos stalčių"
+    },
+    {
+      "name": "duration",
+      "value": "Trukmė"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "Įgalinti root rėžimą"
+    },
+    {
+      "name": "entername",
+      "value": "Įvesti pavadinimą"
+    },
+    {
+      "name": "enterpath",
+      "value": "Įvesti kelią"
+    },
+    {
+      "name": "enterzipname",
+      "value": "Įvesti Zip Pavadinimą"
+    },
+    {
+      "name": "error",
+      "value": "Klaida"
+    },
+    {
+      "name": "exit",
+      "value": "Išeiti"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Išlaikymo laikas"
+    },
+    {
+      "name": "extract",
+      "value": "Išskleisti"
+    },
+    {
+      "name": "extracting",
+      "value": "Išskleidžiama"
+    },
+    {
+      "name": "file",
+      "value": "Byla"
+    },
+    {
+      "name": "file_empty",
+      "value": "Byla yra tuščia"
+    },
+    {
+      "name": "fileexist",
+      "value": "Byla tokiu pačiu pavadinimu jau yra"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "Bylos viršuje"
+    },
+    {
+      "name": "focal_length",
+      "value": "Židinio nuotolis"
+    },
+    {
+      "name": "folder",
+      "value": "Aplankalas"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "Aplankalai viršuje"
+    },
+    {
+      "name": "ftp",
+      "value": "FTP Serveris"
+    },
+    {
+      "name": "goback",
+      "value": "Eiti atgal"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "Stulpelių skaičius tinklelio peržiūroje"
+    },
+    {
+      "name": "gridview",
+      "value": "Tinklelio peržiūra"
+    },
+    {
+      "name": "height",
+      "value": "Aukštis"
+    },
+    {
+      "name": "hide",
+      "value": "Paslėpti"
+    },
+    {
+      "name": "history",
+      "value": "Istorija"
+    },
+    {
+      "name": "home",
+      "value": "Namai"
+    },
+    {
+      "name": "icon",
+      "value": "Ikonėlė"
+    },
+    {
+      "name": "in_safe",
+      "value": "Neužtenka vietos"
+    },
+    {
+      "name": "information",
+      "value": "Informacija"
+    },
+    {
+      "name": "install",
+      "value": "Įrašyti"
+    },
+    {
+      "name": "item",
+      "value": "Elementas"
+    },
+    {
+      "name": "items",
+      "value": "Elementai"
+    },
+    {
+      "name": "lastModified",
+      "value": "Paskiausiai pakeista"
+    },
+    {
+      "name": "light",
+      "value": "Šviesi"
+    },
+    {
+      "name": "listview",
+      "value": "Sąrašo peržiūra"
+    },
+    {
+      "name": "loading",
+      "value": "Kraunama…"
+    },
+    {
+      "name": "location",
+      "value": "Vieta:"
+    },
+    {
+      "name": "moving",
+      "value": "Perkeliama"
+    },
+    {
+      "name": "name",
+      "value": "Pavadinimas:"
+    },
+    {
+      "name": "newfile",
+      "value": "Nauja byla"
+    },
+    {
+      "name": "newfolder",
+      "value": "Naujas aplankalas"
+    },
+    {
+      "name": "no",
+      "value": "Ne"
+    },
+    {
+      "name": "no_app_found",
+      "value": "Nerasta programėlė, kuri atidarytų šią bylą"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "Nėra perrašytų bylų"
+    },
+    {
+      "name": "no_files",
+      "value": "Nėra bylų"
+    },
+    {
+      "name": "none_on_top",
+      "value": "Nieko viršuje"
+    },
+    {
+      "name": "not_allowed",
+      "value": "Neleidžiama"
+    },
+    {
+      "name": "ok",
+      "value": "Gerai"
+    },
+    {
+      "name": "open",
+      "value": "Atidaryti"
+    },
+    {
+      "name": "open_parent",
+      "value": "Atidaryti tėvinę direktoriją"
+    },
+    {
+      "name": "open_with",
+      "value": "Atidaryti naudojant"
+    },
+    {
+      "name": "other",
+      "value": "Kita"
+    },
+    {
+      "name": "overwrite",
+      "value": "Perrašyti"
+    },
+    {
+      "name": "password",
+      "value": "Slaptažodis"
+    },
+    {
+      "name": "paste",
+      "value": "Įklijuoti"
+    },
+    {
+      "name": "path",
+      "value": "Kelias"
+    },
+    {
+      "name": "permission",
+      "value": "Leidimai"
+    },
+    {
+      "name": "permission_other",
+      "value": "Kita"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "Pasirinti bylą"
+    },
+    {
+      "name": "play",
+      "value": "Play parduotuvė"
+    },
+    {
+      "name": "press_again",
+      "value": "Paspauskite dar kart, kad išeitumėte"
+    },
+    {
+      "name": "process_viewer",
+      "value": "Procesų žiūryklė"
+    },
+    {
+      "name": "properties",
+      "value": "Ypatybės"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "Ar Jūs norite nustatyti dabartinį kelią kaip namų šiai kortelei?"
+    },
+    {
+      "name": "random",
+      "value": "Atsitiktinis apvalkalas"
+    },
+    {
+      "name": "random_summary",
+      "value": "Nustato atsitiktinę pirminę spalvą paleidžiant"
+    },
+    {
+      "name": "rename",
+      "value": "Pervardinti"
+    },
+    {
+      "name": "root_failure",
+      "value": "Root priėjimas nepatvirtintas"
+    },
+    {
+      "name": "root_mode",
+      "value": "Root aplankalų naršyklė"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "Tik įrenginiui su root teisėmis. Pažymėti tai, jei esate ištikrųjų tikri dėl to."
+    },
+    {
+      "name": "save",
+      "value": "Išsaugoti"
+    },
+    {
+      "name": "select",
+      "value": "Pasirinkti elementą"
+    },
+    {
+      "name": "select_all",
+      "value": "Pasirinkti viską"
+    },
+    {
+      "name": "set",
+      "value": "Nustayti"
+    },
+    {
+      "name": "set_as_home",
+      "value": "Nustatyti kaip namų"
+    },
+    {
+      "name": "set_random",
+      "value": "Pakeitimai įsigalios paleidus programėlę iš naujo"
+    },
+    {
+      "name": "setting",
+      "value": "Nustatymai"
+    },
+    {
+      "name": "share",
+      "value": "Pasidalinti"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Dydis"
+    },
+    {
+      "name": "skip",
+      "value": "Praleisti"
+    },
+    {
+      "name": "sort_by",
+      "value": "Rūšiuoti pagal"
+    },
+    {
+      "name": "sort_name",
+      "value": "Pavadinimas"
+    },
+    {
+      "name": "sort_size",
+      "value": "Dydis"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Pradžia"
+    },
+    {
+      "name": "stopping",
+      "value": "Stabdoma"
+    },
+    {
+      "name": "theme",
+      "value": "Tema"
+    },
+    {
+      "name": "uninstall",
+      "value": "Išinstaliuoti"
+    },
+    {
+      "name": "version",
+      "value": "Versija"
+    },
+    {
+      "name": "width",
+      "value": "Plotis"
+    },
+    {
+      "name": "yes",
+      "value": "Taip"
+    }
+  ]
+}

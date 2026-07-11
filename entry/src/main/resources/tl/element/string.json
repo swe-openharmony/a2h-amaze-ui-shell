@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "cancel",
+      "value": "KANSELAHIN"
+    },
+    {
+      "name": "color_title",
+      "value": "Kulay"
+    },
+    {
+      "name": "delete",
+      "value": "Tanggalin"
+    },
+    {
+      "name": "details",
+      "value": "Mga Detalye"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Kumpirmahin"
+    },
+    {
+      "name": "duration",
+      "value": "Tagal"
+    },
+    {
+      "name": "height",
+      "value": "Taas"
+    },
+    {
+      "name": "information",
+      "value": "Impormasyon"
+    },
+    {
+      "name": "path",
+      "value": "Daanan"
+    },
+    {
+      "name": "save",
+      "value": "I-save"
+    },
+    {
+      "name": "share",
+      "value": "Ibahagi"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Laki"
+    },
+    {
+      "name": "sort_size",
+      "value": "Laki"
+    },
+    {
+      "name": "version",
+      "value": "Bersyon"
+    },
+    {
+      "name": "width",
+      "value": "Lapad"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "cancel",
+      "value": "ይቅር"
+    },
+    {
+      "name": "color_title",
+      "value": "ቀለም"
+    },
+    {
+      "name": "delete",
+      "value": "ሰርዝ"
+    },
+    {
+      "name": "details",
+      "value": "ዝርዝሮች"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "አረጋግጥ"
+    },
+    {
+      "name": "duration",
+      "value": "የጊዜ መጠን፡"
+    },
+    {
+      "name": "exposure_time",
+      "value": "የብርሃነ መጠን ጊዜ"
+    },
+    {
+      "name": "focal_length",
+      "value": "የትክተት ርዝመት"
+    },
+    {
+      "name": "height",
+      "value": "ቁመት"
+    },
+    {
+      "name": "information",
+      "value": "መረጃ"
+    },
+    {
+      "name": "path",
+      "value": "ዱካ"
+    },
+    {
+      "name": "save",
+      "value": "አስቀምጥ"
+    },
+    {
+      "name": "share",
+      "value": "አጋራ"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "መጠን"
+    },
+    {
+      "name": "sort_size",
+      "value": "መጠን"
+    },
+    {
+      "name": "version",
+      "value": "ስሪት"
+    },
+    {
+      "name": "width",
+      "value": "ስፋት"
+    }
+  ]
+}

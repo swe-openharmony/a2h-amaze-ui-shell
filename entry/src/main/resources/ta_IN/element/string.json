@@ -1,0 +1,104 @@
+{
+  "string": [
+    {
+      "name": "changelog",
+      "value": "மாற்றம் பதிவு"
+    },
+    {
+      "name": "color_title",
+      "value": "நிறம்"
+    },
+    {
+      "name": "default_string",
+      "value": "இயல்புநிலை"
+    },
+    {
+      "name": "donate",
+      "value": "நன்கொடை"
+    },
+    {
+      "name": "done",
+      "value": "முடிந்தது"
+    },
+    {
+      "name": "edit",
+      "value": "திருத்தம்"
+    },
+    {
+      "name": "exit",
+      "value": "வெளியேறுதல்"
+    },
+    {
+      "name": "exposure_time",
+      "value": "வெளிப்பாடு நேரம்"
+    },
+    {
+      "name": "focal_length",
+      "value": "குவியத்தூரம்"
+    },
+    {
+      "name": "history",
+      "value": "வரலாறு"
+    },
+    {
+      "name": "home",
+      "value": "முகப்பு"
+    },
+    {
+      "name": "information",
+      "value": "தகவல்"
+    },
+    {
+      "name": "install",
+      "value": "நிறுவு"
+    },
+    {
+      "name": "no",
+      "value": "இல்லை"
+    },
+    {
+      "name": "ok",
+      "value": "சரி"
+    },
+    {
+      "name": "other",
+      "value": "பிற"
+    },
+    {
+      "name": "password",
+      "value": "கடவுச்சொல்"
+    },
+    {
+      "name": "permission_other",
+      "value": "பிற"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "அளவு"
+    },
+    {
+      "name": "skip",
+      "value": "தவிர்"
+    },
+    {
+      "name": "sort_size",
+      "value": "அளவு"
+    },
+    {
+      "name": "start_ftp",
+      "value": "ஆரம்பி"
+    },
+    {
+      "name": "text",
+      "value": "உரை"
+    },
+    {
+      "name": "version",
+      "value": "பதிப்பு"
+    },
+    {
+      "name": "yes",
+      "value": "ஆம்"
+    }
+  ]
+}

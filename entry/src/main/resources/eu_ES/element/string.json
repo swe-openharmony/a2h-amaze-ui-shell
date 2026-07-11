@@ -1,0 +1,2020 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Honi buruz"
+    },
+    {
+      "name": "about_amaze",
+      "value": "Androiderako diseinu materia duen fitxategi-kudeatzailea"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "Amaze File Manager-i buruz"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "FAB eta beste UI elementu txikien kolorea ezarri"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "Azentu kolorea"
+    },
+    {
+      "name": "accessed",
+      "value": "Atzituta"
+    },
+    {
+      "name": "add_item",
+      "value": "Gehitu elementua"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "Gehitu lasterbidea"
+    },
+    {
+      "name": "add_shortcut_not_supported_by_launcher",
+      "value": "Zure abiarazleak ez du onartzen lasterbideak sortzea."
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "Gehitu laster-marka"
+    },
+    {
+      "name": "advanced",
+      "value": "Aurreratua"
+    },
+    {
+      "name": "advanced_search",
+      "value": "Bilaketa aurreratua"
+    },
+    {
+      "name": "album",
+      "value": "Albuma"
+    },
+    {
+      "name": "anonymous",
+      "value": "Anonimoa"
+    },
+    {
+      "name": "aperture_value",
+      "value": "Irekidura balioa"
+    },
+    {
+      "name": "apks",
+      "value": "Apk-ak"
+    },
+    {
+      "name": "app_name",
+      "value": "Amaze fitxategi-kudeatzailea"
+    },
+    {
+      "name": "appbar_name",
+      "value": "Amaze"
+    },
+    {
+      "name": "apps",
+      "value": "Aplikazio kudeatzailea"
+    },
+    {
+      "name": "archive",
+      "value": "Artxiboa"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "Erauzitako artxiboen karpeta"
+    },
+    {
+      "name": "archive_summary",
+      "value": "Artxibo fitxategiak karpeta honetara erauziko dira. Lehenetsitako balioa artxiboaren karpeta bera da"
+    },
+    {
+      "name": "archive_text",
+      "value": "Hau artxibo bat da. Zer egin nahi duzu?"
+    },
+    {
+      "name": "artist",
+      "value": "Artista"
+    },
+    {
+      "name": "ascending",
+      "value": "Goranzkoa"
+    },
+    {
+      "name": "audio",
+      "value": "Audioa"
+    },
+    {
+      "name": "authenticate_password",
+      "value": "Sartu pasahitza"
+    },
+    {
+      "name": "author",
+      "value": "Egilea"
+    },
+    {
+      "name": "authors",
+      "value": "Egileak"
+    },
+    {
+      "name": "back_summary",
+      "value": "Atzerako nabigazio pertsonalizatua gaitzen du zerrendaren goiko aldera"
+    },
+    {
+      "name": "back_title",
+      "value": "Atzerako nabigazioa"
+    },
+    {
+      "name": "backup",
+      "value": "Babeskopia"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "Euskara"
+    },
+    {
+      "name": "bitrate",
+      "value": "Bit-emaria"
+    },
+    {
+      "name": "black",
+      "value": "Beltza (OLEDentzat)"
+    },
+    {
+      "name": "blue",
+      "value": "Urdina"
+    },
+    {
+      "name": "bluetooth",
+      "value": "Bluetooth"
+    },
+    {
+      "name": "bookmark_lost",
+      "value": "Ez da laster-marka aurkitu, birsortzen…"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "Laster-markak gehitu dira"
+    },
+    {
+      "name": "byte_singular",
+      "value": "byte"
+    },
+    {
+      "name": "bytes",
+      "value": "byte"
+    },
+    {
+      "name": "calculating",
+      "value": "kalkulatzen"
+    },
+    {
+      "name": "camera_brand",
+      "value": "Kameraren marka"
+    },
+    {
+      "name": "camera_model",
+      "value": "Kameraren modeloa"
+    },
+    {
+      "name": "cancel",
+      "value": "UTZI"
+    },
+    {
+      "name": "cancelled",
+      "value": "Bertan behera utzita"
+    },
+    {
+      "name": "cannot_overwrite",
+      "value": "Ezin da fitxategia gainidatzi."
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s(e)k ezin du hutsik egon"
+    },
+    {
+      "name": "change",
+      "value": "Aldatu"
+    },
+    {
+      "name": "changelog",
+      "value": "Aldaketak"
+    },
+    {
+      "name": "channel_description_ftp",
+      "value": "Amaze fitxategi-kudeatzailearen FTP zerbitzariaren jakinarazpenak"
+    },
+    {
+      "name": "channel_description_normal",
+      "value": "Amaze fitxategi-kudeatzailearen jakinarazpenak"
+    },
+    {
+      "name": "channel_name_ftp",
+      "value": "Amaze FTP zerbitzaria"
+    },
+    {
+      "name": "channel_name_normal",
+      "value": "Amaze jakinarazpenak"
+    },
+    {
+      "name": "channels",
+      "value": "Kanalak"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "Txinera"
+    },
+    {
+      "name": "choose_color",
+      "value": "Aukeratu kolorea"
+    },
+    {
+      "name": "circular_icons",
+      "value": "Erabili ikono zirkularrak"
+    },
+    {
+      "name": "circular_images",
+      "value": "Erabili ikono zirkularrak irudi eta bideoetan"
+    },
+    {
+      "name": "clear",
+      "value": "Garbitu"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "Bidea arbelera kopiatu da"
+    },
+    {
+      "name": "cloud_box",
+      "value": "Box"
+    },
+    {
+      "name": "cloud_connection",
+      "value": "Hodeiko konexioa"
+    },
+    {
+      "name": "cloud_connection_new",
+      "value": "Hodeiko konexio berria"
+    },
+    {
+      "name": "cloud_drive",
+      "value": "Google Drive™"
+    },
+    {
+      "name": "cloud_dropbox",
+      "value": "Dropbox"
+    },
+    {
+      "name": "cloud_error_failed_restart",
+      "value": "Huts egin du konexioa kargatzean.\n        Mesedez, ireki Amaze Cloud berriz."
+    },
+    {
+      "name": "cloud_error_plugin",
+      "value": "Ez da Amaze Cloud plugina aurkitu. Mesedez, deskargatu Play Store-tik."
+    },
+    {
+      "name": "cloud_fail_authenticate",
+      "value": "Huts egin du autentifikatzean"
+    },
+    {
+      "name": "cloud_get",
+      "value": "Eskuratu hodeiko plugina"
+    },
+    {
+      "name": "cloud_onedrive",
+      "value": "OneDrive"
+    },
+    {
+      "name": "cloud_remove",
+      "value": "Hodeiko konexioa kendu nahi duzu?"
+    },
+    {
+      "name": "cloud_share_copied",
+      "value": "Partekatu daitekeen esteka arbelera kopiatu da"
+    },
+    {
+      "name": "cloud_token_lost",
+      "value": "Token-a galdu da, mesedez hasi saioa berriro"
+    },
+    {
+      "name": "codec",
+      "value": "Codec-a"
+    },
+    {
+      "name": "color_summary",
+      "value": "Ezarri UIko hainbat osagairen kolorea"
+    },
+    {
+      "name": "color_title",
+      "value": "Kolorea"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "Nabigazio barra koloreztatua"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "Sistemaren nabigazio barra azalarekin koloreztatzen den edo ez"
+    },
+    {
+      "name": "colorize",
+      "value": "Koloreztatu ikonoak"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "Ikonoentzako kolore estatikoa ezartzen du. Ez du direktorioaren ikono kolorearen hobespena gainidazten."
+    },
+    {
+      "name": "comment",
+      "value": "Iruzkina"
+    },
+    {
+      "name": "compress",
+      "value": "Konprimitu"
+    },
+    {
+      "name": "compress_file_suggest_zip_extension",
+      "value": "Fitxategiaren luzapen bezala \".zip\" erabiltzea gomendatzen da."
+    },
+    {
+      "name": "compressed",
+      "value": "Konprimatua"
+    },
+    {
+      "name": "compressing",
+      "value": "Konprimatzen"
+    },
+    {
+      "name": "compression_complete",
+      "value": "Konpresioa burututa"
+    },
+    {
+      "name": "connection_exists",
+      "value": "Konexioa dagoeneko existitzen da"
+    },
+    {
+      "name": "connection_name",
+      "value": "Konexioaren izena"
+    },
+    {
+      "name": "container",
+      "value": "Edukiontzia"
+    },
+    {
+      "name": "contributors",
+      "value": "Laguntzaileak"
+    },
+    {
+      "name": "contributors_1_summary",
+      "value": "Itzulpena"
+    },
+    {
+      "name": "contributors_2_summary",
+      "value": "Ikono eta iragarki-bandak"
+    },
+    {
+      "name": "contributors_3_summary",
+      "value": "Gaiaren motorra"
+    },
+    {
+      "name": "contributors_4_summary",
+      "value": "Itzaldu FABaren atzean"
+    },
+    {
+      "name": "contributors_5_summary",
+      "value": "Kolore trantsizioa fitxaz aldatzean"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "FTP zerbitzaria"
+    },
+    {
+      "name": "contributors_7_summary",
+      "value": "Shell interaktibo bat abiaraztea"
+    },
+    {
+      "name": "copied",
+      "value": "kopiatu"
+    },
+    {
+      "name": "copy",
+      "value": "Kopiatu"
+    },
+    {
+      "name": "copy_complete",
+      "value": "Kopiatzea burutu da"
+    },
+    {
+      "name": "copy_error",
+      "value": "Zenbait fitxategi ez dira behar bezala %s"
+    },
+    {
+      "name": "copy_low_memory",
+      "value": "Memoriarik gabe gelditzen, mesedez garbitu RAM pixka bat"
+    },
+    {
+      "name": "copying",
+      "value": "Kopiatzen"
+    },
+    {
+      "name": "create",
+      "value": "SORTU"
+    },
+    {
+      "name": "create_file_suggest_txt_extension",
+      "value": "Fitxategiaren luzapen bezala \".txt\" erabiltzea gomendatzen da."
+    },
+    {
+      "name": "create_hidden_file_warn",
+      "value": "Sortutako fitxategia ezkutuan egongo da fitxategi zerrendan."
+    },
+    {
+      "name": "created",
+      "value": "Sortua"
+    },
+    {
+      "name": "creatingfile",
+      "value": "Fitxategia sortzen"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "Karpeta sortzen"
+    },
+    {
+      "name": "creator",
+      "value": "Sortzailea"
+    },
+    {
+      "name": "crypt_decrypt",
+      "value": "Desenkriptatu"
+    },
+    {
+      "name": "crypt_decrypted",
+      "value": "Desenkriptatuta"
+    },
+    {
+      "name": "crypt_decrypting",
+      "value": "Desenkriptatzen"
+    },
+    {
+      "name": "crypt_decryption_fail",
+      "value": "Huts egin du desenkriptatzean"
+    },
+    {
+      "name": "crypt_decryption_fail_password",
+      "value": "Pasahitz okerra!"
+    },
+    {
+      "name": "crypt_encrypt",
+      "value": "Enkriptatu"
+    },
+    {
+      "name": "crypt_encrypted",
+      "value": "Enkriptatuta"
+    },
+    {
+      "name": "crypt_encrypting",
+      "value": "Enkriptatzen"
+    },
+    {
+      "name": "crypt_encryption_fail",
+      "value": "Huts egin du enkriptatzean"
+    },
+    {
+      "name": "crypt_fingerprint_authenticate",
+      "value": "Ukitu sentsorea jarraitzeko"
+    },
+    {
+      "name": "crypt_fingerprint_no_permission",
+      "value": "Hatz-marka baimenak falta dira"
+    },
+    {
+      "name": "crypt_fingerprint_no_security",
+      "value": "Ez da blokeatutako pantailako segurtasunik aurkitu"
+    },
+    {
+      "name": "crypt_fingerprint_not_enrolled",
+      "value": "Hatz-markarik ez da erregistratu"
+    },
+    {
+      "name": "crypt_pref_fingerprint_summary",
+      "value": "Erabili hatz-marka enkriptatzea autentifikatzeko"
+    },
+    {
+      "name": "crypt_pref_fingerprint_title",
+      "value": "Hatz-marka"
+    },
+    {
+      "name": "crypt_pref_master_password_summary",
+      "value": "Ezarri pasahitz nagusi bat enkriptatzeko.\n        Hutsik utzi kentzeko."
+    },
+    {
+      "name": "crypt_pref_master_password_title",
+      "value": "Pasahitz nagusia"
+    },
+    {
+      "name": "crypt_warning_key",
+      "value": "Kontutan izan, Sistemaren ezarpenetan segurtasun eredua\n        aldatzen duzunean, ezingo duzula eduki hau desenkriptatu."
+    },
+    {
+      "name": "current_speed",
+      "value": "Uneko abiadura"
+    },
+    {
+      "name": "custom",
+      "value": "Pertsonalizatua"
+    },
+    {
+      "name": "customize",
+      "value": "Pertsonalizatu"
+    },
+    {
+      "name": "cut",
+      "value": "Moztu"
+    },
+    {
+      "name": "dark",
+      "value": "Material iluna"
+    },
+    {
+      "name": "database",
+      "value": "Datu-basea"
+    },
+    {
+      "name": "databasereader",
+      "value": "Datu-base irakurlea"
+    },
+    {
+      "name": "date",
+      "value": "Data"
+    },
+    {
+      "name": "date_modified",
+      "value": "Aldatutako data"
+    },
+    {
+      "name": "date_taken",
+      "value": "Argazkia egindako data"
+    },
+    {
+      "name": "daytime",
+      "value": "Egunekoa"
+    },
+    {
+      "name": "default_string",
+      "value": "Lehenetsia"
+    },
+    {
+      "name": "delbook",
+      "value": "Ezabatu laster-marka"
+    },
+    {
+      "name": "delete",
+      "value": "Ezabatu"
+    },
+    {
+      "name": "deleting",
+      "value": "Ezabatzen"
+    },
+    {
+      "name": "descending",
+      "value": "Beheranzkoa"
+    },
+    {
+      "name": "deselect_all",
+      "value": "Desautatu guztiak"
+    },
+    {
+      "name": "details",
+      "value": "Xehetasunak"
+    },
+    {
+      "name": "developers",
+      "value": "Garatzaileak"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "Direktorioak"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "Fitxategiak"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "Beheko elementuak ezabatzean zure gailutik behin betiko kenduko dira eta ezingo dira berreskuratu."
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Gailuak behin betiko ezabatu?"
+    },
+    {
+      "name": "dimensions",
+      "value": "Neurriak"
+    },
+    {
+      "name": "directory",
+      "value": "Direktorioa"
+    },
+    {
+      "name": "directorysort",
+      "value": "Direktorioa sailkatzeko modua"
+    },
+    {
+      "name": "documents",
+      "value": "Dokumentuak"
+    },
+    {
+      "name": "doforall",
+      "value": "Egin elementu guztietarako"
+    },
+    {
+      "name": "doit",
+      "value": "Egin"
+    },
+    {
+      "name": "domain",
+      "value": "Domeinua"
+    },
+    {
+      "name": "donate",
+      "value": "Egin dohaintza"
+    },
+    {
+      "name": "done",
+      "value": "Eginda"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Itxi nabigazio tiradera"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Ireki nabigazio tiradera"
+    },
+    {
+      "name": "duration",
+      "value": "Iraupena"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "Nederlandera"
+    },
+    {
+      "name": "easter_egg_title",
+      "value": "Studio modua"
+    },
+    {
+      "name": "edit",
+      "value": "Editatu"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "Gaitu root modua"
+    },
+    {
+      "name": "encrypt_file_must_end_with_aze",
+      "value": "Enkriptatutako fitxategiek \".aze\" luzapena eduki behar dute."
+    },
+    {
+      "name": "encrypt_file_save_as",
+      "value": "Gorde enkriptatutako fitxategia honela…"
+    },
+    {
+      "name": "encrypt_folder_save_as",
+      "value": "Gorde enkriptatutako karpeta honela…"
+    },
+    {
+      "name": "encryption_fail_copy",
+      "value": "Huts egin du datu-basean enkriptatze sarrera eguneratzean"
+    },
+    {
+      "name": "entername",
+      "value": "Sartu izena"
+    },
+    {
+      "name": "enterpath",
+      "value": "Sartu bidea"
+    },
+    {
+      "name": "enterzipname",
+      "value": "Sartu zip fitxategiaren izena"
+    },
+    {
+      "name": "error",
+      "value": "Errorea"
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "Errorea: fitxategia ez da aurkitu"
+    },
+    {
+      "name": "error_io",
+      "value": "S/I errorea"
+    },
+    {
+      "name": "exit",
+      "value": "Irten"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Esposizio denbora"
+    },
+    {
+      "name": "extract",
+      "value": "Erauzi"
+    },
+    {
+      "name": "extract_complete",
+      "value": "Erauzketa burututa"
+    },
+    {
+      "name": "extracted",
+      "value": "Erauzita"
+    },
+    {
+      "name": "extracting",
+      "value": "Erauzten"
+    },
+    {
+      "name": "failed_cloud_api_key",
+      "value": "Huts egin du Cloud plugina autentifikatzean"
+    },
+    {
+      "name": "failed_cloud_new_connection",
+      "value": "Huts egin du Cloud konexio berria gehitzean"
+    },
+    {
+      "name": "failed_no_connection",
+      "value": "Huts egin du fitxategiak kargatzean. Egiaztatu zure konexioa."
+    },
+    {
+      "name": "failed_smb_decrypt_path",
+      "value": "Huts egin du SMB konexioa kargatzean"
+    },
+    {
+      "name": "feedback",
+      "value": "Bidali iritzia"
+    },
+    {
+      "name": "field_empty",
+      "value": "Eremuak ezin du hutsik egon"
+    },
+    {
+      "name": "file",
+      "value": "Fitxategia"
+    },
+    {
+      "name": "file_empty",
+      "value": "Fitxategia hutsik dago"
+    },
+    {
+      "name": "file_read_only",
+      "value": "Irekitako fitxategia irakurtzeko soilik da."
+    },
+    {
+      "name": "fileexist",
+      "value": "Izen bereko fitxategia existitzen da"
+    },
+    {
+      "name": "filename",
+      "value": "Fitxategi-izena"
+    },
+    {
+      "name": "files",
+      "value": "Fitxategiak"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "Fitxategiak gainean"
+    },
+    {
+      "name": "find",
+      "value": "Bilatu orrian"
+    },
+    {
+      "name": "flash_fired",
+      "value": "Flash-a erabilita"
+    },
+    {
+      "name": "focal_length",
+      "value": "Foku-distantzia"
+    },
+    {
+      "name": "folder",
+      "value": "Karpeta"
+    },
+    {
+      "name": "folderfilecount",
+      "value": "%1$d karpeta eta %2$d fitxategi"
+    },
+    {
+      "name": "folders",
+      "value": "Karpetak"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "Karpetak gainean"
+    },
+    {
+      "name": "format",
+      "value": "Formatua"
+    },
+    {
+      "name": "frame_rate",
+      "value": "Fotograma-abiadura"
+    },
+    {
+      "name": "free",
+      "value": "libre"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "Frantsesa"
+    },
+    {
+      "name": "ftp",
+      "value": "FTP zerbitzaria"
+    },
+    {
+      "name": "ftp_login",
+      "value": "Hasi saioa"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "Egiaztatu ezazu Wi-Fira konektatuta zaudela"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "FTP zerbitzaria hasten ari da"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "GELDITU"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "%s(e)n"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "Amaze FTP zerbitzaria exekutatzen"
+    },
+    {
+      "name": "ftp_path",
+      "value": "Partekatutako bidea"
+    },
+    {
+      "name": "ftp_path_change_error_invalid",
+      "value": "Bide baliogabea"
+    },
+    {
+      "name": "ftp_path_change_success",
+      "value": "FTP bidea ongi aldatu da"
+    },
+    {
+      "name": "ftp_path_hint",
+      "value": "Partekatu beharreko direktorioaren erroaren bidea"
+    },
+    {
+      "name": "ftp_port",
+      "value": "Ataka"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "Ataka zenbaki baliogabea hautatu da"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "FTP ataka ongi aldatu da"
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "FTP ataka"
+    },
+    {
+      "name": "ftp_seconds",
+      "value": "segundo"
+    },
+    {
+      "name": "ftp_status_no_connection",
+      "value": "Konexiorik ez"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "Ez da exekutatzen ari"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "Exekutatzen"
+    },
+    {
+      "name": "ftp_status_secure_connection",
+      "value": "Konexio segurua"
+    },
+    {
+      "name": "ftp_status_title",
+      "value": "Egoera"
+    },
+    {
+      "name": "ftp_timeout",
+      "value": "Inaktibo denbora-muga"
+    },
+    {
+      "name": "general",
+      "value": "Orokorra"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "Alemana"
+    },
+    {
+      "name": "github",
+      "value": "GitHub"
+    },
+    {
+      "name": "go",
+      "value": "Joan"
+    },
+    {
+      "name": "goback",
+      "value": "Atzera"
+    },
+    {
+      "name": "got_it",
+      "value": "Ulertuta!"
+    },
+    {
+      "name": "grant",
+      "value": "Eman"
+    },
+    {
+      "name": "grant_apkinstall_permission",
+      "value": "Aplikazioak instalatzeko baimena behar du aplikazioak aurrera jarraitzeko."
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "Aplikazioak biltegirako baimena behar du jarraitzeko. Leiho hau ixteak aplikazioa itxiko du."
+    },
+    {
+      "name": "grantfailed",
+      "value": "Ez da baimenik eman"
+    },
+    {
+      "name": "grantper",
+      "value": "Eman baimena"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "Greziera"
+    },
+    {
+      "name": "green",
+      "value": "Berdea"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "Zutabe kopurua sareta ikuspegian"
+    },
+    {
+      "name": "gridview",
+      "value": "Sareta ikuspegia"
+    },
+    {
+      "name": "hash_sha256",
+      "value": "SHA-256"
+    },
+    {
+      "name": "height",
+      "value": "Altuera"
+    },
+    {
+      "name": "hidden",
+      "value": "Ezkutuko fitxategi eta karpetak erakutsi"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "Ezkutuko fitxategiak"
+    },
+    {
+      "name": "hide",
+      "value": "Ezkutatu"
+    },
+    {
+      "name": "history",
+      "value": "Historia"
+    },
+    {
+      "name": "home",
+      "value": "Etxea"
+    },
+    {
+      "name": "icon",
+      "value": "ikonoa"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "Ezarri ikonoen kolorea"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "Ikonoen kolorea"
+    },
+    {
+      "name": "image",
+      "value": "Irudia"
+    },
+    {
+      "name": "image_iso",
+      "value": "ISO abiaduraren balorazioa"
+    },
+    {
+      "name": "image_type",
+      "value": "Irudi mota"
+    },
+    {
+      "name": "images",
+      "value": "Irudiak"
+    },
+    {
+      "name": "in_safe",
+      "value": "Ez dago leku nahikorik"
+    },
+    {
+      "name": "information",
+      "value": "Informazioa"
+    },
+    {
+      "name": "install",
+      "value": "Instalatu"
+    },
+    {
+      "name": "intellihide_toolbar_summary",
+      "value": "Ezkutatu tresna-barra automatikoki korritzean"
+    },
+    {
+      "name": "intellihide_toolbar_title",
+      "value": "Ezkutatu tresna-barra adimentsuki"
+    },
+    {
+      "name": "intent_save_as",
+      "value": "Gorde honela…"
+    },
+    {
+      "name": "invalid",
+      "value": "%s baliogabea"
+    },
+    {
+      "name": "invalid_name",
+      "value": "Izen baliogabea"
+    },
+    {
+      "name": "ip",
+      "value": "Helbidea"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "Italiera"
+    },
+    {
+      "name": "item",
+      "value": "elementu"
+    },
+    {
+      "name": "items",
+      "value": "elementu"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "Japoniera"
+    },
+    {
+      "name": "keywords",
+      "value": "Gako-hitzak"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "Koreera"
+    },
+    {
+      "name": "lastModified",
+      "value": "Azken aldaketa"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "Erakutsi azken aldaketa"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "Erakutsi fitxategia azken aldiz aldatu zen data eta ordua"
+    },
+    {
+      "name": "libraries",
+      "value": "Liburutegiak"
+    },
+    {
+      "name": "license",
+      "value": "Lizentzia"
+    },
+    {
+      "name": "light",
+      "value": "Material argia"
+    },
+    {
+      "name": "listview",
+      "value": "Zerrenda ikuspegia"
+    },
+    {
+      "name": "loading",
+      "value": "Kargatzen…"
+    },
+    {
+      "name": "local_inet_addr_error",
+      "value": "Errorea inet helbide lokala eskuratzean"
+    },
+    {
+      "name": "location",
+      "value": "Kokapena"
+    },
+    {
+      "name": "match_content",
+      "value": "Edukiarekin bat egin"
+    },
+    {
+      "name": "match_content_summary",
+      "value": "Ezartzen bada, espresio erregularra fitxategi-izen osoarekin bat datorren begiratuko da,\n        bestela agertzen den bilatuko da."
+    },
+    {
+      "name": "md5",
+      "value": "MD5"
+    },
+    {
+      "name": "medium_text",
+      "value": "Testu ertaina"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "Beste batzuk"
+    },
+    {
+      "name": "modified",
+      "value": "Aldatuta"
+    },
+    {
+      "name": "monofont",
+      "value": "Monospace letra-tipoa"
+    },
+    {
+      "name": "moved",
+      "value": "lekuz aldatu"
+    },
+    {
+      "name": "moving",
+      "value": "Lekuz aldatzen"
+    },
+    {
+      "name": "multiple_invalid_archive_entries",
+      "value": "Artxiboko zenbait fitxategi ezin dira erauzi; artxiboa hondatua egon daiteke edo jatorri maltzurrekoa izan daiteke."
+    },
+    {
+      "name": "name",
+      "value": "Izena"
+    },
+    {
+      "name": "needs_access",
+      "value": "Idazteko baimena behar da"
+    },
+    {
+      "name": "needs_access_summary",
+      "value": "Mesedez aukera ezazu honen root direktorioa: \\t"
+    },
+    {
+      "name": "needs_access_summary1",
+      "value": "\\thonekin jarduteko idazteko baimena emateko:"
+    },
+    {
+      "name": "newfile",
+      "value": "Fitxategi berria"
+    },
+    {
+      "name": "newfolder",
+      "value": "Karpeta berria"
+    },
+    {
+      "name": "no",
+      "value": "Ez"
+    },
+    {
+      "name": "no_app_found",
+      "value": "Ez da aurkitu fitxategi hau irekitzeko aplikaziorik"
+    },
+    {
+      "name": "no_applications",
+      "value": "Aplikaziorik ez"
+    },
+    {
+      "name": "no_bitcoin_app",
+      "value": "Instalatu bitcoin diru-zorro bat"
+    },
+    {
+      "name": "no_device_found",
+      "value": "Ez da gailurik aurkitu"
+    },
+    {
+      "name": "no_file_error",
+      "value": "Zerbaitek huts egin du, ez dago zer irekirik"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "Ez da fitxategirik gainidatzi"
+    },
+    {
+      "name": "no_files",
+      "value": "Fitxategirik ez"
+    },
+    {
+      "name": "no_items",
+      "value": "Elementurik ez"
+    },
+    {
+      "name": "no_name",
+      "value": "Fitxategiak izen bat izan behar du"
+    },
+    {
+      "name": "no_obtainable_info",
+      "value": "Ez dago fitxategi honi buruzko informaziorik"
+    },
+    {
+      "name": "none_on_top",
+      "value": "Bat ere ez gainean"
+    },
+    {
+      "name": "not_allowed",
+      "value": "Ez da onartzen"
+    },
+    {
+      "name": "not_found_enabled_webview",
+      "value": "Ez da nabigatzaile erabilgaririk aurkitu"
+    },
+    {
+      "name": "of",
+      "value": "/"
+    },
+    {
+      "name": "ok",
+      "value": "ADOS"
+    },
+    {
+      "name": "open",
+      "value": "Ireki"
+    },
+    {
+      "name": "open_as",
+      "value": "Ireki honela"
+    },
+    {
+      "name": "open_parent",
+      "value": "Ireki guraso direktorioa"
+    },
+    {
+      "name": "open_with",
+      "value": "Ireki honekin"
+    },
+    {
+      "name": "opening",
+      "value": "Irekitzen..."
+    },
+    {
+      "name": "operation_fail_following",
+      "value": "Eragiketak huts egin du ondorengo fitxategientzat"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "Eragiketa ez da ongi burutu"
+    },
+    {
+      "name": "optimized",
+      "value": "Optimizatua"
+    },
+    {
+      "name": "orange",
+      "value": "Laranja"
+    },
+    {
+      "name": "otg_access",
+      "value": "Hautatu OTG gailuaren erroa"
+    },
+    {
+      "name": "other",
+      "value": "Beste bat"
+    },
+    {
+      "name": "out_of",
+      "value": "/"
+    },
+    {
+      "name": "overwrite",
+      "value": "Gainidatzi"
+    },
+    {
+      "name": "package_installer",
+      "value": "Pakete instalatzailea"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "Hau pakete instalatzaile bat da. Zer egin nahi duzu?"
+    },
+    {
+      "name": "pages",
+      "value": "Orri kopurua"
+    },
+    {
+      "name": "paper_size",
+      "value": "Paperaren neurria"
+    },
+    {
+      "name": "password",
+      "value": "Pasahitza"
+    },
+    {
+      "name": "password_no_match",
+      "value": "Pasahitzak ez datoz bat"
+    },
+    {
+      "name": "password_repeat",
+      "value": "Errepikatu pasahitza"
+    },
+    {
+      "name": "password_unchanged",
+      "value": "(aldatu gabe)"
+    },
+    {
+      "name": "paste",
+      "value": "Itsatsi"
+    },
+    {
+      "name": "path",
+      "value": "Bidea"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "Paypal id-a arbelera kopiatu da"
+    },
+    {
+      "name": "permission",
+      "value": "Baimenak"
+    },
+    {
+      "name": "permission_execute",
+      "value": "Exekutatu"
+    },
+    {
+      "name": "permission_group",
+      "value": "Taldea"
+    },
+    {
+      "name": "permission_other",
+      "value": "Beste bat"
+    },
+    {
+      "name": "permission_owner",
+      "value": "Jabea"
+    },
+    {
+      "name": "permission_read",
+      "value": "Irakurri"
+    },
+    {
+      "name": "permission_write",
+      "value": "Idatzi"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "Hautatu fitxategi bat"
+    },
+    {
+      "name": "play",
+      "value": "Play store"
+    },
+    {
+      "name": "please_wait",
+      "value": "Itxaron mesedez"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "Poloniera"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "Portugesa"
+    },
+    {
+      "name": "preference_newstack_summary",
+      "value": "Fixategiak ataza bereizi bezala irekitzea baimentzen du. Sistemaren azkenak pantailatik atzi ditzakezu."
+    },
+    {
+      "name": "preference_newstack_title",
+      "value": "Ireki fitxategiak ataza berri bezala"
+    },
+    {
+      "name": "preselected_configs_title",
+      "value": "Aurrez hautatutako konfigurazioak"
+    },
+    {
+      "name": "press_again",
+      "value": "Sakatu berriro irteteko"
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "Ezarri ezkerreko fitxako UI elementu handien kolorea"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "Lehen kolorea (ezkerreko fitxa)"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "Ezarri eskuineko fitxako UI elementu handien kolorea"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "Kolore nagusia (eskuineko fitxa)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "Prozesu ikustailea"
+    },
+    {
+      "name": "processed",
+      "value": "Prozesatua"
+    },
+    {
+      "name": "processing",
+      "value": "Prozesatzen…"
+    },
+    {
+      "name": "processing_file",
+      "value": "Fitxategia prozesatzen"
+    },
+    {
+      "name": "producer",
+      "value": "Ekoizlea"
+    },
+    {
+      "name": "properties",
+      "value": "Propietateak"
+    },
+    {
+      "name": "properties_copied_clipboard",
+      "value": "arbelera kopiatuta"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "Uneko bidea fitxa honen etxe bezala ezarri nahi duzu?"
+    },
+    {
+      "name": "quick",
+      "value": "Sarrera azkarra"
+    },
+    {
+      "name": "random",
+      "value": "Ausazko azala"
+    },
+    {
+      "name": "random_summary",
+      "value": "Ausazko gaia ezartzen du abioan"
+    },
+    {
+      "name": "rate",
+      "value": "Baloratu aplikazioa"
+    },
+    {
+      "name": "recent",
+      "value": "Duela gutxiko fitxategiak"
+    },
+    {
+      "name": "regular_expression",
+      "value": "Adierazpen erregularra"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "Bilatu BASH antzeko adierazpen erregular bat erabiliz"
+    },
+    {
+      "name": "rename",
+      "value": "Berrizendatu"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "Aldatu laster-marka"
+    },
+    {
+      "name": "renaming",
+      "value": "Berrizendatzen"
+    },
+    {
+      "name": "reopen_from_source",
+      "value": "Ezin da, ireki azken aplikaziotik"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "Eman erroreen berri edo eskatu ezaugarri berri bat"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "Eman erroreen berri"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "Errumaniera"
+    },
+    {
+      "name": "root_directory",
+      "value": "Root"
+    },
+    {
+      "name": "root_failure",
+      "value": "Root baimenik ez"
+    },
+    {
+      "name": "root_mode",
+      "value": "Root esploratzailea"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "Root duten gailuentzat soilik. Ziur bazaude bakarrik hautatu."
+    },
+    {
+      "name": "root_pref",
+      "value": "Erakutsi baimenak"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "Erakutsi fitxategi eta karpeten baimenak"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "Errusiera"
+    },
+    {
+      "name": "saf_otg_explanation",
+      "value": "Androiden fitxategi-sistemara joango zara orain segurtasun arrazoiengatik. Hautatu USB gailua ezkerreko zerrendatik."
+    },
+    {
+      "name": "sample_rate",
+      "value": "Laginaren abiadura"
+    },
+    {
+      "name": "save",
+      "value": "Gorde"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "Abiaraztean fitxa bakoitzean azkenengoz ikusitako karpeta bistaratuko da"
+    },
+    {
+      "name": "save_paths",
+      "value": "Gogoratu bideak"
+    },
+    {
+      "name": "saved_multi_files",
+      "value": "%d fitxategi gorde dira."
+    },
+    {
+      "name": "saved_single_file",
+      "value": "Fitxategia honela gorde da: '%s'."
+    },
+    {
+      "name": "saving",
+      "value": "Gordetzen"
+    },
+    {
+      "name": "scp_connection",
+      "value": "SCP/SFTP konexioa"
+    },
+    {
+      "name": "scp_port",
+      "value": "Ataka"
+    },
+    {
+      "name": "search",
+      "value": "Bilatu"
+    },
+    {
+      "name": "search_hint",
+      "value": "Idatzi bilatzeko…"
+    },
+    {
+      "name": "search_results",
+      "value": "%s(r)en bilaketaren emaitzak"
+    },
+    {
+      "name": "searching",
+      "value": "%s bilatzen"
+    },
+    {
+      "name": "searching_devices",
+      "value": "Gailuak bilatzen"
+    },
+    {
+      "name": "security",
+      "value": "Segurtasuna"
+    },
+    {
+      "name": "select",
+      "value": "Hautatu elementua"
+    },
+    {
+      "name": "select_all",
+      "value": "Hautatu dena"
+    },
+    {
+      "name": "select_color_config",
+      "value": "Hautatu kolore konfigurazioa"
+    },
+    {
+      "name": "select_intent",
+      "value": "Hautatu"
+    },
+    {
+      "name": "send_email_to",
+      "value": "Bidali e-posta honi"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "Serbiera"
+    },
+    {
+      "name": "server_address",
+      "value": "Zerbitzariaren IP helbidea"
+    },
+    {
+      "name": "service_timer",
+      "value": "Igarotako denbora"
+    },
+    {
+      "name": "set",
+      "value": "Ezarri"
+    },
+    {
+      "name": "set_as_home",
+      "value": "Ezarri etxeko karpeta bezala"
+    },
+    {
+      "name": "set_random",
+      "value": "Aldaketak aplikazioa berrabiarazterakoan gertatuko dira"
+    },
+    {
+      "name": "setting",
+      "value": "Ezarpenak"
+    },
+    {
+      "name": "share",
+      "value": "Partekatu"
+    },
+    {
+      "name": "share_limit",
+      "value": "Ezin dira 100 fitxategi baino gehiago partekatu"
+    },
+    {
+      "name": "showHeaders",
+      "value": "Erakutsi goiburuak"
+    },
+    {
+      "name": "show_dividers",
+      "value": "Erakutsi banatzaileak"
+    },
+    {
+      "name": "show_quick_access_pref",
+      "value": "Sarbide azkarrak"
+    },
+    {
+      "name": "show_quick_access_pref_title",
+      "value": "Erakutsi sarbide azkarrak"
+    },
+    {
+      "name": "sidebar_preferences",
+      "value": "Alboko barra"
+    },
+    {
+      "name": "sidebar_quick_access_title",
+      "value": "Alboko barrara sarbide azkarra"
+    },
+    {
+      "name": "size",
+      "value": "Karpetaren tamaina"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Tamaina"
+    },
+    {
+      "name": "size_pref",
+      "value": "Erakutsi tamainak"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "Erakutsi fitxategien tamaina eta elementu kopurua karpetetan"
+    },
+    {
+      "name": "skip",
+      "value": "Saltatu"
+    },
+    {
+      "name": "smb_connection",
+      "value": "SMB konexioa"
+    },
+    {
+      "name": "smb_launch_error",
+      "value": "Fitxategi hau irekitzeko biltegira kopiatu beharko duzu"
+    },
+    {
+      "name": "software",
+      "value": "Softwarea"
+    },
+    {
+      "name": "sort",
+      "value": "Ordenatu"
+    },
+    {
+      "name": "sort_by",
+      "value": "Sailkatu honen arabera"
+    },
+    {
+      "name": "sort_name",
+      "value": "Izena"
+    },
+    {
+      "name": "sort_only_this",
+      "value": "Soilik karpeta hau"
+    },
+    {
+      "name": "sort_size",
+      "value": "Tamaina"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "Gaztelania"
+    },
+    {
+      "name": "ssh_authentication_failure_key",
+      "value": "Saioa hastean arazoa: Ezin da emandako erabiltzaile-izen eta gako pribatuarekin autentifikatu."
+    },
+    {
+      "name": "ssh_authentication_failure_password",
+      "value": "Saioa hastean arazoa: Ezin da emandako erabiltzaile-izen eta pasahitzarekin autentifikatu."
+    },
+    {
+      "name": "ssh_connect_failed",
+      "value": "Ezin da konektatu %1$s(e)ra:%2$d: %3$s"
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_message",
+      "value": "POSIBLE DA NORBAIT MALTZURKERIA BAT EGITEN ARITZEA!\\n\\n\n        Baliteke norbait ezkutuan entzuten egotea une honetan (man-in-the-middle erasoa)! Baliteke ostalariaren gakoa aldatu izana ere. Urruneko ostalariak bidalitako gako publikoaren hatz-marka ez dator bat Amazen gordetakoarekin.\\n\\n\n        Jakinarazi zure sistemaren administratzaileari edo konfiguratu konexio berri bat zerbitzarira konektatzeko."
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_title",
+      "value": "ABISUA: URRUNEKO OSTALARIAREN IDENTIFIKAZIOA ALDATU DA!"
+    },
+    {
+      "name": "ssh_host_key_verification_prompt",
+      "value": "Ezin da ostalariaren egiazkotasuna ziurtatu %1$s.n\\n%2$s gakoaren hatz-marka %3$s da.\\n\\nSakatu \"Bai\" identitatea berresteko; bestela, sakatu \"Ez\"."
+    },
+    {
+      "name": "ssh_host_key_verification_prompt_title",
+      "value": "Egiaztatu ostalaria"
+    },
+    {
+      "name": "ssh_key_invalid_passphrase",
+      "value": "Gakoaren pasaesaldi baliogabea."
+    },
+    {
+      "name": "ssh_key_prompt_passphrase",
+      "value": "Sartu gakoaren pasaesaldia."
+    },
+    {
+      "name": "ssh_pem_key_parse_error",
+      "value": "Ezin da hautatutako PEM irakurri: %s"
+    },
+    {
+      "name": "ssh_select_pem",
+      "value": "Hautatu autentifikaziorako gako pribatua"
+    },
+    {
+      "name": "ssh_select_pem_button",
+      "value": "SSH gako pribatua"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Hasi"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "Gelditu"
+    },
+    {
+      "name": "stopping",
+      "value": "Gelditzen"
+    },
+    {
+      "name": "subject",
+      "value": "Gaia"
+    },
+    {
+      "name": "support_development",
+      "value": "Sostengatu garapena"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "Tamilera"
+    },
+    {
+      "name": "text",
+      "value": "Testua"
+    },
+    {
+      "name": "text_editor",
+      "value": "Testu-editorearen ezarpenak"
+    },
+    {
+      "name": "textreader",
+      "value": "Testu irakurlea"
+    },
+    {
+      "name": "theme",
+      "value": "Gaia"
+    },
+    {
+      "name": "thumb",
+      "value": "Erakutsi koadro txikiak"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "Erakutsi aplikazioen eta irudien koadro txikiak"
+    },
+    {
+      "name": "time_remaining",
+      "value": "Gelditzen den denbora"
+    },
+    {
+      "name": "title",
+      "value": "Izenburua"
+    },
+    {
+      "name": "total",
+      "value": "Guztira:"
+    },
+    {
+      "name": "transfer_rate",
+      "value": "Transferentzia-abiadura"
+    },
+    {
+      "name": "translate_summary",
+      "value": "Itzuli Amaze zure hizkuntzara"
+    },
+    {
+      "name": "translate_title",
+      "value": "Itzuli"
+    },
+    {
+      "name": "translators",
+      "value": "Itzultzaileak"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "Turkiera"
+    },
+    {
+      "name": "type",
+      "value": "Mota"
+    },
+    {
+      "name": "typeable_paths_summary",
+      "value": "Mantendu bide-barra sakatuta bide pertsonalizatu bat idazteko"
+    },
+    {
+      "name": "typeable_paths_title",
+      "value": "Bide pertsonalizatuak"
+    },
+    {
+      "name": "ui",
+      "value": "Interfazea"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "Ukrainiera"
+    },
+    {
+      "name": "unin_system_apk",
+      "value": "Sistemaren aplikazio bat da hau, ezabatzeak sistemaren ezegonkortasuna ekar lezake.\\nJarraitu?"
+    },
+    {
+      "name": "uninstall",
+      "value": "Desinstalatu"
+    },
+    {
+      "name": "unknown",
+      "value": "ezezaguna"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Hara! Arazo bat izan da"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "Gorde gabeko aldaketak"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "Gorde ez diren aldaketak dituzu, irten baino lehen gorde nahi al dituzu?"
+    },
+    {
+      "name": "update",
+      "value": "EGUNERATU"
+    },
+    {
+      "name": "used",
+      "value": "erabilita"
+    },
+    {
+      "name": "used_by_others",
+      "value": "besteek erabilita"
+    },
+    {
+      "name": "username",
+      "value": "Erabiltzaile-izena"
+    },
+    {
+      "name": "version",
+      "value": "Bertsioa"
+    },
+    {
+      "name": "video",
+      "value": "Bideoa"
+    },
+    {
+      "name": "videos",
+      "value": "Bideoak"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "Vietnamera"
+    },
+    {
+      "name": "view",
+      "value": "Ikusi"
+    },
+    {
+      "name": "waiting_content",
+      "value": "Eragiketa osatzearen zain"
+    },
+    {
+      "name": "waiting_title",
+      "value": "Itxaroten"
+    },
+    {
+      "name": "want_help",
+      "value": "Laguntzarik behar?"
+    },
+    {
+      "name": "warning",
+      "value": "Abisua"
+    },
+    {
+      "name": "warning_confirm",
+      "value": "Ulertu dut!"
+    },
+    {
+      "name": "warning_never_show",
+      "value": "Ez erakutsi berriro"
+    },
+    {
+      "name": "width",
+      "value": "Zabalera"
+    },
+    {
+      "name": "written",
+      "value": "Idatzia"
+    },
+    {
+      "name": "xda_summary",
+      "value": "G&E, Laguntza & Arazoen konponketa"
+    },
+    {
+      "name": "xda_title",
+      "value": "XDA haria"
+    },
+    {
+      "name": "year",
+      "value": "Urtea"
+    },
+    {
+      "name": "yes",
+      "value": "Bai"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "Zip ikustailea"
+    }
+  ]
+}

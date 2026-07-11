@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "cancel",
+      "value": "Չեղարկել"
+    },
+    {
+      "name": "color_title",
+      "value": "Գույն"
+    },
+    {
+      "name": "delete",
+      "value": "Ջնջել"
+    },
+    {
+      "name": "details",
+      "value": "Մանրամասներ"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Հաստատել"
+    },
+    {
+      "name": "duration",
+      "value": "Տևողությունը"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Լուսավորման ժամանակը"
+    },
+    {
+      "name": "focal_length",
+      "value": "Ֆոկուսի չափը"
+    },
+    {
+      "name": "height",
+      "value": "Հասակ"
+    },
+    {
+      "name": "information",
+      "value": "Տեղեկություններ"
+    },
+    {
+      "name": "path",
+      "value": "Ուղի"
+    },
+    {
+      "name": "save",
+      "value": "Պահել"
+    },
+    {
+      "name": "share",
+      "value": "Կիսվել"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Չափը"
+    },
+    {
+      "name": "sort_size",
+      "value": "Չափը"
+    },
+    {
+      "name": "version",
+      "value": "Տարբերակը"
+    },
+    {
+      "name": "width",
+      "value": "Լայնությունը"
+    }
+  ]
+}

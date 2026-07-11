@@ -1,0 +1,1340 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Tocante a"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "Tocante al xestor de ficheros Amaze"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "Afita'l color al FAB y otros elementos d'IU pequeños"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "Color acentuáu"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "Amestar atayu"
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "Amestar a marcadores"
+    },
+    {
+      "name": "advanced_search",
+      "value": "Gueta avanzada"
+    },
+    {
+      "name": "album",
+      "value": "Álbum"
+    },
+    {
+      "name": "anonymous",
+      "value": "Anónimu"
+    },
+    {
+      "name": "aperture_value",
+      "value": "Valor d'apertura"
+    },
+    {
+      "name": "apks",
+      "value": "APKs"
+    },
+    {
+      "name": "app_name",
+      "value": "Xestor de ficheros Amaze"
+    },
+    {
+      "name": "apps",
+      "value": "Xestor d'aplicaciones"
+    },
+    {
+      "name": "archive",
+      "value": "Archivu"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "Carpeta d'estraición d'archivos"
+    },
+    {
+      "name": "archive_summary",
+      "value": "Los archivos estrayeránse nesta carpeta. El valor por defeutu ye'l direutoriu nel que l'archivu ta presente"
+    },
+    {
+      "name": "archive_text",
+      "value": "Esto ye un ficheru. ¿Qué aición te prestaría facer?"
+    },
+    {
+      "name": "artist",
+      "value": "Artista"
+    },
+    {
+      "name": "ascending",
+      "value": "Ascendente"
+    },
+    {
+      "name": "audio",
+      "value": "Audiu"
+    },
+    {
+      "name": "author",
+      "value": "Autor"
+    },
+    {
+      "name": "authors",
+      "value": "Autores"
+    },
+    {
+      "name": "back_summary",
+      "value": "Habilita la navegación haza atrás personalizada no cimero'l llistáu"
+    },
+    {
+      "name": "back_title",
+      "value": "Navegación haza atrás"
+    },
+    {
+      "name": "backup",
+      "value": "Respaldar"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "Vascu"
+    },
+    {
+      "name": "bitrate",
+      "value": "Tasa de bits"
+    },
+    {
+      "name": "blue",
+      "value": "Azul"
+    },
+    {
+      "name": "bluetooth",
+      "value": "Bluetooth"
+    },
+    {
+      "name": "bookmark_lost",
+      "value": "Nun s'alcontró'l marcador, recreando…"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "Amestóse'l marcador"
+    },
+    {
+      "name": "calculating",
+      "value": "calculando"
+    },
+    {
+      "name": "camera_brand",
+      "value": "Marca de cámara"
+    },
+    {
+      "name": "camera_model",
+      "value": "Modelu de cámara"
+    },
+    {
+      "name": "cancel",
+      "value": "ENCABOXAR"
+    },
+    {
+      "name": "cancelled",
+      "value": "Encaboxóse"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s nun pue balerase"
+    },
+    {
+      "name": "changelog",
+      "value": "Rexistru de cambeos"
+    },
+    {
+      "name": "channels",
+      "value": "Canales"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "Chinu"
+    },
+    {
+      "name": "choose_color",
+      "value": "Escoyeta de color"
+    },
+    {
+      "name": "circular_icons",
+      "value": "Usar iconos circulares"
+    },
+    {
+      "name": "circular_images",
+      "value": "Usa iconos redondos pa imáxenes y vídeos"
+    },
+    {
+      "name": "clear",
+      "value": "Llimpiar"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "El camín copióse al cartafueyu"
+    },
+    {
+      "name": "close",
+      "value": "Zarrar"
+    },
+    {
+      "name": "codec",
+      "value": "Códec"
+    },
+    {
+      "name": "color_summary",
+      "value": "Afita'l color de dellos componenetes de la IU"
+    },
+    {
+      "name": "color_title",
+      "value": "Color"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "Barra pintada de navegación"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "Si se pinta o non la barra de navegación del sistema col aspeutu"
+    },
+    {
+      "name": "colorize",
+      "value": "Pintar colores"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "Afita un iconu de color estáticu. Nun anula la preferencia d'iconu de color del direutoriu."
+    },
+    {
+      "name": "comment",
+      "value": "Comentariu"
+    },
+    {
+      "name": "compress",
+      "value": "Comprimir"
+    },
+    {
+      "name": "compressing",
+      "value": "Comprimiendo"
+    },
+    {
+      "name": "compression_complete",
+      "value": "Completóse la compresión"
+    },
+    {
+      "name": "connection_name",
+      "value": "Nome de conexón"
+    },
+    {
+      "name": "container",
+      "value": "Contenedor"
+    },
+    {
+      "name": "contributors",
+      "value": "Collaboradores"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "Sirvidor FTP"
+    },
+    {
+      "name": "copied",
+      "value": "copiaron"
+    },
+    {
+      "name": "copy",
+      "value": "Copiar"
+    },
+    {
+      "name": "copy_complete",
+      "value": "Completóse la copia"
+    },
+    {
+      "name": "copy_error",
+      "value": "Dellos ficheros nun se %s con ésitu"
+    },
+    {
+      "name": "copying",
+      "value": "Copiando"
+    },
+    {
+      "name": "create",
+      "value": "CREAR"
+    },
+    {
+      "name": "creatingfile",
+      "value": "Creando'l ficheru"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "Creando carpeta"
+    },
+    {
+      "name": "creator",
+      "value": "Creador"
+    },
+    {
+      "name": "current_speed",
+      "value": "Velocidá actual"
+    },
+    {
+      "name": "cut",
+      "value": "Cortar"
+    },
+    {
+      "name": "dark",
+      "value": "Material escuro"
+    },
+    {
+      "name": "database",
+      "value": "Base de datos"
+    },
+    {
+      "name": "databasereader",
+      "value": "Llector de bases de datos"
+    },
+    {
+      "name": "date",
+      "value": "Data"
+    },
+    {
+      "name": "daytime",
+      "value": "Hora del día"
+    },
+    {
+      "name": "default_string",
+      "value": "Por defeutu"
+    },
+    {
+      "name": "delbook",
+      "value": "Desaniciar marcador"
+    },
+    {
+      "name": "delete",
+      "value": "Desaniciar"
+    },
+    {
+      "name": "deleting",
+      "value": "Desaniciando"
+    },
+    {
+      "name": "descending",
+      "value": "Descendente"
+    },
+    {
+      "name": "details",
+      "value": "Detalles"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "Diretorios"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "Ficheros"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "¿De xuru que quies desaniciar los ficheros de darréu?"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Confirmar"
+    },
+    {
+      "name": "dimensions",
+      "value": "Dimensiones"
+    },
+    {
+      "name": "directorysort",
+      "value": "Mou d'ordenación de direutorios"
+    },
+    {
+      "name": "documents",
+      "value": "Documentos"
+    },
+    {
+      "name": "doforall",
+      "value": "Facer pa tolos elementos"
+    },
+    {
+      "name": "doit",
+      "value": "Facelo"
+    },
+    {
+      "name": "domain",
+      "value": "Dominiu"
+    },
+    {
+      "name": "donate",
+      "value": "Donar"
+    },
+    {
+      "name": "done",
+      "value": "Fecho"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Zarrar caxón de navegación"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Abrir caxón de navegación"
+    },
+    {
+      "name": "duration",
+      "value": "Duración"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "Neerlandés"
+    },
+    {
+      "name": "edit",
+      "value": "Editar"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "Habilitar mou root"
+    },
+    {
+      "name": "entername",
+      "value": "Introduz el nome"
+    },
+    {
+      "name": "enterpath",
+      "value": "Introducir camín"
+    },
+    {
+      "name": "enterzipname",
+      "value": "Introduz el nome'l ZIP"
+    },
+    {
+      "name": "error",
+      "value": "Fallu"
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "Fallu: Nun s'alcontró'l ficheru"
+    },
+    {
+      "name": "error_io",
+      "value": "Fallu d'E/S"
+    },
+    {
+      "name": "exit",
+      "value": "Colar"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Tiempu d'esposición"
+    },
+    {
+      "name": "extract",
+      "value": "Estrayer"
+    },
+    {
+      "name": "extract_complete",
+      "value": "Completóse la estraición"
+    },
+    {
+      "name": "extracting",
+      "value": "Estrayendo"
+    },
+    {
+      "name": "feedback",
+      "value": "Unviar feedback"
+    },
+    {
+      "name": "file",
+      "value": "Ficheru"
+    },
+    {
+      "name": "file_empty",
+      "value": "El ficheru ta baleru"
+    },
+    {
+      "name": "fileexist",
+      "value": "Yá esiste un ficheru col mesmu nome"
+    },
+    {
+      "name": "files",
+      "value": "Ficheros"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "Ficheros no cimero"
+    },
+    {
+      "name": "find",
+      "value": "Alcontrar na páxina"
+    },
+    {
+      "name": "flash_fired",
+      "value": "Flax disparáu"
+    },
+    {
+      "name": "focal_length",
+      "value": "Llonxitú d'enfoque"
+    },
+    {
+      "name": "folder",
+      "value": "Carpeta"
+    },
+    {
+      "name": "folders",
+      "value": "Carpetes"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "Carpetes no cimero"
+    },
+    {
+      "name": "format",
+      "value": "Formatu"
+    },
+    {
+      "name": "frame_rate",
+      "value": "Tasa de frames"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "Francés"
+    },
+    {
+      "name": "ftp",
+      "value": "Sirvidor FTP"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "Asegúrate que tas coneutáu a la Wi-Fi"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "Aniciándose'l sirvidor FTP"
+    },
+    {
+      "name": "ftp_notif_starting_title",
+      "value": "Sirvidor FTP"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "PARAR"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "en %s"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "Sirvidor Amaze FTP n'execución"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "Esbillóse un númberu non válidu de puertu"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "El puertu FTP camudóse con ésitu"
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "Puertu FTP"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "Nun ta executándose"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "Executándose"
+    },
+    {
+      "name": "general",
+      "value": "Xeneral"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "Alemán"
+    },
+    {
+      "name": "goback",
+      "value": "Dir p'atrás"
+    },
+    {
+      "name": "grant",
+      "value": "Conceder"
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "L'aplicación precisa'l permisu d'almacenamientu pa continuar. Encaboxar esti diálogu fadrá colar l'aplicación."
+    },
+    {
+      "name": "grantfailed",
+      "value": "Nun se concedió'l permisu"
+    },
+    {
+      "name": "grantper",
+      "value": "Conceder permisu"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "Griegu"
+    },
+    {
+      "name": "green",
+      "value": "Verde"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "Númberu de columnes na vista de rexáu"
+    },
+    {
+      "name": "gridview",
+      "value": "Vista de rexáu"
+    },
+    {
+      "name": "height",
+      "value": "Altor"
+    },
+    {
+      "name": "hidden",
+      "value": "Amosar ficheros y carpetes anubríos"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "Ficheros anubríos"
+    },
+    {
+      "name": "hide",
+      "value": "Anubrir"
+    },
+    {
+      "name": "history",
+      "value": "Historial"
+    },
+    {
+      "name": "home",
+      "value": "Aniciu"
+    },
+    {
+      "name": "icon",
+      "value": "iconu"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "Afita'l color a los iconos"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "Color d'iconos"
+    },
+    {
+      "name": "image",
+      "value": "Imaxe"
+    },
+    {
+      "name": "image_iso",
+      "value": "Tasa de velocidá ISO"
+    },
+    {
+      "name": "image_type",
+      "value": "Triba d'imaxe"
+    },
+    {
+      "name": "images",
+      "value": "Imáxenes"
+    },
+    {
+      "name": "in_safe",
+      "value": "Espaciu insuficiente"
+    },
+    {
+      "name": "information",
+      "value": "Información"
+    },
+    {
+      "name": "install",
+      "value": "Instalar"
+    },
+    {
+      "name": "invalid",
+      "value": "%s non válidu"
+    },
+    {
+      "name": "invalid_name",
+      "value": "Nome non válidu"
+    },
+    {
+      "name": "ip",
+      "value": "Direición"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "Italianu"
+    },
+    {
+      "name": "item",
+      "value": "Elementu"
+    },
+    {
+      "name": "items",
+      "value": "Elementos"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "Xaponés"
+    },
+    {
+      "name": "keywords",
+      "value": "Pallabres clave"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "Coreanu"
+    },
+    {
+      "name": "lastModified",
+      "value": "Modificación cabera"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "Amosar cabera modificación"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "Amuesa la data y hora de cuando'l ficheru se modificó per cabera vegada"
+    },
+    {
+      "name": "light",
+      "value": "Material claro"
+    },
+    {
+      "name": "listview",
+      "value": "Vista de llistáu"
+    },
+    {
+      "name": "loading",
+      "value": "Cargando…"
+    },
+    {
+      "name": "location",
+      "value": "Allugamientu"
+    },
+    {
+      "name": "match_content",
+      "value": "Casar conteníu"
+    },
+    {
+      "name": "match_content_summary",
+      "value": "Si s'afita, les espresiones regulares casarán colos nomes enteros de ficheros, d'otramiente, guetaráse pola ocurrencia."
+    },
+    {
+      "name": "md5",
+      "value": "MD5:"
+    },
+    {
+      "name": "medium_text",
+      "value": "Testu mediu"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "Miscelaina"
+    },
+    {
+      "name": "moved",
+      "value": "movieron"
+    },
+    {
+      "name": "moving",
+      "value": "Moviendo"
+    },
+    {
+      "name": "name",
+      "value": "Nome"
+    },
+    {
+      "name": "needs_access",
+      "value": "Ríquese'l permisu d'escritura"
+    },
+    {
+      "name": "needs_access_summary",
+      "value": "Por favor, escueyi el direutoriu raigañu de \\\\t"
+    },
+    {
+      "name": "needs_access_summary1",
+      "value": "\\\\tpa conceder l'acesu d'escritura pa operar"
+    },
+    {
+      "name": "newfile",
+      "value": "Ficheru nuevu"
+    },
+    {
+      "name": "newfolder",
+      "value": "Carpeta nueva"
+    },
+    {
+      "name": "no",
+      "value": "Non"
+    },
+    {
+      "name": "no_app_found",
+      "value": "Nun s'alcontró aplicación dala p'abrir esti ficheru"
+    },
+    {
+      "name": "no_device_found",
+      "value": "Nun s'alcontraron preseos"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "Nun se sobrescribieron ficheros"
+    },
+    {
+      "name": "no_files",
+      "value": "Nun hai ficheros"
+    },
+    {
+      "name": "none_on_top",
+      "value": "Nada no cimero"
+    },
+    {
+      "name": "not_allowed",
+      "value": "Ensin permisu"
+    },
+    {
+      "name": "not_found_enabled_webview",
+      "value": "Nun s'atopó navegador disponible"
+    },
+    {
+      "name": "of",
+      "value": "de"
+    },
+    {
+      "name": "ok",
+      "value": "Aceutar"
+    },
+    {
+      "name": "open",
+      "value": "Abrir"
+    },
+    {
+      "name": "open_as",
+      "value": "Abrir como"
+    },
+    {
+      "name": "open_parent",
+      "value": "Abrir direutoriu pá"
+    },
+    {
+      "name": "open_with",
+      "value": "Abrir con"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "La operación nun tuvo ésitu"
+    },
+    {
+      "name": "orange",
+      "value": "Naranxa"
+    },
+    {
+      "name": "other",
+      "value": "Otro"
+    },
+    {
+      "name": "out_of",
+      "value": "de"
+    },
+    {
+      "name": "overwrite",
+      "value": "Sobrescribir"
+    },
+    {
+      "name": "package_installer",
+      "value": "Instalador de paquetes"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "Esto ye un paquete d'instalación. ¿Qué aición te prestaría facer?"
+    },
+    {
+      "name": "pages",
+      "value": "Númberu de páxines"
+    },
+    {
+      "name": "paper_size",
+      "value": "Tamañu del papel"
+    },
+    {
+      "name": "password",
+      "value": "Contraseña"
+    },
+    {
+      "name": "paste",
+      "value": "Apegar"
+    },
+    {
+      "name": "path",
+      "value": "Camín"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "Copióse la ID de Paypal nel cartafueyu"
+    },
+    {
+      "name": "permission",
+      "value": "Permisos"
+    },
+    {
+      "name": "permission_execute",
+      "value": "Execución"
+    },
+    {
+      "name": "permission_group",
+      "value": "Grupu"
+    },
+    {
+      "name": "permission_other",
+      "value": "Otro"
+    },
+    {
+      "name": "permission_owner",
+      "value": "Dueñu"
+    },
+    {
+      "name": "permission_read",
+      "value": "Llectura"
+    },
+    {
+      "name": "permission_write",
+      "value": "Escritura"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "Escueyi un ficheru"
+    },
+    {
+      "name": "play",
+      "value": "Play Store"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "Polacu"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "Portugués"
+    },
+    {
+      "name": "press_again",
+      "value": "Volvi primir pa colar"
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "Afita'l color d'elementos d'IU grandes pa la llingüeta esquierda"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "Color primariu (llingüeta esquierda)"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "Afita'l color a elementos grandes d'IU pa llingüeta drecha"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "Color primariu (llingüeta drecha)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "Visor de procesos"
+    },
+    {
+      "name": "processing_file",
+      "value": "Procesando'l ficheru"
+    },
+    {
+      "name": "producer",
+      "value": "Productor"
+    },
+    {
+      "name": "properties",
+      "value": "Propiedaes"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "¿De xuru que quies afitar el camín actual como l'aniciu pa esta llingüeta?"
+    },
+    {
+      "name": "quick",
+      "value": "Accesu rápidu"
+    },
+    {
+      "name": "random",
+      "value": "Tema al debalu"
+    },
+    {
+      "name": "random_summary",
+      "value": "Afita un color primariu al debalu nel aniciu"
+    },
+    {
+      "name": "rate",
+      "value": "Valora l'aplicación"
+    },
+    {
+      "name": "recent",
+      "value": "Ficheros recientes"
+    },
+    {
+      "name": "regular_expression",
+      "value": "Espresión regular"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "Guetar usando un estilu d'espresiones regulares en BASH"
+    },
+    {
+      "name": "rename",
+      "value": "Renomar"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "Modificar marcador"
+    },
+    {
+      "name": "renaming",
+      "value": "Restante"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "Informa fallos o pidi carauterístiques nueves"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "Informar fallos"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "Rumanu"
+    },
+    {
+      "name": "root_directory",
+      "value": "Root"
+    },
+    {
+      "name": "root_failure",
+      "value": "Nun se concedió l'accesu root"
+    },
+    {
+      "name": "root_mode",
+      "value": "Esplorador root"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "Namái pa preseos Root. Conséñalo namái si tas seguru d'ello."
+    },
+    {
+      "name": "root_pref",
+      "value": "Amosar permisos"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "Amuesa los permisos de ficheros y carpetes"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "Rusu"
+    },
+    {
+      "name": "sample_rate",
+      "value": "Tasa d'amuesa"
+    },
+    {
+      "name": "save",
+      "value": "Guardar"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "Al aniciase, amosaráse la carpeta más vista apocayá en cada llingüeta"
+    },
+    {
+      "name": "save_paths",
+      "value": "Recordar caminos"
+    },
+    {
+      "name": "saving",
+      "value": "Guardando"
+    },
+    {
+      "name": "search",
+      "value": "Guetar"
+    },
+    {
+      "name": "search_hint",
+      "value": "Teclexa pa guetar…"
+    },
+    {
+      "name": "searching_devices",
+      "value": "Guetando preseos"
+    },
+    {
+      "name": "security",
+      "value": "Seguranza"
+    },
+    {
+      "name": "select",
+      "value": "Esbillar elementu"
+    },
+    {
+      "name": "select_all",
+      "value": "Esbillar too"
+    },
+    {
+      "name": "select_intent",
+      "value": "Esbillar"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "Serbiu"
+    },
+    {
+      "name": "server_address",
+      "value": "Direición IP del sirvidor"
+    },
+    {
+      "name": "set",
+      "value": "Afitar"
+    },
+    {
+      "name": "set_as_home",
+      "value": "Afitar como Aniciu"
+    },
+    {
+      "name": "set_random",
+      "value": "Les camudancies fadrán efeutu al reaniciar l'aplicación"
+    },
+    {
+      "name": "setting",
+      "value": "Axustes"
+    },
+    {
+      "name": "share",
+      "value": "Compartir"
+    },
+    {
+      "name": "share_limit",
+      "value": "Nun pues compartir más de 100 ficheros"
+    },
+    {
+      "name": "show_dividers",
+      "value": "Amosar divisores"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Tamañu"
+    },
+    {
+      "name": "size_pref",
+      "value": "Amosar tamaños"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "Amuesa'l tamañu de ficheros y númberu d'elementos nes carpetes"
+    },
+    {
+      "name": "skip",
+      "value": "Saltar"
+    },
+    {
+      "name": "smb_connection",
+      "value": "Conexón SMB"
+    },
+    {
+      "name": "smb_launch_error",
+      "value": "Precisarás copiar esti ficheru al almacenamientu pa abrilu"
+    },
+    {
+      "name": "software",
+      "value": "Software"
+    },
+    {
+      "name": "sort",
+      "value": "Ordenar"
+    },
+    {
+      "name": "sort_by",
+      "value": "Ordenar per"
+    },
+    {
+      "name": "sort_name",
+      "value": "Nome"
+    },
+    {
+      "name": "sort_size",
+      "value": "Tamañu"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "Español"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Aniciar"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "Parar"
+    },
+    {
+      "name": "stopping",
+      "value": "Parando"
+    },
+    {
+      "name": "subject",
+      "value": "Asuntu"
+    },
+    {
+      "name": "support_development",
+      "value": "Sofita'l desendolcu"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "Tamil"
+    },
+    {
+      "name": "text",
+      "value": "Testu"
+    },
+    {
+      "name": "textreader",
+      "value": "Llector de testos"
+    },
+    {
+      "name": "theme",
+      "value": "Tema"
+    },
+    {
+      "name": "thumb",
+      "value": "Amosar miniatures"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "Amuesa les miniatures d'aplicaciones ya imáxenes"
+    },
+    {
+      "name": "title",
+      "value": "Títulu"
+    },
+    {
+      "name": "translate_summary",
+      "value": "Torna Amaze a la to llingua"
+    },
+    {
+      "name": "translate_title",
+      "value": "Tornar"
+    },
+    {
+      "name": "translators",
+      "value": "Tornadores"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "Turcu"
+    },
+    {
+      "name": "type",
+      "value": "Triba"
+    },
+    {
+      "name": "ui",
+      "value": "Interfaz"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "Ucraín"
+    },
+    {
+      "name": "unin_system_apk",
+      "value": "Esto ye una aplicación del sistema, desaniciala pue dexar\ninestable'l preséu.\\\\n¿Siguir?"
+    },
+    {
+      "name": "uninstall",
+      "value": "Desinstalar"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "Camudancies non guardaes"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "Tienes camudancies ensin guardar, ¿quies guardales enantes de colar?"
+    },
+    {
+      "name": "username",
+      "value": "Nome d'usuariu"
+    },
+    {
+      "name": "version",
+      "value": "Versión"
+    },
+    {
+      "name": "video",
+      "value": "Videu"
+    },
+    {
+      "name": "videos",
+      "value": "Vídeos"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "Vietnamita"
+    },
+    {
+      "name": "view",
+      "value": "Ver"
+    },
+    {
+      "name": "waiting_title",
+      "value": "Esperando"
+    },
+    {
+      "name": "want_help",
+      "value": "¿Precises d'ayuda?"
+    },
+    {
+      "name": "warning",
+      "value": "Alvertencia"
+    },
+    {
+      "name": "width",
+      "value": "Anchor"
+    },
+    {
+      "name": "xda_summary",
+      "value": "EyR, ayuda ya igua de problemes"
+    },
+    {
+      "name": "xda_title",
+      "value": "Filu en XDA"
+    },
+    {
+      "name": "year",
+      "value": "Añu"
+    },
+    {
+      "name": "yes",
+      "value": "Sí"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "Visor de ZIPs"
+    }
+  ]
+}
