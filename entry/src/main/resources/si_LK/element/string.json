@@ -1,0 +1,76 @@
+{
+  "string": [
+    {
+      "name": "cancel",
+      "value": "අවලංගු කිරීම"
+    },
+    {
+      "name": "color_title",
+      "value": "වර්ණය"
+    },
+    {
+      "name": "delete",
+      "value": "මකන්න"
+    },
+    {
+      "name": "details",
+      "value": "විස්තර"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "තහවුරු කරන්න"
+    },
+    {
+      "name": "duration",
+      "value": "කාල සීමාව"
+    },
+    {
+      "name": "exposure_time",
+      "value": "නිරාවරණ කාලය"
+    },
+    {
+      "name": "focal_length",
+      "value": "නාභි දුර"
+    },
+    {
+      "name": "height",
+      "value": "උස"
+    },
+    {
+      "name": "information",
+      "value": "තොරතුරු"
+    },
+    {
+      "name": "password",
+      "value": "මුරපදය"
+    },
+    {
+      "name": "path",
+      "value": "මග"
+    },
+    {
+      "name": "save",
+      "value": "සුරකින්න"
+    },
+    {
+      "name": "share",
+      "value": "බෙදාගන්න"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "ප්‍රමාණය"
+    },
+    {
+      "name": "sort_size",
+      "value": "ප්‍රමාණය"
+    },
+    {
+      "name": "version",
+      "value": "අනුවාදය"
+    },
+    {
+      "name": "width",
+      "value": "පළල"
+    }
+  ]
+}

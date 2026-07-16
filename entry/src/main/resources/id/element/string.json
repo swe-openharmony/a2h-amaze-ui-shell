@@ -1,0 +1,2584 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Tentang"
+    },
+    {
+      "name": "about_amaze",
+      "value": "Pengelola berkas dengan desain Material untuk Android"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "Tentang Amaze File Manager"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "Atur warna FAB dan semua elemen UI kecil lainnya"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "Warna Aksen"
+    },
+    {
+      "name": "accessed",
+      "value": "Diakses"
+    },
+    {
+      "name": "add_item",
+      "value": "Tambah Item"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "Tambah Pintasan"
+    },
+    {
+      "name": "add_shortcut_not_supported_by_launcher",
+      "value": "Pembuatan pintasan tidak didukung oleh launcher Anda."
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "Tambah ke Marka"
+    },
+    {
+      "name": "advanced",
+      "value": "Lanjutan"
+    },
+    {
+      "name": "advanced_search",
+      "value": "Pencarian Lanjutan"
+    },
+    {
+      "name": "album",
+      "value": "Album"
+    },
+    {
+      "name": "always",
+      "value": "Selalu"
+    },
+    {
+      "name": "amaze_audio_player",
+      "value": "Pemutar Musik Amaze"
+    },
+    {
+      "name": "amaze_utils_installed_alias",
+      "value": "Terima kasih telah memasang Amaze File Utilities. Anda akan dialihkan ke aplikasi tersebut."
+    },
+    {
+      "name": "analyse_storage",
+      "value": "Analisa Penyimpanan"
+    },
+    {
+      "name": "android_data_prompt_saf_access_title",
+      "value": "Izinkan akses SAF"
+    },
+    {
+      "name": "anonymous",
+      "value": "Anonim"
+    },
+    {
+      "name": "aperture_value",
+      "value": "Nilai Bukaan"
+    },
+    {
+      "name": "apks",
+      "value": "Apk"
+    },
+    {
+      "name": "app_name",
+      "value": "Amaze File Manager"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "Kesalahan App/UI"
+    },
+    {
+      "name": "appearance",
+      "value": "Tampilan"
+    },
+    {
+      "name": "appearance_summary",
+      "value": "Ubahsuai tema, warna, dan tampilan pengelola berkas"
+    },
+    {
+      "name": "apps",
+      "value": "Pengelola Aplikasi"
+    },
+    {
+      "name": "archive",
+      "value": "Arsip"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "Folder Ekstrak Arsip"
+    },
+    {
+      "name": "archive_password_prompt",
+      "value": "Silakan masukkan sandi arsip:"
+    },
+    {
+      "name": "archive_summary",
+      "value": "Berkas arsip akan diekstrak ke folder ini. Nilai bawaannya adalah direktori tempat arsip berada."
+    },
+    {
+      "name": "archive_text",
+      "value": "Ini adalah berkas arsip. Tindakan apa yang ingin Anda lakukan\\?"
+    },
+    {
+      "name": "archive_unsupported_or_corrupt",
+      "value": "Tidak bisa membuka arsip \"%s\". Arsip rusak, atau aplikasi memang tidak bisa membuka arsip."
+    },
+    {
+      "name": "artist",
+      "value": "Artis"
+    },
+    {
+      "name": "ascending",
+      "value": "Naik"
+    },
+    {
+      "name": "audio",
+      "value": "Audio"
+    },
+    {
+      "name": "authenticate_password",
+      "value": "Masukkan sandi"
+    },
+    {
+      "name": "author",
+      "value": "Penulis"
+    },
+    {
+      "name": "authors",
+      "value": "Pengembang"
+    },
+    {
+      "name": "back_summary",
+      "value": "Aktifkan tombol navigasi kembali khusus di atas daftar item"
+    },
+    {
+      "name": "back_title",
+      "value": "Navigasi kembali"
+    },
+    {
+      "name": "backup",
+      "value": "Cadangan"
+    },
+    {
+      "name": "backup_summary",
+      "value": "Ekspor/Impor pengaturan Amaze"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "Basque"
+    },
+    {
+      "name": "behavior",
+      "value": "Perilaku"
+    },
+    {
+      "name": "behavior_summary",
+      "value": "Ubah perilaku seperti pencarian lanjutan dan apakah akan membuka file sebagai tugas baru"
+    },
+    {
+      "name": "bitrate",
+      "value": "Laju Bit"
+    },
+    {
+      "name": "black",
+      "value": "Hitam (untuk OLED)"
+    },
+    {
+      "name": "blue",
+      "value": "Biru"
+    },
+    {
+      "name": "bluetooth",
+      "value": "Bluetooth"
+    },
+    {
+      "name": "bookmark_exists",
+      "value": "Markah sudah ada"
+    },
+    {
+      "name": "bookmark_lost",
+      "value": "Markah tidak ditemukan, membuat ulang…"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "Marka Ditambahkan"
+    },
+    {
+      "name": "byte_singular",
+      "value": "byte"
+    },
+    {
+      "name": "bytes",
+      "value": "byte"
+    },
+    {
+      "name": "calculating",
+      "value": "menghitung"
+    },
+    {
+      "name": "camera_brand",
+      "value": "Merek Kamera"
+    },
+    {
+      "name": "camera_model",
+      "value": "Model Kamera"
+    },
+    {
+      "name": "cancel",
+      "value": "BATAL"
+    },
+    {
+      "name": "cancel_recommended",
+      "value": "Batal (Direkomendasikan)"
+    },
+    {
+      "name": "cancelled",
+      "value": "Dibatalkan"
+    },
+    {
+      "name": "cannot_delete_file",
+      "value": "Tidak bisa menghapus berkas"
+    },
+    {
+      "name": "cannot_delete_file_with_reason",
+      "value": "Tidak bisa menghapus berkas - %s"
+    },
+    {
+      "name": "cannot_extract_archive",
+      "value": "Tidak bisa mengekstrak arsip \"%s\": %s"
+    },
+    {
+      "name": "cannot_overwrite",
+      "value": "Tidak bisa menimpa berkas."
+    },
+    {
+      "name": "cannot_read_directory",
+      "value": "Tidak bisa membaca direktori %s - %s"
+    },
+    {
+      "name": "cannot_rename_file",
+      "value": "Tidak bisa mengubah nama berkas %s - %s"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s tidak boleh kosong"
+    },
+    {
+      "name": "change",
+      "value": "Ubah"
+    },
+    {
+      "name": "changelog",
+      "value": "Catatan Perubahan"
+    },
+    {
+      "name": "channel_description_ftp",
+      "value": "Notifikasi Server FTP Amaze File Manager"
+    },
+    {
+      "name": "channel_description_normal",
+      "value": "Notifikasi Amaze File Manager"
+    },
+    {
+      "name": "channel_name_ftp",
+      "value": "Server FTP Amaze"
+    },
+    {
+      "name": "channel_name_normal",
+      "value": "Notifikasi Amaze"
+    },
+    {
+      "name": "channels",
+      "value": "Channel"
+    },
+    {
+      "name": "checking_conflicts",
+      "value": "Memeriksa konflik"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "Cina"
+    },
+    {
+      "name": "choose_color",
+      "value": "Pilih warna"
+    },
+    {
+      "name": "choose_different_app",
+      "value": "Pilih aplikasi lainnya"
+    },
+    {
+      "name": "choose_folder",
+      "value": "Pilih Folder Ini"
+    },
+    {
+      "name": "choose_operation",
+      "value": "Pilih tindakan untuk dikerjakan"
+    },
+    {
+      "name": "circular_icons",
+      "value": "Gunakan ikon bulat"
+    },
+    {
+      "name": "circular_images",
+      "value": "Gunakan ikon bulat untuk gambar dan video"
+    },
+    {
+      "name": "clear",
+      "value": "Bersihkan"
+    },
+    {
+      "name": "clear_open_file",
+      "value": "Hapus cache"
+    },
+    {
+      "name": "clear_open_file_summary",
+      "value": "Kembalikan ke bawaan apl untuk membuka berkas"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "Jalur disalin ke papan klip"
+    },
+    {
+      "name": "close",
+      "value": "Tutup"
+    },
+    {
+      "name": "cloud_box",
+      "value": "Box"
+    },
+    {
+      "name": "cloud_connection",
+      "value": "Koneksi Cloud"
+    },
+    {
+      "name": "cloud_connection_credentials_cleared",
+      "value": "Kredensial Koneksi Awan dihapus"
+    },
+    {
+      "name": "cloud_connection_credentials_cleared_msg",
+      "value": "Sayangnya, kami tidak bisa memindahkan kredensial koneksi awan Anda ke skema basisdata yang baru, dan kami harus menghapusnya dari aplikasi. Silakan buat koneksi awan lagi."
+    },
+    {
+      "name": "cloud_connection_new",
+      "value": "Koneksi Cloud Baru"
+    },
+    {
+      "name": "cloud_drive",
+      "value": "Google Drive™"
+    },
+    {
+      "name": "cloud_drive_tooltip",
+      "value": "Sambungkan Google Drive™ untuk mengelola berkas dari dalam Amaze File Manager."
+    },
+    {
+      "name": "cloud_dropbox",
+      "value": "Dropbox"
+    },
+    {
+      "name": "cloud_error_failed_restart",
+      "value": "Gagal membuat koneksi.\\n        Silakan buka Amaze Cloud sekali."
+    },
+    {
+      "name": "cloud_error_fdroid",
+      "value": "Amaze Cloud Plugin tidak didukung dengan versi F-Droid.\\nSilakan gunakan Amaze versi Play Sore"
+    },
+    {
+      "name": "cloud_error_plugin",
+      "value": "Plugin Amaze Cloud tidak ditemukan. Silakan unduh dari Play Store."
+    },
+    {
+      "name": "cloud_fail_authenticate",
+      "value": "Gagal autentikasi"
+    },
+    {
+      "name": "cloud_get",
+      "value": "Dapatkan plugin Cloud"
+    },
+    {
+      "name": "cloud_onedrive",
+      "value": "OneDrive"
+    },
+    {
+      "name": "cloud_remove",
+      "value": "Apakah Anda ingin menghapus koneksi cloud\\?"
+    },
+    {
+      "name": "cloud_share_copied",
+      "value": "Tautan berbagi disalin ke papan klip"
+    },
+    {
+      "name": "cloud_token_lost",
+      "value": "Token hilang, silakan masuk lagi"
+    },
+    {
+      "name": "codec",
+      "value": "Kodek"
+    },
+    {
+      "name": "color_summary",
+      "value": "Atur warna untuk berbagai komponen UI"
+    },
+    {
+      "name": "color_title",
+      "value": "Warna"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "Bilah Navigasi Berwarna"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "Apakah bilah navigasi sistem akan berubah warnanya sesuai dengan tema aplikasi"
+    },
+    {
+      "name": "colorize",
+      "value": "Warnai Ikon"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "Atur warna ikon statis. Tidak mengubah preferensi warna ikon direktori."
+    },
+    {
+      "name": "comment",
+      "value": "Komentar"
+    },
+    {
+      "name": "complete_paste_warning",
+      "value": "Silakan selesaikan tindakan tempel terlebih dahulu"
+    },
+    {
+      "name": "compress",
+      "value": "Kompres"
+    },
+    {
+      "name": "compress_file_suggest_zip_extension",
+      "value": "Direkomendasikan untuk menggunakan \".zip\" sebagai ekstensi berkas."
+    },
+    {
+      "name": "compressed",
+      "value": "Dikompres"
+    },
+    {
+      "name": "compressed_explorer_fragment_error_open_uri",
+      "value": "Galat membuka URI \"%s\" untuk dibaca."
+    },
+    {
+      "name": "compressing",
+      "value": "Mengompres"
+    },
+    {
+      "name": "compression_complete",
+      "value": "Selesai Mengompres"
+    },
+    {
+      "name": "confirmation",
+      "value": "Konfirmasi"
+    },
+    {
+      "name": "connection_exists",
+      "value": "Koneksi sudah ada"
+    },
+    {
+      "name": "connection_name",
+      "value": "Nama koneksi"
+    },
+    {
+      "name": "container",
+      "value": "Kontainer"
+    },
+    {
+      "name": "contributors",
+      "value": "Kontributor"
+    },
+    {
+      "name": "contributors_1_summary",
+      "value": "Terjemahan"
+    },
+    {
+      "name": "contributors_2_summary",
+      "value": "Ikon dan banner"
+    },
+    {
+      "name": "contributors_3_summary",
+      "value": "Mesin Tema"
+    },
+    {
+      "name": "contributors_4_summary",
+      "value": "Bayangan di belakang FAB"
+    },
+    {
+      "name": "contributors_5_summary",
+      "value": "Transisi warna saat menggeser tab"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "Server FTP"
+    },
+    {
+      "name": "contributors_7_summary",
+      "value": "Menjalankan shell interaktif"
+    },
+    {
+      "name": "copied",
+      "value": "disalin"
+    },
+    {
+      "name": "copy",
+      "value": "Salin"
+    },
+    {
+      "name": "copy_complete",
+      "value": "Selesai Menyalin"
+    },
+    {
+      "name": "copy_error",
+      "value": "Beberapa berkas tidak berhasil %s"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Salin laporan berformat"
+    },
+    {
+      "name": "copy_low_memory",
+      "value": "Kehabisan memori, silakan kurangi penggunaan RAM"
+    },
+    {
+      "name": "copying",
+      "value": "Menyalin"
+    },
+    {
+      "name": "copyingapks",
+      "value": "Menyalin %d berkas APK ke %s"
+    },
+    {
+      "name": "crash_report_copied",
+      "value": "Laporan kesalahan telah disalin ke papan klip"
+    },
+    {
+      "name": "create",
+      "value": "BUAT"
+    },
+    {
+      "name": "create_bookmark",
+      "value": "Buat markah"
+    },
+    {
+      "name": "create_file_suggest_txt_extension",
+      "value": "Direkomendasikan untuk menggunakan \".txt\" sebagai ekstensi berkas."
+    },
+    {
+      "name": "create_hidden_file_warn",
+      "value": "Berkas yang dibuat tidak akan ditampilkan di dalam daftar berkas."
+    },
+    {
+      "name": "created",
+      "value": "Dibuat"
+    },
+    {
+      "name": "creatingfile",
+      "value": "Membuat Berkas"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "Membuat Folder"
+    },
+    {
+      "name": "creator",
+      "value": "Pencipta"
+    },
+    {
+      "name": "crypt_decrypt",
+      "value": "Dekripsi"
+    },
+    {
+      "name": "crypt_decrypted",
+      "value": "Didekripsi"
+    },
+    {
+      "name": "crypt_decrypting",
+      "value": "Mendekripsi"
+    },
+    {
+      "name": "crypt_decryption_fail",
+      "value": "Dekripsi gagal"
+    },
+    {
+      "name": "crypt_decryption_fail_password",
+      "value": "Sandi salah!"
+    },
+    {
+      "name": "crypt_encrypt",
+      "value": "Enkripsi"
+    },
+    {
+      "name": "crypt_encrypted",
+      "value": "Dienkripsi"
+    },
+    {
+      "name": "crypt_encrypting",
+      "value": "Mengenkripsi"
+    },
+    {
+      "name": "crypt_encryption_fail",
+      "value": "Enkripsi gagal"
+    },
+    {
+      "name": "crypt_fingerprint_authenticate",
+      "value": "Sentuh sensor untuk melanjutkan"
+    },
+    {
+      "name": "crypt_fingerprint_no_permission",
+      "value": "Izin sidik jari tidak ada"
+    },
+    {
+      "name": "crypt_fingerprint_no_security",
+      "value": "Keamanan layar kunci tidak ditemukan"
+    },
+    {
+      "name": "crypt_fingerprint_not_enrolled",
+      "value": "Tidak ada sidik jari yang dibuat"
+    },
+    {
+      "name": "crypt_pref_fingerprint_summary",
+      "value": "Gunakan sidik jari untuk autentikasi enkripsi"
+    },
+    {
+      "name": "crypt_pref_fingerprint_title",
+      "value": "Sidik Jari"
+    },
+    {
+      "name": "crypt_pref_master_password_summary",
+      "value": "Atur sandi utama untuk enkripsi.\\n        Biarkan kosong untuk menghapus."
+    },
+    {
+      "name": "crypt_pref_master_password_title",
+      "value": "Sandi Utama"
+    },
+    {
+      "name": "crypt_warning_key",
+      "value": "Peringatan, ketika Anda mengubah pola keamanan dari\\n        Pengaturan Sistem, Anda tidak akan bisa membuka enkripsi konten ini."
+    },
+    {
+      "name": "current_speed",
+      "value": "Kecepatan Saat Ini"
+    },
+    {
+      "name": "custom",
+      "value": "Khusus"
+    },
+    {
+      "name": "customize",
+      "value": "Ubahsuai"
+    },
+    {
+      "name": "cut",
+      "value": "Potong"
+    },
+    {
+      "name": "dark",
+      "value": "Material Gelap"
+    },
+    {
+      "name": "database",
+      "value": "Basis Data"
+    },
+    {
+      "name": "databasereader",
+      "value": "Pembaca Basis Data"
+    },
+    {
+      "name": "date",
+      "value": "Tanggal"
+    },
+    {
+      "name": "date_modified",
+      "value": "Tanggal Diubah"
+    },
+    {
+      "name": "date_taken",
+      "value": "Tanggal Diambil"
+    },
+    {
+      "name": "daytime",
+      "value": "Siang Hari"
+    },
+    {
+      "name": "default_string",
+      "value": "Default"
+    },
+    {
+      "name": "delbook",
+      "value": "Hapus Marka"
+    },
+    {
+      "name": "delete",
+      "value": "Hapus"
+    },
+    {
+      "name": "deleting",
+      "value": "Menghapus"
+    },
+    {
+      "name": "descending",
+      "value": "Turun"
+    },
+    {
+      "name": "deselect_all",
+      "value": "Batalkan Semua Pilihan"
+    },
+    {
+      "name": "details",
+      "value": "Detail"
+    },
+    {
+      "name": "developers",
+      "value": "Pengembang"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "Direktori"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "Berkas"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "Menghapus berkas di bawah akan secara permanen menghapusnya dari perangkat Anda dan tidak akan bisa dipulihkan."
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Hapus item secara permanen\\?"
+    },
+    {
+      "name": "dimensions",
+      "value": "Ukuran"
+    },
+    {
+      "name": "directory",
+      "value": "Direktori"
+    },
+    {
+      "name": "directorysort",
+      "value": "Mode Urut Direktori"
+    },
+    {
+      "name": "disable",
+      "value": "Nonaktifkan"
+    },
+    {
+      "name": "disableIpcSignature",
+      "value": "Nonaktifkan pemeriksaaan tanda tangan IPC (Untuk server SMBv1 lama - TIDAK AMAN!)"
+    },
+    {
+      "name": "disable_player_intent_filters_summary",
+      "value": "Nonaktifkan pemutar media bawaan Amaze dari pemilih berkas"
+    },
+    {
+      "name": "documents",
+      "value": "Dokumen"
+    },
+    {
+      "name": "docx_viewer",
+      "value": "Penilik Dokumen Amaze"
+    },
+    {
+      "name": "doforall",
+      "value": "Terapkan untuk semua item"
+    },
+    {
+      "name": "doit",
+      "value": "Lakukan"
+    },
+    {
+      "name": "domain",
+      "value": "Domain"
+    },
+    {
+      "name": "donate",
+      "value": "Donasi"
+    },
+    {
+      "name": "donation_thanks",
+      "value": "Terima kasih atas donasi Anda, ini membuat kami tetap termotivasi! (:"
+    },
+    {
+      "name": "done",
+      "value": "Selesai"
+    },
+    {
+      "name": "download",
+      "value": "Unduh"
+    },
+    {
+      "name": "drag_and_drop_preference",
+      "value": "Pilih preferensi seret dan jatuhkan (Eksperimental)"
+    },
+    {
+      "name": "drag_to_move_copy",
+      "value": "Sentuh dan seret untuk memindahkan atau menyalin berkas"
+    },
+    {
+      "name": "drag_to_select",
+      "value": "Sentuh dan seret untuk memilih berkas"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Tutup laci navigasi"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Buka laci navigasi"
+    },
+    {
+      "name": "duration",
+      "value": "Durasi"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "Belanda"
+    },
+    {
+      "name": "edit",
+      "value": "Sunting"
+    },
+    {
+      "name": "edit_bookmark",
+      "value": "Sunting markah"
+    },
+    {
+      "name": "enable_marquee_filename",
+      "value": "Aktifkan efek marquee untuk nama berkas"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "Aktifkan Mode Root"
+    },
+    {
+      "name": "encrypt_file_must_end_with_aes",
+      "value": "Berkas yang dienkripsi harus menggunakan \".aes\" sebagai ekstensi berkas."
+    },
+    {
+      "name": "encrypt_file_must_end_with_aze",
+      "value": "Berkas yang dienkripsi harus menggunakan \".aze\" sebagai ekstensi berkas."
+    },
+    {
+      "name": "encrypt_file_save_as",
+      "value": "Simpan Berkas yang Dienkripsi Sebagai…"
+    },
+    {
+      "name": "encrypt_folder_save_as",
+      "value": "Simpan Folder yang Dienkripsi Sebagai…"
+    },
+    {
+      "name": "encrypt_option_use_aze",
+      "value": "Gunakan Format Enkripsi Amaze"
+    },
+    {
+      "name": "encryption_fail_copy",
+      "value": "Gagal memperbarui entri enkripsi di dalam basis data"
+    },
+    {
+      "name": "entername",
+      "value": "Masukkan Nama"
+    },
+    {
+      "name": "enterpath",
+      "value": "Masukkan Jalur"
+    },
+    {
+      "name": "enterzipname",
+      "value": "Masukkan Nama Zip"
+    },
+    {
+      "name": "error",
+      "value": "Galat"
+    },
+    {
+      "name": "error_archive_cannot_extract",
+      "value": "Tidak bisa mengekstrak entri arsip \"%s\" ke \"%s\"."
+    },
+    {
+      "name": "error_archive_password_incorrect",
+      "value": "Sandi arsip salah."
+    },
+    {
+      "name": "error_bad_archive_without_info",
+      "value": "\"1%s\" adalah arsip rusak"
+    },
+    {
+      "name": "error_cannot_find_way_open",
+      "value": "Tidak menemukan cara untuk membuka berkas"
+    },
+    {
+      "name": "error_cannot_get_package_info",
+      "value": "Paket dari berkas \"1%s\" tidak didapatkan. Mungkin berkas tersebut bukan APK, atau berkas telah rusak."
+    },
+    {
+      "name": "error_cant_decompress_that_file",
+      "value": "Tidak bisa memproses arsip yang diminta"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Detail:"
+    },
+    {
+      "name": "error_empty_archive",
+      "value": "\"%s\" adalah arsip kosong."
+    },
+    {
+      "name": "error_fetching_google_play_product_list",
+      "value": "Gagal mengambil daftar produk dari Google Play"
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "Galat: Berkas Tidak Bisa Dibuka"
+    },
+    {
+      "name": "error_file_too_large",
+      "value": "Galat: Berkas Terlalu Besar"
+    },
+    {
+      "name": "error_google_play_cannot_update_myself",
+      "value": "Sesuai mandat kebijakan Google Play, aplikasi tidak diizinkan untuk memperbarui sendiri. Harap perbarui aplikasi dari Google Play."
+    },
+    {
+      "name": "error_io",
+      "value": "Galat I/O"
+    },
+    {
+      "name": "error_permission_denied",
+      "value": "Perizinan ditolak"
+    },
+    {
+      "name": "error_report_button_telegram",
+      "value": "Laporkan kesalahan melalui telegram"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Laporkan kesalahan melalui surel"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Silakan periksa apakah masalah yang sama dengan Anda sudah ada atau belum."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Laporkan di GitHub"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Laporan kesalahan"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Laporkan"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Maaf, telah terjadi kesalahan."
+    },
+    {
+      "name": "error_unsupported_or_null_uri",
+      "value": "Tidak valid, tidak didukung, atau URI tidak tersedia"
+    },
+    {
+      "name": "error_unsupported_v5_rar",
+      "value": "Arsip RAR \"%s\" adalah arsip RAR v5 yang tidak didukung."
+    },
+    {
+      "name": "exit",
+      "value": "Keluar"
+    },
+    {
+      "name": "exporting_failed",
+      "value": "Gagal mengekspor: tidak bisa menyimpan ke berkas cadangan"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Waktu Paparan"
+    },
+    {
+      "name": "extract",
+      "value": "Ekstrak"
+    },
+    {
+      "name": "extract_complete",
+      "value": "Selesai mengekstrak"
+    },
+    {
+      "name": "extracted",
+      "value": "Diekstrak"
+    },
+    {
+      "name": "extracting",
+      "value": "Mengekstrak"
+    },
+    {
+      "name": "failed_cloud_api_key",
+      "value": "Gagal autentikasi plugin Cloud"
+    },
+    {
+      "name": "failed_cloud_new_connection",
+      "value": "Gagal menambahkan koneksi Cloud baru"
+    },
+    {
+      "name": "failed_install_apk",
+      "value": "Gagal untuk dipasang"
+    },
+    {
+      "name": "failed_no_connection",
+      "value": "Gagal memuat berkas. Silakan periksa koneksi Anda."
+    },
+    {
+      "name": "failed_smb_decrypt_path",
+      "value": "Gagal membuat koneksi SMB"
+    },
+    {
+      "name": "feedback",
+      "value": "Kirim Umpanbalik"
+    },
+    {
+      "name": "field_empty",
+      "value": "Ruas tidak boleh kosong"
+    },
+    {
+      "name": "file",
+      "value": "Berkas"
+    },
+    {
+      "name": "file_empty",
+      "value": "Berkas kosong"
+    },
+    {
+      "name": "file_read_only",
+      "value": "Berkas yang dibuka memiliki atribut baca-saja."
+    },
+    {
+      "name": "file_too_long",
+      "value": "Berkas terlalu panjang dan tidak bisa disunting, namun Anda bisa membaca %d karakter pertama"
+    },
+    {
+      "name": "fileexist",
+      "value": "Berkas dengan nama sama sudah ada"
+    },
+    {
+      "name": "filename",
+      "value": "Nama Berkas"
+    },
+    {
+      "name": "files",
+      "value": "Berkas"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "Berkas di Atas"
+    },
+    {
+      "name": "find",
+      "value": "Temukan di halaman"
+    },
+    {
+      "name": "flash_fired",
+      "value": "Flash Nyala"
+    },
+    {
+      "name": "focal_length",
+      "value": "Jarak Fokus"
+    },
+    {
+      "name": "folder",
+      "value": "Folder"
+    },
+    {
+      "name": "folderfilecount",
+      "value": "%1$d folder dan %2$d berkas"
+    },
+    {
+      "name": "folders",
+      "value": "Folder"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "Folder di Atas"
+    },
+    {
+      "name": "follow_battery_saver_desc",
+      "value": "Jika dipilih dan mode penghemat baterai diaktifkan, tema akan diubah ke tema gelap"
+    },
+    {
+      "name": "follow_battery_saver_title",
+      "value": "Ikuti penghemat baterai"
+    },
+    {
+      "name": "format",
+      "value": "Format"
+    },
+    {
+      "name": "frame_rate",
+      "value": "Laju Frame"
+    },
+    {
+      "name": "free",
+      "value": "ruang kosong"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "Perancis"
+    },
+    {
+      "name": "ftp",
+      "value": "Server FTP"
+    },
+    {
+      "name": "ftp_connection",
+      "value": "Koneksi FTP"
+    },
+    {
+      "name": "ftp_login",
+      "value": "Masuk"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "Pastikan Anda tersambung ke Wi-Fi"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "Server FTP sedang berjalan"
+    },
+    {
+      "name": "ftp_notif_starting_title",
+      "value": "Server FTP"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "BERHENTI"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "di %s"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "Server FTP Amaze sedang berjalan"
+    },
+    {
+      "name": "ftp_path",
+      "value": "Jalur yang Dibagikan"
+    },
+    {
+      "name": "ftp_path_change_error_invalid",
+      "value": "Jalur tidak valid"
+    },
+    {
+      "name": "ftp_path_change_success",
+      "value": "Jalur FTP berhasil diubah"
+    },
+    {
+      "name": "ftp_path_hint",
+      "value": "Jalur induk direktori yang ingin dibagikan"
+    },
+    {
+      "name": "ftp_port",
+      "value": "Porta"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "Porta yang dipilih tidak valid"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "Porta FTP berhasil diubah"
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "Porta FTP"
+    },
+    {
+      "name": "ftp_preference_saf_filesystem",
+      "value": "Aktifkan ini untuk mendukung penggunaan penyimpanan eksternal perangkat pada versi Android terbaru"
+    },
+    {
+      "name": "ftp_preference_saf_filesystem_title",
+      "value": "Gunakan sistem berkas lama"
+    },
+    {
+      "name": "ftp_prompt_accept_first_start_saf_access_title",
+      "value": "Beri izin akses SAF untuk server FTP"
+    },
+    {
+      "name": "ftp_prompt_restart_server",
+      "value": "Anda perlu memulai ulang server FTP agar perubahan terdampak."
+    },
+    {
+      "name": "ftp_readonly",
+      "value": "Akses baca-saja"
+    },
+    {
+      "name": "ftp_seconds",
+      "value": "Detik"
+    },
+    {
+      "name": "ftp_server_open_settings",
+      "value": "Buka pengaturan"
+    },
+    {
+      "name": "ftp_server_prompt_connect_to_network",
+      "value": "Sambung ke jaringan atau aktifkan AP"
+    },
+    {
+      "name": "ftp_server_reset_notify",
+      "value": "Jalur berbagi server FTP telah dikembalikan ke penyimpanan internal"
+    },
+    {
+      "name": "ftp_status_no_connection",
+      "value": "Tidak Ada Koneksi"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "Tidak Berjalan"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "Berjalan"
+    },
+    {
+      "name": "ftp_status_secure_connection",
+      "value": "Koneksi Aman"
+    },
+    {
+      "name": "ftp_status_title",
+      "value": "Status"
+    },
+    {
+      "name": "ftp_timeout",
+      "value": "Batas waktu menganggur"
+    },
+    {
+      "name": "ftps_connection",
+      "value": "Koneksi FTP melalui SSL"
+    },
+    {
+      "name": "general",
+      "value": "Umum"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "Jerman"
+    },
+    {
+      "name": "go",
+      "value": "Kunjungi"
+    },
+    {
+      "name": "goback",
+      "value": "Kembali"
+    },
+    {
+      "name": "got_it",
+      "value": "Paham!"
+    },
+    {
+      "name": "grant",
+      "value": "Izinkan"
+    },
+    {
+      "name": "grant_apkinstall_permission",
+      "value": "Aplikasi membutuhkan izin memasang untuk dapat melanjutkan."
+    },
+    {
+      "name": "grant_notification_permission",
+      "value": "Amaze membutuhkan izin notifikasi untuk menampilkan laju pemrosesan berkas, juga kontrol mudah untuk memulai/menghentikan server FTP."
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "Aplikasi membutuhkan izin akses penyimpanan untuk melanjutkan. Membatalkan dialog ini akan menutup aplikasi."
+    },
+    {
+      "name": "grantfailed",
+      "value": "Izin tidak diberikan"
+    },
+    {
+      "name": "grantper",
+      "value": "Berikan izin"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "Yunani"
+    },
+    {
+      "name": "green",
+      "value": "Hijau"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "Jumlah kolom di dalam tampilan grid"
+    },
+    {
+      "name": "gridview",
+      "value": "Tampilan Grid"
+    },
+    {
+      "name": "hash_sha256",
+      "value": "SHA-256"
+    },
+    {
+      "name": "height",
+      "value": "Tinggi"
+    },
+    {
+      "name": "hidden",
+      "value": "Tampilkan Berkas dan Folder Tersembunyi"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "Berkas Tersembunyi"
+    },
+    {
+      "name": "hide",
+      "value": "Sembunyikan"
+    },
+    {
+      "name": "hide_media",
+      "value": "Sembunyikan dari pengelola media"
+    },
+    {
+      "name": "history",
+      "value": "Riwayat"
+    },
+    {
+      "name": "home",
+      "value": "Beranda"
+    },
+    {
+      "name": "icon",
+      "value": "ikon"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "Atur warna ikon"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "Warna Ikon"
+    },
+    {
+      "name": "image",
+      "value": "Gambar"
+    },
+    {
+      "name": "image_iso",
+      "value": "Kecepatan ISO"
+    },
+    {
+      "name": "image_type",
+      "value": "Jenis Gambar"
+    },
+    {
+      "name": "image_viewer",
+      "value": "Penilik Gambar Amaze"
+    },
+    {
+      "name": "images",
+      "value": "Gambar"
+    },
+    {
+      "name": "import_failed_for",
+      "value": "Gagal mengimpor:"
+    },
+    {
+      "name": "importing_completed",
+      "value": "Selesai mengimpor"
+    },
+    {
+      "name": "importing_failed",
+      "value": "Gagal mengimpor: tidak bisa membaca berkas cadangan"
+    },
+    {
+      "name": "in_safe",
+      "value": "Penyimpanan tidak cukup"
+    },
+    {
+      "name": "information",
+      "value": "Informasi"
+    },
+    {
+      "name": "install",
+      "value": "Pasang"
+    },
+    {
+      "name": "intellihide_toolbar_summary",
+      "value": "Otomatis sembunyikan toolbar saat bergulir"
+    },
+    {
+      "name": "intellihide_toolbar_title",
+      "value": "Sembunyikan Toolbar"
+    },
+    {
+      "name": "intent_save_as",
+      "value": "Simpan sebagai…"
+    },
+    {
+      "name": "invalid",
+      "value": "%s tidak valid"
+    },
+    {
+      "name": "invalid_backup_file",
+      "value": "Berkas cadangan tidak valid"
+    },
+    {
+      "name": "invalid_name",
+      "value": "Nama Tidak Valid"
+    },
+    {
+      "name": "ip",
+      "value": "Alamat"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "Italia"
+    },
+    {
+      "name": "item",
+      "value": "item"
+    },
+    {
+      "name": "items",
+      "value": "item"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "Jepang"
+    },
+    {
+      "name": "just_once",
+      "value": "Hanya Sekali"
+    },
+    {
+      "name": "keywords",
+      "value": "Kata Kunci"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "Korea"
+    },
+    {
+      "name": "lastModified",
+      "value": "Terakhir Diubah"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "Tampilkan Tanggal dan Waktu Terakhir Berkas Diubah"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "Tampilkan tanggal dan waktu terakhir berkas diubah"
+    },
+    {
+      "name": "legacy_listing_summary",
+      "value": "Jika diaktifkan, gunakan metode lama untuk menampilkan berkas"
+    },
+    {
+      "name": "legacy_listing_title",
+      "value": "Gunakan tampilan lama untuk root"
+    },
+    {
+      "name": "libraries",
+      "value": "Pustaka"
+    },
+    {
+      "name": "license",
+      "value": "Lisensi"
+    },
+    {
+      "name": "light",
+      "value": "Material Terang"
+    },
+    {
+      "name": "listview",
+      "value": "Tampilan Daftar"
+    },
+    {
+      "name": "loading",
+      "value": "Memuat…"
+    },
+    {
+      "name": "local_inet_addr_error",
+      "value": "Terjadi kesalahan dengan alamat inet lokal"
+    },
+    {
+      "name": "location",
+      "value": "Lokasi"
+    },
+    {
+      "name": "match_content",
+      "value": "Konten yang cocok"
+    },
+    {
+      "name": "match_content_summary",
+      "value": "Jika diset, ekspresi regular akan mencocokkan keseluruhan nama berkas.\\n        Jika tidak, akan mencocokkan secara parsial."
+    },
+    {
+      "name": "md5",
+      "value": "MD5"
+    },
+    {
+      "name": "medium_text",
+      "value": "Teks Medium"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "Lainnya"
+    },
+    {
+      "name": "modified",
+      "value": "Diubah"
+    },
+    {
+      "name": "monofont",
+      "value": "Fon Monospace"
+    },
+    {
+      "name": "move",
+      "value": "Pindah"
+    },
+    {
+      "name": "moved",
+      "value": "dipindah"
+    },
+    {
+      "name": "moving",
+      "value": "Memindahkan"
+    },
+    {
+      "name": "multiple_invalid_archive_entries",
+      "value": "Beberapa berkas di dalam arsip tidak bisa diekstrak; arsip mungkin rusak atau datang dari sumber yang meragukan."
+    },
+    {
+      "name": "name",
+      "value": "Nama"
+    },
+    {
+      "name": "needs_access",
+      "value": "Membutuhkan Akses Tulis"
+    },
+    {
+      "name": "newfile",
+      "value": "Berkas Baru"
+    },
+    {
+      "name": "newfolder",
+      "value": "Folder Baru"
+    },
+    {
+      "name": "no",
+      "value": "Tidak"
+    },
+    {
+      "name": "no_app_found",
+      "value": "Tidak ada aplikasi yang bisa membuka berkas ini"
+    },
+    {
+      "name": "no_applications",
+      "value": "Tidak ada aplikasi"
+    },
+    {
+      "name": "no_bitcoin_app",
+      "value": "Silakan pasang dompet bitcoin"
+    },
+    {
+      "name": "no_device_found",
+      "value": "Perangkat tidak ditemukan"
+    },
+    {
+      "name": "no_file_error",
+      "value": "Telah terjadi kesalahan, tidak ada berkas yang bisa dibuka"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "Tidak Ada Berkas yang Ditimpa"
+    },
+    {
+      "name": "no_files",
+      "value": "Tidak Ada Berkas"
+    },
+    {
+      "name": "no_items",
+      "value": "Tidak ada item"
+    },
+    {
+      "name": "no_name",
+      "value": "Berkas harus memiliki nama"
+    },
+    {
+      "name": "no_obtainable_info",
+      "value": "Tidak ada info tentang berkas ini"
+    },
+    {
+      "name": "none_on_top",
+      "value": "Tidak Ada yang di Atas"
+    },
+    {
+      "name": "not_allowed",
+      "value": "Tidak Diizinkan"
+    },
+    {
+      "name": "not_finding_what_you_re_looking_for",
+      "value": "Tidak menemukan apa yang Anda cari\\?"
+    },
+    {
+      "name": "not_found_enabled_webview",
+      "value": "Tidak ada peramban yang tersedia"
+    },
+    {
+      "name": "of",
+      "value": "dari"
+    },
+    {
+      "name": "ok",
+      "value": "OKE"
+    },
+    {
+      "name": "open",
+      "value": "Buka"
+    },
+    {
+      "name": "open_as",
+      "value": "Buka Sebagai"
+    },
+    {
+      "name": "open_parent",
+      "value": "Buka Direktori Induk"
+    },
+    {
+      "name": "open_with",
+      "value": "Buka dengan"
+    },
+    {
+      "name": "open_with_amaze",
+      "value": "Buka dengan Amaze"
+    },
+    {
+      "name": "operation_fail_following",
+      "value": "Proses gagal untuk berkas berikut"
+    },
+    {
+      "name": "operation_not_supported",
+      "value": "Tindakan tidak didukung"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "Proses tidak berhasil"
+    },
+    {
+      "name": "optimized",
+      "value": "Dioptimalkan"
+    },
+    {
+      "name": "orange",
+      "value": "Oranye"
+    },
+    {
+      "name": "otg_access",
+      "value": "Pilih root dari perangkat OTG"
+    },
+    {
+      "name": "other",
+      "value": "Lainnya"
+    },
+    {
+      "name": "out_of",
+      "value": "dari"
+    },
+    {
+      "name": "overwrite",
+      "value": "Timpa"
+    },
+    {
+      "name": "package_installer",
+      "value": "Pemasang Paket"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "Ini adalah pemasang paket. Tindakan apa yang ingin Anda lakukan\\?"
+    },
+    {
+      "name": "pages",
+      "value": "Jumlah Halaman"
+    },
+    {
+      "name": "paper_size",
+      "value": "Ukuran Kertas"
+    },
+    {
+      "name": "password",
+      "value": "Sandi"
+    },
+    {
+      "name": "password_no_match",
+      "value": "Sandi tidak cocok"
+    },
+    {
+      "name": "password_repeat",
+      "value": "Ulangi sandi"
+    },
+    {
+      "name": "password_unchanged",
+      "value": "(tidak berubah)"
+    },
+    {
+      "name": "paste",
+      "value": "Tempel"
+    },
+    {
+      "name": "path",
+      "value": "Jalur"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "Id Paypal disalin ke papan klip"
+    },
+    {
+      "name": "pdf_viewer",
+      "value": "Penilik Dokumen Amaze"
+    },
+    {
+      "name": "permission",
+      "value": "Perizinan"
+    },
+    {
+      "name": "permission_execute",
+      "value": "Jalankan"
+    },
+    {
+      "name": "permission_group",
+      "value": "Grup"
+    },
+    {
+      "name": "permission_other",
+      "value": "Lainnya"
+    },
+    {
+      "name": "permission_owner",
+      "value": "Pemilik"
+    },
+    {
+      "name": "permission_read",
+      "value": "Baca"
+    },
+    {
+      "name": "permission_write",
+      "value": "Tulis"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "Pilih berkas"
+    },
+    {
+      "name": "pick_files",
+      "value": "Pilih satu atau lebih berkas"
+    },
+    {
+      "name": "play",
+      "value": "Play store"
+    },
+    {
+      "name": "please_wait",
+      "value": "Silakan tunggu"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "Polandia"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "Portugis"
+    },
+    {
+      "name": "pref_export",
+      "value": "Ekspor"
+    },
+    {
+      "name": "pref_import",
+      "value": "Impor"
+    },
+    {
+      "name": "preference_delete_confirmation",
+      "value": "Konfirmasi penghapusan"
+    },
+    {
+      "name": "preference_delete_confirmation_summary",
+      "value": "Tanya sebelum menghapus berkas. Tidak direkomendasikan untuk menonaktifkan opsi ini!"
+    },
+    {
+      "name": "preference_newstack_summary",
+      "value": "Memungkinkan Anda membuka berkas di sesi yang terpisah. Dan mengaksesnya dari layar aplikasi yang baru-baru ini dibuka."
+    },
+    {
+      "name": "preference_newstack_title",
+      "value": "Buka berkas pada sesi baru"
+    },
+    {
+      "name": "preselected_configs_title",
+      "value": "Konfigurasi bawaan"
+    },
+    {
+      "name": "press_again",
+      "value": "Tekan lagi untuk keluar"
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "Atur warna elemen UI besar untuk tab di sebelah kiri"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "Warna Utama (Tab Kiri)"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "Atur warna elemen UI besar untuk tab di sebelah kanan"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "Warna Utama (Tab Kanan)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "Penampil Proses"
+    },
+    {
+      "name": "processed",
+      "value": "Diproses"
+    },
+    {
+      "name": "processing",
+      "value": "Memproses…"
+    },
+    {
+      "name": "processing_file",
+      "value": "Memproses berkas"
+    },
+    {
+      "name": "producer",
+      "value": "Produser"
+    },
+    {
+      "name": "properties",
+      "value": "Properti"
+    },
+    {
+      "name": "properties_copied_clipboard",
+      "value": "disalin ke papan klip"
+    },
+    {
+      "name": "protocol_ftps",
+      "value": "FTP Aman"
+    },
+    {
+      "name": "question_delete_bookmark",
+      "value": "Hapus markah\\?"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "Apakah Anda ingin mengatur jalur ini sebagai beranda untuk tab ini\\?"
+    },
+    {
+      "name": "quick",
+      "value": "Akses cepat"
+    },
+    {
+      "name": "quick_desc",
+      "value": "Berkas baru saja diakses melalui Amaze"
+    },
+    {
+      "name": "random",
+      "value": "Tema Acak"
+    },
+    {
+      "name": "random_summary",
+      "value": "Atur warna utama acak setiap memulai aplikasi"
+    },
+    {
+      "name": "rate",
+      "value": "Beri nilai aplikasi"
+    },
+    {
+      "name": "recent",
+      "value": "Berkas terbaru"
+    },
+    {
+      "name": "recent_desc",
+      "value": "Berkas yang baru dibuat atau diubah"
+    },
+    {
+      "name": "regular_expression",
+      "value": "Ekspresi Regular"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "Mencari menggunakan ekspresi regular BASH"
+    },
+    {
+      "name": "remember",
+      "value": "Ingat untuk selanjutnya"
+    },
+    {
+      "name": "rename",
+      "value": "Ubah Nama"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "Ubah Markah"
+    },
+    {
+      "name": "renaming",
+      "value": "Mengubah Nama"
+    },
+    {
+      "name": "reopen_from_source",
+      "value": "Tidak bisa, silakan buka ulang dari aplikasi sebelumnya"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "Laporkan bug atau minta fitur baru"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "Laporkan Bug"
+    },
+    {
+      "name": "results",
+      "value": "Hasil"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "Romania"
+    },
+    {
+      "name": "root_directory",
+      "value": "Root"
+    },
+    {
+      "name": "root_failure",
+      "value": "Akses root tidak diizinkan"
+    },
+    {
+      "name": "root_mode",
+      "value": "Root Explorer"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "Hanya untuk perangkat dengan akses root. Hanya aktifkan jika Anda benar-benar yakin."
+    },
+    {
+      "name": "root_pref",
+      "value": "Tampilkan Perizinan"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "Tampilkan Perizinan Berkas dan Folder"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "Rusia"
+    },
+    {
+      "name": "saf_otg_explanation",
+      "value": "Untuk alasan keamanan, Anda harus mengunjungi filesystem Android. Silakan pilih perangkat USB dari daftar di sebelah kiri."
+    },
+    {
+      "name": "sample_rate",
+      "value": "Laju Sampel"
+    },
+    {
+      "name": "save",
+      "value": "Simpan"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "Saat memulai aplikasi, folder yang paling terakhir dibuka untuk setiap tab akan ditampilkan"
+    },
+    {
+      "name": "save_paths",
+      "value": "Ingat jalur"
+    },
+    {
+      "name": "saved_multi_files",
+      "value": "%d berkas disimpan."
+    },
+    {
+      "name": "saved_single_file",
+      "value": "Berkas disimpan sebagai '%s'."
+    },
+    {
+      "name": "saving",
+      "value": "Menyimpan"
+    },
+    {
+      "name": "scp_connection",
+      "value": "Koneksi SCP/SFTP"
+    },
+    {
+      "name": "scp_default_path",
+      "value": "Jalur Bawaan (Opsional)"
+    },
+    {
+      "name": "scp_port",
+      "value": "Porta"
+    },
+    {
+      "name": "search",
+      "value": "Cari"
+    },
+    {
+      "name": "search_hint",
+      "value": "Ketik untuk mencari…"
+    },
+    {
+      "name": "search_recent",
+      "value": "Baru-baru ini"
+    },
+    {
+      "name": "search_results",
+      "value": "Hasil pencarian dari %s"
+    },
+    {
+      "name": "searching",
+      "value": "Mencari %s"
+    },
+    {
+      "name": "searching_devices",
+      "value": "Mencari perangkat"
+    },
+    {
+      "name": "security",
+      "value": "Keamanan"
+    },
+    {
+      "name": "security_error",
+      "value": "Berkas tidak bisa dibuka menggunakan aplikasi ini"
+    },
+    {
+      "name": "security_summary",
+      "value": "Atur sandi dan enkripsi"
+    },
+    {
+      "name": "select",
+      "value": "Pilih Item"
+    },
+    {
+      "name": "select_all",
+      "value": "Pilih Semua"
+    },
+    {
+      "name": "select_by_date",
+      "value": "Pilih berdasarkan tanggal"
+    },
+    {
+      "name": "select_by_type",
+      "value": "Pilih berdasarkan tipe"
+    },
+    {
+      "name": "select_color_config",
+      "value": "Pilih konfigurasi warna"
+    },
+    {
+      "name": "select_intent",
+      "value": "Pilih"
+    },
+    {
+      "name": "select_inverse",
+      "value": "Pilih Kebalikannya"
+    },
+    {
+      "name": "select_save_location",
+      "value": "Pilih lokasi simpan"
+    },
+    {
+      "name": "select_similar",
+      "value": "Pilih berdasarkan kesamaan"
+    },
+    {
+      "name": "send_email_to",
+      "value": "Kirim email ke"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "Serbia"
+    },
+    {
+      "name": "server_address",
+      "value": "Alamat IP Server"
+    },
+    {
+      "name": "service_timer",
+      "value": "Waktu berjalan"
+    },
+    {
+      "name": "set",
+      "value": "Atur"
+    },
+    {
+      "name": "set_as_home",
+      "value": "Atur Sebagai Beranda"
+    },
+    {
+      "name": "set_random",
+      "value": "Perubahan akan berdampak setelah Anda memulai ulang aplikasi"
+    },
+    {
+      "name": "setting",
+      "value": "Pengaturan"
+    },
+    {
+      "name": "share",
+      "value": "Bagikan"
+    },
+    {
+      "name": "share_limit",
+      "value": "Tidak bisa membagikan lebih dari 100 berkas"
+    },
+    {
+      "name": "share_logs",
+      "value": "Bagikan log"
+    },
+    {
+      "name": "share_logs_summary",
+      "value": "Bagikan catatan log melalui surel / telegram"
+    },
+    {
+      "name": "showHeaders",
+      "value": "Tampilkan Tajuk"
+    },
+    {
+      "name": "show_bookmarks_pref",
+      "value": "Markah"
+    },
+    {
+      "name": "show_bookmarks_pref_title",
+      "value": "Tampilkan markah"
+    },
+    {
+      "name": "show_dividers",
+      "value": "Tampilkan Pemisah"
+    },
+    {
+      "name": "show_quick_access_pref",
+      "value": "Akses cepat"
+    },
+    {
+      "name": "show_quick_access_pref_title",
+      "value": "Tampilkan akses cepat"
+    },
+    {
+      "name": "show_system_apps",
+      "value": "Tampilkan apl sistem"
+    },
+    {
+      "name": "sidebar_bookmarks_title",
+      "value": "Markah bilah samping"
+    },
+    {
+      "name": "sidebar_preferences",
+      "value": "Bilah Samping"
+    },
+    {
+      "name": "sidebar_quick_access_title",
+      "value": "Akses cepat"
+    },
+    {
+      "name": "signin_with_google_title",
+      "value": "Otentikasi untuk menggunakan Google Drive™"
+    },
+    {
+      "name": "size",
+      "value": "ukuran folder"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Ukuran"
+    },
+    {
+      "name": "size_pref",
+      "value": "Tampilkan Ukuran"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "Tampilkan ukuran berkas dan jumlah item di dalam folder"
+    },
+    {
+      "name": "skip",
+      "value": "Lewati"
+    },
+    {
+      "name": "smb_connection",
+      "value": "Koneksi SMB"
+    },
+    {
+      "name": "smb_launch_error",
+      "value": "Anda perlu menyalin berkas ini ke penyimpanan agar bisa dibuka"
+    },
+    {
+      "name": "smb_share",
+      "value": "Jalur berbagi"
+    },
+    {
+      "name": "software",
+      "value": "Perangkat Lunak"
+    },
+    {
+      "name": "some_files_failed_invalid_operation",
+      "value": "Beberapa berkas gagal karena proses yang tidak valid"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Maaf, hal tersebut seharusnya tidak terjadi."
+    },
+    {
+      "name": "sort",
+      "value": "Urutkan"
+    },
+    {
+      "name": "sort_by",
+      "value": "Urutkan menurut"
+    },
+    {
+      "name": "sort_by_colon",
+      "value": "Urutkan Menurut:"
+    },
+    {
+      "name": "sort_name",
+      "value": "Nama"
+    },
+    {
+      "name": "sort_only_this",
+      "value": "Hanya folder ini"
+    },
+    {
+      "name": "sort_relevance",
+      "value": "Relevansi"
+    },
+    {
+      "name": "sort_size",
+      "value": "Ukuran"
+    },
+    {
+      "name": "source_summary",
+      "value": "Lihat kode sumber Amaze di GitHub"
+    },
+    {
+      "name": "source_title",
+      "value": "Kode sumber"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "Spanyol"
+    },
+    {
+      "name": "ssh_authentication_failure_key",
+      "value": "Gagal masuk: Tidak bisa autentikasi dengan nama dan kunci privat yang diberikan."
+    },
+    {
+      "name": "ssh_authentication_failure_password",
+      "value": "Gagal masuk: Tidak bisa autentikasi dengan nama dan sandi yang diberikan."
+    },
+    {
+      "name": "ssh_connect_failed",
+      "value": "Tidak bisa menyambung ke %1$s:%2$d: %3$s"
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_title",
+      "value": "PERINGATAN: IDENTIFIKASI HOST REMOTE TELAH BERUBAH!"
+    },
+    {
+      "name": "ssh_host_key_verification_prompt_title",
+      "value": "Verifikasi Host"
+    },
+    {
+      "name": "ssh_key_invalid_passphrase",
+      "value": "Frasa sandi tidak valid."
+    },
+    {
+      "name": "ssh_key_no_decoder_decrypt",
+      "value": "Tidak ada dekoder yang valid untuk mendekripsi PEM."
+    },
+    {
+      "name": "ssh_key_prompt_passphrase",
+      "value": "Silakan masukkan frasa sandi."
+    },
+    {
+      "name": "ssh_pem_key_parse_error",
+      "value": "Tidak bisa membaca PEM yang dipilih: %s"
+    },
+    {
+      "name": "ssh_select_pem",
+      "value": "Pilih kunci privat untuk autentikasi"
+    },
+    {
+      "name": "ssh_select_pem_button",
+      "value": "Kunci Privat SSH"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Mulai"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "Berhenti"
+    },
+    {
+      "name": "stopping",
+      "value": "Menghentikan"
+    },
+    {
+      "name": "storage_internal",
+      "value": "Penyimpanan Internal"
+    },
+    {
+      "name": "storage_sd_card",
+      "value": "Kartu SD"
+    },
+    {
+      "name": "subject",
+      "value": "Subyek"
+    },
+    {
+      "name": "support_development",
+      "value": "Dukung Pengembangan"
+    },
+    {
+      "name": "system",
+      "value": "Sistem (ikuti tema sistem)"
+    },
+    {
+      "name": "system_apps",
+      "value": "Apl sistem"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "Tamil"
+    },
+    {
+      "name": "text",
+      "value": "Teks"
+    },
+    {
+      "name": "text_editor",
+      "value": "Pengaturan penyunting teks"
+    },
+    {
+      "name": "textreader",
+      "value": "Pembaca Teks"
+    },
+    {
+      "name": "theme",
+      "value": "Tema"
+    },
+    {
+      "name": "thumb",
+      "value": "Tampilkan Thumbnail"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "Tampilkan thumbnail aplikasi dan gambar"
+    },
+    {
+      "name": "time_remaining",
+      "value": "Waktu tersisa"
+    },
+    {
+      "name": "title",
+      "value": "Judul"
+    },
+    {
+      "name": "total",
+      "value": "Total:"
+    },
+    {
+      "name": "transfer_rate",
+      "value": "Laju transfer"
+    },
+    {
+      "name": "translate_summary",
+      "value": "Terjemahkan Amaze ke dalam bahasa Anda"
+    },
+    {
+      "name": "translate_title",
+      "value": "Terjemahkan"
+    },
+    {
+      "name": "translators",
+      "value": "Penerjemah"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "Turki"
+    },
+    {
+      "name": "type",
+      "value": "Tipe"
+    },
+    {
+      "name": "typeable_paths_summary",
+      "value": "Tekan lama bilah jalur untuk memasukkan jalur khusus"
+    },
+    {
+      "name": "typeable_paths_title",
+      "value": "Jalur khusus"
+    },
+    {
+      "name": "ui",
+      "value": "Antarmuka"
+    },
+    {
+      "name": "ui_summary",
+      "value": "Atur informasi untuk ditampilkan, ubahsuai bilah samping, dan aktif/nonaktifkan preferensi UI"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "Ukraina"
+    },
+    {
+      "name": "unavailable",
+      "value": "Tidak tersedia"
+    },
+    {
+      "name": "uninstall",
+      "value": "Copot"
+    },
+    {
+      "name": "unknown",
+      "value": "tidak diketahui"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Oops, telah terjadi kesalahan!"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "Perubahan Belum Disimpan"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "Anda memiliki perubahan yang belum disimpan, apakah Anda ingin menyimpannya sebelum keluar\\?"
+    },
+    {
+      "name": "update",
+      "value": "PERBARUI"
+    },
+    {
+      "name": "update_host_key",
+      "value": "Perbarui Kunci Hos"
+    },
+    {
+      "name": "used",
+      "value": "ruang digunakan"
+    },
+    {
+      "name": "used_by_others",
+      "value": "digunakan oleh lainnya"
+    },
+    {
+      "name": "user_apps",
+      "value": "Apl pengguna"
+    },
+    {
+      "name": "username",
+      "value": "Nama Pengguna"
+    },
+    {
+      "name": "version",
+      "value": "Versi"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "video_player",
+      "value": "Pemutar Video Amaze"
+    },
+    {
+      "name": "videos",
+      "value": "Video"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "Vietnam"
+    },
+    {
+      "name": "view",
+      "value": "Buka"
+    },
+    {
+      "name": "waiting_content",
+      "value": "Menunggu proses untuk selesai"
+    },
+    {
+      "name": "waiting_title",
+      "value": "Menunggu"
+    },
+    {
+      "name": "want_help",
+      "value": "Perlu bantuan?"
+    },
+    {
+      "name": "warning",
+      "value": "Peringatan"
+    },
+    {
+      "name": "warning_confirm",
+      "value": "Paham!"
+    },
+    {
+      "name": "warning_never_show",
+      "value": "Jangan tampilkan lagi"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Info:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Yang terjadi:"
+    },
+    {
+      "name": "width",
+      "value": "Lebar"
+    },
+    {
+      "name": "wifip2p",
+      "value": "Wi-Fi P2P"
+    },
+    {
+      "name": "written",
+      "value": "Menulis"
+    },
+    {
+      "name": "xda_title",
+      "value": "Thread XDA"
+    },
+    {
+      "name": "year",
+      "value": "Tahun"
+    },
+    {
+      "name": "yes",
+      "value": "Iya"
+    },
+    {
+      "name": "your_comment",
+      "value": "Komentar Anda (Bahasa Inggris):"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "Penampil Zip"
+    }
+  ]
+}

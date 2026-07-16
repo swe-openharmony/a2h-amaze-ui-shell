@@ -1,0 +1,924 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Despre"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "Despre Amaze File Manager"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "Setaţi culoarea FAB şi a altor elemente UI mici"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "Culoare accent"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "Adăugaţi o comandă rapidă"
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "Adăugaţi în marcaje"
+    },
+    {
+      "name": "anonymous",
+      "value": "Anonim"
+    },
+    {
+      "name": "apks",
+      "value": "Apk-uri"
+    },
+    {
+      "name": "apps",
+      "value": "Gestionare aplicaţii"
+    },
+    {
+      "name": "archive",
+      "value": "Arhivă"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "Dosar extragere arhivă"
+    },
+    {
+      "name": "archive_summary",
+      "value": "Fișierele arhivă vor fi extrase în acest dosar. Valoarea implicită este dosarul în care este arhiva în prezent"
+    },
+    {
+      "name": "archive_text",
+      "value": "Aceasta este o arhivă. Ce doriţi să faceţi?"
+    },
+    {
+      "name": "ascending",
+      "value": "Ascendent"
+    },
+    {
+      "name": "authors",
+      "value": "Autori"
+    },
+    {
+      "name": "back_summary",
+      "value": "Activaţi navigarea personalizată Înapoi în partea de sus a listei"
+    },
+    {
+      "name": "back_title",
+      "value": "Înapoi"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "Bască"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "Marcaje adăugate"
+    },
+    {
+      "name": "calculating",
+      "value": "calculare"
+    },
+    {
+      "name": "cancel",
+      "value": "ANULAŢI"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s nu poate fi gol"
+    },
+    {
+      "name": "changelog",
+      "value": "Istoric modificări"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "Chineză"
+    },
+    {
+      "name": "choose_color",
+      "value": "Selectaţi culoarea"
+    },
+    {
+      "name": "circular_icons",
+      "value": "Utilizați pictograme circulare"
+    },
+    {
+      "name": "circular_images",
+      "value": "Utilizați pictograme circulare pentru imagini și videoclipuri"
+    },
+    {
+      "name": "clear",
+      "value": "Ştergeţi"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "Cale copiată în clipboard"
+    },
+    {
+      "name": "color_summary",
+      "value": "Setaţi culoarea diferitelor componente UI"
+    },
+    {
+      "name": "color_title",
+      "value": "Culoare"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "Bară de navigare colorată"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "Colorarea sau nu a barei de navigare de sistem împreună cu skin-ul"
+    },
+    {
+      "name": "colorize",
+      "value": "Colorare pictograme"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "Setare culoare statică pentru pictograme. Nu se suprascrie preferinţa de culoare pentru pictograma dosarului."
+    },
+    {
+      "name": "compress",
+      "value": "Arhivaţi"
+    },
+    {
+      "name": "connection_name",
+      "value": "Nume conexiune"
+    },
+    {
+      "name": "contributors",
+      "value": "Contribuitori"
+    },
+    {
+      "name": "copy",
+      "value": "Copiere"
+    },
+    {
+      "name": "copying",
+      "value": "Copiere"
+    },
+    {
+      "name": "create",
+      "value": "CREAŢI"
+    },
+    {
+      "name": "creatingfile",
+      "value": "Creare fişier"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "Creare dosar"
+    },
+    {
+      "name": "cut",
+      "value": "Mutare"
+    },
+    {
+      "name": "database",
+      "value": "Bază de date"
+    },
+    {
+      "name": "databasereader",
+      "value": "Reader baze de date"
+    },
+    {
+      "name": "date",
+      "value": "Dată:"
+    },
+    {
+      "name": "default_string",
+      "value": "Implicit"
+    },
+    {
+      "name": "delete",
+      "value": "Ştergere"
+    },
+    {
+      "name": "deleting",
+      "value": "Ştergere"
+    },
+    {
+      "name": "descending",
+      "value": "Descendent"
+    },
+    {
+      "name": "details",
+      "value": "Detalii"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "Dosare"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "Fișiere"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "Doriţi să ștergeți următoarele fișiere?"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Confirmaţi"
+    },
+    {
+      "name": "directorysort",
+      "value": "Mod sortare"
+    },
+    {
+      "name": "documents",
+      "value": "Documente"
+    },
+    {
+      "name": "doforall",
+      "value": "Se execută pentru toate elementele"
+    },
+    {
+      "name": "doit",
+      "value": "Fă-o"
+    },
+    {
+      "name": "donate",
+      "value": "Donaţi"
+    },
+    {
+      "name": "done",
+      "value": "Finalizat"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Închideţi sertarul de navigare"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Deschideţi sertarul de navigare"
+    },
+    {
+      "name": "duration",
+      "value": "Durată"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "Olandeză"
+    },
+    {
+      "name": "edit",
+      "value": "Editare"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "Activaţi modul Root"
+    },
+    {
+      "name": "entername",
+      "value": "Introduceţi numele"
+    },
+    {
+      "name": "enterpath",
+      "value": "Introduceţi calea"
+    },
+    {
+      "name": "enterzipname",
+      "value": "Introduceţi numele fişierului Zip"
+    },
+    {
+      "name": "error",
+      "value": "Eroare"
+    },
+    {
+      "name": "exit",
+      "value": "Ieşire"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Timp de expunere"
+    },
+    {
+      "name": "extract",
+      "value": "Extrageţi"
+    },
+    {
+      "name": "extracting",
+      "value": "Extragere"
+    },
+    {
+      "name": "feedback",
+      "value": "Trimiteţi Feedback"
+    },
+    {
+      "name": "file",
+      "value": "Fişier"
+    },
+    {
+      "name": "file_empty",
+      "value": "Fişier gol"
+    },
+    {
+      "name": "fileexist",
+      "value": "Un fișier cu același nume există deja"
+    },
+    {
+      "name": "files",
+      "value": "Fişiere"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "Fişierele sus"
+    },
+    {
+      "name": "find",
+      "value": "Căutaţi în pagină"
+    },
+    {
+      "name": "focal_length",
+      "value": "Distanța focală"
+    },
+    {
+      "name": "folder",
+      "value": "Dosar"
+    },
+    {
+      "name": "folders",
+      "value": "Dosare"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "Dosarele sus"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "Franceză"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "Germană"
+    },
+    {
+      "name": "goback",
+      "value": "Înapoi"
+    },
+    {
+      "name": "grant",
+      "value": "Acordaţi"
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "Aplicaţia necesită permisiunea de stocare pentru a continua. Anularea acestui dialog va închide aplicația."
+    },
+    {
+      "name": "grantfailed",
+      "value": "Permisiun neacordată"
+    },
+    {
+      "name": "grantper",
+      "value": "Acordaţi permisiunea"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "Greacă"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "Numărul de coloane din grilă"
+    },
+    {
+      "name": "gridview",
+      "value": "Grilă"
+    },
+    {
+      "name": "height",
+      "value": "Înălţime"
+    },
+    {
+      "name": "hidden",
+      "value": "Afișare fișiere și dosare ascunse"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "Fişiere ascunse"
+    },
+    {
+      "name": "hide",
+      "value": "Ascundeţi"
+    },
+    {
+      "name": "history",
+      "value": "Istoric"
+    },
+    {
+      "name": "home",
+      "value": "Acasă"
+    },
+    {
+      "name": "icon",
+      "value": "pictogramă"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "Setaţi culoarea pictogramelor"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "Culoarea pictogramelor"
+    },
+    {
+      "name": "image",
+      "value": "Imagine"
+    },
+    {
+      "name": "images",
+      "value": "Imagini"
+    },
+    {
+      "name": "in_safe",
+      "value": "Spaţiu insuficient"
+    },
+    {
+      "name": "information",
+      "value": "Informații"
+    },
+    {
+      "name": "install",
+      "value": "Instalare"
+    },
+    {
+      "name": "ip",
+      "value": "Adresă"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "Italiană"
+    },
+    {
+      "name": "item",
+      "value": "Element"
+    },
+    {
+      "name": "items",
+      "value": "Elemente"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "Coreeană"
+    },
+    {
+      "name": "lastModified",
+      "value": "Ultima modificare"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "Afişare ultima modificare"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "Se afişează data și ora când fișierul a fost modificat ultima dată"
+    },
+    {
+      "name": "listview",
+      "value": "Listă"
+    },
+    {
+      "name": "loading",
+      "value": "Încărcare..."
+    },
+    {
+      "name": "location",
+      "value": "Locaţie:"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "Diverse"
+    },
+    {
+      "name": "moving",
+      "value": "Mutare"
+    },
+    {
+      "name": "name",
+      "value": "Nume:"
+    },
+    {
+      "name": "needs_access",
+      "value": "Acces pentru scriere necesar"
+    },
+    {
+      "name": "needs_access_summary",
+      "value": "Selectaţi dosarul rădăcină pentru \\t"
+    },
+    {
+      "name": "needs_access_summary1",
+      "value": "\\tpt. a acorda acces de scriere pentru a funcționa"
+    },
+    {
+      "name": "newfile",
+      "value": "Fişier nou"
+    },
+    {
+      "name": "newfolder",
+      "value": "Dosar nou"
+    },
+    {
+      "name": "no",
+      "value": "Nu"
+    },
+    {
+      "name": "no_app_found",
+      "value": "Nu s-a găsit nicio aplicaţie pentru a deschide acest fișier"
+    },
+    {
+      "name": "no_device_found",
+      "value": "Niciun dispozitiv găsit"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "Nu s-a suprascris fişierul"
+    },
+    {
+      "name": "no_files",
+      "value": "Niciun fişier"
+    },
+    {
+      "name": "none_on_top",
+      "value": "Nimic sus"
+    },
+    {
+      "name": "not_allowed",
+      "value": "Nu este permis"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "open",
+      "value": "Deschideţi"
+    },
+    {
+      "name": "open_as",
+      "value": "Deschidere ca"
+    },
+    {
+      "name": "open_parent",
+      "value": "Deschideţi dosarul primar"
+    },
+    {
+      "name": "open_with",
+      "value": "Deschideţi cu"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "Operaţie nereuşită"
+    },
+    {
+      "name": "other",
+      "value": "Altele"
+    },
+    {
+      "name": "overwrite",
+      "value": "Suprascriere"
+    },
+    {
+      "name": "package_installer",
+      "value": "Instalare pachete"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "Acesta este un pachet de instalare. Ce doriţi să faceţi?"
+    },
+    {
+      "name": "password",
+      "value": "Parolă"
+    },
+    {
+      "name": "paste",
+      "value": "Lipire"
+    },
+    {
+      "name": "path",
+      "value": "Cale"
+    },
+    {
+      "name": "permission",
+      "value": "Permisiuni"
+    },
+    {
+      "name": "permission_read",
+      "value": "Citește"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "Selectaţi un fişier"
+    },
+    {
+      "name": "play",
+      "value": "Magazin Play"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "Poloneză"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "Portugeză"
+    },
+    {
+      "name": "press_again",
+      "value": "Apăsați din nou pentru a ieși"
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "Setaţi culoarea elementelor UI mari"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "Culoare primară"
+    },
+    {
+      "name": "process_viewer",
+      "value": "Vizualizare proces"
+    },
+    {
+      "name": "properties",
+      "value": "Proprietăţi"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "Doriţi să setați calea actuală ca Dosar Acasă pentru această filă?"
+    },
+    {
+      "name": "quick",
+      "value": "Acces rapid"
+    },
+    {
+      "name": "random",
+      "value": "Skin aleator"
+    },
+    {
+      "name": "random_summary",
+      "value": "Setare culoare primară aleatorie la pornire"
+    },
+    {
+      "name": "rate",
+      "value": "Evaluaţi aplicaţia"
+    },
+    {
+      "name": "recent",
+      "value": "Fişiere recente"
+    },
+    {
+      "name": "rename",
+      "value": "Redenumiţi"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "Modificaţi marcajul"
+    },
+    {
+      "name": "renaming",
+      "value": "Redenumire"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "Română"
+    },
+    {
+      "name": "root_failure",
+      "value": "Accesul root nu a fost acordat"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "Doar pentru dispozitive cu acces root. Bifaţi numai dacă sunteți sigur."
+    },
+    {
+      "name": "root_pref",
+      "value": "Afişare permisiuni"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "Se afişează permisiunile fișierelor și dosarelor"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "Rusă"
+    },
+    {
+      "name": "save",
+      "value": "Salvaţi"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "La pornire, dosarul cel mai recent văzut pentru fiecare filă va fi afișat"
+    },
+    {
+      "name": "save_paths",
+      "value": "Memorizare căi"
+    },
+    {
+      "name": "saving",
+      "value": "Salvare"
+    },
+    {
+      "name": "search",
+      "value": "Căutare"
+    },
+    {
+      "name": "searching_devices",
+      "value": "Căutare dispozitive"
+    },
+    {
+      "name": "select",
+      "value": "Selectaţi elementele"
+    },
+    {
+      "name": "select_all",
+      "value": "Selectaţi tot"
+    },
+    {
+      "name": "select_intent",
+      "value": "Selectaţi"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "Sârbă"
+    },
+    {
+      "name": "server_address",
+      "value": "Server: Adresă IP sau Adresă IP/DosarPartajat"
+    },
+    {
+      "name": "set",
+      "value": "Setare"
+    },
+    {
+      "name": "set_as_home",
+      "value": "Setaţi ca Acasă"
+    },
+    {
+      "name": "set_random",
+      "value": "Modificările vor intra în vigoare după repornirea aplicației"
+    },
+    {
+      "name": "setting",
+      "value": "Setări"
+    },
+    {
+      "name": "share",
+      "value": "Distribuiţi"
+    },
+    {
+      "name": "show_dividers",
+      "value": "Afişare divizoare"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Dimensiune"
+    },
+    {
+      "name": "size_pref",
+      "value": "Afişare dimensiuni"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "Se afişează dimensiunea fișierelor și numărul de elemente în dosare"
+    },
+    {
+      "name": "skip",
+      "value": "Omiteţi"
+    },
+    {
+      "name": "smb_connection",
+      "value": "Conexiune SMB"
+    },
+    {
+      "name": "sort",
+      "value": "Sortare"
+    },
+    {
+      "name": "sort_by",
+      "value": "Sortare după"
+    },
+    {
+      "name": "sort_name",
+      "value": "Nume"
+    },
+    {
+      "name": "sort_size",
+      "value": "Dimensiune"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "Spaniolă"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Pornire"
+    },
+    {
+      "name": "stopping",
+      "value": "Oprire"
+    },
+    {
+      "name": "textreader",
+      "value": "Reader text"
+    },
+    {
+      "name": "theme",
+      "value": "Temă"
+    },
+    {
+      "name": "thumb",
+      "value": "Afişare miniaturi"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "Se afişează miniaturile aplicațiilor și imaginilor"
+    },
+    {
+      "name": "translators",
+      "value": "Traducători"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "Turcă"
+    },
+    {
+      "name": "type",
+      "value": "Tip"
+    },
+    {
+      "name": "ui",
+      "value": "Interfaţă"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "Ucraineană"
+    },
+    {
+      "name": "unin_system_apk",
+      "value": "Aceasta este o aplicație de sistem, ștergerea ei ar putea duce la instabilitatea sistemului.\\nContinuaţi?"
+    },
+    {
+      "name": "uninstall",
+      "value": "Dezinstalaţi"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "Modificări nesalvate"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "Aveți modificări nesalvate, doriţi să le salvați înainte de a ieși?"
+    },
+    {
+      "name": "username",
+      "value": "Nume utilizator"
+    },
+    {
+      "name": "version",
+      "value": "Versiune"
+    },
+    {
+      "name": "video",
+      "value": "Videoclip"
+    },
+    {
+      "name": "videos",
+      "value": "Videoclipuri"
+    },
+    {
+      "name": "view",
+      "value": "Vizualizare"
+    },
+    {
+      "name": "want_help",
+      "value": "Aveţi nevoie de ajutor?"
+    },
+    {
+      "name": "warning",
+      "value": "Avertizare"
+    },
+    {
+      "name": "width",
+      "value": "Lăţime"
+    },
+    {
+      "name": "xda_summary",
+      "value": "Î. şi R., Ajutor şi Depanare"
+    },
+    {
+      "name": "xda_title",
+      "value": "XDA"
+    },
+    {
+      "name": "yes",
+      "value": "Da"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "Vizualizator Zip"
+    }
+  ]
+}

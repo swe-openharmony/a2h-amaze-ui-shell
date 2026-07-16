@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "color_title",
+      "value": "ಬಣ್ಣ"
+    },
+    {
+      "name": "exposure_time",
+      "value": "ಎಕ್ಸ್‌ಪೋಸರ್‌‌ ಸಮಯ"
+    },
+    {
+      "name": "focal_length",
+      "value": "ಕೇಂದ್ರೀಕರಣದ ದೂರ"
+    },
+    {
+      "name": "information",
+      "value": "ಮಾಹಿತಿ"
+    },
+    {
+      "name": "password",
+      "value": "ಪ್ರವೇಶಪದ"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "ಗಾತ್ರ"
+    },
+    {
+      "name": "sort_size",
+      "value": "ಗಾತ್ರ"
+    },
+    {
+      "name": "text",
+      "value": "ಪಠ್ಯ"
+    },
+    {
+      "name": "version",
+      "value": "ಆವೃತ್ತಿ"
+    }
+  ]
+}

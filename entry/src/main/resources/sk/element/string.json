@@ -1,0 +1,1700 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "O aplikaci"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "O správcovi súborov Amaze"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "Nastavte farbu pre FAB a ďalšie malé prvky UI rozhrania"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "Farba zvýraznenia"
+    },
+    {
+      "name": "accessed",
+      "value": "Posledný prístup"
+    },
+    {
+      "name": "add_item",
+      "value": "Pridať položku"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "Pridať odkaz"
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "Pridať do záložiek"
+    },
+    {
+      "name": "advanced_search",
+      "value": "Rozšírené vyhľadávanie"
+    },
+    {
+      "name": "album",
+      "value": "Album"
+    },
+    {
+      "name": "anonymous",
+      "value": "Anonymný"
+    },
+    {
+      "name": "aperture_value",
+      "value": "Hodnoty clony"
+    },
+    {
+      "name": "apks",
+      "value": "Aplikácie"
+    },
+    {
+      "name": "app_name",
+      "value": "Amaze"
+    },
+    {
+      "name": "apps",
+      "value": "Správca aplikácií"
+    },
+    {
+      "name": "archive",
+      "value": "Archivovať"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "Priečinok pre rozbaľovanie archívov"
+    },
+    {
+      "name": "archive_summary",
+      "value": "Archívne súbory budú extrahované do tohoto priečinku. Predvolená hodnota je priečinok, v ktorom archív uložený"
+    },
+    {
+      "name": "archive_text",
+      "value": "Toto je archív. Akú akciu chcete vykonať?"
+    },
+    {
+      "name": "artist",
+      "value": "Interpret"
+    },
+    {
+      "name": "ascending",
+      "value": "Vzostupne"
+    },
+    {
+      "name": "audio",
+      "value": "Zvuk"
+    },
+    {
+      "name": "authenticate_password",
+      "value": "Zadajte heslo"
+    },
+    {
+      "name": "author",
+      "value": "Autor"
+    },
+    {
+      "name": "authors",
+      "value": "Autori"
+    },
+    {
+      "name": "back_summary",
+      "value": "Tlačidlo Späť na začiatku zoznamu"
+    },
+    {
+      "name": "back_title",
+      "value": "Tlačidlo Späť"
+    },
+    {
+      "name": "backup",
+      "value": "Zálohovať"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "Baskičtina"
+    },
+    {
+      "name": "bitrate",
+      "value": "Dátový tok"
+    },
+    {
+      "name": "blue",
+      "value": "Modrá"
+    },
+    {
+      "name": "bluetooth",
+      "value": "Bluetooth"
+    },
+    {
+      "name": "bookmark_lost",
+      "value": "Záložka sa nenašla, obnovovanie…"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "Záložka pridaná"
+    },
+    {
+      "name": "byte_singular",
+      "value": "bajtov"
+    },
+    {
+      "name": "bytes",
+      "value": "bajtov"
+    },
+    {
+      "name": "calculating",
+      "value": "výpočet"
+    },
+    {
+      "name": "camera_brand",
+      "value": "Fotoaparát značky"
+    },
+    {
+      "name": "camera_model",
+      "value": "Model fotoaparátu"
+    },
+    {
+      "name": "cancel",
+      "value": "ZRUŠIŤ"
+    },
+    {
+      "name": "cancelled",
+      "value": "Zrušené"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s nemôže byť prázdne"
+    },
+    {
+      "name": "change",
+      "value": "Zmeniť"
+    },
+    {
+      "name": "changelog",
+      "value": "Zoznam zmien"
+    },
+    {
+      "name": "channels",
+      "value": "Kanály"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "Čínština"
+    },
+    {
+      "name": "choose_color",
+      "value": "Vybrať farbu"
+    },
+    {
+      "name": "circular_icons",
+      "value": "Používať kruhové ikony"
+    },
+    {
+      "name": "circular_images",
+      "value": "Používať kruhové ikony pre obrázky a videá"
+    },
+    {
+      "name": "clear",
+      "value": "Vymazať"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "Cesta bola skopírovaná do schránky"
+    },
+    {
+      "name": "close",
+      "value": "Zavrieť"
+    },
+    {
+      "name": "cloud_box",
+      "value": "Box"
+    },
+    {
+      "name": "cloud_connection",
+      "value": "Cloudové pripojenie"
+    },
+    {
+      "name": "cloud_connection_new",
+      "value": "Nové cloudové pripojenie"
+    },
+    {
+      "name": "cloud_dropbox",
+      "value": "Dropbox"
+    },
+    {
+      "name": "cloud_error_failed_restart",
+      "value": "Spojenie sa nepodarilo nadviazať.  Prosím najprv otvorte Amaze Cloud."
+    },
+    {
+      "name": "cloud_error_plugin",
+      "value": "Amaze Cloud plugin nebol nájdený. Stiahnite si ho prosím z obchodu Play."
+    },
+    {
+      "name": "cloud_fail_authenticate",
+      "value": "Overenie zlyhalo"
+    },
+    {
+      "name": "cloud_get",
+      "value": "Získať Cloud plugin"
+    },
+    {
+      "name": "cloud_onedrive",
+      "value": "OneDrive"
+    },
+    {
+      "name": "cloud_remove",
+      "value": "Chcete odstrániť pripojenie na cloud?"
+    },
+    {
+      "name": "cloud_share_copied",
+      "value": "Zdieľaný odkaz bol skopírovaný do schránky"
+    },
+    {
+      "name": "cloud_token_lost",
+      "value": "Token bol stratený, prihláste sa prosím znovu"
+    },
+    {
+      "name": "codec",
+      "value": "Kodek"
+    },
+    {
+      "name": "color_summary",
+      "value": "Nastaviť farbu pre rôzne súčasti UI rozhrania"
+    },
+    {
+      "name": "color_title",
+      "value": "Farba"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "Farebný navigačný panel"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "Zafarbenie navigačného panela v súlade so skinom"
+    },
+    {
+      "name": "colorize",
+      "value": "Zafarbiť ikony"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "Nastaví farbu ikon odlišnú od témy."
+    },
+    {
+      "name": "comment",
+      "value": "Komentár"
+    },
+    {
+      "name": "compress",
+      "value": "Komprimovať"
+    },
+    {
+      "name": "compressing",
+      "value": "Komprimácia"
+    },
+    {
+      "name": "compression_complete",
+      "value": "Kompresia je dokončená"
+    },
+    {
+      "name": "connection_exists",
+      "value": "Pripojenie už existuje"
+    },
+    {
+      "name": "connection_name",
+      "value": "Názov pripojenia"
+    },
+    {
+      "name": "container",
+      "value": "Kontajner"
+    },
+    {
+      "name": "contributors",
+      "value": "Prispievatelia"
+    },
+    {
+      "name": "contributors_1_summary",
+      "value": "Preklad"
+    },
+    {
+      "name": "contributors_2_summary",
+      "value": "Ikony a bannery"
+    },
+    {
+      "name": "contributors_3_summary",
+      "value": "Motor témy"
+    },
+    {
+      "name": "contributors_4_summary",
+      "value": "Tieň za plávajúcimi tlačidlami FAB"
+    },
+    {
+      "name": "contributors_5_summary",
+      "value": "Farebný prechod Keď potiahnete kartu"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "FTP Server"
+    },
+    {
+      "name": "contributors_7_summary",
+      "value": "Spustiť interaktívny shell"
+    },
+    {
+      "name": "copied",
+      "value": "skopírované"
+    },
+    {
+      "name": "copy",
+      "value": "Kopírovať"
+    },
+    {
+      "name": "copy_complete",
+      "value": "Kopírovanie dokončené"
+    },
+    {
+      "name": "copy_error",
+      "value": "Niektoré súbory neboli úspešné %s"
+    },
+    {
+      "name": "copy_low_memory",
+      "value": "Nedostatok pamäte, prosím vyčistite RAM"
+    },
+    {
+      "name": "copying",
+      "value": "Kopírovanie"
+    },
+    {
+      "name": "create",
+      "value": "VYTVORIŤ"
+    },
+    {
+      "name": "created",
+      "value": "Vytvorené"
+    },
+    {
+      "name": "creatingfile",
+      "value": "Vytvorenie súboru"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "Vytvorenie priečinka"
+    },
+    {
+      "name": "creator",
+      "value": "Tvorca"
+    },
+    {
+      "name": "crypt_decrypt",
+      "value": "Dešifrovať"
+    },
+    {
+      "name": "crypt_decrypted",
+      "value": "Dešifrované"
+    },
+    {
+      "name": "crypt_decrypting",
+      "value": "Dešifrovanie"
+    },
+    {
+      "name": "crypt_decryption_fail",
+      "value": "Dešifrovanie sa nepodarilo"
+    },
+    {
+      "name": "crypt_decryption_fail_password",
+      "value": "Nesprávne heslo!"
+    },
+    {
+      "name": "crypt_encrypt",
+      "value": "Šifrovať"
+    },
+    {
+      "name": "crypt_encrypted",
+      "value": "Šifrované"
+    },
+    {
+      "name": "crypt_encrypting",
+      "value": "Šifrovanie"
+    },
+    {
+      "name": "crypt_encryption_fail",
+      "value": "Zašifrovanie sa nepodarilo"
+    },
+    {
+      "name": "crypt_fingerprint_authenticate",
+      "value": "Pre pokračovanie sa dotknite sa senzora"
+    },
+    {
+      "name": "crypt_fingerprint_no_permission",
+      "value": "Oprávnenie odtlačkov prstov chýba"
+    },
+    {
+      "name": "crypt_fingerprint_no_security",
+      "value": "Nebolo nájdené žiadne zabezpečenie obrazovky uzamknutia"
+    },
+    {
+      "name": "crypt_fingerprint_not_enrolled",
+      "value": "Nebol zapísaný žiadny odtlačok prsta"
+    },
+    {
+      "name": "crypt_pref_fingerprint_summary",
+      "value": "Použiť odtlačok prsta na overenie šifrovania"
+    },
+    {
+      "name": "crypt_pref_fingerprint_title",
+      "value": "Odtlačok prsta"
+    },
+    {
+      "name": "crypt_pref_master_password_summary",
+      "value": "Nastavte hlavné heslo pre šifrovanie. Pre odstránenie hesla ponechajte prázdne."
+    },
+    {
+      "name": "crypt_pref_master_password_title",
+      "value": "Hlavné heslo"
+    },
+    {
+      "name": "crypt_warning_key",
+      "value": "Upozorňujeme, že keď zmeníte bezpečnostný vzor v nastaveniach systému,  nebudete môcť tento obsah dešifrovať."
+    },
+    {
+      "name": "current_speed",
+      "value": "Aktuálna rýchlosť"
+    },
+    {
+      "name": "cut",
+      "value": "Vystrihnúť"
+    },
+    {
+      "name": "dark",
+      "value": "Material tmavá"
+    },
+    {
+      "name": "database",
+      "value": "Databáza"
+    },
+    {
+      "name": "databasereader",
+      "value": "Prehliadač databáz"
+    },
+    {
+      "name": "date",
+      "value": "Dátum"
+    },
+    {
+      "name": "date_modified",
+      "value": "Dátum zmeny"
+    },
+    {
+      "name": "date_taken",
+      "value": "Dátum vytvorenia"
+    },
+    {
+      "name": "daytime",
+      "value": "Daytime"
+    },
+    {
+      "name": "default_string",
+      "value": "Predvolený"
+    },
+    {
+      "name": "delbook",
+      "value": "Odstrániť záložku"
+    },
+    {
+      "name": "delete",
+      "value": "Vymazať"
+    },
+    {
+      "name": "deleting",
+      "value": "Odstraňovanie"
+    },
+    {
+      "name": "descending",
+      "value": "Zostupne"
+    },
+    {
+      "name": "details",
+      "value": "Podrobnosti"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "Adresáre"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "Súbory"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "Vymazaním nižšie uvedených položiek ich natrvalo odstránite zo zariadenia a nebude ich možné obnoviť."
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Odstrániť položky natrvalo?"
+    },
+    {
+      "name": "dimensions",
+      "value": "Rozmery"
+    },
+    {
+      "name": "directory",
+      "value": "Adresár"
+    },
+    {
+      "name": "directorysort",
+      "value": "Režim triedenia adresárov"
+    },
+    {
+      "name": "documents",
+      "value": "Dokumenty"
+    },
+    {
+      "name": "doforall",
+      "value": "Pre všetky položky"
+    },
+    {
+      "name": "doit",
+      "value": "Vykonať"
+    },
+    {
+      "name": "domain",
+      "value": "Doména"
+    },
+    {
+      "name": "donate",
+      "value": "Podporte nás"
+    },
+    {
+      "name": "done",
+      "value": "Hotovo"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Zavrieť navigačný panel"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Otvoriť navigačný panel"
+    },
+    {
+      "name": "duration",
+      "value": "Trvanie"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "Holandčina"
+    },
+    {
+      "name": "edit",
+      "value": "Upraviť"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "Povoliť Root režim"
+    },
+    {
+      "name": "entername",
+      "value": "Zadajte názov"
+    },
+    {
+      "name": "enterpath",
+      "value": "Zadajte cestu"
+    },
+    {
+      "name": "enterzipname",
+      "value": "Zadajte meno súboru ZIP"
+    },
+    {
+      "name": "error",
+      "value": "Chyba"
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "Chyba! Súbor sa nenašiel"
+    },
+    {
+      "name": "error_io",
+      "value": "Vstupno-výstupná chyba"
+    },
+    {
+      "name": "exit",
+      "value": "Ukončiť"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Expozičný čas"
+    },
+    {
+      "name": "extract",
+      "value": "Rozbaliť"
+    },
+    {
+      "name": "extract_complete",
+      "value": "Extrakcia je dokončená"
+    },
+    {
+      "name": "extracting",
+      "value": "Rozbaľovanie"
+    },
+    {
+      "name": "feedback",
+      "value": "Odoslať spätnú väzbu"
+    },
+    {
+      "name": "field_empty",
+      "value": "Pole nemôže byť prázdne"
+    },
+    {
+      "name": "file",
+      "value": "Súbor"
+    },
+    {
+      "name": "file_empty",
+      "value": "Súbor je prázdny"
+    },
+    {
+      "name": "fileexist",
+      "value": "Súbor s rovnakým názvom už existuje"
+    },
+    {
+      "name": "files",
+      "value": "Súbory"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "Súbory na vrchole"
+    },
+    {
+      "name": "find",
+      "value": "Nájsť na stránke"
+    },
+    {
+      "name": "flash_fired",
+      "value": "S bleskom"
+    },
+    {
+      "name": "focal_length",
+      "value": "Ohnisková vzdialenosť"
+    },
+    {
+      "name": "folder",
+      "value": "Priečinok"
+    },
+    {
+      "name": "folders",
+      "value": "Priečinky"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "Priečinky na vrchole"
+    },
+    {
+      "name": "format",
+      "value": "Formát"
+    },
+    {
+      "name": "frame_rate",
+      "value": "Snímkovacia frekvencia"
+    },
+    {
+      "name": "free",
+      "value": "voľné miesto"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "Francúzština"
+    },
+    {
+      "name": "ftp",
+      "value": "FTP Server"
+    },
+    {
+      "name": "ftp_login",
+      "value": "Prihlásenie"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "Skontrolujte, či ste pripojení k Wi-Fi"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "FTP Server sa spúšťa"
+    },
+    {
+      "name": "ftp_notif_starting_title",
+      "value": "FTP Server"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "STOP"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "na %s"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "Amaze FTP Server beží"
+    },
+    {
+      "name": "ftp_path",
+      "value": "Zdieľaná cesta"
+    },
+    {
+      "name": "ftp_path_change_error_invalid",
+      "value": "Neplatná cesta"
+    },
+    {
+      "name": "ftp_path_change_success",
+      "value": "FTP cesta bola úspešne zmenená"
+    },
+    {
+      "name": "ftp_path_hint",
+      "value": "Cesta do koreňového adresára na zdieľanie"
+    },
+    {
+      "name": "ftp_port",
+      "value": "Port"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "Vybrané nesprávne číslo portu"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "FTP port bol úspešne zmenený"
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "FTP port"
+    },
+    {
+      "name": "ftp_seconds",
+      "value": "Sekúnd"
+    },
+    {
+      "name": "ftp_status_no_connection",
+      "value": "Žiadne pripojenie"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "Nebeží"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "Spustené"
+    },
+    {
+      "name": "ftp_status_secure_connection",
+      "value": "Zabezpečené pripojenie"
+    },
+    {
+      "name": "ftp_status_title",
+      "value": "Stav"
+    },
+    {
+      "name": "ftp_timeout",
+      "value": "Časový limit nečinnosti"
+    },
+    {
+      "name": "general",
+      "value": "Všeobecné"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "Nemčina"
+    },
+    {
+      "name": "goback",
+      "value": "Späť"
+    },
+    {
+      "name": "got_it",
+      "value": "Rozumiem!"
+    },
+    {
+      "name": "grant",
+      "value": "Povoliť"
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "Aplikácia pre pokračovanie potrebuje udeliť povolenie k úložisku. Zrušením tohto dialógového okna sa aplikácia ukončí."
+    },
+    {
+      "name": "grantfailed",
+      "value": "Oprávnenie nebolo udelené"
+    },
+    {
+      "name": "grantper",
+      "value": "Udeliť oprávnenie"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "Gréčtina"
+    },
+    {
+      "name": "green",
+      "value": "Zelená"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "Počet stĺpcov v zobrazení mriežky"
+    },
+    {
+      "name": "gridview",
+      "value": "Zobrazenie v mriežke"
+    },
+    {
+      "name": "hash_sha256",
+      "value": "SHA-256"
+    },
+    {
+      "name": "height",
+      "value": "Výška"
+    },
+    {
+      "name": "hidden",
+      "value": "Zobraziť skryté súbory a priečinky"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "Skryté súbory"
+    },
+    {
+      "name": "hide",
+      "value": "Skryť"
+    },
+    {
+      "name": "history",
+      "value": "História"
+    },
+    {
+      "name": "home",
+      "value": "Domov"
+    },
+    {
+      "name": "icon",
+      "value": "ikona"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "Nastavit farbu ikony"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "Farba ikony"
+    },
+    {
+      "name": "image",
+      "value": "Obraz"
+    },
+    {
+      "name": "image_iso",
+      "value": "Hodnoty ISO"
+    },
+    {
+      "name": "image_type",
+      "value": "Typ obázku"
+    },
+    {
+      "name": "images",
+      "value": "Obrázky"
+    },
+    {
+      "name": "in_safe",
+      "value": "Nedostatok miesta"
+    },
+    {
+      "name": "information",
+      "value": "Informácie"
+    },
+    {
+      "name": "install",
+      "value": "Nainštalovať"
+    },
+    {
+      "name": "intellihide_toolbar_summary",
+      "value": "Automaticky skryť panel s nástrojmi počas posúvania"
+    },
+    {
+      "name": "intellihide_toolbar_title",
+      "value": "Automatické skrývanie panela s nástrojmi"
+    },
+    {
+      "name": "invalid",
+      "value": "Neplatné %s"
+    },
+    {
+      "name": "invalid_name",
+      "value": "Nesprávny názov"
+    },
+    {
+      "name": "ip",
+      "value": "Adresa"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "Taliančina"
+    },
+    {
+      "name": "item",
+      "value": "položka"
+    },
+    {
+      "name": "items",
+      "value": "položiek"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "Japončina"
+    },
+    {
+      "name": "keywords",
+      "value": "Kľúčové slová"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "Kórejčina"
+    },
+    {
+      "name": "lastModified",
+      "value": "Naposledy zmenené"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "Zobraziť naposledy zmenené"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "Zobraziť dátum a čas, kedy bol súbor naposledy upravený"
+    },
+    {
+      "name": "light",
+      "value": "Material svetlá"
+    },
+    {
+      "name": "listview",
+      "value": "Zobrazenie zoznamu"
+    },
+    {
+      "name": "loading",
+      "value": "Načítavanie…"
+    },
+    {
+      "name": "location",
+      "value": "Miesto"
+    },
+    {
+      "name": "match_content",
+      "value": "Porovnať obsah"
+    },
+    {
+      "name": "match_content_summary",
+      "value": "Ak nastavíte, regulárny výraz bude porovnaný s celým názvom súboru, inak sa zameria na počet výskytov."
+    },
+    {
+      "name": "md5",
+      "value": "MD5"
+    },
+    {
+      "name": "medium_text",
+      "value": "Stredný Text"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "Rôzne"
+    },
+    {
+      "name": "modified",
+      "value": "Upravené"
+    },
+    {
+      "name": "monofont",
+      "value": "Písmo Monospace"
+    },
+    {
+      "name": "moved",
+      "value": "presunuté"
+    },
+    {
+      "name": "moving",
+      "value": "Presúvanie"
+    },
+    {
+      "name": "name",
+      "value": "Meno"
+    },
+    {
+      "name": "needs_access",
+      "value": "Potrebný prístup na zápis"
+    },
+    {
+      "name": "needs_access_summary",
+      "value": "Prosím vyberte koreňový adresár \\t"
+    },
+    {
+      "name": "needs_access_summary1",
+      "value": "\\tto udeliť oprávnenie na zápis"
+    },
+    {
+      "name": "newfile",
+      "value": "Nový súbor"
+    },
+    {
+      "name": "newfolder",
+      "value": "Nový priečinok"
+    },
+    {
+      "name": "no",
+      "value": "Nie"
+    },
+    {
+      "name": "no_app_found",
+      "value": "Nenašla sa aplikácia na otvorenie tohto typu súboru"
+    },
+    {
+      "name": "no_applications",
+      "value": "Žiadne aplikácie"
+    },
+    {
+      "name": "no_device_found",
+      "value": "Nenašli sa žiadne zariadenia"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "Žiadny súbor nebol prepísaný"
+    },
+    {
+      "name": "no_files",
+      "value": "Žiadne súbory"
+    },
+    {
+      "name": "no_items",
+      "value": "Žiadne položky"
+    },
+    {
+      "name": "no_name",
+      "value": "Súbor by mal mať názov"
+    },
+    {
+      "name": "none_on_top",
+      "value": "Nič na vrchole"
+    },
+    {
+      "name": "not_allowed",
+      "value": "Nie je povolené"
+    },
+    {
+      "name": "of",
+      "value": "z"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "open",
+      "value": "Otvoriť"
+    },
+    {
+      "name": "open_as",
+      "value": "Otvoriť ako"
+    },
+    {
+      "name": "open_parent",
+      "value": "Otvoriť Nadradený adresár"
+    },
+    {
+      "name": "open_with",
+      "value": "Otvoriť s"
+    },
+    {
+      "name": "operation_fail_following",
+      "value": "Operácia zlyhala pre nasledovné súbory"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "Operácia neúspešná"
+    },
+    {
+      "name": "optimized",
+      "value": "Optimalizované"
+    },
+    {
+      "name": "orange",
+      "value": "Oranžová"
+    },
+    {
+      "name": "otg_access",
+      "value": "Vyberte koreň OTG zariadenia"
+    },
+    {
+      "name": "other",
+      "value": "Ostatné"
+    },
+    {
+      "name": "out_of",
+      "value": "z"
+    },
+    {
+      "name": "overwrite",
+      "value": "Prepísať"
+    },
+    {
+      "name": "package_installer",
+      "value": "Inštalátor balíčkov"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "Toto je inštalátor balíčkov. Akú akciu chcete vykonať?"
+    },
+    {
+      "name": "pages",
+      "value": "Počet strán"
+    },
+    {
+      "name": "paper_size",
+      "value": "Veľkosť papiera"
+    },
+    {
+      "name": "password",
+      "value": "Heslo"
+    },
+    {
+      "name": "paste",
+      "value": "Vložiť"
+    },
+    {
+      "name": "path",
+      "value": "Cesta"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "Paypal id bol skopírovaný do schránky"
+    },
+    {
+      "name": "permission",
+      "value": "Oprávnenia"
+    },
+    {
+      "name": "permission_execute",
+      "value": "Vykonať"
+    },
+    {
+      "name": "permission_group",
+      "value": "Skupina"
+    },
+    {
+      "name": "permission_other",
+      "value": "Ostatné"
+    },
+    {
+      "name": "permission_owner",
+      "value": "Vlastník"
+    },
+    {
+      "name": "permission_read",
+      "value": "Prečítať"
+    },
+    {
+      "name": "permission_write",
+      "value": "Zapísať"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "Vyberte súbor"
+    },
+    {
+      "name": "play",
+      "value": "Obchod Play"
+    },
+    {
+      "name": "please_wait",
+      "value": "Prosím čakajte"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "Polština"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "Portugalčina"
+    },
+    {
+      "name": "press_again",
+      "value": "Pre ukončenie stlačte znovu"
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "Nastavte farbu pre veľké UI elementy pre ľavú kartu"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "Hlavná farba (ľavá karta)"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "Nastavte farbu pre veľké UI elementy pre pravú kartu"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "Hlavná farba (pravá karta)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "Prehliadač procesov"
+    },
+    {
+      "name": "processing_file",
+      "value": "Spracúva sa súbor"
+    },
+    {
+      "name": "producer",
+      "value": "Producent"
+    },
+    {
+      "name": "properties",
+      "value": "Vlastnosti"
+    },
+    {
+      "name": "properties_copied_clipboard",
+      "value": "skopírované do schránky"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "Chcete nastaviť aktuálnu cestu ako domácu pre túto kartu?"
+    },
+    {
+      "name": "quick",
+      "value": "Rýchly prístup"
+    },
+    {
+      "name": "random",
+      "value": "Náhodný skin"
+    },
+    {
+      "name": "random_summary",
+      "value": "Nastaví náhodnú základnú farbu pri štarte"
+    },
+    {
+      "name": "rate",
+      "value": "Ohodnotiť aplikáciu"
+    },
+    {
+      "name": "recent",
+      "value": "Nedávne súbory"
+    },
+    {
+      "name": "regular_expression",
+      "value": "Regulárny výraz"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "Vyhľadávanie pomocou regulárneho výrazu BASH"
+    },
+    {
+      "name": "rename",
+      "value": "Premenovať"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "Upraviť záložku"
+    },
+    {
+      "name": "renaming",
+      "value": "Premenovanie"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "Nahlásiť chyby alebo požiadať o novú funkciu"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "Nahlásiť chyby"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "Rumunčina"
+    },
+    {
+      "name": "root_directory",
+      "value": "Koreňový adresár"
+    },
+    {
+      "name": "root_failure",
+      "value": "Root prístup nebol udelený"
+    },
+    {
+      "name": "root_mode",
+      "value": "Root Explorer"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "Iba pre rootované zariadenie. Používajte len vtedy, ak ste si istí, že máte root."
+    },
+    {
+      "name": "root_pref",
+      "value": "Zobraziť povolenia"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "Zobraziť povolenia na súbory a priečinky"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "Ruština"
+    },
+    {
+      "name": "sample_rate",
+      "value": "Vzorkovacia frekvencia"
+    },
+    {
+      "name": "save",
+      "value": "Uložiť"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "Pri spúšťaní sa zobrazí naposledy zobrazený priečinok pre každú kartu"
+    },
+    {
+      "name": "save_paths",
+      "value": "Zapamätať si cesty"
+    },
+    {
+      "name": "saving",
+      "value": "Ukladá sa"
+    },
+    {
+      "name": "scp_port",
+      "value": "Port"
+    },
+    {
+      "name": "search",
+      "value": "Hľadať"
+    },
+    {
+      "name": "search_hint",
+      "value": "Zadajte text pre vyhľadávanie…"
+    },
+    {
+      "name": "searching_devices",
+      "value": "Vyhľadávajú sa zariadenia..."
+    },
+    {
+      "name": "security",
+      "value": "Zabezpečenie"
+    },
+    {
+      "name": "select",
+      "value": "Vybrať položku"
+    },
+    {
+      "name": "select_all",
+      "value": "Vybrať všetko"
+    },
+    {
+      "name": "select_intent",
+      "value": "Vybrať"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "Srbčina"
+    },
+    {
+      "name": "server_address",
+      "value": "IP adresa servera"
+    },
+    {
+      "name": "service_timer",
+      "value": "Uplynutý čas"
+    },
+    {
+      "name": "set",
+      "value": "Nastaviť"
+    },
+    {
+      "name": "set_as_home",
+      "value": "Nastaviť ako domovský"
+    },
+    {
+      "name": "set_random",
+      "value": "Zmeny sa vykonajú po reštarte aplikácie"
+    },
+    {
+      "name": "setting",
+      "value": "Nastavenia"
+    },
+    {
+      "name": "share",
+      "value": "Zdieľať"
+    },
+    {
+      "name": "share_limit",
+      "value": "Nemôžete zdieľať viac ako 100 súborov"
+    },
+    {
+      "name": "showHeaders",
+      "value": "Zobraziť záhlavie"
+    },
+    {
+      "name": "show_bookmarks_pref",
+      "value": "Záložky"
+    },
+    {
+      "name": "show_dividers",
+      "value": "Zobraziť oddeľovače"
+    },
+    {
+      "name": "show_quick_access_pref",
+      "value": "Rýchly prístup"
+    },
+    {
+      "name": "show_quick_access_pref_title",
+      "value": "Zobraziť Rýchly prístup"
+    },
+    {
+      "name": "sidebar_quick_access_title",
+      "value": "Rýchly prístup k bočnému panelu"
+    },
+    {
+      "name": "size",
+      "value": "veľkosť priečinka"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Veľkosť"
+    },
+    {
+      "name": "size_pref",
+      "value": "Zobrazťt veľkosť"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "Zobraziť veľkosť súborov a počet položiek v priečinkoch"
+    },
+    {
+      "name": "skip",
+      "value": "Preskočiť"
+    },
+    {
+      "name": "smb_connection",
+      "value": "SMB pripojenie"
+    },
+    {
+      "name": "smb_launch_error",
+      "value": "Budete musieť skopírovať tento súbor na úložisko a otvoriť ho"
+    },
+    {
+      "name": "software",
+      "value": "Softvér"
+    },
+    {
+      "name": "sort",
+      "value": "Zoradiť"
+    },
+    {
+      "name": "sort_by",
+      "value": "Zoradiť podľa"
+    },
+    {
+      "name": "sort_name",
+      "value": "Meno"
+    },
+    {
+      "name": "sort_size",
+      "value": "Veľkosť"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "Španielčina"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Štart"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "Ukončiť"
+    },
+    {
+      "name": "stopping",
+      "value": "Zastavovanie..."
+    },
+    {
+      "name": "subject",
+      "value": "Predmet"
+    },
+    {
+      "name": "support_development",
+      "value": "Podporte vývoj"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "Tamilčina"
+    },
+    {
+      "name": "text",
+      "value": "Text"
+    },
+    {
+      "name": "textreader",
+      "value": "Prehliadač textov"
+    },
+    {
+      "name": "theme",
+      "value": "Téma vzhľadu"
+    },
+    {
+      "name": "thumb",
+      "value": "Zobraziť náhľady"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "Zobraziť náhľady aplikácií a obrázkov"
+    },
+    {
+      "name": "title",
+      "value": "Názov"
+    },
+    {
+      "name": "total",
+      "value": "Celkovo:"
+    },
+    {
+      "name": "translate_summary",
+      "value": "Preložiť Amaze do vašho jazyka"
+    },
+    {
+      "name": "translate_title",
+      "value": "Preložiť"
+    },
+    {
+      "name": "translators",
+      "value": "Prekladatelia"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "Turečtina"
+    },
+    {
+      "name": "type",
+      "value": "Typ"
+    },
+    {
+      "name": "ui",
+      "value": "Rozhranie"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "Ukrainčina"
+    },
+    {
+      "name": "unin_system_apk",
+      "value": "Toto je systémová aplikácia, jej zmazanie môže viesť k nestabilite systému.\\nVymazať?"
+    },
+    {
+      "name": "uninstall",
+      "value": "Odinštalovať"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Ups, niečo sa pokazilo!"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "Neuložené zmeny"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "Máte neuložené zmeny, chcete ich uložiť pred ukončením?"
+    },
+    {
+      "name": "used",
+      "value": "využité miesto"
+    },
+    {
+      "name": "used_by_others",
+      "value": "používajú iné"
+    },
+    {
+      "name": "username",
+      "value": "Meno používateľa"
+    },
+    {
+      "name": "version",
+      "value": "Verzia"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "videos",
+      "value": "Videá"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "Vietnamčina"
+    },
+    {
+      "name": "view",
+      "value": "Náhľad"
+    },
+    {
+      "name": "waiting_content",
+      "value": "Čaká sa na dokončenie operácie"
+    },
+    {
+      "name": "waiting_title",
+      "value": "Čakám"
+    },
+    {
+      "name": "want_help",
+      "value": "Potrebujete pomoc?"
+    },
+    {
+      "name": "warning",
+      "value": "Upozornenie"
+    },
+    {
+      "name": "warning_confirm",
+      "value": "Rozumiem!"
+    },
+    {
+      "name": "warning_never_show",
+      "value": "Nabudúce neinformovať"
+    },
+    {
+      "name": "width",
+      "value": "Šírka"
+    },
+    {
+      "name": "written",
+      "value": "Zapísané"
+    },
+    {
+      "name": "xda_summary",
+      "value": "Q&A, pomoc a riešenie problémov"
+    },
+    {
+      "name": "xda_title",
+      "value": "XDA vlákno"
+    },
+    {
+      "name": "year",
+      "value": "Rok"
+    },
+    {
+      "name": "yes",
+      "value": "Áno"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "Prehliadač súborov ZIP"
+    }
+  ]
+}

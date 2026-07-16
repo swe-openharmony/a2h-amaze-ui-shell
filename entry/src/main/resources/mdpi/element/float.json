@@ -1,0 +1,16 @@
+{
+  "float": [
+    {
+      "name": "drawer_header_height",
+      "value": "158vp"
+    },
+    {
+      "name": "drawer_header_height_with_padding",
+      "value": "166vp"
+    },
+    {
+      "name": "drawer_width",
+      "value": "280vp"
+    }
+  ]
+}

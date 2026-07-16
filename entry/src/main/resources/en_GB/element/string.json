@@ -1,0 +1,80 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "About"
+    },
+    {
+      "name": "changelog",
+      "value": "Changelog"
+    },
+    {
+      "name": "color_title",
+      "value": "Colour"
+    },
+    {
+      "name": "default_string",
+      "value": "Default"
+    },
+    {
+      "name": "donate",
+      "value": "Donate"
+    },
+    {
+      "name": "done",
+      "value": "Done"
+    },
+    {
+      "name": "exit",
+      "value": "Exit"
+    },
+    {
+      "name": "history",
+      "value": "History"
+    },
+    {
+      "name": "home",
+      "value": "Home"
+    },
+    {
+      "name": "install",
+      "value": "Install"
+    },
+    {
+      "name": "no",
+      "value": "No"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "other",
+      "value": "Other"
+    },
+    {
+      "name": "permission_other",
+      "value": "Other"
+    },
+    {
+      "name": "save",
+      "value": "Save"
+    },
+    {
+      "name": "setting",
+      "value": "Settings"
+    },
+    {
+      "name": "skip",
+      "value": "Skip"
+    },
+    {
+      "name": "start_ftp",
+      "value": "start"
+    },
+    {
+      "name": "yes",
+      "value": "Yes"
+    }
+  ]
+}

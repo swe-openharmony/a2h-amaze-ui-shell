@@ -1,0 +1,1664 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Tietoja"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "Tietoja Amaze-tiedostonhallinnasta"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "Set color to FAB and other small UI elements"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "Aksenttiväri"
+    },
+    {
+      "name": "accessed",
+      "value": "Käytetty"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "Luo pikakuvake"
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "Lisää kirjanmerkkeihin"
+    },
+    {
+      "name": "advanced_search",
+      "value": "Tarkennettu haku"
+    },
+    {
+      "name": "album",
+      "value": "Albumi"
+    },
+    {
+      "name": "anonymous",
+      "value": "Anonyymi"
+    },
+    {
+      "name": "aperture_value",
+      "value": "Aukon arvo"
+    },
+    {
+      "name": "apks",
+      "value": "APK:t"
+    },
+    {
+      "name": "app_name",
+      "value": "Amaze"
+    },
+    {
+      "name": "apps",
+      "value": "Sovellusten hallinta"
+    },
+    {
+      "name": "archive",
+      "value": "Arkistoi"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "Archive Extract Folder"
+    },
+    {
+      "name": "archive_summary",
+      "value": "Archive files will be extracted to this folder. Default value is the directory in which archive is present"
+    },
+    {
+      "name": "archive_text",
+      "value": "Tämä on arkisto. Mitä haluat tehdä?"
+    },
+    {
+      "name": "artist",
+      "value": "Artisti"
+    },
+    {
+      "name": "ascending",
+      "value": "Nouseva"
+    },
+    {
+      "name": "audio",
+      "value": "Ääni"
+    },
+    {
+      "name": "authenticate_password",
+      "value": "Syötä salasana"
+    },
+    {
+      "name": "author",
+      "value": "Tekijä"
+    },
+    {
+      "name": "authors",
+      "value": "Tekijät"
+    },
+    {
+      "name": "back_summary",
+      "value": "Sallii mukautetun palaamisen alkuun"
+    },
+    {
+      "name": "back_title",
+      "value": "Edellinen"
+    },
+    {
+      "name": "backup",
+      "value": "Varmuuskopio"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "Basque"
+    },
+    {
+      "name": "bitrate",
+      "value": "Bittinopeus"
+    },
+    {
+      "name": "blue",
+      "value": "Sininen"
+    },
+    {
+      "name": "bluetooth",
+      "value": "Bluetooth"
+    },
+    {
+      "name": "bookmark_lost",
+      "value": "Kirjanmerkkiä ei löydy, luodaan uudestaan…"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "Kirjanmerkit lisätty"
+    },
+    {
+      "name": "bytes",
+      "value": "Tavua"
+    },
+    {
+      "name": "calculating",
+      "value": "lasketaan"
+    },
+    {
+      "name": "camera_brand",
+      "value": "Kamera merkki"
+    },
+    {
+      "name": "camera_model",
+      "value": "Kameran malli"
+    },
+    {
+      "name": "cancel",
+      "value": "PERUUTA"
+    },
+    {
+      "name": "cancelled",
+      "value": "Peruutettu"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s ei voi olla tyhjä"
+    },
+    {
+      "name": "change",
+      "value": "Muuta"
+    },
+    {
+      "name": "changelog",
+      "value": "Muutoslogi"
+    },
+    {
+      "name": "channels",
+      "value": "Kanavat"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "Chinese"
+    },
+    {
+      "name": "choose_color",
+      "value": "Valitse väri"
+    },
+    {
+      "name": "circular_icons",
+      "value": "Käytä pyöreitä kuvakkeita"
+    },
+    {
+      "name": "circular_images",
+      "value": "Käytä pyöreitä kuvakkeita kuville ja videoille"
+    },
+    {
+      "name": "clear",
+      "value": "Tyhjennä"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "Polku kopioitu leikepöydälle"
+    },
+    {
+      "name": "close",
+      "value": "Sulje"
+    },
+    {
+      "name": "cloud_box",
+      "value": "Box"
+    },
+    {
+      "name": "cloud_connection",
+      "value": "Pilvi yhteys"
+    },
+    {
+      "name": "cloud_connection_new",
+      "value": "Uusi Pilviyhteys"
+    },
+    {
+      "name": "cloud_dropbox",
+      "value": "Dropbox"
+    },
+    {
+      "name": "cloud_error_failed_restart",
+      "value": "Yhteys epäonnistui.  Avaa Amaze Cloud kerran."
+    },
+    {
+      "name": "cloud_error_plugin",
+      "value": "Amaze laajennusta ei löytynyt, lataa Google Play Storesta."
+    },
+    {
+      "name": "cloud_fail_authenticate",
+      "value": "Autentikointi epäonnistui"
+    },
+    {
+      "name": "cloud_get",
+      "value": "Hae pilvi-lisäosa"
+    },
+    {
+      "name": "cloud_onedrive",
+      "value": "OneDrive"
+    },
+    {
+      "name": "cloud_remove",
+      "value": "Haluatko poisaa pilvi-yhteyden?"
+    },
+    {
+      "name": "cloud_share_copied",
+      "value": "Jaettava linkki kopioitu leikepöydälle"
+    },
+    {
+      "name": "cloud_token_lost",
+      "value": "Tunnistus menetetty, kirjaudu uudestaan sisään"
+    },
+    {
+      "name": "codec",
+      "value": "Koodekki"
+    },
+    {
+      "name": "color_summary",
+      "value": "Set color to various UI components"
+    },
+    {
+      "name": "color_title",
+      "value": "Väri"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "Värillinen navigointipalkki"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "Whether or not the system navigation bar is colored with the skin"
+    },
+    {
+      "name": "colorize",
+      "value": "Väritä kuvakkeet"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "Määrittää staattisen kuvakkeen väri. Ei korvaa kansiokuvakkeen väriä."
+    },
+    {
+      "name": "comment",
+      "value": "Kommentti"
+    },
+    {
+      "name": "compress",
+      "value": "Pakkaa"
+    },
+    {
+      "name": "compressing",
+      "value": "Pakataan"
+    },
+    {
+      "name": "compression_complete",
+      "value": "Pakkaaminen suoritettu"
+    },
+    {
+      "name": "connection_exists",
+      "value": "Yhteys on jo olemassa"
+    },
+    {
+      "name": "connection_name",
+      "value": "Yhteyden nimi"
+    },
+    {
+      "name": "container",
+      "value": "Sisältää"
+    },
+    {
+      "name": "contributors",
+      "value": "Kehittäjät"
+    },
+    {
+      "name": "contributors_1_summary",
+      "value": "Kääntäjät"
+    },
+    {
+      "name": "contributors_2_summary",
+      "value": "Kuvake ja bannerit"
+    },
+    {
+      "name": "contributors_3_summary",
+      "value": "Teemamoottori"
+    },
+    {
+      "name": "contributors_4_summary",
+      "value": "FAB takana"
+    },
+    {
+      "name": "contributors_5_summary",
+      "value": "Värin muutos välilehdillä liikuttaessa"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "FTP-palvelin"
+    },
+    {
+      "name": "contributors_7_summary",
+      "value": "Interaktiivinen shell tulille"
+    },
+    {
+      "name": "copied",
+      "value": "kopioitu"
+    },
+    {
+      "name": "copy",
+      "value": "Kopioi"
+    },
+    {
+      "name": "copy_complete",
+      "value": "Kopiointi valmistui"
+    },
+    {
+      "name": "copy_error",
+      "value": "Osa tiedostoista epäonnistui %s"
+    },
+    {
+      "name": "copy_low_memory",
+      "value": "Muisti loppumassa, tyhjennä RAM-muisti"
+    },
+    {
+      "name": "copying",
+      "value": "Kopioidaan..."
+    },
+    {
+      "name": "create",
+      "value": "LUO"
+    },
+    {
+      "name": "created",
+      "value": "Luotu"
+    },
+    {
+      "name": "creatingfile",
+      "value": "Luodaan tiedosto"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "Luodaan kansio"
+    },
+    {
+      "name": "creator",
+      "value": "Luoja"
+    },
+    {
+      "name": "crypt_decrypt",
+      "value": "Pura salaus"
+    },
+    {
+      "name": "crypt_decrypted",
+      "value": "Purettu"
+    },
+    {
+      "name": "crypt_decrypting",
+      "value": "Puretaan salausta"
+    },
+    {
+      "name": "crypt_decryption_fail",
+      "value": "Salausta ei voitu purkaa"
+    },
+    {
+      "name": "crypt_decryption_fail_password",
+      "value": "Väärä salasana!"
+    },
+    {
+      "name": "crypt_encrypt",
+      "value": "Salaa"
+    },
+    {
+      "name": "crypt_encrypted",
+      "value": "Salattu"
+    },
+    {
+      "name": "crypt_encrypting",
+      "value": "Salataan"
+    },
+    {
+      "name": "crypt_encryption_fail",
+      "value": "Salaaminen epäonnistui"
+    },
+    {
+      "name": "crypt_fingerprint_authenticate",
+      "value": "Paina kosketusanturia jatkaaksesi"
+    },
+    {
+      "name": "crypt_fingerprint_no_permission",
+      "value": "Sormenjälki oikeudet puuttuvat"
+    },
+    {
+      "name": "crypt_fingerprint_no_security",
+      "value": "Ei lukitusnäyttöä asetettu"
+    },
+    {
+      "name": "crypt_fingerprint_not_enrolled",
+      "value": "Ei sormenjälkeä rekisteröity"
+    },
+    {
+      "name": "crypt_pref_fingerprint_summary",
+      "value": "Käytä sormenjälkeä kirjautuaksesi"
+    },
+    {
+      "name": "crypt_pref_fingerprint_title",
+      "value": "Sormenjälki"
+    },
+    {
+      "name": "crypt_pref_master_password_summary",
+      "value": "Aseta pääsalasana, jätä tyhjäksi poistaaksesi."
+    },
+    {
+      "name": "crypt_pref_master_password_title",
+      "value": "Pääsalasana"
+    },
+    {
+      "name": "crypt_warning_key",
+      "value": "Huomioi, kun muutat turvallisuuskuviota järjestelmäasetuksista, et voi purkaa tämä sisältöä."
+    },
+    {
+      "name": "current_speed",
+      "value": "Nykyinen nopeus"
+    },
+    {
+      "name": "cut",
+      "value": "Leikkaa"
+    },
+    {
+      "name": "dark",
+      "value": "Materiaali tumma"
+    },
+    {
+      "name": "database",
+      "value": "Tietokanta"
+    },
+    {
+      "name": "databasereader",
+      "value": "Tietokannan lukija"
+    },
+    {
+      "name": "date",
+      "value": "pvm"
+    },
+    {
+      "name": "date_modified",
+      "value": "Muokkauspäivämäärä"
+    },
+    {
+      "name": "date_taken",
+      "value": "Kuvauspäivä"
+    },
+    {
+      "name": "daytime",
+      "value": "Päivällä"
+    },
+    {
+      "name": "default_string",
+      "value": "Oletus"
+    },
+    {
+      "name": "delbook",
+      "value": "Poista kirjanmerkki"
+    },
+    {
+      "name": "delete",
+      "value": "Poista"
+    },
+    {
+      "name": "deleting",
+      "value": "Poistetaan"
+    },
+    {
+      "name": "descending",
+      "value": "Laskeva"
+    },
+    {
+      "name": "details",
+      "value": "Tiedot"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "Hakemistot"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "Tiedostot"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "Haluatko varmasti poistaa nämä tiedostot?"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Vahvista"
+    },
+    {
+      "name": "dimensions",
+      "value": "Mitat"
+    },
+    {
+      "name": "directory",
+      "value": "Hakemisto"
+    },
+    {
+      "name": "directorysort",
+      "value": "Kansion lajittelu"
+    },
+    {
+      "name": "documents",
+      "value": "Dokumentit"
+    },
+    {
+      "name": "doforall",
+      "value": "Tee kaikille kohteille"
+    },
+    {
+      "name": "doit",
+      "value": "Tee se!"
+    },
+    {
+      "name": "domain",
+      "value": "Toimialue"
+    },
+    {
+      "name": "donate",
+      "value": "Lahjoita"
+    },
+    {
+      "name": "done",
+      "value": "Valmis"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Sulje navigointivalikko"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Avaa navigointivalikko"
+    },
+    {
+      "name": "duration",
+      "value": "Kesto"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "Dutch"
+    },
+    {
+      "name": "edit",
+      "value": "Muokkaa"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "Ota Root-tila käyttöön"
+    },
+    {
+      "name": "entername",
+      "value": "Anna nimi"
+    },
+    {
+      "name": "enterpath",
+      "value": "Kirjoita polku"
+    },
+    {
+      "name": "enterzipname",
+      "value": "Kirjoita tiedostonimi"
+    },
+    {
+      "name": "error",
+      "value": "Virhe"
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "Virhe! Tiedostoa ei löydy"
+    },
+    {
+      "name": "error_io",
+      "value": "I/O-virhe"
+    },
+    {
+      "name": "exit",
+      "value": "Lopeta"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Valotusaika"
+    },
+    {
+      "name": "extract",
+      "value": "Pura"
+    },
+    {
+      "name": "extract_complete",
+      "value": "Purkaminen suoritettu"
+    },
+    {
+      "name": "extracting",
+      "value": "Puretaan"
+    },
+    {
+      "name": "feedback",
+      "value": "Lähetä palautetta"
+    },
+    {
+      "name": "field_empty",
+      "value": "Kenttä ei voi olla tyhjä"
+    },
+    {
+      "name": "file",
+      "value": "Tiedosto"
+    },
+    {
+      "name": "file_empty",
+      "value": "Tiedosto on tyhjä"
+    },
+    {
+      "name": "fileexist",
+      "value": "Saman niminen tiedosto on jo olemassa"
+    },
+    {
+      "name": "files",
+      "value": "Tiedostot"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "Tiedostot ylimpänä"
+    },
+    {
+      "name": "find",
+      "value": "Etsi sivulta"
+    },
+    {
+      "name": "flash_fired",
+      "value": "Salama käyt"
+    },
+    {
+      "name": "focal_length",
+      "value": "Polttoväli"
+    },
+    {
+      "name": "folder",
+      "value": "Kansio"
+    },
+    {
+      "name": "folders",
+      "value": "Kansiot"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "Kansiot ylimpänä"
+    },
+    {
+      "name": "format",
+      "value": "Formaatti"
+    },
+    {
+      "name": "frame_rate",
+      "value": "Kuvanopeus"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "French"
+    },
+    {
+      "name": "ftp",
+      "value": "FTP-palvelin"
+    },
+    {
+      "name": "ftp_login",
+      "value": "Kirjaudu sisään"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "Varmista, että olet Wifi-verkossa"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "FTP-palvelin käynnistyy"
+    },
+    {
+      "name": "ftp_notif_starting_title",
+      "value": "FTP-palvelin"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "LOPETA"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "%s"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "Amaze FTP-palvelin on käynnissä"
+    },
+    {
+      "name": "ftp_path",
+      "value": "Jaettu polku"
+    },
+    {
+      "name": "ftp_path_change_error_invalid",
+      "value": "Tiedostopolku ei kelpaa"
+    },
+    {
+      "name": "ftp_path_change_success",
+      "value": "FTP-polku muutettu onnistuneesti"
+    },
+    {
+      "name": "ftp_path_hint",
+      "value": "Polku pääkansioon"
+    },
+    {
+      "name": "ftp_port",
+      "value": "Portti"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "Virheellinen porttinumero valittu"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "FTP-portti muutettu onnistuneesti"
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "FTP-portti"
+    },
+    {
+      "name": "ftp_seconds",
+      "value": "Sekuntia"
+    },
+    {
+      "name": "ftp_status_no_connection",
+      "value": "Ei yhteyttä"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "Not Running"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "Running"
+    },
+    {
+      "name": "ftp_status_secure_connection",
+      "value": "Suojattu yhteys"
+    },
+    {
+      "name": "ftp_status_title",
+      "value": "Tila"
+    },
+    {
+      "name": "ftp_timeout",
+      "value": "Odotukset aikakatkaisu"
+    },
+    {
+      "name": "general",
+      "value": "Yleinen"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "German"
+    },
+    {
+      "name": "goback",
+      "value": "Mene takaisin"
+    },
+    {
+      "name": "got_it",
+      "value": "Selvä!"
+    },
+    {
+      "name": "grant",
+      "value": "Myönnä"
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "App needs storage permission to continue. Canceling this dialog will exit the app."
+    },
+    {
+      "name": "grantfailed",
+      "value": "Oikeuksia ei myönnetty"
+    },
+    {
+      "name": "grantper",
+      "value": "Anna lupa"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "Greek"
+    },
+    {
+      "name": "green",
+      "value": "Vihreä"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "Number of columns in grid view"
+    },
+    {
+      "name": "gridview",
+      "value": "Ruudukkonäkymä"
+    },
+    {
+      "name": "hash_sha256",
+      "value": "SHA-256"
+    },
+    {
+      "name": "height",
+      "value": "Korkeus"
+    },
+    {
+      "name": "hidden",
+      "value": "Näytä piilotetut tiedostot ja kansiot"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "Piilotetut Tiedostot"
+    },
+    {
+      "name": "hide",
+      "value": "Piilota"
+    },
+    {
+      "name": "history",
+      "value": "Historia"
+    },
+    {
+      "name": "home",
+      "value": "Koti"
+    },
+    {
+      "name": "icon",
+      "value": "Ikoni"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "Set color to icons"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "Kuvakkeen väri"
+    },
+    {
+      "name": "image",
+      "value": "Kuva"
+    },
+    {
+      "name": "image_iso",
+      "value": "ISO nopeusluokka"
+    },
+    {
+      "name": "image_type",
+      "value": "Kuvatyyppi"
+    },
+    {
+      "name": "images",
+      "value": "Kuvat"
+    },
+    {
+      "name": "in_safe",
+      "value": "Muisti ei riitä"
+    },
+    {
+      "name": "information",
+      "value": "Tietoja"
+    },
+    {
+      "name": "install",
+      "value": "Asenna"
+    },
+    {
+      "name": "intellihide_toolbar_summary",
+      "value": "Automaattisesti piilottaa työkalurivin vieritettäessä"
+    },
+    {
+      "name": "intellihide_toolbar_title",
+      "value": "Työkalupalkki"
+    },
+    {
+      "name": "invalid",
+      "value": "Virheellinen %s"
+    },
+    {
+      "name": "invalid_name",
+      "value": "Virheellinen nimi"
+    },
+    {
+      "name": "ip",
+      "value": "Osoite"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "Italian"
+    },
+    {
+      "name": "item",
+      "value": "Kohde"
+    },
+    {
+      "name": "items",
+      "value": "Kohteet"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "Japanese"
+    },
+    {
+      "name": "keywords",
+      "value": "Avainsanat"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "Korean"
+    },
+    {
+      "name": "lastModified",
+      "value": "Viimeisin muokkaus"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "Show Last Modified"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "Show the date and time when the file was modified last time"
+    },
+    {
+      "name": "light",
+      "value": "Materiaali vaalea"
+    },
+    {
+      "name": "listview",
+      "value": "Listanäkymä"
+    },
+    {
+      "name": "loading",
+      "value": "Ladataan.."
+    },
+    {
+      "name": "location",
+      "value": "Sijainti"
+    },
+    {
+      "name": "match_content",
+      "value": "Match content"
+    },
+    {
+      "name": "match_content_summary",
+      "value": "If set, regular expression will be matched with entire file name,\n        will look for occurrence otherwise."
+    },
+    {
+      "name": "md5",
+      "value": "MD5"
+    },
+    {
+      "name": "medium_text",
+      "value": "Keskikokoinen teksti"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "Sekalaiset"
+    },
+    {
+      "name": "modified",
+      "value": "Muokattu"
+    },
+    {
+      "name": "monofont",
+      "value": "Monospace fontti"
+    },
+    {
+      "name": "moved",
+      "value": "siirretty"
+    },
+    {
+      "name": "moving",
+      "value": "Siirretään"
+    },
+    {
+      "name": "name",
+      "value": "Nimi"
+    },
+    {
+      "name": "needs_access",
+      "value": "Write Access Required"
+    },
+    {
+      "name": "needs_access_summary",
+      "value": "Please choose the root directory of \\t"
+    },
+    {
+      "name": "needs_access_summary1",
+      "value": "\\tto grant write access to operate"
+    },
+    {
+      "name": "newfile",
+      "value": "Uusi tiedosto"
+    },
+    {
+      "name": "newfolder",
+      "value": "Uusi kansio"
+    },
+    {
+      "name": "no",
+      "value": "Ei"
+    },
+    {
+      "name": "no_app_found",
+      "value": "Ei löydetty sovellusta jolla tämän tiedostotyypin voisi avata"
+    },
+    {
+      "name": "no_applications",
+      "value": "Ei sovelluksia"
+    },
+    {
+      "name": "no_device_found",
+      "value": "Laitetta ei löytynyt"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "Tiedostoa ei korvata"
+    },
+    {
+      "name": "no_files",
+      "value": "Ei tiedostoja"
+    },
+    {
+      "name": "none_on_top",
+      "value": "Ei mitään ylimpänä"
+    },
+    {
+      "name": "not_allowed",
+      "value": "Ei sallittu"
+    },
+    {
+      "name": "of",
+      "value": "/"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "open",
+      "value": "Avaa"
+    },
+    {
+      "name": "open_as",
+      "value": "Avaa"
+    },
+    {
+      "name": "open_parent",
+      "value": "Avaa päähakemisto"
+    },
+    {
+      "name": "open_with",
+      "value": "Avaa sovelluksessa"
+    },
+    {
+      "name": "operation_fail_following",
+      "value": "Toiminto ei onnistunut seuraaville tiedostoille"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "Toiminto ei onnistunut"
+    },
+    {
+      "name": "optimized",
+      "value": "Optimoitu"
+    },
+    {
+      "name": "orange",
+      "value": "Oranssi"
+    },
+    {
+      "name": "otg_access",
+      "value": "Valitse OTG-laitteen juurihakemisto"
+    },
+    {
+      "name": "other",
+      "value": "Muu"
+    },
+    {
+      "name": "out_of",
+      "value": "/"
+    },
+    {
+      "name": "overwrite",
+      "value": "Korvaa"
+    },
+    {
+      "name": "package_installer",
+      "value": "Paketin asentaja"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "This is a package installer. What action would you like to perform?"
+    },
+    {
+      "name": "pages",
+      "value": "Sivumäärä"
+    },
+    {
+      "name": "paper_size",
+      "value": "Paperikoko"
+    },
+    {
+      "name": "password",
+      "value": "Salasana"
+    },
+    {
+      "name": "paste",
+      "value": "Liitä"
+    },
+    {
+      "name": "path",
+      "value": "Polku"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "PayPal-tunnus kopioitu leikepöydälle"
+    },
+    {
+      "name": "permission",
+      "value": "Käyttöoikeudet"
+    },
+    {
+      "name": "permission_execute",
+      "value": "SUORITA"
+    },
+    {
+      "name": "permission_group",
+      "value": "Ryhmä"
+    },
+    {
+      "name": "permission_other",
+      "value": "Muu"
+    },
+    {
+      "name": "permission_owner",
+      "value": "Omistaja"
+    },
+    {
+      "name": "permission_read",
+      "value": "Lue"
+    },
+    {
+      "name": "permission_write",
+      "value": "Kirjoitus"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "Valitse tiedosto"
+    },
+    {
+      "name": "play",
+      "value": "Play-kauppa"
+    },
+    {
+      "name": "please_wait",
+      "value": "Odota"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "Polish"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "Portuguese"
+    },
+    {
+      "name": "press_again",
+      "value": "Paina uudestaan poistuaksesi"
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "Set color to large UI elements for the left tab"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "Primary Color (Left Tab)"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "Määritä väri isoilla käyttöliittymän osille"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "Pääväri (oikea-välilehti)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "Prosessintutkija"
+    },
+    {
+      "name": "processing_file",
+      "value": "Käsitellään tiedostoa"
+    },
+    {
+      "name": "producer",
+      "value": "Tuottaja"
+    },
+    {
+      "name": "properties",
+      "value": "Ominaisuudet"
+    },
+    {
+      "name": "properties_copied_clipboard",
+      "value": "kopioitu leikepöydälle"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "Haluatko asettaa nykyisen polun kodiksi tässä välilehdessä?"
+    },
+    {
+      "name": "quick",
+      "value": "Pikavalikko"
+    },
+    {
+      "name": "random",
+      "value": "Satunnaisesti valittu teema"
+    },
+    {
+      "name": "random_summary",
+      "value": "Asettaa satunnaisen päävärin käynnistyessä"
+    },
+    {
+      "name": "rate",
+      "value": "Arvostele sovellus"
+    },
+    {
+      "name": "recent",
+      "value": "Viimeisimmät tiedostot"
+    },
+    {
+      "name": "regular_expression",
+      "value": "Regular Expression"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "Search using a BASH style regular expression"
+    },
+    {
+      "name": "rename",
+      "value": "Nimeä uudelleen"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "Muokkaa kirjanmerkkiä"
+    },
+    {
+      "name": "renaming",
+      "value": "Uudelleennimeäminen"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "Raportoi bugeja tai pyydä uusia ominaisuuksia"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "Ilmoita virheestä"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "Romanian"
+    },
+    {
+      "name": "root_directory",
+      "value": "Juurihakemisto"
+    },
+    {
+      "name": "root_failure",
+      "value": "Pääkäyttäjän oikeuksia ei myönnetä"
+    },
+    {
+      "name": "root_mode",
+      "value": "Juurihakemisto"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "Ainoastaan rootatulle laitteelle, tarkista vain jos tiedät mitä teet."
+    },
+    {
+      "name": "root_pref",
+      "value": "Näytä käyttöoikeudet"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "Kansioiden ja tiedostojen oikeudet"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "Russian"
+    },
+    {
+      "name": "sample_rate",
+      "value": "Näytteenottotaajuus"
+    },
+    {
+      "name": "save",
+      "value": "Tallenna"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "When starting up, the most recently viewed folder for each tab will be displayed"
+    },
+    {
+      "name": "save_paths",
+      "value": "Muista polut"
+    },
+    {
+      "name": "saving",
+      "value": "Tallentaminen"
+    },
+    {
+      "name": "scp_port",
+      "value": "Portti"
+    },
+    {
+      "name": "search",
+      "value": "Etsi"
+    },
+    {
+      "name": "search_hint",
+      "value": "Kirjoita hakeaksesi…"
+    },
+    {
+      "name": "searching_devices",
+      "value": "Etsitään laitteita"
+    },
+    {
+      "name": "security",
+      "value": "Turvallisuus"
+    },
+    {
+      "name": "select",
+      "value": "Valitse kohde"
+    },
+    {
+      "name": "select_all",
+      "value": "Valitse kaikki"
+    },
+    {
+      "name": "select_intent",
+      "value": "Valitse"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "Serbian"
+    },
+    {
+      "name": "server_address",
+      "value": "Palvelimen IP-osoite"
+    },
+    {
+      "name": "service_timer",
+      "value": "Kulunut aika"
+    },
+    {
+      "name": "set",
+      "value": "Aseta"
+    },
+    {
+      "name": "set_as_home",
+      "value": "Aseta kotisivuksi"
+    },
+    {
+      "name": "set_random",
+      "value": "Changes will take place after you restart the app"
+    },
+    {
+      "name": "setting",
+      "value": "Asetukset"
+    },
+    {
+      "name": "share",
+      "value": "Jaa"
+    },
+    {
+      "name": "share_limit",
+      "value": "Ei voi jakaa yli 100 tiedostoa"
+    },
+    {
+      "name": "showHeaders",
+      "value": "Näytä ylätunniste"
+    },
+    {
+      "name": "show_bookmarks_pref",
+      "value": "Kirjanmerkit"
+    },
+    {
+      "name": "show_dividers",
+      "value": "Näytä välipalkit"
+    },
+    {
+      "name": "show_quick_access_pref",
+      "value": "Pikavalikko"
+    },
+    {
+      "name": "show_quick_access_pref_title",
+      "value": "Hallitse pikakäyttöä"
+    },
+    {
+      "name": "sidebar_quick_access_title",
+      "value": "Sivupalkin nopeavaus"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Koko"
+    },
+    {
+      "name": "size_pref",
+      "value": "Näytä koot"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "Show size of files and number of items in folders"
+    },
+    {
+      "name": "skip",
+      "value": "Ohita"
+    },
+    {
+      "name": "smb_connection",
+      "value": "SMB yhteys"
+    },
+    {
+      "name": "smb_launch_error",
+      "value": "Sinun täytyy kopioida tämä tiedosto avataksesi se"
+    },
+    {
+      "name": "software",
+      "value": "Ohjelmisto"
+    },
+    {
+      "name": "sort",
+      "value": "Lajittele"
+    },
+    {
+      "name": "sort_by",
+      "value": "Lajitteluperuste"
+    },
+    {
+      "name": "sort_name",
+      "value": "Nimi"
+    },
+    {
+      "name": "sort_size",
+      "value": "Koko"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "Spanish"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Aloita"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "Lopeta"
+    },
+    {
+      "name": "stopping",
+      "value": "Pysäytetään"
+    },
+    {
+      "name": "subject",
+      "value": "Aihe"
+    },
+    {
+      "name": "support_development",
+      "value": "Tue kehitystä"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "Tamil"
+    },
+    {
+      "name": "text",
+      "value": "Teksti"
+    },
+    {
+      "name": "textreader",
+      "value": "Tekstinlukija"
+    },
+    {
+      "name": "theme",
+      "value": "Teema"
+    },
+    {
+      "name": "thumb",
+      "value": "Show Thumbnails"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "Show Thumbnails of apps and images"
+    },
+    {
+      "name": "title",
+      "value": "Nimi"
+    },
+    {
+      "name": "translate_summary",
+      "value": "Käännä Amaze omalle kielelle"
+    },
+    {
+      "name": "translate_title",
+      "value": "Käännä"
+    },
+    {
+      "name": "translators",
+      "value": "Kääntäjät"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "Turkish"
+    },
+    {
+      "name": "type",
+      "value": "Tyyppi"
+    },
+    {
+      "name": "ui",
+      "value": "Interface"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "Ukrainian"
+    },
+    {
+      "name": "unin_system_apk",
+      "value": "This is a system app, deleting it might lead to system un-stability.\\nProceed?"
+    },
+    {
+      "name": "uninstall",
+      "value": "Asennuksen poisto"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Hups, jokin meni pieleen!"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "Tallentamattomat muutokset"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "Tallentamattomia muutoksia. Haluatko tallentaa nyt?"
+    },
+    {
+      "name": "username",
+      "value": "Käyttäjänimi"
+    },
+    {
+      "name": "version",
+      "value": "Versio"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "videos",
+      "value": "Videot"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "Vietnamese"
+    },
+    {
+      "name": "view",
+      "value": "Näytä"
+    },
+    {
+      "name": "waiting_content",
+      "value": "Odottaa toiminnon päättymistä"
+    },
+    {
+      "name": "waiting_title",
+      "value": "Odottaa"
+    },
+    {
+      "name": "want_help",
+      "value": "Tarvitsetko apua?"
+    },
+    {
+      "name": "warning",
+      "value": "Varoitus"
+    },
+    {
+      "name": "warning_confirm",
+      "value": "Selvä!"
+    },
+    {
+      "name": "warning_never_show",
+      "value": "Älä näytä uudestaan"
+    },
+    {
+      "name": "width",
+      "value": "Leveys"
+    },
+    {
+      "name": "written",
+      "value": "Kirjoitettu"
+    },
+    {
+      "name": "xda_summary",
+      "value": "Q&A, Help & Troubleshooting"
+    },
+    {
+      "name": "xda_title",
+      "value": "XDA-ketju"
+    },
+    {
+      "name": "year",
+      "value": "Vuosi"
+    },
+    {
+      "name": "yes",
+      "value": "Kyllä"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "Zip-lukija"
+    }
+  ]
+}

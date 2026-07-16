@@ -1,0 +1,2032 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Om"
+    },
+    {
+      "name": "about_amaze",
+      "value": "Filhanterare i Material design för Android"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "Om Amaze File Manager"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "Välj färg på FAB och andra små UI-element"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "Accentfärg"
+    },
+    {
+      "name": "accessed",
+      "value": "Tillträde lyckades"
+    },
+    {
+      "name": "add_item",
+      "value": "Lägg till Objekt"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "Lägg till genväg"
+    },
+    {
+      "name": "add_shortcut_not_supported_by_launcher",
+      "value": "Din launcher har inte stöd för att skapa genvägar."
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "Lägg till bokmärke"
+    },
+    {
+      "name": "advanced",
+      "value": "Avancerat"
+    },
+    {
+      "name": "advanced_search",
+      "value": "Avancerad sök"
+    },
+    {
+      "name": "album",
+      "value": "Album"
+    },
+    {
+      "name": "anonymous",
+      "value": "Anonymt"
+    },
+    {
+      "name": "aperture_value",
+      "value": "Bländare"
+    },
+    {
+      "name": "apks",
+      "value": "APK:er"
+    },
+    {
+      "name": "app_name",
+      "value": "Förvåna"
+    },
+    {
+      "name": "apps",
+      "value": "Apphanterare"
+    },
+    {
+      "name": "archive",
+      "value": "Arkiv"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "Arkivera Uppackningsmapp"
+    },
+    {
+      "name": "archive_password_prompt",
+      "value": "Var god ange arkivets lösenord:"
+    },
+    {
+      "name": "archive_summary",
+      "value": "Arkiv-filer kommer att läggas i denna mapp. Standard-värde är den katalog arkivet redan ligger i."
+    },
+    {
+      "name": "archive_text",
+      "value": "Detta är ett arkiv. Vilken åtgärd vill du utföra?"
+    },
+    {
+      "name": "archive_unsupported_or_corrupt",
+      "value": "Kan inte öppna arkivet \"%s\". Antingen kan vi inte öppna det eller så är det skadat."
+    },
+    {
+      "name": "artist",
+      "value": "Artist"
+    },
+    {
+      "name": "ascending",
+      "value": "Stigande"
+    },
+    {
+      "name": "audio",
+      "value": "Audio"
+    },
+    {
+      "name": "authenticate_password",
+      "value": "Ange lösenord"
+    },
+    {
+      "name": "author",
+      "value": "Författare"
+    },
+    {
+      "name": "authors",
+      "value": "Författare"
+    },
+    {
+      "name": "back_summary",
+      "value": "Möjliggör anpassad tillbakanavigering överst i listan"
+    },
+    {
+      "name": "back_title",
+      "value": "Tillbakanavigering"
+    },
+    {
+      "name": "backup",
+      "value": "Säkerhetskopiera"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "Baskiska"
+    },
+    {
+      "name": "bitrate",
+      "value": "Bitrate"
+    },
+    {
+      "name": "black",
+      "value": "Svart (för OLED)"
+    },
+    {
+      "name": "blue",
+      "value": "Blå"
+    },
+    {
+      "name": "bluetooth",
+      "value": "Bluetooth"
+    },
+    {
+      "name": "bookmark_lost",
+      "value": "Bokmärke hittades inte, återskapar…"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "Bokmärken Tillagda"
+    },
+    {
+      "name": "byte_singular",
+      "value": "byte"
+    },
+    {
+      "name": "bytes",
+      "value": "byte"
+    },
+    {
+      "name": "calculating",
+      "value": "beräknar"
+    },
+    {
+      "name": "camera_brand",
+      "value": "Kameramärke"
+    },
+    {
+      "name": "camera_model",
+      "value": "Kameramodell"
+    },
+    {
+      "name": "cancel",
+      "value": "AVBRYT"
+    },
+    {
+      "name": "cancelled",
+      "value": "Avbruten"
+    },
+    {
+      "name": "cannot_extract_archive",
+      "value": "Kan inte extrahera arkiv \"%s\": %s"
+    },
+    {
+      "name": "cannot_overwrite",
+      "value": "Kan inte skriva över fil."
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s kan inte vara tomt"
+    },
+    {
+      "name": "change",
+      "value": "Ändra"
+    },
+    {
+      "name": "changelog",
+      "value": "Ändringslog"
+    },
+    {
+      "name": "channel_description_ftp",
+      "value": "Amaze Filhanterares FTP-server Notifieringar"
+    },
+    {
+      "name": "channel_description_normal",
+      "value": "Amaze Filhanterares Notifieringar"
+    },
+    {
+      "name": "channel_name_ftp",
+      "value": "Amaze FTP-server"
+    },
+    {
+      "name": "channel_name_normal",
+      "value": "Amaze Notifieringar"
+    },
+    {
+      "name": "channels",
+      "value": "Kanaler"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "Kinesiska"
+    },
+    {
+      "name": "choose_color",
+      "value": "Välj färg"
+    },
+    {
+      "name": "circular_icons",
+      "value": "Använd cirkulära ikoner"
+    },
+    {
+      "name": "circular_images",
+      "value": "Använd cirkulära ikoner för bilder och videor"
+    },
+    {
+      "name": "clear",
+      "value": "Rensa"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "Sökväg kopierad till urklipp"
+    },
+    {
+      "name": "close",
+      "value": "Stäng"
+    },
+    {
+      "name": "cloud_box",
+      "value": "Box"
+    },
+    {
+      "name": "cloud_connection",
+      "value": "Moln-anslutning"
+    },
+    {
+      "name": "cloud_connection_new",
+      "value": "Ny Moln-anslutning"
+    },
+    {
+      "name": "cloud_dropbox",
+      "value": "Dropbox"
+    },
+    {
+      "name": "cloud_error_failed_restart",
+      "value": "Misslyckades med att ladda anslutningen.\nVar god öppna Amaze Moln en gång."
+    },
+    {
+      "name": "cloud_error_plugin",
+      "value": "Amaze Moln-plug-in kunde inte hittas. Var god ladda ner en från Play Store."
+    },
+    {
+      "name": "cloud_fail_authenticate",
+      "value": "Autentiseringen misslyckades"
+    },
+    {
+      "name": "cloud_get",
+      "value": "Hämta moln-plugin"
+    },
+    {
+      "name": "cloud_onedrive",
+      "value": "OneDrive"
+    },
+    {
+      "name": "cloud_remove",
+      "value": "Vill du ta bort moln-anslutningen?"
+    },
+    {
+      "name": "cloud_share_copied",
+      "value": "Kopierade delbar länk till klippbordet"
+    },
+    {
+      "name": "cloud_token_lost",
+      "value": "Förlorade token, var god logga in igen"
+    },
+    {
+      "name": "codec",
+      "value": "Codec"
+    },
+    {
+      "name": "color_summary",
+      "value": "Färga olika UI-komponenter"
+    },
+    {
+      "name": "color_title",
+      "value": "Färg"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "Färgat navigationsfält"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "Huruvida systemnavigeringsfältet färgas av skalet"
+    },
+    {
+      "name": "colorize",
+      "value": "Färglägg ikoner"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "Sätter statisk ikonfärg. Påverkar inte katalogens inställning av ikonfärg."
+    },
+    {
+      "name": "comment",
+      "value": "Kommentar"
+    },
+    {
+      "name": "compress",
+      "value": "Komprimera"
+    },
+    {
+      "name": "compress_file_suggest_zip_extension",
+      "value": "Det rekommenderas att använda \".zip\" som filändelse."
+    },
+    {
+      "name": "compressed",
+      "value": "Komprimerad"
+    },
+    {
+      "name": "compressing",
+      "value": "Komprimerar"
+    },
+    {
+      "name": "compression_complete",
+      "value": "Komprimerat"
+    },
+    {
+      "name": "connection_exists",
+      "value": "Redan ansluten"
+    },
+    {
+      "name": "connection_name",
+      "value": "Anslutningsnamn"
+    },
+    {
+      "name": "container",
+      "value": "Container"
+    },
+    {
+      "name": "contributors",
+      "value": "Bidragsgivare"
+    },
+    {
+      "name": "contributors_1_summary",
+      "value": "Översättning"
+    },
+    {
+      "name": "contributors_2_summary",
+      "value": "Ikoner och fält"
+    },
+    {
+      "name": "contributors_3_summary",
+      "value": "Temamotor"
+    },
+    {
+      "name": "contributors_4_summary",
+      "value": "Skugga bakom FAB"
+    },
+    {
+      "name": "contributors_5_summary",
+      "value": "Färgövergång vid svepning av tabbar"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "FTP-server"
+    },
+    {
+      "name": "contributors_7_summary",
+      "value": "Startar ett interaktivt skal"
+    },
+    {
+      "name": "copied",
+      "value": "kopierad"
+    },
+    {
+      "name": "copy",
+      "value": "Kopiera"
+    },
+    {
+      "name": "copy_complete",
+      "value": "Kopiering klar"
+    },
+    {
+      "name": "copy_error",
+      "value": "Några filer lyckades inte %s"
+    },
+    {
+      "name": "copy_low_memory",
+      "value": "Minnet börjar ta slut, var god frigör lite RAM"
+    },
+    {
+      "name": "copying",
+      "value": "Kopierar"
+    },
+    {
+      "name": "create",
+      "value": "SKAPA"
+    },
+    {
+      "name": "create_file_suggest_txt_extension",
+      "value": "Det rekommenderas att använda \".txt\" som filändelse."
+    },
+    {
+      "name": "create_hidden_file_warn",
+      "value": "Den skapade filen kommer att vara dold i fillistan."
+    },
+    {
+      "name": "created",
+      "value": "Skapad"
+    },
+    {
+      "name": "creatingfile",
+      "value": "Skapar fil"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "Skapar mapp"
+    },
+    {
+      "name": "creator",
+      "value": "Skapare"
+    },
+    {
+      "name": "crypt_decrypt",
+      "value": "Dekryptera"
+    },
+    {
+      "name": "crypt_decrypted",
+      "value": "Dekrypterad"
+    },
+    {
+      "name": "crypt_decrypting",
+      "value": "Dekrypterar"
+    },
+    {
+      "name": "crypt_decryption_fail",
+      "value": "Dekrypteringen misslyckades"
+    },
+    {
+      "name": "crypt_decryption_fail_password",
+      "value": "Fel lösenord!"
+    },
+    {
+      "name": "crypt_encrypt",
+      "value": "Kryptera"
+    },
+    {
+      "name": "crypt_encrypted",
+      "value": "Krypterad"
+    },
+    {
+      "name": "crypt_encrypting",
+      "value": "Krypterar"
+    },
+    {
+      "name": "crypt_encryption_fail",
+      "value": "Krypteringen misslyckades"
+    },
+    {
+      "name": "crypt_fingerprint_authenticate",
+      "value": "Rör sensorn för att fortsätta"
+    },
+    {
+      "name": "crypt_fingerprint_no_permission",
+      "value": "Saknar tillstånd att använda fingeravtryck"
+    },
+    {
+      "name": "crypt_fingerprint_no_security",
+      "value": "Hittade ingen säkerhet för låsskärmen"
+    },
+    {
+      "name": "crypt_fingerprint_not_enrolled",
+      "value": "Inga fingeravtryck angivna"
+    },
+    {
+      "name": "crypt_pref_fingerprint_summary",
+      "value": "Använd fingeravtryck för att autentisera kryptering"
+    },
+    {
+      "name": "crypt_pref_fingerprint_title",
+      "value": "Fingeravtryck"
+    },
+    {
+      "name": "crypt_pref_master_password_summary",
+      "value": "Ange ett huvudlösenord för kryptering.\nLämna tomt för att ta bort."
+    },
+    {
+      "name": "crypt_pref_master_password_title",
+      "value": "Huvudlösenord"
+    },
+    {
+      "name": "crypt_warning_key",
+      "value": "Notera att, när du ändrar ditt säkerhetsmönster från\nSysteminställning, då kommer du inte längre kunna dekryptera det här innehållet."
+    },
+    {
+      "name": "current_speed",
+      "value": "Nuvarande Hastighet"
+    },
+    {
+      "name": "custom",
+      "value": "Omgjord"
+    },
+    {
+      "name": "customize",
+      "value": "Förändra"
+    },
+    {
+      "name": "cut",
+      "value": "Klipp ut"
+    },
+    {
+      "name": "dark",
+      "value": "Material Dark"
+    },
+    {
+      "name": "database",
+      "value": "Databas"
+    },
+    {
+      "name": "databasereader",
+      "value": "Databasläsare"
+    },
+    {
+      "name": "date",
+      "value": "Datum"
+    },
+    {
+      "name": "date_modified",
+      "value": "Modifieringsdatum"
+    },
+    {
+      "name": "date_taken",
+      "value": "Fotodatum"
+    },
+    {
+      "name": "daytime",
+      "value": "Dagtid"
+    },
+    {
+      "name": "default_string",
+      "value": "Standard"
+    },
+    {
+      "name": "delbook",
+      "value": "Ta bort bokmärke"
+    },
+    {
+      "name": "delete",
+      "value": "Ta bort"
+    },
+    {
+      "name": "deleting",
+      "value": "Tar bort"
+    },
+    {
+      "name": "descending",
+      "value": "Fallande"
+    },
+    {
+      "name": "deselect_all",
+      "value": "Avmarkera Alla"
+    },
+    {
+      "name": "details",
+      "value": "Information"
+    },
+    {
+      "name": "developers",
+      "value": "Utvecklare"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "Kataloger"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "Filer"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "Vill du verkligen ta bort följande filer?"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Bekräfta"
+    },
+    {
+      "name": "dimensions",
+      "value": "Dimensioner"
+    },
+    {
+      "name": "directory",
+      "value": "Katalog"
+    },
+    {
+      "name": "directorysort",
+      "value": "Katalogernas sorteringssätt"
+    },
+    {
+      "name": "documents",
+      "value": "Dokument"
+    },
+    {
+      "name": "doforall",
+      "value": "Gör för alla objekt"
+    },
+    {
+      "name": "doit",
+      "value": "Gör det"
+    },
+    {
+      "name": "domain",
+      "value": "Domän"
+    },
+    {
+      "name": "donate",
+      "value": "Donera"
+    },
+    {
+      "name": "donation_thanks",
+      "value": "Tack så mycket för donationen, det håller oss motiverade! (:"
+    },
+    {
+      "name": "done",
+      "value": "Färdig"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Stäng navigationspanel"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Öppna navigationsfält"
+    },
+    {
+      "name": "duration",
+      "value": "Varaktighet"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "Holländska"
+    },
+    {
+      "name": "edit",
+      "value": "Redigera"
+    },
+    {
+      "name": "enable_marquee_filename",
+      "value": "Tillåt markeringseffekter på filnamn"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "Aktivera root-läge"
+    },
+    {
+      "name": "encrypt_file_must_end_with_aze",
+      "value": "Krypterade filer måste ha \".aze\" som filändelse."
+    },
+    {
+      "name": "encrypt_file_save_as",
+      "value": "Spara Krypterad Fil Som…"
+    },
+    {
+      "name": "encrypt_folder_save_as",
+      "value": "Spara Krypterad Mapp Som…"
+    },
+    {
+      "name": "encryption_fail_copy",
+      "value": "Misslyckades med att uppdatera krypterings-post i databas"
+    },
+    {
+      "name": "entername",
+      "value": "Ange namn"
+    },
+    {
+      "name": "enterpath",
+      "value": "Ange sökväg"
+    },
+    {
+      "name": "enterzipname",
+      "value": "Ange Zip-namn"
+    },
+    {
+      "name": "error",
+      "value": "Fel"
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "Fel: Fil hittades inte"
+    },
+    {
+      "name": "error_io",
+      "value": "I/O-fel"
+    },
+    {
+      "name": "exit",
+      "value": "Avsluta"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Exponeringstid"
+    },
+    {
+      "name": "extract",
+      "value": "Extrahera"
+    },
+    {
+      "name": "extract_complete",
+      "value": "Extraherat"
+    },
+    {
+      "name": "extracted",
+      "value": "Extraherad"
+    },
+    {
+      "name": "extracting",
+      "value": "Extraherar"
+    },
+    {
+      "name": "failed_cloud_api_key",
+      "value": "Misslyckades med att autentisera Moln-plug-in"
+    },
+    {
+      "name": "failed_cloud_new_connection",
+      "value": "Misslyckades med att lägga till ny Moln-anslutning"
+    },
+    {
+      "name": "failed_no_connection",
+      "value": "Misslyckades med att ladda filer. Var god kolla anslutningen."
+    },
+    {
+      "name": "failed_smb_decrypt_path",
+      "value": "Misslyckades med att ladda SMB-anslutning"
+    },
+    {
+      "name": "feedback",
+      "value": "Skicka feedback"
+    },
+    {
+      "name": "field_empty",
+      "value": "Fält kan inte vara tomt"
+    },
+    {
+      "name": "file",
+      "value": "Fil"
+    },
+    {
+      "name": "file_empty",
+      "value": "Fil är tom"
+    },
+    {
+      "name": "file_read_only",
+      "value": "Den öppnade filen kan bara läsas"
+    },
+    {
+      "name": "fileexist",
+      "value": "Fil med samma namn finns redan"
+    },
+    {
+      "name": "filename",
+      "value": "Filnamn"
+    },
+    {
+      "name": "files",
+      "value": "Filer"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "Filer överst"
+    },
+    {
+      "name": "find",
+      "value": "Hitta på sida"
+    },
+    {
+      "name": "flash_fired",
+      "value": "Blixt utlöst"
+    },
+    {
+      "name": "focal_length",
+      "value": "Brännvidd"
+    },
+    {
+      "name": "folder",
+      "value": "Mapp"
+    },
+    {
+      "name": "folderfilecount",
+      "value": "%1$d mappar och %2$d filer"
+    },
+    {
+      "name": "folders",
+      "value": "Mappar"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "Mappar överst"
+    },
+    {
+      "name": "format",
+      "value": "Format"
+    },
+    {
+      "name": "frame_rate",
+      "value": "Bildfrekvens"
+    },
+    {
+      "name": "free",
+      "value": "ledigt utrymme"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "Franska"
+    },
+    {
+      "name": "ftp",
+      "value": "FTP-server"
+    },
+    {
+      "name": "ftp_login",
+      "value": "Inloggning"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "Se till att du är uppkopplad via Wi-Fi"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "FTP-server startar"
+    },
+    {
+      "name": "ftp_notif_starting_title",
+      "value": "FTP-server"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "STOPP"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "vid %s"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "Amaze FTP-server körs"
+    },
+    {
+      "name": "ftp_path",
+      "value": "Delad Sökväg"
+    },
+    {
+      "name": "ftp_path_change_error_invalid",
+      "value": "Ogiltig sökväg"
+    },
+    {
+      "name": "ftp_path_change_success",
+      "value": "FTP-sökväg ändrades"
+    },
+    {
+      "name": "ftp_path_hint",
+      "value": "Sökväg till den katalog som ska delas"
+    },
+    {
+      "name": "ftp_port",
+      "value": "Port"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "Ogiltigt portnummer valt"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "FTP-port ändrad"
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "Välj FTP-port"
+    },
+    {
+      "name": "ftp_seconds",
+      "value": "Sekunder"
+    },
+    {
+      "name": "ftp_status_no_connection",
+      "value": "Ingen anslutning"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "Körs ej"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "Körs"
+    },
+    {
+      "name": "ftp_status_secure_connection",
+      "value": "Säker anslutning"
+    },
+    {
+      "name": "ftp_status_title",
+      "value": "Status"
+    },
+    {
+      "name": "ftp_timeout",
+      "value": "Idle timeout"
+    },
+    {
+      "name": "general",
+      "value": "Allmänt"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "Tyska"
+    },
+    {
+      "name": "go",
+      "value": "Gå"
+    },
+    {
+      "name": "goback",
+      "value": "Gå tillbaka"
+    },
+    {
+      "name": "got_it",
+      "value": "Förstått!"
+    },
+    {
+      "name": "grant",
+      "value": "Tillåt"
+    },
+    {
+      "name": "grant_apkinstall_permission",
+      "value": "För att fortsätta behöver appen tillåtelse att installera appar."
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "Appen behöver lagringsbehörighet för att fortsätta. Avbrytande av denna dialog kommer att stänga av appen."
+    },
+    {
+      "name": "grantfailed",
+      "value": "Behörighet inte beviljad"
+    },
+    {
+      "name": "grantper",
+      "value": "Bevilja behörighet"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "Grekiska"
+    },
+    {
+      "name": "green",
+      "value": "Grön"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "Antal kolumner i rutnätsvyn"
+    },
+    {
+      "name": "gridview",
+      "value": "Rutnätsvy"
+    },
+    {
+      "name": "hash_sha256",
+      "value": "SHA-256"
+    },
+    {
+      "name": "height",
+      "value": "Höjd"
+    },
+    {
+      "name": "hidden",
+      "value": "Visa dolda filer och mappar"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "Dolda filer"
+    },
+    {
+      "name": "hide",
+      "value": "Dölj"
+    },
+    {
+      "name": "hide_media",
+      "value": "Dölj från media-browsers"
+    },
+    {
+      "name": "history",
+      "value": "Historia"
+    },
+    {
+      "name": "home",
+      "value": "Hem"
+    },
+    {
+      "name": "icon",
+      "value": "ikon"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "Färga ikoner"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "Ikonfärg"
+    },
+    {
+      "name": "image",
+      "value": "Bild"
+    },
+    {
+      "name": "image_iso",
+      "value": "ISO-värde"
+    },
+    {
+      "name": "image_type",
+      "value": "Bildtyp"
+    },
+    {
+      "name": "images",
+      "value": "Bilder"
+    },
+    {
+      "name": "in_safe",
+      "value": "Otillräckligt utrymme"
+    },
+    {
+      "name": "information",
+      "value": "Information"
+    },
+    {
+      "name": "install",
+      "value": "Installera"
+    },
+    {
+      "name": "intellihide_toolbar_summary",
+      "value": "Dölj automatiskt verktygsfältet vid skrollning"
+    },
+    {
+      "name": "intellihide_toolbar_title",
+      "value": "Intellihide Verktygsfält"
+    },
+    {
+      "name": "intent_save_as",
+      "value": "Spara som…"
+    },
+    {
+      "name": "invalid",
+      "value": "Ogiltig %s"
+    },
+    {
+      "name": "invalid_name",
+      "value": "Ogiltigt namn"
+    },
+    {
+      "name": "ip",
+      "value": "Adress"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "Italienska"
+    },
+    {
+      "name": "item",
+      "value": "objekt"
+    },
+    {
+      "name": "items",
+      "value": "objekt"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "Japanska"
+    },
+    {
+      "name": "keywords",
+      "value": "Nyckelord"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "Koreanska"
+    },
+    {
+      "name": "lastModified",
+      "value": "Senast ändrad"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "Visa senast ändrade"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "Visa datum och tid när filen senast modifierades"
+    },
+    {
+      "name": "libraries",
+      "value": "Bibliotek"
+    },
+    {
+      "name": "license",
+      "value": "Licens"
+    },
+    {
+      "name": "light",
+      "value": "Material Light"
+    },
+    {
+      "name": "listview",
+      "value": "Listvy"
+    },
+    {
+      "name": "loading",
+      "value": "Laddar…"
+    },
+    {
+      "name": "local_inet_addr_error",
+      "value": "Fel vid hämtning av lokal inet-adress"
+    },
+    {
+      "name": "location",
+      "value": "Plats"
+    },
+    {
+      "name": "match_content",
+      "value": "Matcha innehåll"
+    },
+    {
+      "name": "match_content_summary",
+      "value": "Om satt, reguljära uttryck kommer att matchas med hela filnamn,\nkommer annars att söka efter förekomster."
+    },
+    {
+      "name": "md5",
+      "value": "md5:"
+    },
+    {
+      "name": "medium_text",
+      "value": "Mellantext"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "Diverse"
+    },
+    {
+      "name": "modified",
+      "value": "Modifierad"
+    },
+    {
+      "name": "monofont",
+      "value": "Jämnbreda typsnitt"
+    },
+    {
+      "name": "moved",
+      "value": "flyttad"
+    },
+    {
+      "name": "moving",
+      "value": "Flyttar"
+    },
+    {
+      "name": "multiple_invalid_archive_entries",
+      "value": "Några filer i arkivet kan inte extraheras; akrivet kan vara skadat eller komma från en illasinnad källa."
+    },
+    {
+      "name": "name",
+      "value": "Namn"
+    },
+    {
+      "name": "needs_access",
+      "value": "Skriv-åtkomst krävs"
+    },
+    {
+      "name": "needs_access_summary",
+      "value": "Välj rot-mappen för \\t"
+    },
+    {
+      "name": "needs_access_summary1",
+      "value": "\\\\tför att tillåta skrivbehörighet för att fungera"
+    },
+    {
+      "name": "newfile",
+      "value": "Ny fil"
+    },
+    {
+      "name": "newfolder",
+      "value": "Ny mapp"
+    },
+    {
+      "name": "no",
+      "value": "Nej"
+    },
+    {
+      "name": "no_app_found",
+      "value": "Ingen app hittades för att öppna denna fil"
+    },
+    {
+      "name": "no_applications",
+      "value": "Inga appar"
+    },
+    {
+      "name": "no_bitcoin_app",
+      "value": "Installera en Bitcoin-plånboksapp"
+    },
+    {
+      "name": "no_device_found",
+      "value": "Ingen enhet hittades"
+    },
+    {
+      "name": "no_file_error",
+      "value": "Något gick fel, det finns inget att öppna"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "Ingen fil skrevs över"
+    },
+    {
+      "name": "no_files",
+      "value": "Inga filer"
+    },
+    {
+      "name": "no_items",
+      "value": "Inga Objekt"
+    },
+    {
+      "name": "no_name",
+      "value": "Filen ska ha ett namn"
+    },
+    {
+      "name": "no_obtainable_info",
+      "value": "Det finns ingen information om denna fil"
+    },
+    {
+      "name": "none_on_top",
+      "value": "Ingen ovanpå"
+    },
+    {
+      "name": "not_allowed",
+      "value": "Inte tillåtet"
+    },
+    {
+      "name": "of",
+      "value": "av"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "open",
+      "value": "Öppna"
+    },
+    {
+      "name": "open_as",
+      "value": "Öppna som"
+    },
+    {
+      "name": "open_parent",
+      "value": "Öppna Överordnade Katalogen"
+    },
+    {
+      "name": "open_with",
+      "value": "Öppna med"
+    },
+    {
+      "name": "operation_fail_following",
+      "value": "Åtgärden misslyckades för dessa filer"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "Åtgärd misslyckades"
+    },
+    {
+      "name": "optimized",
+      "value": "Optimerad"
+    },
+    {
+      "name": "orange",
+      "value": "Orange"
+    },
+    {
+      "name": "otg_access",
+      "value": "Välj roten utav OTG-enhet"
+    },
+    {
+      "name": "other",
+      "value": "Andra"
+    },
+    {
+      "name": "out_of",
+      "value": "utav"
+    },
+    {
+      "name": "overwrite",
+      "value": "Skriv över"
+    },
+    {
+      "name": "package_installer",
+      "value": "Paketinstallerare"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "Detta är en paketinstallerare. Vilken åtgärd vill du utföra?"
+    },
+    {
+      "name": "pages",
+      "value": "Antal sidor"
+    },
+    {
+      "name": "paper_size",
+      "value": "Pappersstorlek"
+    },
+    {
+      "name": "password",
+      "value": "Lösenord"
+    },
+    {
+      "name": "password_no_match",
+      "value": "Lösenord stämmer inte"
+    },
+    {
+      "name": "password_repeat",
+      "value": "Återupprepa lösenord"
+    },
+    {
+      "name": "password_unchanged",
+      "value": "(oändrad)"
+    },
+    {
+      "name": "paste",
+      "value": "Klistra in"
+    },
+    {
+      "name": "path",
+      "value": "Sökväg"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "PayPal-UD kopierat till urklipp"
+    },
+    {
+      "name": "permission",
+      "value": "Behörigheter"
+    },
+    {
+      "name": "permission_execute",
+      "value": "Utföra"
+    },
+    {
+      "name": "permission_group",
+      "value": "Grupp"
+    },
+    {
+      "name": "permission_other",
+      "value": "Övrigt"
+    },
+    {
+      "name": "permission_owner",
+      "value": "Ägare"
+    },
+    {
+      "name": "permission_read",
+      "value": "Läs"
+    },
+    {
+      "name": "permission_write",
+      "value": "Skriv"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "Välj en fil"
+    },
+    {
+      "name": "play",
+      "value": "Play Store"
+    },
+    {
+      "name": "please_wait",
+      "value": "Vänta"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "Polska"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "Portugisiska"
+    },
+    {
+      "name": "preference_newstack_summary",
+      "value": "Ger dig möjlighet att öppna filer i separata processer. Kom åt dem från systemets tidigare-skärm."
+    },
+    {
+      "name": "preference_newstack_title",
+      "value": "Öppna filer som nya processer"
+    },
+    {
+      "name": "preselected_configs_title",
+      "value": "Förvalda konfigureringar"
+    },
+    {
+      "name": "press_again",
+      "value": "Tryck igen för att avsluta"
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "Välj färg på stora UI-element på vänster flik"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "Huvudfärg (Vänster Flik)"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "Välj färg på stora UI-element på höger flik"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "Primär färg (Höger flik)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "Process-visare"
+    },
+    {
+      "name": "processed",
+      "value": "Bearbetad"
+    },
+    {
+      "name": "processing",
+      "value": "Bearbetar…"
+    },
+    {
+      "name": "processing_file",
+      "value": "Bearbetar fil"
+    },
+    {
+      "name": "producer",
+      "value": "Producent"
+    },
+    {
+      "name": "properties",
+      "value": "Egenskaper"
+    },
+    {
+      "name": "properties_copied_clipboard",
+      "value": "Kopierad till klippbordet"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "Vill du ange sökvägen som hem för denna flik?"
+    },
+    {
+      "name": "quick",
+      "value": "Snabbåtkomst"
+    },
+    {
+      "name": "random",
+      "value": "Slumpat skinn"
+    },
+    {
+      "name": "random_summary",
+      "value": "Ställer in slumpad primärfärg vid uppstart"
+    },
+    {
+      "name": "rate",
+      "value": "Betygsätt appen"
+    },
+    {
+      "name": "recent",
+      "value": "Senaste filer"
+    },
+    {
+      "name": "regular_expression",
+      "value": "Reguljära uttryck"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "Sök med hjälp av BASH-regex"
+    },
+    {
+      "name": "rename",
+      "value": "Byt namn"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "Modifiera bokmärke"
+    },
+    {
+      "name": "renaming",
+      "value": "Byter namn"
+    },
+    {
+      "name": "reopen_from_source",
+      "value": "Kan inte, var god öppna igen från förra appen"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "Rapportera buggar eller begär ny funktion"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "Rapportera buggar"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "Rumänska"
+    },
+    {
+      "name": "root_directory",
+      "value": "Root"
+    },
+    {
+      "name": "root_failure",
+      "value": "Root-åtkomst inte beviljat"
+    },
+    {
+      "name": "root_mode",
+      "value": "Root Explorer"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "För rootade enheter endast. Kolla in det bara om du är säker på det."
+    },
+    {
+      "name": "root_pref",
+      "value": "Visa behörigheter"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "Visa behörigheter för filer och mappar"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "Ryska"
+    },
+    {
+      "name": "saf_otg_explanation",
+      "value": "Av säkerhetsanledningar kommer du nu att gå till Androids filsystem. Var god välj USB i listan till vänster."
+    },
+    {
+      "name": "sample_rate",
+      "value": "Samplingsfrekvens"
+    },
+    {
+      "name": "save",
+      "value": "Spara"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "Vid uppstart, den senast visade katalogen för varje flik kommer att visas"
+    },
+    {
+      "name": "save_paths",
+      "value": "Kom ihåg sökvägar"
+    },
+    {
+      "name": "saved_multi_files",
+      "value": "%d sparade filer."
+    },
+    {
+      "name": "saved_single_file",
+      "value": "Sparade filen som '%s'."
+    },
+    {
+      "name": "saving",
+      "value": "Sparar"
+    },
+    {
+      "name": "scp_connection",
+      "value": "SCP/SFTP-anslutning"
+    },
+    {
+      "name": "scp_port",
+      "value": "Port"
+    },
+    {
+      "name": "search",
+      "value": "Sök"
+    },
+    {
+      "name": "search_hint",
+      "value": "Skriv för att söka…"
+    },
+    {
+      "name": "search_results",
+      "value": "Sökresultat för %s"
+    },
+    {
+      "name": "searching",
+      "value": "Söker %s"
+    },
+    {
+      "name": "searching_devices",
+      "value": "Söker efter enheter"
+    },
+    {
+      "name": "security",
+      "value": "Säkerhet"
+    },
+    {
+      "name": "select",
+      "value": "Välj objekt"
+    },
+    {
+      "name": "select_all",
+      "value": "Markera alla"
+    },
+    {
+      "name": "select_color_config",
+      "value": "Välj färgkonfigurering"
+    },
+    {
+      "name": "select_intent",
+      "value": "Markera"
+    },
+    {
+      "name": "send_email_to",
+      "value": "Skicka epost till"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "Serbiska"
+    },
+    {
+      "name": "server_address",
+      "value": "Serverns IP-adress"
+    },
+    {
+      "name": "service_timer",
+      "value": "Förfluten tid"
+    },
+    {
+      "name": "set",
+      "value": "Ange"
+    },
+    {
+      "name": "set_as_home",
+      "value": "Ange som hem"
+    },
+    {
+      "name": "set_random",
+      "value": "Ändringar appliceras först efter appen startas om"
+    },
+    {
+      "name": "setting",
+      "value": "Inställningar"
+    },
+    {
+      "name": "share",
+      "value": "Dela"
+    },
+    {
+      "name": "share_limit",
+      "value": "Kan inte dela fler än 100 filer"
+    },
+    {
+      "name": "showHeaders",
+      "value": "Visa Rubriker"
+    },
+    {
+      "name": "show_bookmarks_pref",
+      "value": "Bokmärken"
+    },
+    {
+      "name": "show_dividers",
+      "value": "Visa avdelare"
+    },
+    {
+      "name": "show_quick_access_pref",
+      "value": "Snabbåtkomster"
+    },
+    {
+      "name": "show_quick_access_pref_title",
+      "value": "Visa snabbåtkomst"
+    },
+    {
+      "name": "sidebar_preferences",
+      "value": "Sidofält"
+    },
+    {
+      "name": "sidebar_quick_access_title",
+      "value": "Snabbåtkomst i sidofältet"
+    },
+    {
+      "name": "size",
+      "value": "mappstorlek"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Storlek"
+    },
+    {
+      "name": "size_pref",
+      "value": "Visa storlekar"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "Visa filstorlek och antal objekt i kataloger"
+    },
+    {
+      "name": "skip",
+      "value": "Hoppa över"
+    },
+    {
+      "name": "smb_connection",
+      "value": "SMB-anslutning"
+    },
+    {
+      "name": "smb_launch_error",
+      "value": "Du kommer behöva kopiera denna fil till lagring för att öppna den"
+    },
+    {
+      "name": "software",
+      "value": "Mjukvara"
+    },
+    {
+      "name": "sort",
+      "value": "Sortera"
+    },
+    {
+      "name": "sort_by",
+      "value": "Sortera på"
+    },
+    {
+      "name": "sort_name",
+      "value": "Namn"
+    },
+    {
+      "name": "sort_only_this",
+      "value": "Endast denna mapp"
+    },
+    {
+      "name": "sort_size",
+      "value": "Storlek"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "Spanska"
+    },
+    {
+      "name": "ssh_authentication_failure_key",
+      "value": "Inloggning misslyckades: Det gick inte att autentisera med användarnamn och privat nyckel."
+    },
+    {
+      "name": "ssh_authentication_failure_password",
+      "value": "Inloggning misslyckades: Det gick inte att autentisera med användarnamn och lösenord."
+    },
+    {
+      "name": "ssh_connect_failed",
+      "value": "Kan inte ansluta till %1$s:%2$d: %3$s"
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_message",
+      "value": "DET ÄR MÖJLIGT ATT NÅGON GÖR NÅGOT RIKTIGT ELAKT NU!\\n\\n\nNågon kanske tjuvlyssnar på dig just nu (man-in-the-middle-attack)! Det är också möjligt att värd-nyckeln nyss ändrats. Fingeravtrycket för den publika nyckeln som värden skickat stämmer inte överens med den Amaze har sparad.\\n\\n\nVar god kontakta din systemadministratör eller skapa upp en ny anslutning för att fortsätta ansluta till servern."
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_title",
+      "value": "VARNING: VÄRDENS IDENTIFIERING HAR ÄNDRATS!"
+    },
+    {
+      "name": "ssh_host_key_verification_prompt",
+      "value": "Autentiseringen av värd '%1$s' kan inte fastställas.\\n\\n%2$s nyckel-fingeravtryck är %3$s.\\n\\nVar god tryck \"Ja\" för att bekräfta identitet; annars, tryck \"Nej\"."
+    },
+    {
+      "name": "ssh_host_key_verification_prompt_title",
+      "value": "Verifiera Värd"
+    },
+    {
+      "name": "ssh_key_invalid_passphrase",
+      "value": "Ogiltig lösenordsfras"
+    },
+    {
+      "name": "ssh_key_prompt_passphrase",
+      "value": "Ange lösenord"
+    },
+    {
+      "name": "ssh_pem_key_parse_error",
+      "value": "Kan inte läsa vald PEM: %s"
+    },
+    {
+      "name": "ssh_select_pem",
+      "value": "Välj privat nyckel för autentisering"
+    },
+    {
+      "name": "ssh_select_pem_button",
+      "value": "SSH Privat Nyckel"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Starta"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "Stopp"
+    },
+    {
+      "name": "stopping",
+      "value": "Stoppar"
+    },
+    {
+      "name": "subject",
+      "value": "Ämne"
+    },
+    {
+      "name": "support_development",
+      "value": "Stöd utvecklingen"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "Tamil"
+    },
+    {
+      "name": "text",
+      "value": "Text"
+    },
+    {
+      "name": "text_editor",
+      "value": "Texteditorinställningar"
+    },
+    {
+      "name": "textreader",
+      "value": "Textläsare"
+    },
+    {
+      "name": "theme",
+      "value": "Tema"
+    },
+    {
+      "name": "thumb",
+      "value": "Visa miniatyrer"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "Visa miniatyrer av appar och bilder"
+    },
+    {
+      "name": "time_remaining",
+      "value": "Återstående tid"
+    },
+    {
+      "name": "title",
+      "value": "Titel"
+    },
+    {
+      "name": "total",
+      "value": "Totalt:"
+    },
+    {
+      "name": "transfer_rate",
+      "value": "Överföringshastighet"
+    },
+    {
+      "name": "translate_summary",
+      "value": "Översätt Amaze till ditt språk"
+    },
+    {
+      "name": "translate_title",
+      "value": "Översätt"
+    },
+    {
+      "name": "translators",
+      "value": "Översättare"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "Turkiska"
+    },
+    {
+      "name": "type",
+      "value": "Typ"
+    },
+    {
+      "name": "typeable_paths_summary",
+      "value": "Långtryck på sökvägsfältet för att ange en egen sökväg"
+    },
+    {
+      "name": "typeable_paths_title",
+      "value": "Egendefinierade sökvägar"
+    },
+    {
+      "name": "ui",
+      "value": "Gränssnitt"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "Ukrainsk"
+    },
+    {
+      "name": "unin_system_apk",
+      "value": "Detta är en system-app, borttagning av den kan leda till systeminstabilitet.\\nFortsätt?"
+    },
+    {
+      "name": "uninstall",
+      "value": "Avinstallera"
+    },
+    {
+      "name": "unknown",
+      "value": "okänd"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Ojdå, något gick fel!"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "Osparade ändringar"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "Du har osparade ändingar, vill du spara dom innan du avslutar?"
+    },
+    {
+      "name": "update",
+      "value": "UPPDATERA"
+    },
+    {
+      "name": "used",
+      "value": "använt utrymme"
+    },
+    {
+      "name": "used_by_others",
+      "value": "använd av andra"
+    },
+    {
+      "name": "username",
+      "value": "Användarnamn"
+    },
+    {
+      "name": "version",
+      "value": "Version"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "videos",
+      "value": "Videor"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "Vietnamesiska"
+    },
+    {
+      "name": "view",
+      "value": "Visa"
+    },
+    {
+      "name": "waiting_content",
+      "value": "Väntar på att operationen ska slutföras"
+    },
+    {
+      "name": "waiting_title",
+      "value": "Väntar"
+    },
+    {
+      "name": "want_help",
+      "value": "Behöver hjälp?"
+    },
+    {
+      "name": "warning",
+      "value": "Varning"
+    },
+    {
+      "name": "warning_confirm",
+      "value": "Förstått!"
+    },
+    {
+      "name": "warning_never_show",
+      "value": "Visa inte igen"
+    },
+    {
+      "name": "width",
+      "value": "Bredd"
+    },
+    {
+      "name": "written",
+      "value": "Skriven"
+    },
+    {
+      "name": "xda_summary",
+      "value": "Q&A, Hjälp & Felsökning"
+    },
+    {
+      "name": "xda_title",
+      "value": "XDA-tråd"
+    },
+    {
+      "name": "year",
+      "value": "År"
+    },
+    {
+      "name": "yes",
+      "value": "Ja"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "Zip-visare"
+    }
+  ]
+}

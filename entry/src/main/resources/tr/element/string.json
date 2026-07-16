@@ -1,0 +1,2588 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Hakkında"
+    },
+    {
+      "name": "about_amaze",
+      "value": "Android için materyal tasarımlı dosya yöneticisi."
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "Amaze Dosya Yöneticisi Hakkında"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "FAB ve diğer küçük sistem öğelerinin renklerini ayarlayın"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "Vurgu rengi"
+    },
+    {
+      "name": "accessed",
+      "value": "Erişim Tarihi"
+    },
+    {
+      "name": "add_item",
+      "value": "Öğe Ekle"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "Kısayol ekle"
+    },
+    {
+      "name": "add_shortcut_not_supported_by_launcher",
+      "value": "Kısayol oluşturma başlatıcınız tarafından desteklenmiyor."
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "Yer işaretlerine ekle"
+    },
+    {
+      "name": "advanced",
+      "value": "Gelişmiş"
+    },
+    {
+      "name": "advanced_search",
+      "value": "Gelişmiş Arama"
+    },
+    {
+      "name": "album",
+      "value": "Albüm"
+    },
+    {
+      "name": "always",
+      "value": "Her zaman"
+    },
+    {
+      "name": "amaze_audio_player",
+      "value": "Amaze Müzik Çalar"
+    },
+    {
+      "name": "amaze_utils_installed_alias",
+      "value": "Amaze File Utilities'i kurduğunuz için teşekkür ederiz. Uygulamaya yönlendiriliyorsunuz."
+    },
+    {
+      "name": "analyse_storage",
+      "value": "Depolamayı Analiz Et"
+    },
+    {
+      "name": "android_data_prompt_saf_access_title",
+      "value": "SAF erişimi ver"
+    },
+    {
+      "name": "anonymous",
+      "value": "Anonim"
+    },
+    {
+      "name": "aperture_value",
+      "value": "Diyafram Değeri"
+    },
+    {
+      "name": "apks",
+      "value": "APK'ler"
+    },
+    {
+      "name": "app_name",
+      "value": "Amaze Dosya Yöneticisi"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "Uygulama/Kullanıcı arayüzü çöktü"
+    },
+    {
+      "name": "appearance",
+      "value": "Görünüm"
+    },
+    {
+      "name": "appearance_summary",
+      "value": "Dosya yöneticisinin temasını, renklerini ve görünümünü özelleştirin"
+    },
+    {
+      "name": "apps",
+      "value": "Uygulama Yöneticisi"
+    },
+    {
+      "name": "archive",
+      "value": "Arşiv"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "Arşiv ayıklama klasörü"
+    },
+    {
+      "name": "archive_password_prompt",
+      "value": "Lütfen arşiv şifresini girin"
+    },
+    {
+      "name": "archive_summary",
+      "value": "Arşiv dosyaları bu klasöre çıkarılacaktır. Varsayılan değer, arşivin bulunduğu dizindir."
+    },
+    {
+      "name": "archive_text",
+      "value": "Bu bir arşivdir. Ne eylem gerçekleştirmek istersiniz\\?"
+    },
+    {
+      "name": "archive_unsupported_or_corrupt",
+      "value": "\"%s\" arşivi açılamıyor. Arşiv zarar görmüş ya da biz açamıyoruz."
+    },
+    {
+      "name": "artist",
+      "value": "Sanatçı"
+    },
+    {
+      "name": "ascending",
+      "value": "Artan"
+    },
+    {
+      "name": "audio",
+      "value": "Ses"
+    },
+    {
+      "name": "authenticate_password",
+      "value": "Şifreyi girin"
+    },
+    {
+      "name": "author",
+      "value": "Hazırlayan"
+    },
+    {
+      "name": "authors",
+      "value": "Yazarlar"
+    },
+    {
+      "name": "back_summary",
+      "value": "Listenin en üstünde 'Geri git' tuşu görünür"
+    },
+    {
+      "name": "back_title",
+      "value": "'Geri git' tuşu"
+    },
+    {
+      "name": "backup",
+      "value": "Yedekle"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "Baskça"
+    },
+    {
+      "name": "behavior",
+      "value": "Davranış"
+    },
+    {
+      "name": "behavior_summary",
+      "value": "Gelişmiş arama ve dosyaları yeni bir görev olarak açıp açmama gibi davranışları değiştirin"
+    },
+    {
+      "name": "bitrate",
+      "value": "Bit hızı"
+    },
+    {
+      "name": "black",
+      "value": "Siyah (OLED paneller için)"
+    },
+    {
+      "name": "blue",
+      "value": "Mavi"
+    },
+    {
+      "name": "bluetooth",
+      "value": "Bluetooth"
+    },
+    {
+      "name": "bookmark_exists",
+      "value": "Yer imi var"
+    },
+    {
+      "name": "bookmark_lost",
+      "value": "Yer imi bulunamadı, oluşturuluyor…"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "Yer İşaretleri Eklendi"
+    },
+    {
+      "name": "byte_singular",
+      "value": "byte"
+    },
+    {
+      "name": "bytes",
+      "value": "Bytes"
+    },
+    {
+      "name": "calculating",
+      "value": "hesaplanıyor"
+    },
+    {
+      "name": "camera_brand",
+      "value": "Kamera Markası"
+    },
+    {
+      "name": "camera_model",
+      "value": "Kamera Modeli"
+    },
+    {
+      "name": "cancel",
+      "value": "İPTAL ET"
+    },
+    {
+      "name": "cancel_recommended",
+      "value": "İptal Et (Önerilir)"
+    },
+    {
+      "name": "cancelled",
+      "value": "İptal edildi"
+    },
+    {
+      "name": "cannot_delete_file",
+      "value": "Dosya silinemiyor"
+    },
+    {
+      "name": "cannot_delete_file_with_reason",
+      "value": "Dosya silinemiyor - %s"
+    },
+    {
+      "name": "cannot_extract_archive",
+      "value": "\"%s\": %s arşivi çıkarılamıyor."
+    },
+    {
+      "name": "cannot_overwrite",
+      "value": "Dosya üzerine yazılamıyor."
+    },
+    {
+      "name": "cannot_read_directory",
+      "value": "Dizin okunamıyor %s - %s"
+    },
+    {
+      "name": "cannot_rename_file",
+      "value": "Dosya yeniden adlandırılamıyor %s - %s"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s boş olamaz"
+    },
+    {
+      "name": "change",
+      "value": "Değiştir"
+    },
+    {
+      "name": "changelog",
+      "value": "Değişiklik günlüğü"
+    },
+    {
+      "name": "channel_description_ftp",
+      "value": "Amaze Dosya Yöneticisi FTP Sunucusunun Bildirimleri"
+    },
+    {
+      "name": "channel_description_normal",
+      "value": "Amaze Dosya Yöneticisinin bildirimleri"
+    },
+    {
+      "name": "channel_name_ftp",
+      "value": "Amaze FTP Sunucu"
+    },
+    {
+      "name": "channel_name_normal",
+      "value": "Amaze Bildirimler"
+    },
+    {
+      "name": "channels",
+      "value": "Kanallar"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "Çin"
+    },
+    {
+      "name": "choose_color",
+      "value": "Renk seç"
+    },
+    {
+      "name": "choose_different_app",
+      "value": "Farklı uygulama seçin"
+    },
+    {
+      "name": "choose_folder",
+      "value": "Bu Klasörü Seç"
+    },
+    {
+      "name": "choose_operation",
+      "value": "Gerçekleştirilecek işlemi seçin"
+    },
+    {
+      "name": "circular_icons",
+      "value": "Dairesel simgeleri kullan"
+    },
+    {
+      "name": "circular_images",
+      "value": "Görüntüler ve videolar için dairesel simgeleri kullan"
+    },
+    {
+      "name": "clear",
+      "value": "Temizle"
+    },
+    {
+      "name": "clear_open_file",
+      "value": "Önbelleği temizle"
+    },
+    {
+      "name": "clear_open_file_summary",
+      "value": "Seçili varsayılan dosya açma uygulamalarını temizler"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "Yol panoya kopyalandı"
+    },
+    {
+      "name": "close",
+      "value": "Kapat"
+    },
+    {
+      "name": "cloud_box",
+      "value": "Box"
+    },
+    {
+      "name": "cloud_connection",
+      "value": "Bulut bağlantısı"
+    },
+    {
+      "name": "cloud_connection_new",
+      "value": "Yeni bulut bağlantısı"
+    },
+    {
+      "name": "cloud_drive",
+      "value": "Google Drive™"
+    },
+    {
+      "name": "cloud_drive_tooltip",
+      "value": "Amaze Dosya Yöneticisi içinden dosyaları yönetmek için bir Google Drive™ bağlantısı oluşturun."
+    },
+    {
+      "name": "cloud_dropbox",
+      "value": "Dropbox"
+    },
+    {
+      "name": "cloud_error_failed_restart",
+      "value": "Bağlantı yüklenemedi.\\nÖnce Amaze Cloud u açın."
+    },
+    {
+      "name": "cloud_error_fdroid",
+      "value": "Amaze Cloud Eklentisi, F-Droid sürümüyle desteklenmez. Lütfen Amaze'in Play Store sürümünü kullanın."
+    },
+    {
+      "name": "cloud_error_plugin",
+      "value": "Amaze Cloud eklentisi bulunamadı. Play Store dan indirin."
+    },
+    {
+      "name": "cloud_fail_authenticate",
+      "value": "Kimlik doğrulaması başarısız oldu"
+    },
+    {
+      "name": "cloud_get",
+      "value": "Bulut eklentisi al"
+    },
+    {
+      "name": "cloud_onedrive",
+      "value": "OneDrive"
+    },
+    {
+      "name": "cloud_remove",
+      "value": "Bulut bağlantısını kaldırmak istiyor musunuz \\?"
+    },
+    {
+      "name": "cloud_share_copied",
+      "value": "Paylaşılabilir bağlantı panoya kopyalandı"
+    },
+    {
+      "name": "cloud_token_lost",
+      "value": "Hatırlatıcı kayıp, lütfen tekrar giriş yapın"
+    },
+    {
+      "name": "codec",
+      "value": "Codec"
+    },
+    {
+      "name": "color_summary",
+      "value": "Çeşitli sistem bileşenlerinin renklerini ayarlayın"
+    },
+    {
+      "name": "color_title",
+      "value": "Renk"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "Renkli gezinti çubuğu"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "Sistem gezinti çubuğu ile renklendirilmiş olsun ya da olmasın"
+    },
+    {
+      "name": "colorize",
+      "value": "Simgeleri Renklendir"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "Statik simge rengini ayarlar. Dizin simgesi renk tercihini geçersiz kılmaz."
+    },
+    {
+      "name": "comment",
+      "value": "Yorum"
+    },
+    {
+      "name": "compress",
+      "value": "Sıkıştırma"
+    },
+    {
+      "name": "compress_file_suggest_zip_extension",
+      "value": "Dosya uzantısı olarak ''.zip'' kullanmanız önerilir."
+    },
+    {
+      "name": "compressed",
+      "value": "Sıkıştırıldı"
+    },
+    {
+      "name": "compressed_explorer_fragment_error_open_uri",
+      "value": "Okuma için URI \"%s\" açılırken hata oluştu."
+    },
+    {
+      "name": "compressing",
+      "value": "Sıkıştırılıyor"
+    },
+    {
+      "name": "compression_complete",
+      "value": "Sıkıştırma Tamamlandı"
+    },
+    {
+      "name": "confirmation",
+      "value": "Onay"
+    },
+    {
+      "name": "connection_exists",
+      "value": "Bağlantı zaten var"
+    },
+    {
+      "name": "connection_name",
+      "value": "Bağlantı ismi"
+    },
+    {
+      "name": "container",
+      "value": "Paket"
+    },
+    {
+      "name": "contributors",
+      "value": "Katkıda bulunanlar"
+    },
+    {
+      "name": "contributors_1_summary",
+      "value": "Çeviri"
+    },
+    {
+      "name": "contributors_2_summary",
+      "value": "Simge ve afişler"
+    },
+    {
+      "name": "contributors_3_summary",
+      "value": "Tema Motoru"
+    },
+    {
+      "name": "contributors_4_summary",
+      "value": "FAB arkasında gölge"
+    },
+    {
+      "name": "contributors_5_summary",
+      "value": "Sekme geçişlerinde renk değiştir"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "FTP Sunucu"
+    },
+    {
+      "name": "contributors_7_summary",
+      "value": "Etkileşimli bir kabuk hazırlama"
+    },
+    {
+      "name": "copied",
+      "value": "kopyalanamadı"
+    },
+    {
+      "name": "copy",
+      "value": "Kopyala"
+    },
+    {
+      "name": "copy_complete",
+      "value": "Kopyalama Tamamlandı"
+    },
+    {
+      "name": "copy_error",
+      "value": "Bazı dosyalar başarıyla %s"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Biçimlendirilmiş raporu kopyala"
+    },
+    {
+      "name": "copy_low_memory",
+      "value": "Yetersiz hafıza, lütfen belleği temizleyin."
+    },
+    {
+      "name": "copying",
+      "value": "Kopyalanıyor"
+    },
+    {
+      "name": "copyingapks",
+      "value": "%d APK dosyası %s klasörüne kopyalanıyor"
+    },
+    {
+      "name": "crash_report_copied",
+      "value": "Çökme raporu panoya kopyalandı"
+    },
+    {
+      "name": "create",
+      "value": "OLUŞTUR"
+    },
+    {
+      "name": "create_bookmark",
+      "value": "Yer işareti oluştur"
+    },
+    {
+      "name": "create_file_suggest_txt_extension",
+      "value": "Dosya uzantısı olarak \".txt\" kullanılması önerilir."
+    },
+    {
+      "name": "create_hidden_file_warn",
+      "value": "Oluşturulan dosya dosya listesinde gizlenecek."
+    },
+    {
+      "name": "created",
+      "value": "Oluşturuldu"
+    },
+    {
+      "name": "creatingfile",
+      "value": "Dosya Oluşturuluyor"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "Klasör oluşturuluyor"
+    },
+    {
+      "name": "creator",
+      "value": "Yaratıcı"
+    },
+    {
+      "name": "crypt_decrypt",
+      "value": "Şifresini çöz"
+    },
+    {
+      "name": "crypt_decrypted",
+      "value": "Şifresiz"
+    },
+    {
+      "name": "crypt_decrypting",
+      "value": "Şifre çözülüyor"
+    },
+    {
+      "name": "crypt_decryption_fail",
+      "value": "Şifre kaldırma yapılamadı"
+    },
+    {
+      "name": "crypt_decryption_fail_password",
+      "value": "Yanlış şifre!"
+    },
+    {
+      "name": "crypt_encrypt",
+      "value": "Şifrele"
+    },
+    {
+      "name": "crypt_encrypted",
+      "value": "şifrelenemedi"
+    },
+    {
+      "name": "crypt_encrypting",
+      "value": "Şifreleniyor"
+    },
+    {
+      "name": "crypt_encryption_fail",
+      "value": "Şifreleme yapılamadı"
+    },
+    {
+      "name": "crypt_fingerprint_authenticate",
+      "value": "Devam etmek için parmak izi sensörüne dokunun"
+    },
+    {
+      "name": "crypt_fingerprint_no_permission",
+      "value": "Parmak izi izinleri ekik"
+    },
+    {
+      "name": "crypt_fingerprint_no_security",
+      "value": "Kilit ekranı koruması bulunamadı"
+    },
+    {
+      "name": "crypt_fingerprint_not_enrolled",
+      "value": "Hiç bir parmak izi kaydedilmedi"
+    },
+    {
+      "name": "crypt_pref_fingerprint_summary",
+      "value": "Kimlik doğrulamak için parmak izi kullan"
+    },
+    {
+      "name": "crypt_pref_fingerprint_title",
+      "value": "Parmak izi"
+    },
+    {
+      "name": "crypt_pref_master_password_summary",
+      "value": "Şifreleme için ana şifre ayarlayın.\\nKaldırmak için boş bırakın."
+    },
+    {
+      "name": "crypt_pref_master_password_title",
+      "value": "Ana şifre"
+    },
+    {
+      "name": "crypt_warning_key",
+      "value": "Sistem ayarlarından koruma desenini değiştirdiğinizde, şifrelemeyi bu dosya için kaldıramazsınız."
+    },
+    {
+      "name": "current_speed",
+      "value": "Geçerli hız"
+    },
+    {
+      "name": "custom",
+      "value": "Özel"
+    },
+    {
+      "name": "customize",
+      "value": "Özelleştir"
+    },
+    {
+      "name": "cut",
+      "value": "Kes"
+    },
+    {
+      "name": "dark",
+      "value": "Koyu"
+    },
+    {
+      "name": "database",
+      "value": "Veri tabanı"
+    },
+    {
+      "name": "databasereader",
+      "value": "Veritabanı Okuyucu"
+    },
+    {
+      "name": "date",
+      "value": "Tarih"
+    },
+    {
+      "name": "date_modified",
+      "value": "Değiştirme Tarihi"
+    },
+    {
+      "name": "date_taken",
+      "value": "Çekildiği Tarih"
+    },
+    {
+      "name": "daytime",
+      "value": "Gündüz"
+    },
+    {
+      "name": "default_string",
+      "value": "Ön tanımlı"
+    },
+    {
+      "name": "delbook",
+      "value": "Yer işaretini sil"
+    },
+    {
+      "name": "delete",
+      "value": "Sil"
+    },
+    {
+      "name": "delete_permanently_checkbox",
+      "value": "Kalıcı Silme"
+    },
+    {
+      "name": "deleting",
+      "value": "Siliniyor"
+    },
+    {
+      "name": "descending",
+      "value": "Artan"
+    },
+    {
+      "name": "deselect_all",
+      "value": "Hiçbirini seçme"
+    },
+    {
+      "name": "details",
+      "value": "Detaylar"
+    },
+    {
+      "name": "developers",
+      "value": "Geliştiriciler"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "Dizinler"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "Dosyalar"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "Aşağıdaki öğeler silindiğinde cihazınızdan kalıcı olarak kaldırılacaktır ve bu işlem geri alınamaz."
+    },
+    {
+      "name": "dialog_delete_temporarily_disclaimer",
+      "value": "Öğeleri silmek istediğinden emin misin\\?"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Öğeler kalıcı olarak silinsin mi\\?"
+    },
+    {
+      "name": "dialog_restore_disclaimer",
+      "value": "Öğeleri geri yüklemek istediğinden emin misin\\?"
+    },
+    {
+      "name": "dimensions",
+      "value": "Boyutlar"
+    },
+    {
+      "name": "directory",
+      "value": "Dizin"
+    },
+    {
+      "name": "directorysort",
+      "value": "Dizin Sıralama Modu"
+    },
+    {
+      "name": "disable",
+      "value": "Devre dışı bırak"
+    },
+    {
+      "name": "disableIpcSignature",
+      "value": "IPC imzalama kontrolünü devre dışı bırakın (Eski SMBv1 sunucuları için - GÜVENLİ DEĞİL!)"
+    },
+    {
+      "name": "disable_player_intent_filters_summary",
+      "value": "Amaze dahili medya oynatıcılarını dosya seçiciden devre dışı bırakır"
+    },
+    {
+      "name": "documents",
+      "value": "Dokümanlar"
+    },
+    {
+      "name": "docx_viewer",
+      "value": "Amaze Belge Görüntüleyici"
+    },
+    {
+      "name": "doforall",
+      "value": "Tüm ögeler için yap"
+    },
+    {
+      "name": "doit",
+      "value": "Yap"
+    },
+    {
+      "name": "domain",
+      "value": "Alan Adı"
+    },
+    {
+      "name": "donate",
+      "value": "Bağış"
+    },
+    {
+      "name": "donation_thanks",
+      "value": "Bağışınız için teşekkürler, bu bizi motive ediyor! (:"
+    },
+    {
+      "name": "done",
+      "value": "Tamamlandı"
+    },
+    {
+      "name": "download",
+      "value": "İndir"
+    },
+    {
+      "name": "drag_and_drop_preference",
+      "value": "Sürükle ve bırak tercihini seçin (Deneysel)"
+    },
+    {
+      "name": "drag_to_move_copy",
+      "value": "Dosyaları taşımak veya kopyalamak için dokunun ve sürükleyin"
+    },
+    {
+      "name": "drag_to_select",
+      "value": "Dosyaları seçmek için dokunun ve sürükleyin"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Gezinme menüsünü kapat"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Gezinme menüsünü aç"
+    },
+    {
+      "name": "duration",
+      "value": "Süre"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "Felemenkçe"
+    },
+    {
+      "name": "edit",
+      "value": "Düzenle"
+    },
+    {
+      "name": "edit_bookmark",
+      "value": "Yer işaretini düzenle"
+    },
+    {
+      "name": "enable_marquee_filename",
+      "value": "Dosya adları için seçim çerçevesi efektini etkinleştirin"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "Root modunu etkinleştir"
+    },
+    {
+      "name": "encrypt_file_must_end_with_aes",
+      "value": "Şifrelenmiş dosyalar, dosya uzantısı olarak \".aes\" kullanmalıdır."
+    },
+    {
+      "name": "encrypt_file_must_end_with_aze",
+      "value": "Şİfrelenmiş dosyalar ''.aze'' uzantısını kullanmak zorundadır."
+    },
+    {
+      "name": "encrypt_file_save_as",
+      "value": "Şifrelenmiş dosyayı … olarak kaydet."
+    },
+    {
+      "name": "encrypt_folder_save_as",
+      "value": "Şifrelenmiş klasörü … olarak kaydet."
+    },
+    {
+      "name": "encrypt_option_use_aze",
+      "value": "Amaze Şifreleme Biçimini Kullan"
+    },
+    {
+      "name": "encryption_fail_copy",
+      "value": "Veritabanındaki şifreleme girişi güncellenemedi"
+    },
+    {
+      "name": "entername",
+      "value": "Ad gir"
+    },
+    {
+      "name": "enterpath",
+      "value": "Yolu gir"
+    },
+    {
+      "name": "enterzipname",
+      "value": "Zip Adını Girin"
+    },
+    {
+      "name": "error",
+      "value": "Hata"
+    },
+    {
+      "name": "error_archive_cannot_extract",
+      "value": "\"%s\" arşiv girdisi \"%s\" konumuna çıkarılamıyor."
+    },
+    {
+      "name": "error_archive_password_incorrect",
+      "value": "Yanlış arşiv şifresi."
+    },
+    {
+      "name": "error_bad_archive_without_info",
+      "value": "\"%s\" bozuk bir arşivdir."
+    },
+    {
+      "name": "error_cannot_find_way_open",
+      "value": "Dosyayı açmanın yolu bulunamadı"
+    },
+    {
+      "name": "error_cannot_get_package_info",
+      "value": "\"%s\" dosyasından paket bilgisi alınamıyor. Ya belirtilen dosya bir APK değil ya da paket dosyası bozuk."
+    },
+    {
+      "name": "error_cant_decompress_that_file",
+      "value": "İstenen arşiv işlenemiyor"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Ayrıntılar:"
+    },
+    {
+      "name": "error_empty_archive",
+      "value": "\"%s\" boş bir arşivdir."
+    },
+    {
+      "name": "error_fetching_google_play_product_list",
+      "value": "Google Play'den ürün listesi getirilirken hata oluştu."
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "Hata: Dosya bulunamadı"
+    },
+    {
+      "name": "error_file_too_large",
+      "value": "Hata: Dosya Çok Büyük"
+    },
+    {
+      "name": "error_google_play_cannot_update_myself",
+      "value": "Google Play politikası gereğince, uygulamaların kendi kendine güncelleme yapmasına izin verilmez. Lütfen uygulamayı Google Play'den güncelleyin."
+    },
+    {
+      "name": "error_io",
+      "value": "G/Ç Hatası"
+    },
+    {
+      "name": "error_permission_denied",
+      "value": "İzin reddedildi"
+    },
+    {
+      "name": "error_report_button_telegram",
+      "value": "Bu hatayı Telegram üzerinden bildirin"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Bu hatayı e-posta ile bildirin"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Lütfen çökmenizle ilgili bir sorunun mevcut olup olmadığını kontrol edin."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "GitHub üzerinde raporlayın"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Hata raporu"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Rapor"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Üzgünüz, bir şeyler ters gitti."
+    },
+    {
+      "name": "error_unsupported_v5_rar",
+      "value": "\"%s\" RAR arşivi desteklenmeyen RAR v5 arşividir."
+    },
+    {
+      "name": "exit",
+      "value": "Çıkış"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Pozlama Süresi"
+    },
+    {
+      "name": "extract",
+      "value": "Ayıkla"
+    },
+    {
+      "name": "extract_complete",
+      "value": "Çıkarma tamamlandı"
+    },
+    {
+      "name": "extracted",
+      "value": "Çıkartıldı"
+    },
+    {
+      "name": "extracting",
+      "value": "Ayıklanıyor"
+    },
+    {
+      "name": "failed_cloud_api_key",
+      "value": "Cloud eklentisinin kimliği doğrulanamadı"
+    },
+    {
+      "name": "failed_cloud_new_connection",
+      "value": "Yeni bulut bağlantısını ekleme başarısız oldu"
+    },
+    {
+      "name": "failed_install_apk",
+      "value": "Yükleme başarısız"
+    },
+    {
+      "name": "failed_no_connection",
+      "value": "Dosya yüklemesi başarısız oldu. Lütfen bağlantınızı kontrol edin."
+    },
+    {
+      "name": "failed_smb_decrypt_path",
+      "value": "SMB bağlantısını yükleme başarısız oldu"
+    },
+    {
+      "name": "feedback",
+      "value": "Geri Bildirim Gönder"
+    },
+    {
+      "name": "field_empty",
+      "value": "Alan boş olamaz"
+    },
+    {
+      "name": "file",
+      "value": "Dosya"
+    },
+    {
+      "name": "file_empty",
+      "value": "Dosya boş"
+    },
+    {
+      "name": "file_read_only",
+      "value": "Bu dosya salt okunur."
+    },
+    {
+      "name": "file_too_long",
+      "value": "Dosya çok uzun ve düzenlenemez, ancak ilk %d karakterlerini okuyabilirsiniz"
+    },
+    {
+      "name": "fileexist",
+      "value": "Aynı ada sahip dosya zaten var"
+    },
+    {
+      "name": "filename",
+      "value": "Dosya adı"
+    },
+    {
+      "name": "files",
+      "value": "Dosyalar"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "Dosyalar Üstte"
+    },
+    {
+      "name": "find",
+      "value": "Sayfada bul"
+    },
+    {
+      "name": "flash_fired",
+      "value": "Flaş patladı"
+    },
+    {
+      "name": "focal_length",
+      "value": "Odak Uzaklığı"
+    },
+    {
+      "name": "folder",
+      "value": "Klasör"
+    },
+    {
+      "name": "folderfilecount",
+      "value": "%1$dklasör(ler) ve %2$ddosya(lar)"
+    },
+    {
+      "name": "folders",
+      "value": "Klasörler"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "Klasörler Üstte"
+    },
+    {
+      "name": "follow_battery_saver_desc",
+      "value": "Seçildiğinde pil tasarrufu aktifse koyu temaya geçilir"
+    },
+    {
+      "name": "follow_battery_saver_title",
+      "value": "Pil tasarrufuna uy"
+    },
+    {
+      "name": "format",
+      "value": "Biçim"
+    },
+    {
+      "name": "frame_rate",
+      "value": "Kare Hızı"
+    },
+    {
+      "name": "free",
+      "value": "Boş alan"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "Fransızca"
+    },
+    {
+      "name": "ftp",
+      "value": "FTP Sunucu"
+    },
+    {
+      "name": "ftp_connection",
+      "value": "FTP Bağlantısı"
+    },
+    {
+      "name": "ftp_login",
+      "value": "Giriş"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "Wi-Fi'a bağlı olduğunuzdan emin olun"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "FTP Sunucu başlatılıyor"
+    },
+    {
+      "name": "ftp_notif_starting_title",
+      "value": "FTP Sunucu"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "DUR"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "%s adresinde"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "Amaze FTP Sunucu çalışıyor"
+    },
+    {
+      "name": "ftp_path",
+      "value": "Paylaşılan Yol"
+    },
+    {
+      "name": "ftp_path_change_error_invalid",
+      "value": "Yol geçersiz"
+    },
+    {
+      "name": "ftp_path_change_success",
+      "value": "FTP bağlantı noktası başarıyla değiştirildi"
+    },
+    {
+      "name": "ftp_path_hint",
+      "value": "Kök dizin yolunu paylaş"
+    },
+    {
+      "name": "ftp_port",
+      "value": "Port"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "Geçersiz bir bağlantı noktası numarası seçili"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "FTP bağlantı noktası başarıyla değiştirildi"
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "FTP bağlantı noktası"
+    },
+    {
+      "name": "ftp_preference_saf_filesystem",
+      "value": "Daha yeni Android sürümlerinde cihazın harici depolamasını kullanma desteği için bunu etkinleştirin"
+    },
+    {
+      "name": "ftp_preference_saf_filesystem_title",
+      "value": "Eski dosya sistemini kullan"
+    },
+    {
+      "name": "ftp_prompt_accept_first_start_saf_access_title",
+      "value": "FTP sunucusu için SAF erişimi ver"
+    },
+    {
+      "name": "ftp_prompt_restart_server",
+      "value": "Değişikliklerin etkili olması için FTP sunucusunu yeniden başlatmanız gerekecek."
+    },
+    {
+      "name": "ftp_readonly",
+      "value": "Salt okunur erişim"
+    },
+    {
+      "name": "ftp_seconds",
+      "value": "Saniyeler"
+    },
+    {
+      "name": "ftp_server_fallback_path_reset_prompt",
+      "value": "Eski dosya sistemi uygulamasına geri döndüğünüz için FTP sunucusu paylaşılan yolu dahili depolamaya sıfırlandı. Lütfen gerektiği şekilde sağ üstteki menüyü kullanarak yeni bir yol seçin."
+    },
+    {
+      "name": "ftp_server_open_settings",
+      "value": "Ayarları aç"
+    },
+    {
+      "name": "ftp_server_prompt_connect_to_network",
+      "value": "Bir ağa bağlanın veya AP'yi etkinleştirin"
+    },
+    {
+      "name": "ftp_server_reset_notify",
+      "value": "FTP sunucusu paylaşılan yolu dahili depolamaya sıfırlandı"
+    },
+    {
+      "name": "ftp_server_root_unavailable",
+      "value": "Root (yönetici) erişimi gerektiren bir yol seçiyorsunuz. Cihazınız root'lanmış ise, lütfen ayarlarda root gezginini etkinleştirin."
+    },
+    {
+      "name": "ftp_status_no_connection",
+      "value": "Bağlantı Yok"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "Çalışmıyor"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "Çalışıyor"
+    },
+    {
+      "name": "ftp_status_secure_connection",
+      "value": "Güvenli Bağlantı"
+    },
+    {
+      "name": "ftp_status_title",
+      "value": "Durum"
+    },
+    {
+      "name": "ftp_timeout",
+      "value": "Boşta kalma zaman aşımı"
+    },
+    {
+      "name": "ftps_connection",
+      "value": "SSL üzerinden FTP Bağlantısı"
+    },
+    {
+      "name": "general",
+      "value": "Genel"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "Almanca"
+    },
+    {
+      "name": "go",
+      "value": "Git"
+    },
+    {
+      "name": "goback",
+      "value": "Geri git"
+    },
+    {
+      "name": "got_it",
+      "value": "Anladım!"
+    },
+    {
+      "name": "grant",
+      "value": "İzin"
+    },
+    {
+      "name": "grant_apkinstall_permission",
+      "value": "Uygulamanın uygulamaları yüklemeye devam etmesi için izin gerekir."
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "Uygulamanın devam edebilmesi için depolama iznine ihtiyacı var. İptal etmek uygulamayı sonlandıracaktır."
+    },
+    {
+      "name": "grantfailed",
+      "value": "İzin verilmedi"
+    },
+    {
+      "name": "grantper",
+      "value": "İzin ver"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "Yunanca"
+    },
+    {
+      "name": "green",
+      "value": "Yeşil"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "Izgara görünümündeki sütun sayısı"
+    },
+    {
+      "name": "gridview",
+      "value": "Izgara görünümü"
+    },
+    {
+      "name": "hash_sha256",
+      "value": "SHA-256"
+    },
+    {
+      "name": "height",
+      "value": "Yükseklik"
+    },
+    {
+      "name": "hidden",
+      "value": "Gizli Dosya ve Klasörleri Göster"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "Gizli dosyalar"
+    },
+    {
+      "name": "hide",
+      "value": "Gizle"
+    },
+    {
+      "name": "hide_media",
+      "value": "Medya tarayıcılarından gizle"
+    },
+    {
+      "name": "history",
+      "value": "Geçmiş"
+    },
+    {
+      "name": "home",
+      "value": "Ana Sayfa"
+    },
+    {
+      "name": "icon",
+      "value": "Simge"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "Simge renklerini ayarla"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "Simge rengi"
+    },
+    {
+      "name": "image",
+      "value": "Resim"
+    },
+    {
+      "name": "image_iso",
+      "value": "ISO hız değeri"
+    },
+    {
+      "name": "image_type",
+      "value": "Resim Türü"
+    },
+    {
+      "name": "image_viewer",
+      "value": "Amaze Resim Görüntüleyici"
+    },
+    {
+      "name": "images",
+      "value": "Görseller"
+    },
+    {
+      "name": "importing_completed",
+      "value": "İçe aktarım tamamlandı"
+    },
+    {
+      "name": "in_safe",
+      "value": "Yetersiz alan"
+    },
+    {
+      "name": "information",
+      "value": "Bilgi"
+    },
+    {
+      "name": "install",
+      "value": "Yükle"
+    },
+    {
+      "name": "intellihide_toolbar_summary",
+      "value": "\\nKaydırma sırasında araç çubuğunu otomatik olarak gizle"
+    },
+    {
+      "name": "intellihide_toolbar_title",
+      "value": "Intellihide Araç Çubuğu"
+    },
+    {
+      "name": "intent_save_as",
+      "value": "Dosyayı … olarak kaydet."
+    },
+    {
+      "name": "invalid",
+      "value": "Geçersiz %s"
+    },
+    {
+      "name": "invalid_name",
+      "value": "Geçersiz İsim"
+    },
+    {
+      "name": "ip",
+      "value": "Adres"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "İtalyanca"
+    },
+    {
+      "name": "item",
+      "value": "Öğe"
+    },
+    {
+      "name": "items",
+      "value": "Öğeler"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "Japonca"
+    },
+    {
+      "name": "just_once",
+      "value": "Sadece Bir Kere"
+    },
+    {
+      "name": "keywords",
+      "value": "Anahtar Sözcükler"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "Korece"
+    },
+    {
+      "name": "lastModified",
+      "value": "Son değiştirilme"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "Son Değiştirme Tarihini ve Saatini Göster"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "Son değişikliğin tarihini ve saatini göster"
+    },
+    {
+      "name": "legacy_listing_summary",
+      "value": "Etkinleştirilirse, dosyaları listelemek için eski yöntemi kullanır"
+    },
+    {
+      "name": "legacy_listing_title",
+      "value": "Root için eski listeyi kullan"
+    },
+    {
+      "name": "libraries",
+      "value": "Kütüphaneler"
+    },
+    {
+      "name": "license",
+      "value": "Lisans"
+    },
+    {
+      "name": "light",
+      "value": "Açık"
+    },
+    {
+      "name": "listview",
+      "value": "Liste görünümü"
+    },
+    {
+      "name": "loading",
+      "value": "Yükleniyor…"
+    },
+    {
+      "name": "local_inet_addr_error",
+      "value": "Yerel ''inet address'' alınırken hata oluştu"
+    },
+    {
+      "name": "location",
+      "value": "Konum"
+    },
+    {
+      "name": "match_content",
+      "value": "İçeriği eşleştir"
+    },
+    {
+      "name": "match_content_summary",
+      "value": "Eğer ayarlanırsa, normal ifade tüm dosya ismi ile eşleştirilecek,\\n        Aksi durumda ortaya çıkacaktır."
+    },
+    {
+      "name": "md5",
+      "value": "MD5"
+    },
+    {
+      "name": "medium_text",
+      "value": "Orta metin"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "Çeşitli"
+    },
+    {
+      "name": "modified",
+      "value": "Değiştirme tarihi"
+    },
+    {
+      "name": "monofont",
+      "value": "Tek aralıklı yazı tipi"
+    },
+    {
+      "name": "move",
+      "value": "Taşı"
+    },
+    {
+      "name": "moved",
+      "value": "taşınamadı"
+    },
+    {
+      "name": "moving",
+      "value": "Taşınıyor"
+    },
+    {
+      "name": "multiple_invalid_archive_entries",
+      "value": "Arşiv içerisindeki bazı dosyalar çıkarılamadı; arşiv zarar görmüş ya da zararlı bir kaynaktan gelmiş olabilir."
+    },
+    {
+      "name": "name",
+      "value": "Ad"
+    },
+    {
+      "name": "needs_access",
+      "value": "Yazma İzni Gerekli"
+    },
+    {
+      "name": "newfile",
+      "value": "Yeni dosya"
+    },
+    {
+      "name": "newfolder",
+      "value": "Yeni Klasör"
+    },
+    {
+      "name": "no",
+      "value": "Hayır"
+    },
+    {
+      "name": "no_app_found",
+      "value": "Bu uygulamayı açmak için uygulama bulanamadı"
+    },
+    {
+      "name": "no_app_found_intent",
+      "value": "Bu eylemi işleyecek uygulama bulunamadı. DocumentsUI yüklü mü\\?"
+    },
+    {
+      "name": "no_applications",
+      "value": "Uygulama yok"
+    },
+    {
+      "name": "no_bitcoin_app",
+      "value": "Lütfen bir Bitcoin cüzdan uygulaması yükleyin"
+    },
+    {
+      "name": "no_device_found",
+      "value": "Hiçbir cihaz bulunamadı"
+    },
+    {
+      "name": "no_file_error",
+      "value": "Bir şeyler yanlış gitti, açılacak bir şey yok."
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "Dosyanın Üzerine Yazılmadı"
+    },
+    {
+      "name": "no_files",
+      "value": "Dosya yok"
+    },
+    {
+      "name": "no_items",
+      "value": "Öğe yok"
+    },
+    {
+      "name": "no_name",
+      "value": "Dosyanın bir adı olmalı"
+    },
+    {
+      "name": "no_obtainable_info",
+      "value": "Bu dosya hakkında bilgi yok."
+    },
+    {
+      "name": "none_on_top",
+      "value": "Üstte Değil"
+    },
+    {
+      "name": "not_allowed",
+      "value": "İzin Verilmedi"
+    },
+    {
+      "name": "ok",
+      "value": "Tamam"
+    },
+    {
+      "name": "open",
+      "value": "Aç"
+    },
+    {
+      "name": "open_as",
+      "value": "Farklı aç"
+    },
+    {
+      "name": "open_parent",
+      "value": "Ana dizini aç"
+    },
+    {
+      "name": "open_with",
+      "value": "İle aç"
+    },
+    {
+      "name": "open_with_amaze",
+      "value": "Amaze ile aç"
+    },
+    {
+      "name": "operation_fail_following",
+      "value": "Bu dosyalarda işlem yapılamadı"
+    },
+    {
+      "name": "operation_not_supported",
+      "value": "İşlem desteklenmiyor"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "İşlem Başarısız"
+    },
+    {
+      "name": "optimized",
+      "value": "Optimize edildi"
+    },
+    {
+      "name": "orange",
+      "value": "Turuncu"
+    },
+    {
+      "name": "otg_access",
+      "value": "OTG aygıt kökünü seçin"
+    },
+    {
+      "name": "other",
+      "value": "Diğer"
+    },
+    {
+      "name": "out_of",
+      "value": "dışında"
+    },
+    {
+      "name": "overwrite",
+      "value": "Üzerine yaz"
+    },
+    {
+      "name": "package_installer",
+      "value": "Paket yükleyici"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "Bu bir paket yükleyicidir. Ne eylemi gerçekleştirmek istersiniz\\?"
+    },
+    {
+      "name": "pages",
+      "value": "Sayfa sayısı"
+    },
+    {
+      "name": "paper_size",
+      "value": "Kağıt boyutu"
+    },
+    {
+      "name": "password",
+      "value": "Şifre"
+    },
+    {
+      "name": "password_no_match",
+      "value": "Şifre uyuşmuyor."
+    },
+    {
+      "name": "password_repeat",
+      "value": "Şifre tekrar"
+    },
+    {
+      "name": "password_unchanged",
+      "value": "(değiştirilmedi)"
+    },
+    {
+      "name": "paste",
+      "value": "Yapıştır"
+    },
+    {
+      "name": "path",
+      "value": "Yol"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "Paypal ID panoya kopyalandı"
+    },
+    {
+      "name": "pdf_viewer",
+      "value": "Amaze Belge Görüntüleyici"
+    },
+    {
+      "name": "permission",
+      "value": "İzinler"
+    },
+    {
+      "name": "permission_execute",
+      "value": "Yürütme"
+    },
+    {
+      "name": "permission_group",
+      "value": "Grup"
+    },
+    {
+      "name": "permission_other",
+      "value": "Diğer"
+    },
+    {
+      "name": "permission_owner",
+      "value": "Sahibi"
+    },
+    {
+      "name": "permission_read",
+      "value": "Oku"
+    },
+    {
+      "name": "permission_write",
+      "value": "Yazma"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "Bir dosyayı seç"
+    },
+    {
+      "name": "pick_files",
+      "value": "Bir veya daha fazla dosya seç"
+    },
+    {
+      "name": "play",
+      "value": "Play Store"
+    },
+    {
+      "name": "please_wait",
+      "value": "Lütfen bekleyin"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "Polonyaca"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "Portekizce"
+    },
+    {
+      "name": "pref_export",
+      "value": "Dışa Aktar"
+    },
+    {
+      "name": "pref_export_summary",
+      "value": "Ayarları dışa aktar"
+    },
+    {
+      "name": "pref_import",
+      "value": "İçe Aktar"
+    },
+    {
+      "name": "pref_import_summary",
+      "value": "Ayarları içe aktar"
+    },
+    {
+      "name": "preference_delete_confirmation",
+      "value": "Onayı sil"
+    },
+    {
+      "name": "preference_delete_confirmation_summary",
+      "value": "Dosyaları silmeden önce onay iste. Bunu devre dışı bırakmak kesinlikle önerilmez!"
+    },
+    {
+      "name": "preference_language_dialog_title",
+      "value": "Dili Seçin"
+    },
+    {
+      "name": "preference_language_system_default",
+      "value": "Sistem Varsayılanı"
+    },
+    {
+      "name": "preference_language_title",
+      "value": "Uygulama Dili"
+    },
+    {
+      "name": "preference_newstack_summary",
+      "value": "Dosyaları ayrı görevler olarak açmanızı sağlar. Onlara son uygulamalarınız gibi erişebilirsiniz."
+    },
+    {
+      "name": "preference_newstack_title",
+      "value": "Dosyaları yeni görev olarak aç"
+    },
+    {
+      "name": "preselected_configs_title",
+      "value": "Önceden seçilmiş yapılandırmalar"
+    },
+    {
+      "name": "press_again",
+      "value": "Çıkmak için tekrar basın"
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "Sol sekme için rengi büyük UI ögelerine ayarla"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "Ana Renk (Sol Sekme)"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "Sağ arayüz sekmesinin rengini belirle"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "Birincil Renk (Sağ Sekme)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "İşlem görüntüleyici"
+    },
+    {
+      "name": "processed",
+      "value": "İşlendi"
+    },
+    {
+      "name": "processing",
+      "value": "…İşleniyor"
+    },
+    {
+      "name": "processing_file",
+      "value": "Dosya işleniyor"
+    },
+    {
+      "name": "producer",
+      "value": "Yapımcı"
+    },
+    {
+      "name": "properties",
+      "value": "Özellikler"
+    },
+    {
+      "name": "properties_copied_clipboard",
+      "value": "Panoya kopyalandı"
+    },
+    {
+      "name": "protocol_ftps",
+      "value": "Güvenli FTP"
+    },
+    {
+      "name": "question_delete_bookmark",
+      "value": "Yer işareti silinsin mi\\?"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "Geçerli yolu bu sekme için ana sayfa olarak ayarlamak istiyor musunuz\\?"
+    },
+    {
+      "name": "quick",
+      "value": "Hızlı Erişim"
+    },
+    {
+      "name": "quick_desc",
+      "value": "Son zamanlarda Amaze üzerinden erişilen dosyalar"
+    },
+    {
+      "name": "random",
+      "value": "Rastgele arayüz"
+    },
+    {
+      "name": "random_summary",
+      "value": "Başlangıçta rastgele ana renk ayarlar"
+    },
+    {
+      "name": "rate",
+      "value": "Uygulamayı değerlendir"
+    },
+    {
+      "name": "recent",
+      "value": "Son Kullanılan Dosyalar"
+    },
+    {
+      "name": "recent_desc",
+      "value": "Yakın zamanda oluşturulan veya değiştirilen dosyalar"
+    },
+    {
+      "name": "regular_expression",
+      "value": "Düzenli İfade"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "BASH tarzı düzenli ifade aramayı kullan"
+    },
+    {
+      "name": "remember",
+      "value": "Bir dahaki sefere hatırla"
+    },
+    {
+      "name": "rename",
+      "value": "Yeniden adlandır"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "Yer İmini Düzenle"
+    },
+    {
+      "name": "renaming",
+      "value": "Yeniden adlandırılıyor"
+    },
+    {
+      "name": "reopen_from_source",
+      "value": "Yapılamıyor, lütfen son uygulamadan yeniden açın"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "Hataları bildirin veya yeni özellik talebinde bulunun"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "Hata Bildirimi"
+    },
+    {
+      "name": "restore",
+      "value": "Eskiye döndür"
+    },
+    {
+      "name": "restore_files",
+      "value": "Dosyaları Eskiye Döndür"
+    },
+    {
+      "name": "restoring",
+      "value": "Eskiye döndürülüyor..."
+    },
+    {
+      "name": "results",
+      "value": "Sonuçlar"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "Romence"
+    },
+    {
+      "name": "root_directory",
+      "value": "Root"
+    },
+    {
+      "name": "root_failure",
+      "value": "Root Erişimi verilmedi"
+    },
+    {
+      "name": "root_mode",
+      "value": "Root Gezgini"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "Yalnızca root edilmiş cihaz içindir. Yalnızca bundan eminseniz kontrol edin."
+    },
+    {
+      "name": "root_pref",
+      "value": "İzinleri göster"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "Dosya ve klasörlerin izinlerini göster"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "Rusça"
+    },
+    {
+      "name": "saf_otg_explanation",
+      "value": "Güvenlik önlemleri sebebiyle Android'in dosya sistemine yönlendirileceksiniz. Lütfen soldaki menüden USB aygıtınızı seçin."
+    },
+    {
+      "name": "sample_rate",
+      "value": "Örnek Hızı"
+    },
+    {
+      "name": "save",
+      "value": "Kaydet"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "Başlarken, her sekme için en son görülen klasör görüntülenecektir."
+    },
+    {
+      "name": "save_paths",
+      "value": "Yolları hatırla"
+    },
+    {
+      "name": "saved_multi_files",
+      "value": "%d dosya kaydedildi."
+    },
+    {
+      "name": "saved_single_file",
+      "value": "Dosya %s olarak kaydedildi."
+    },
+    {
+      "name": "saving",
+      "value": "Kaydediliyor"
+    },
+    {
+      "name": "scp_connection",
+      "value": "SCP/SFTP Bağlantısı"
+    },
+    {
+      "name": "scp_default_path",
+      "value": "Öntanımlı yol (isteğe bağlı)"
+    },
+    {
+      "name": "scp_port",
+      "value": "Port"
+    },
+    {
+      "name": "search",
+      "value": "Ara"
+    },
+    {
+      "name": "search_hint",
+      "value": "Aramak için yazın…"
+    },
+    {
+      "name": "search_results",
+      "value": "%s için arama sonuçları"
+    },
+    {
+      "name": "searching",
+      "value": "Aranıyor%s"
+    },
+    {
+      "name": "searching_devices",
+      "value": "Cihazlar aranıyor"
+    },
+    {
+      "name": "security",
+      "value": "Güvenlik"
+    },
+    {
+      "name": "security_error",
+      "value": "Bu uygulama kullanılarak dosya açılamadı"
+    },
+    {
+      "name": "security_summary",
+      "value": "Parola ve şifrelemeyi ayarlayın"
+    },
+    {
+      "name": "select",
+      "value": "Ögeyi seçin"
+    },
+    {
+      "name": "select_all",
+      "value": "Tümünü seç"
+    },
+    {
+      "name": "select_by_date",
+      "value": "Tarihe göre seç"
+    },
+    {
+      "name": "select_by_type",
+      "value": "Türe göre seç"
+    },
+    {
+      "name": "select_color_config",
+      "value": "Renk yapılandırmasını seçin"
+    },
+    {
+      "name": "select_fill",
+      "value": "Dolguyu seç"
+    },
+    {
+      "name": "select_intent",
+      "value": "Seç"
+    },
+    {
+      "name": "select_inverse",
+      "value": "Tersini Seç"
+    },
+    {
+      "name": "select_save_location",
+      "value": "Kaydedilecek yeri seçin"
+    },
+    {
+      "name": "select_similar",
+      "value": "Benzerini seç"
+    },
+    {
+      "name": "send_email_to",
+      "value": "Şuna e-posta gönder"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "Sırpça"
+    },
+    {
+      "name": "server_address",
+      "value": "Sunucu IP Adresi"
+    },
+    {
+      "name": "service_timer",
+      "value": "Geçen süre"
+    },
+    {
+      "name": "set",
+      "value": "Ayarla"
+    },
+    {
+      "name": "set_as_home",
+      "value": "Ana klasör olarak ayarla"
+    },
+    {
+      "name": "set_random",
+      "value": "Değişiklikler uygulamayı yeniden başlatttıktan sonra gerçekleşecektir"
+    },
+    {
+      "name": "setting",
+      "value": "Ayarlar"
+    },
+    {
+      "name": "share",
+      "value": "Paylaş"
+    },
+    {
+      "name": "share_limit",
+      "value": "100 dosyadan fazlası paylaşılamaz"
+    },
+    {
+      "name": "share_logs",
+      "value": "Sistem günlüklerini paylaş"
+    },
+    {
+      "name": "share_logs_summary",
+      "value": "Elde edilen sistem günlüklerini e-posta/Telegram yoluyla paylaşın"
+    },
+    {
+      "name": "showHeaders",
+      "value": "Başlıkları Göster"
+    },
+    {
+      "name": "show_bookmarks_pref",
+      "value": "Yer İşaretleri"
+    },
+    {
+      "name": "show_bookmarks_pref_title",
+      "value": "Yer işaretlerini göster"
+    },
+    {
+      "name": "show_dividers",
+      "value": "Ayırıcıları Göster"
+    },
+    {
+      "name": "show_quick_access_pref",
+      "value": "Hızlı erişimler"
+    },
+    {
+      "name": "show_quick_access_pref_title",
+      "value": "Hızlı erişimleri göster"
+    },
+    {
+      "name": "show_system_apps",
+      "value": "Sistem uygulamalarını göster"
+    },
+    {
+      "name": "sidebar_bookmarks_title",
+      "value": "Kenar çubuğu yer işaretleri"
+    },
+    {
+      "name": "sidebar_preferences",
+      "value": "Kenar çubuğu"
+    },
+    {
+      "name": "sidebar_quick_access_title",
+      "value": "Kenar çubuğu hızlı erişim"
+    },
+    {
+      "name": "signin_with_google_title",
+      "value": "Google Drive™ kullanmak için kimlik doğrulaması yapın"
+    },
+    {
+      "name": "size",
+      "value": "klasör boyutu"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Boyut"
+    },
+    {
+      "name": "size_pref",
+      "value": "Boyutları göster"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "Dosyaların boyutunu ve klasörlerdeki öğe sayısını göster"
+    },
+    {
+      "name": "skip",
+      "value": "Geç"
+    },
+    {
+      "name": "smb_connection",
+      "value": "SMB Bağlantısı"
+    },
+    {
+      "name": "smb_launch_error",
+      "value": "Açmak için bu dosyayı depolamaya kopyalamanız gerekecek"
+    },
+    {
+      "name": "smb_share",
+      "value": "Yolu paylaş"
+    },
+    {
+      "name": "software",
+      "value": "Yazılım"
+    },
+    {
+      "name": "some_files_failed_invalid_operation",
+      "value": "Geçersiz işlem nedeniyle bazı dosyalar başarısız oldu"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Üzgünüz, bunun olmaması gerekiyordu."
+    },
+    {
+      "name": "sort",
+      "value": "Sırala"
+    },
+    {
+      "name": "sort_by",
+      "value": "Sırala"
+    },
+    {
+      "name": "sort_by_colon",
+      "value": "Sırala:"
+    },
+    {
+      "name": "sort_name",
+      "value": "Ad"
+    },
+    {
+      "name": "sort_only_this",
+      "value": "Sadece bu klasör"
+    },
+    {
+      "name": "sort_relevance",
+      "value": "Alaka düzeyi"
+    },
+    {
+      "name": "sort_size",
+      "value": "Boyut"
+    },
+    {
+      "name": "source_summary",
+      "value": "Kaynak kodunu GitHub üzerinde görüntüle"
+    },
+    {
+      "name": "source_title",
+      "value": "Kaynak kodu"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "İspanyolca"
+    },
+    {
+      "name": "ssh_authentication_failure_key",
+      "value": "Oturum açma başarısız oldu. Girilen kullanıcı adı ve anahtar uyuşmuyor."
+    },
+    {
+      "name": "ssh_authentication_failure_password",
+      "value": "Oturum açma başarısız oldu. Girilen kullanıcı adı ve şifre uyuşmuyor."
+    },
+    {
+      "name": "ssh_connect_failed",
+      "value": "%1$s%2$d%3$s'ê bağlanma başarısız oldu."
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_title",
+      "value": "UYARI: UZAK ANA BİLGİSAYAR KİMLİĞİ DEĞİŞTİRİLDİ!"
+    },
+    {
+      "name": "ssh_host_key_verification_prompt_title",
+      "value": "Ana Bilgisayarı Doğrula"
+    },
+    {
+      "name": "ssh_key_invalid_passphrase",
+      "value": "Geçersiz anahtar parolası."
+    },
+    {
+      "name": "ssh_key_no_decoder_decrypt",
+      "value": "PEM'in şifresini çözecek geçerli kod çözücü yok."
+    },
+    {
+      "name": "ssh_key_prompt_passphrase",
+      "value": "Lütfen anahtar parolayı girin."
+    },
+    {
+      "name": "ssh_pem_key_parse_error",
+      "value": "Seçilen PEM okunamıyor: %s"
+    },
+    {
+      "name": "ssh_select_pem",
+      "value": "Doğrulama için anahtarınızı seçin."
+    },
+    {
+      "name": "ssh_select_pem_button",
+      "value": "Özel SSH Anahtarı"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Başla"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "Dur"
+    },
+    {
+      "name": "stopping",
+      "value": "Durduruluyor"
+    },
+    {
+      "name": "storage_internal",
+      "value": "Dahili Depolama"
+    },
+    {
+      "name": "storage_sd_card",
+      "value": "SD kart"
+    },
+    {
+      "name": "subject",
+      "value": "Konu"
+    },
+    {
+      "name": "support_development",
+      "value": "Geliştirmeye Destek"
+    },
+    {
+      "name": "system",
+      "value": "Sistem (sistem temasına uy)"
+    },
+    {
+      "name": "system_apps",
+      "value": "Sistem uygulamaları"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "Tamil dili"
+    },
+    {
+      "name": "text",
+      "value": "Metin"
+    },
+    {
+      "name": "text_editor",
+      "value": "Text editor ayarları"
+    },
+    {
+      "name": "textreader",
+      "value": "Metin Okuyucu"
+    },
+    {
+      "name": "theme",
+      "value": "Tema"
+    },
+    {
+      "name": "thumb",
+      "value": "Küçük resimleri göster"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "Uygulamaların ve Resimlerin Küçük Görünümlerini Göster"
+    },
+    {
+      "name": "time_remaining",
+      "value": "Kalan süre"
+    },
+    {
+      "name": "title",
+      "value": "Başlık"
+    },
+    {
+      "name": "total",
+      "value": "Toplam:"
+    },
+    {
+      "name": "transfer_rate",
+      "value": "Aktarım hızı"
+    },
+    {
+      "name": "translate_summary",
+      "value": "Amaze uygulamasını kendi dilinize çevirin"
+    },
+    {
+      "name": "translate_title",
+      "value": "Çeviri"
+    },
+    {
+      "name": "translators",
+      "value": "Çevirmenler"
+    },
+    {
+      "name": "try_deep_search",
+      "value": "Derin Aramayı Dene!"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "Türkçe"
+    },
+    {
+      "name": "type",
+      "value": "Tür"
+    },
+    {
+      "name": "typeable_paths_summary",
+      "value": "Özel bir yol yazmak için yol çubuğuna uzun basın"
+    },
+    {
+      "name": "typeable_paths_title",
+      "value": "Özel yollar"
+    },
+    {
+      "name": "ui",
+      "value": "Arayüz"
+    },
+    {
+      "name": "ui_summary",
+      "value": "Hangi bilgilerin gösterileceğini kontrol edin, kenar çubuğunu özelleştirin ve kullanıcı arabirimi tercihlerini değiştirin"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "Ukraynaca"
+    },
+    {
+      "name": "unavailable",
+      "value": "Kullanılamıyor"
+    },
+    {
+      "name": "uninstall",
+      "value": "Kaldır"
+    },
+    {
+      "name": "unknown",
+      "value": "bilinmeyen"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Hoop! Birşeyler yanlış gitti!"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "Kaydedilmemiş değişiklikler"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "Kaydedilmemiş değişiklikler var. Çıkmadan önce bunları kaydetmek ister misiniz\\?"
+    },
+    {
+      "name": "update",
+      "value": "Güncelle"
+    },
+    {
+      "name": "update_host_key",
+      "value": "Sahip Anahtarını Güncelleyin"
+    },
+    {
+      "name": "used",
+      "value": "Kullanılan alan"
+    },
+    {
+      "name": "used_by_others",
+      "value": "başkaları tarafından kullanılan"
+    },
+    {
+      "name": "user_apps",
+      "value": "Kullanıcı uygulamaları"
+    },
+    {
+      "name": "username",
+      "value": "Kullanıcı adı"
+    },
+    {
+      "name": "version",
+      "value": "Sürüm"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "video_player",
+      "value": "Amaze Video Oynatıcı"
+    },
+    {
+      "name": "videos",
+      "value": "Videolar"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "Vietnamca"
+    },
+    {
+      "name": "view",
+      "value": "Görünüm"
+    },
+    {
+      "name": "waiting_content",
+      "value": "İşlemin tamamlanması bekleniyor"
+    },
+    {
+      "name": "waiting_title",
+      "value": "Bekleniyor"
+    },
+    {
+      "name": "want_help",
+      "value": "Yardım mı gerekiyor?"
+    },
+    {
+      "name": "warning",
+      "value": "Uyarı"
+    },
+    {
+      "name": "warning_confirm",
+      "value": "Anladım!"
+    },
+    {
+      "name": "warning_never_show",
+      "value": "Bir daha hatırlatma"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Bilgi:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "Ne oldu:"
+    },
+    {
+      "name": "width",
+      "value": "Genişlik"
+    },
+    {
+      "name": "wifip2p",
+      "value": "Wi-Fi P2P"
+    },
+    {
+      "name": "written",
+      "value": "Yazıldı"
+    },
+    {
+      "name": "xda_title",
+      "value": "XDA başlığı"
+    },
+    {
+      "name": "year",
+      "value": "Yıl"
+    },
+    {
+      "name": "yes",
+      "value": "Evet"
+    },
+    {
+      "name": "your_comment",
+      "value": "Yorumunuz (İngilizce):"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "Zip Görüntüleyici"
+    }
+  ]
+}

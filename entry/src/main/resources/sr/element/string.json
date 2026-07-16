@@ -1,0 +1,1376 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "О програму"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "О Амејз менаџеру фајлова"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "Боја ФАБ-а и других мањих елемената УИ-ја"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "Боја наглашавања"
+    },
+    {
+      "name": "accessed",
+      "value": "Приступ"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "Додај пречицу"
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "Додај у обележиваче"
+    },
+    {
+      "name": "advanced_search",
+      "value": "Напредна претрага"
+    },
+    {
+      "name": "album",
+      "value": "Албум"
+    },
+    {
+      "name": "anonymous",
+      "value": "Анонимно"
+    },
+    {
+      "name": "aperture_value",
+      "value": "Отвор бленде"
+    },
+    {
+      "name": "apks",
+      "value": "Апк"
+    },
+    {
+      "name": "app_name",
+      "value": "Амејз менаџер фајлова"
+    },
+    {
+      "name": "apps",
+      "value": "Апликације"
+    },
+    {
+      "name": "archive",
+      "value": "Архива"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "Фасцикла распакивања архиве"
+    },
+    {
+      "name": "archive_summary",
+      "value": "Фајлови архиве ће бити распаковани у ову фасциклу. Подразумевана вредност је фасцикла у којој је фајл архиве"
+    },
+    {
+      "name": "archive_text",
+      "value": "Ово је архива. Шта желите да урадите?"
+    },
+    {
+      "name": "artist",
+      "value": "Извођач"
+    },
+    {
+      "name": "ascending",
+      "value": "Растуће"
+    },
+    {
+      "name": "audio",
+      "value": "Звук"
+    },
+    {
+      "name": "author",
+      "value": "Аутор"
+    },
+    {
+      "name": "authors",
+      "value": "Аутори"
+    },
+    {
+      "name": "back_summary",
+      "value": "Дугме за назад на врху списка"
+    },
+    {
+      "name": "back_title",
+      "value": "Навигација назад"
+    },
+    {
+      "name": "backup",
+      "value": "Направи резерву"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "Баскијски"
+    },
+    {
+      "name": "bitrate",
+      "value": "Битски проток"
+    },
+    {
+      "name": "blue",
+      "value": "Плава"
+    },
+    {
+      "name": "bluetooth",
+      "value": "Блутут"
+    },
+    {
+      "name": "bookmark_lost",
+      "value": "Обележивач није нађен, поново правим…"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "Обележивачи додати"
+    },
+    {
+      "name": "calculating",
+      "value": "израчунавам"
+    },
+    {
+      "name": "camera_brand",
+      "value": "Бренд камере"
+    },
+    {
+      "name": "camera_model",
+      "value": "Модел камере"
+    },
+    {
+      "name": "cancel",
+      "value": "ОДУСТАНИ"
+    },
+    {
+      "name": "cancelled",
+      "value": "Отказано"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s не може да буде празно"
+    },
+    {
+      "name": "changelog",
+      "value": "Измене"
+    },
+    {
+      "name": "channels",
+      "value": "Канали"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "Кинески"
+    },
+    {
+      "name": "choose_color",
+      "value": "Избор боје"
+    },
+    {
+      "name": "circular_icons",
+      "value": "Кружне иконе"
+    },
+    {
+      "name": "circular_images",
+      "value": "Користи кружне иконе за слике и видео"
+    },
+    {
+      "name": "clear",
+      "value": "Очисти"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "Путања копирана на клипборд"
+    },
+    {
+      "name": "close",
+      "value": "Затвори"
+    },
+    {
+      "name": "codec",
+      "value": "Кодек"
+    },
+    {
+      "name": "color_summary",
+      "value": "Постављање боје разних УИ компоненти"
+    },
+    {
+      "name": "color_title",
+      "value": "Боја"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "Обоји траку навигације"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "Обоји системску траку навигације заједно са маском"
+    },
+    {
+      "name": "colorize",
+      "value": "Обоји иконе"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "Поставља статичку боју икона. Не премошћује поставку боје за икону директоријума."
+    },
+    {
+      "name": "comment",
+      "value": "Коментар"
+    },
+    {
+      "name": "compress",
+      "value": "Компресуј"
+    },
+    {
+      "name": "compressing",
+      "value": "Компресујем"
+    },
+    {
+      "name": "compression_complete",
+      "value": "Компресовање завршено"
+    },
+    {
+      "name": "connection_name",
+      "value": "Назив везе"
+    },
+    {
+      "name": "container",
+      "value": "Контејнер"
+    },
+    {
+      "name": "contributors",
+      "value": "Доприносиоци"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "ФТП сервер"
+    },
+    {
+      "name": "copied",
+      "value": "копирани"
+    },
+    {
+      "name": "copy",
+      "value": "Копирај"
+    },
+    {
+      "name": "copy_complete",
+      "value": "Копирање завршено"
+    },
+    {
+      "name": "copy_error",
+      "value": "Неки фајлови нису успешно %s"
+    },
+    {
+      "name": "copying",
+      "value": "Копирам"
+    },
+    {
+      "name": "create",
+      "value": "НАПРАВИ"
+    },
+    {
+      "name": "created",
+      "value": "Направљен"
+    },
+    {
+      "name": "creatingfile",
+      "value": "Правим фајл"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "Правим фасциклу"
+    },
+    {
+      "name": "creator",
+      "value": "Аутор"
+    },
+    {
+      "name": "current_speed",
+      "value": "Тренутна брзина"
+    },
+    {
+      "name": "cut",
+      "value": "Исеци"
+    },
+    {
+      "name": "dark",
+      "value": "Материјал тамна"
+    },
+    {
+      "name": "database",
+      "value": "База података"
+    },
+    {
+      "name": "databasereader",
+      "value": "Читач базе података"
+    },
+    {
+      "name": "date",
+      "value": "Датум:"
+    },
+    {
+      "name": "date_modified",
+      "value": "Датум измене"
+    },
+    {
+      "name": "date_taken",
+      "value": "Датум фотографисања"
+    },
+    {
+      "name": "daytime",
+      "value": "Дневна"
+    },
+    {
+      "name": "default_string",
+      "value": "Подразумевано"
+    },
+    {
+      "name": "delbook",
+      "value": "Обриши обележивач"
+    },
+    {
+      "name": "delete",
+      "value": "Обриши"
+    },
+    {
+      "name": "deleting",
+      "value": "Бришем"
+    },
+    {
+      "name": "descending",
+      "value": "Опадајуће"
+    },
+    {
+      "name": "details",
+      "value": "Детаљи"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "Фасцикле"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "Фајлови"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "Желите ли заиста да обришете следеће ставке?"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Потврда"
+    },
+    {
+      "name": "dimensions",
+      "value": "Димензије"
+    },
+    {
+      "name": "directorysort",
+      "value": "Режим ређања фасцикли"
+    },
+    {
+      "name": "documents",
+      "value": "Документи"
+    },
+    {
+      "name": "doforall",
+      "value": "Уради за све ставке"
+    },
+    {
+      "name": "doit",
+      "value": "Уради то"
+    },
+    {
+      "name": "domain",
+      "value": "Домен"
+    },
+    {
+      "name": "donate",
+      "value": "Донирај"
+    },
+    {
+      "name": "done",
+      "value": "Завршено"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Затвори фиоку навигације"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Отвори фиоку навигације"
+    },
+    {
+      "name": "duration",
+      "value": "Трајање"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "Холандски"
+    },
+    {
+      "name": "easter_egg_title",
+      "value": "Студијски режим"
+    },
+    {
+      "name": "edit",
+      "value": "Уреди"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "Омогући корени режим"
+    },
+    {
+      "name": "entername",
+      "value": "Унесите назив"
+    },
+    {
+      "name": "enterpath",
+      "value": "Унесите путању"
+    },
+    {
+      "name": "enterzipname",
+      "value": "Унесите име архиве"
+    },
+    {
+      "name": "error",
+      "value": "Грешка"
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "Грешка: фајл није нађен"
+    },
+    {
+      "name": "error_io",
+      "value": "У/И грешка"
+    },
+    {
+      "name": "exit",
+      "value": "Изађи"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Време експозиције"
+    },
+    {
+      "name": "extract",
+      "value": "Распакуј"
+    },
+    {
+      "name": "extract_complete",
+      "value": "Распакивање завршено"
+    },
+    {
+      "name": "extracting",
+      "value": "Распакујем"
+    },
+    {
+      "name": "feedback",
+      "value": "Повратне информације"
+    },
+    {
+      "name": "file",
+      "value": "Фајл"
+    },
+    {
+      "name": "file_empty",
+      "value": "Фајл је празан"
+    },
+    {
+      "name": "fileexist",
+      "value": "Фајл истог имена већ постоји"
+    },
+    {
+      "name": "files",
+      "value": "Фајлови"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "Фајлови на врху"
+    },
+    {
+      "name": "find",
+      "value": "Нађи на страници"
+    },
+    {
+      "name": "flash_fired",
+      "value": "Блиц"
+    },
+    {
+      "name": "focal_length",
+      "value": "Жижна даљина"
+    },
+    {
+      "name": "folder",
+      "value": "Фасцикла"
+    },
+    {
+      "name": "folders",
+      "value": "Фасцикле"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "Фасцикле на врху"
+    },
+    {
+      "name": "format",
+      "value": "Формат"
+    },
+    {
+      "name": "frame_rate",
+      "value": "Брзина сличица"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "Француски"
+    },
+    {
+      "name": "ftp",
+      "value": "ФТП сервер"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "Уверите се да сте повезани на бежичну мрежу"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "Покрећем ФТП сервер"
+    },
+    {
+      "name": "ftp_notif_starting_title",
+      "value": "ФТП сервер"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "ЗАУСТАВИ"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "на %s"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "Амејзов ФТП сервер је покренут"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "Неисправан број порта"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "ФТП порт успешно измењен"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "Није покренут"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "Покренут"
+    },
+    {
+      "name": "general",
+      "value": "Опште"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "Немачки"
+    },
+    {
+      "name": "goback",
+      "value": "Иди назад"
+    },
+    {
+      "name": "grant",
+      "value": "Одобри"
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "Апликацији је потребна дозвола за складиште да настави. Отказивањем дијалога напустићете апликацију."
+    },
+    {
+      "name": "grantfailed",
+      "value": "Дозвола није одобрена"
+    },
+    {
+      "name": "grantper",
+      "value": "Одобри дозволу"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "Грчки"
+    },
+    {
+      "name": "green",
+      "value": "Зелена"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "Број колона у приказу мреже"
+    },
+    {
+      "name": "gridview",
+      "value": "Приказ мреже"
+    },
+    {
+      "name": "height",
+      "value": "Висина"
+    },
+    {
+      "name": "hidden",
+      "value": "Скривени фајлови и фасцикле"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "Сакривене ставке"
+    },
+    {
+      "name": "hide",
+      "value": "Сакриј"
+    },
+    {
+      "name": "history",
+      "value": "Историјат"
+    },
+    {
+      "name": "home",
+      "value": "Почетна"
+    },
+    {
+      "name": "icon",
+      "value": "икона"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "Боја икона"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "Боја икона"
+    },
+    {
+      "name": "image",
+      "value": "Слика"
+    },
+    {
+      "name": "image_iso",
+      "value": "ИСО брзина"
+    },
+    {
+      "name": "image_type",
+      "value": "Тип слике"
+    },
+    {
+      "name": "images",
+      "value": "Слике"
+    },
+    {
+      "name": "in_safe",
+      "value": "Недовољно простора"
+    },
+    {
+      "name": "information",
+      "value": "Информације"
+    },
+    {
+      "name": "install",
+      "value": "Инсталирај"
+    },
+    {
+      "name": "invalid",
+      "value": "Неисправно %s"
+    },
+    {
+      "name": "invalid_name",
+      "value": "Неисправан назив"
+    },
+    {
+      "name": "ip",
+      "value": "Адреса"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "Италијански"
+    },
+    {
+      "name": "item",
+      "value": "ставка"
+    },
+    {
+      "name": "items",
+      "value": "ставки"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "Јапански"
+    },
+    {
+      "name": "keywords",
+      "value": "Кључне речи"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "Корејски"
+    },
+    {
+      "name": "lastModified",
+      "value": "Датуму измене"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "Датум измене"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "Прикажи датум и време последње измене фајлова"
+    },
+    {
+      "name": "light",
+      "value": "Материјал светла"
+    },
+    {
+      "name": "listview",
+      "value": "Приказ списка"
+    },
+    {
+      "name": "loading",
+      "value": "Учитавам…"
+    },
+    {
+      "name": "location",
+      "value": "Локација:"
+    },
+    {
+      "name": "match_content",
+      "value": "Поклапај садржај"
+    },
+    {
+      "name": "match_content_summary",
+      "value": "Ако је постављено, регуларни израз ће поклапати читав назив фајла,\nтражиће појављивања у супротном."
+    },
+    {
+      "name": "md5",
+      "value": "мд5:"
+    },
+    {
+      "name": "medium_text",
+      "value": "Средњи текст"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "Разно"
+    },
+    {
+      "name": "modified",
+      "value": "Измењен"
+    },
+    {
+      "name": "moved",
+      "value": "померени"
+    },
+    {
+      "name": "moving",
+      "value": "Померам"
+    },
+    {
+      "name": "name",
+      "value": "Име:"
+    },
+    {
+      "name": "needs_access",
+      "value": "Потребна дозвола уписа"
+    },
+    {
+      "name": "needs_access_summary",
+      "value": "Одредите корени директоријум од \\t"
+    },
+    {
+      "name": "needs_access_summary1",
+      "value": "\\tда бисте одобрили дозволу уписа за радњу"
+    },
+    {
+      "name": "newfile",
+      "value": "Нови фајл"
+    },
+    {
+      "name": "newfolder",
+      "value": "Нова фасцикла"
+    },
+    {
+      "name": "no",
+      "value": "Не"
+    },
+    {
+      "name": "no_app_found",
+      "value": "Нема апликације за отварање овог фајла"
+    },
+    {
+      "name": "no_device_found",
+      "value": "Ниједан уређај није нађен"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "Ниједан фајл није пребрисан"
+    },
+    {
+      "name": "no_files",
+      "value": "Нема фајлова"
+    },
+    {
+      "name": "none_on_top",
+      "value": "Ништа на врху"
+    },
+    {
+      "name": "not_allowed",
+      "value": "Није дозвољено"
+    },
+    {
+      "name": "of",
+      "value": "од"
+    },
+    {
+      "name": "ok",
+      "value": "У реду"
+    },
+    {
+      "name": "open",
+      "value": "Отвори"
+    },
+    {
+      "name": "open_as",
+      "value": "Отвори као"
+    },
+    {
+      "name": "open_parent",
+      "value": "Отвори родитељску фасциклу"
+    },
+    {
+      "name": "open_with",
+      "value": "Отвори помоћу"
+    },
+    {
+      "name": "opening",
+      "value": "Отварам.."
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "Радња није успела"
+    },
+    {
+      "name": "optimized",
+      "value": "Оптимизован"
+    },
+    {
+      "name": "orange",
+      "value": "Наранџаста"
+    },
+    {
+      "name": "otg_access",
+      "value": "Изаберите корен ОТГ уређаја"
+    },
+    {
+      "name": "other",
+      "value": "Остало"
+    },
+    {
+      "name": "out_of",
+      "value": "од"
+    },
+    {
+      "name": "overwrite",
+      "value": "Пребриши"
+    },
+    {
+      "name": "package_installer",
+      "value": "Инсталер пакета"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "Ово је инсталер пакета. Шта желите да урадите?"
+    },
+    {
+      "name": "pages",
+      "value": "Број страница"
+    },
+    {
+      "name": "paper_size",
+      "value": "Величина папира"
+    },
+    {
+      "name": "password",
+      "value": "Лозинка"
+    },
+    {
+      "name": "paste",
+      "value": "Налепи"
+    },
+    {
+      "name": "path",
+      "value": "Путања"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "Пејпел ИД копиран на клипборд"
+    },
+    {
+      "name": "permission",
+      "value": "Дозволе"
+    },
+    {
+      "name": "permission_execute",
+      "value": "Извршавање"
+    },
+    {
+      "name": "permission_group",
+      "value": "Група"
+    },
+    {
+      "name": "permission_other",
+      "value": "Друго"
+    },
+    {
+      "name": "permission_owner",
+      "value": "Власник"
+    },
+    {
+      "name": "permission_read",
+      "value": "Читање"
+    },
+    {
+      "name": "permission_write",
+      "value": "Уписивање"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "Изаберите фајл"
+    },
+    {
+      "name": "play",
+      "value": "Плеј продавница"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "Пољски"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "Португалски"
+    },
+    {
+      "name": "press_again",
+      "value": "Притисните опет за излаз"
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "Боја великих елемената УИ-ја"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "Примарна боја"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "Боја великих елемената УИ-ја за десни језичак"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "Примарна боја (десни језичак)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "Прегледач процеса"
+    },
+    {
+      "name": "processing_file",
+      "value": "Обрађујем фајл"
+    },
+    {
+      "name": "producer",
+      "value": "Продуцент"
+    },
+    {
+      "name": "properties",
+      "value": "Својства"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "Желите ли да поставите текућу путању као почетну за овај језичак?"
+    },
+    {
+      "name": "quick",
+      "value": "Брзи приступ"
+    },
+    {
+      "name": "random",
+      "value": "Насумично"
+    },
+    {
+      "name": "random_summary",
+      "value": "Постави насумичну тему по покретању"
+    },
+    {
+      "name": "rate",
+      "value": "Оцени апликацију"
+    },
+    {
+      "name": "recent",
+      "value": "Недавни фајлови"
+    },
+    {
+      "name": "regular_expression",
+      "value": "Регуларни израз"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "Тражи користећи регуларни израз БАСХ стила"
+    },
+    {
+      "name": "rename",
+      "value": "Преименуј"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "Измени обележивач"
+    },
+    {
+      "name": "renaming",
+      "value": "Преименујем"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "Пријавите грешке или затражите нову функционалност"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "Пријавите грешке"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "Румунски"
+    },
+    {
+      "name": "root_directory",
+      "value": "Корен"
+    },
+    {
+      "name": "root_failure",
+      "value": "Корени приступ није дозвољен"
+    },
+    {
+      "name": "root_mode",
+      "value": "Корени приступ"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "Само за рутоване уређаје. Користите само ако знате шта радите."
+    },
+    {
+      "name": "root_pref",
+      "value": "Дозволе"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "Прикажи дозволе фајлова и фасцикли"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "Руски"
+    },
+    {
+      "name": "sample_rate",
+      "value": "Узорковање"
+    },
+    {
+      "name": "save",
+      "value": "Сачувај"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "Приказ најскорије приказане фасцикле за сваки језичак по покретању"
+    },
+    {
+      "name": "save_paths",
+      "value": "Запамти путање"
+    },
+    {
+      "name": "saving",
+      "value": "Уписујем"
+    },
+    {
+      "name": "search",
+      "value": "Тражи"
+    },
+    {
+      "name": "search_hint",
+      "value": "Куцајте за претрагу…"
+    },
+    {
+      "name": "searching_devices",
+      "value": "Тражим уређаје"
+    },
+    {
+      "name": "security",
+      "value": "Безбедност"
+    },
+    {
+      "name": "select",
+      "value": "Изаберите ставку"
+    },
+    {
+      "name": "select_all",
+      "value": "Изабери све"
+    },
+    {
+      "name": "select_intent",
+      "value": "Изабери"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "Српски"
+    },
+    {
+      "name": "server_address",
+      "value": "Сервер: ИП адреса или ИП адреса/дељена_фасцикла"
+    },
+    {
+      "name": "set",
+      "value": "Постави"
+    },
+    {
+      "name": "set_as_home",
+      "value": "Постави за почетну фасциклу"
+    },
+    {
+      "name": "set_random",
+      "value": "Измене ће ступити на снагу након поновног покретања"
+    },
+    {
+      "name": "setting",
+      "value": "Поставке"
+    },
+    {
+      "name": "share",
+      "value": "Дели"
+    },
+    {
+      "name": "share_limit",
+      "value": "Не могу да делим више од 100 фајлова"
+    },
+    {
+      "name": "show_dividers",
+      "value": "Прикажи раздвајаче"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Величина"
+    },
+    {
+      "name": "size_pref",
+      "value": "Величине"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "Прикажи величину фајлова и број ставки у фасциклама"
+    },
+    {
+      "name": "skip",
+      "value": "Прескочи"
+    },
+    {
+      "name": "smb_connection",
+      "value": "СМБ веза"
+    },
+    {
+      "name": "smb_launch_error",
+      "value": "Мораћете да копирате овај фајл у складиште да бисте га отворили"
+    },
+    {
+      "name": "software",
+      "value": "Софтвер"
+    },
+    {
+      "name": "sort",
+      "value": "Ређање"
+    },
+    {
+      "name": "sort_by",
+      "value": "Поређај по"
+    },
+    {
+      "name": "sort_name",
+      "value": "Имену"
+    },
+    {
+      "name": "sort_size",
+      "value": "Величини"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "Шпански"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Почни"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "Заустави"
+    },
+    {
+      "name": "stopping",
+      "value": "Заустављам"
+    },
+    {
+      "name": "subject",
+      "value": "Предмет"
+    },
+    {
+      "name": "support_development",
+      "value": "Подржите развој"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "Тамил"
+    },
+    {
+      "name": "text",
+      "value": "Текст"
+    },
+    {
+      "name": "textreader",
+      "value": "Читач текста"
+    },
+    {
+      "name": "theme",
+      "value": "Тема"
+    },
+    {
+      "name": "thumb",
+      "value": "Сличице"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "Прикажи сличице апликација и слика"
+    },
+    {
+      "name": "title",
+      "value": "Наслов"
+    },
+    {
+      "name": "translate_summary",
+      "value": "Преведите Амејз на ваш језик"
+    },
+    {
+      "name": "translate_title",
+      "value": "Преведите"
+    },
+    {
+      "name": "translators",
+      "value": "Преводиоци"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "Турски"
+    },
+    {
+      "name": "type",
+      "value": "Типу"
+    },
+    {
+      "name": "ui",
+      "value": "Сучеље"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "Украјински"
+    },
+    {
+      "name": "unin_system_apk",
+      "value": "Ово је системска апликација, уклањање може да доведе до нестабилности система.\\nДа наставим?"
+    },
+    {
+      "name": "uninstall",
+      "value": "Уклони"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "Несачуване измене"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "Желите ли да сачувате измене пре него изађете?"
+    },
+    {
+      "name": "username",
+      "value": "Корисничко име"
+    },
+    {
+      "name": "version",
+      "value": "Издање"
+    },
+    {
+      "name": "video",
+      "value": "Видео"
+    },
+    {
+      "name": "videos",
+      "value": "Видео"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "Вијетнамски"
+    },
+    {
+      "name": "view",
+      "value": "Прикажи"
+    },
+    {
+      "name": "waiting_content",
+      "value": "Чекам да се радња заврши"
+    },
+    {
+      "name": "waiting_title",
+      "value": "Чекам"
+    },
+    {
+      "name": "want_help",
+      "value": "Требате помоћ?"
+    },
+    {
+      "name": "warning",
+      "value": "Упозорење"
+    },
+    {
+      "name": "width",
+      "value": "Ширина"
+    },
+    {
+      "name": "written",
+      "value": "Уписано"
+    },
+    {
+      "name": "xda_summary",
+      "value": "ПиО, помоћ и решавање проблема"
+    },
+    {
+      "name": "xda_title",
+      "value": "XDA тема"
+    },
+    {
+      "name": "year",
+      "value": "Година"
+    },
+    {
+      "name": "yes",
+      "value": "Да"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "Зип прегледач"
+    }
+  ]
+}

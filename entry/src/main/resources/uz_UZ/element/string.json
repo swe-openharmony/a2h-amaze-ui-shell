@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "color_title",
+      "value": "Rang"
+    },
+    {
+      "name": "donate",
+      "value": "Ehson"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Tutib turish vaqti"
+    },
+    {
+      "name": "focal_length",
+      "value": "Fokus masofasi"
+    },
+    {
+      "name": "history",
+      "value": "Tarixi"
+    },
+    {
+      "name": "information",
+      "value": "Ma’lumot"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Hajmi"
+    },
+    {
+      "name": "sort_size",
+      "value": "Hajmi"
+    },
+    {
+      "name": "version",
+      "value": "Qo‘shish"
+    }
+  ]
+}

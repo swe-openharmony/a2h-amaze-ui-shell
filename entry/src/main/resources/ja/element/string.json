@@ -1,0 +1,2200 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "アプリについて"
+    },
+    {
+      "name": "about_amaze",
+      "value": "Android用マテリアル・デザイン ファイルマネージャー"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "Amaze ファイルマネージャーについて"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "FAB と他の小さい UI エレメントに色を設定します"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "アクセント色"
+    },
+    {
+      "name": "accessed",
+      "value": "アクセス"
+    },
+    {
+      "name": "add_item",
+      "value": "アイテムを追加"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "ショートカットを追加"
+    },
+    {
+      "name": "add_shortcut_not_supported_by_launcher",
+      "value": "ショートカットの作成はランチャーでサポートしておりません。"
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "ブックマークに追加"
+    },
+    {
+      "name": "advanced",
+      "value": "高度な設定"
+    },
+    {
+      "name": "advanced_search",
+      "value": "高度な検索"
+    },
+    {
+      "name": "album",
+      "value": "アルバム"
+    },
+    {
+      "name": "always",
+      "value": "常に"
+    },
+    {
+      "name": "anonymous",
+      "value": "匿名"
+    },
+    {
+      "name": "aperture_value",
+      "value": "絞り値"
+    },
+    {
+      "name": "apks",
+      "value": "APK"
+    },
+    {
+      "name": "app_name",
+      "value": "Amaze ファイルマネージャー"
+    },
+    {
+      "name": "apps",
+      "value": "アプリマネージャー"
+    },
+    {
+      "name": "archive",
+      "value": "アーカイブ"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "アーカイブ抽出フォルダー"
+    },
+    {
+      "name": "archive_password_prompt",
+      "value": "アーカイブのパスワードを入力ください。"
+    },
+    {
+      "name": "archive_summary",
+      "value": "アーカイブファイルは、このフォルダーに抽出されます。デフォルト値は、アーカイブが存在するディレクトリーです"
+    },
+    {
+      "name": "archive_text",
+      "value": "これはアーカイブです。どのようなアクションを実行したいですか?"
+    },
+    {
+      "name": "archive_unsupported_or_corrupt",
+      "value": "アーカイブ \"%s\" を開くことができません。 アーカイブを開くことができないか、アーカイブが破損しています。"
+    },
+    {
+      "name": "artist",
+      "value": "アーティスト"
+    },
+    {
+      "name": "ascending",
+      "value": "昇順"
+    },
+    {
+      "name": "audio",
+      "value": "オーディオ"
+    },
+    {
+      "name": "authenticate_password",
+      "value": "パスワードを入力してください"
+    },
+    {
+      "name": "author",
+      "value": "作者"
+    },
+    {
+      "name": "authors",
+      "value": "作者"
+    },
+    {
+      "name": "back_summary",
+      "value": "リストの先頭でカスタムの戻るナビゲーションを有効にします"
+    },
+    {
+      "name": "back_title",
+      "value": "戻るナビゲーション"
+    },
+    {
+      "name": "backup",
+      "value": "バックアップ"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "バスク語"
+    },
+    {
+      "name": "bitrate",
+      "value": "ビットレート"
+    },
+    {
+      "name": "black",
+      "value": "黒（OLED用）"
+    },
+    {
+      "name": "blue",
+      "value": "青い"
+    },
+    {
+      "name": "bluetooth",
+      "value": "ブルートゥース"
+    },
+    {
+      "name": "bookmark_exists",
+      "value": "ブックマークは存在します"
+    },
+    {
+      "name": "bookmark_lost",
+      "value": "ブックマークが見つかりません。再作成中…"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "ブックマークを追加しました"
+    },
+    {
+      "name": "byte_singular",
+      "value": "バイト"
+    },
+    {
+      "name": "bytes",
+      "value": "バイト"
+    },
+    {
+      "name": "calculating",
+      "value": "計算中"
+    },
+    {
+      "name": "camera_brand",
+      "value": "カメラ ブランド"
+    },
+    {
+      "name": "camera_model",
+      "value": "カメラ モデル"
+    },
+    {
+      "name": "cancel",
+      "value": "キャンセル"
+    },
+    {
+      "name": "cancel_recommended",
+      "value": "キャンセル (推奨)"
+    },
+    {
+      "name": "cancelled",
+      "value": "キャンセル"
+    },
+    {
+      "name": "cannot_delete_file",
+      "value": "ファイルを削除できません"
+    },
+    {
+      "name": "cannot_delete_file_with_reason",
+      "value": "ファイルを削除できません - %s"
+    },
+    {
+      "name": "cannot_extract_archive",
+      "value": "アーカイブ \"%s\" を抽出できません: %s"
+    },
+    {
+      "name": "cannot_overwrite",
+      "value": "ファイルを上書きすることはできません。"
+    },
+    {
+      "name": "cannot_rename_file",
+      "value": "ファイル %s 名前を変更できません - %s"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s は空にできません"
+    },
+    {
+      "name": "change",
+      "value": "変更"
+    },
+    {
+      "name": "changelog",
+      "value": "変更履歴"
+    },
+    {
+      "name": "channel_description_ftp",
+      "value": "Amaze ファイルマネージャー FTPサーバーの通知"
+    },
+    {
+      "name": "channel_description_normal",
+      "value": "Amaze ファイルマネージャーの通知"
+    },
+    {
+      "name": "channel_name_ftp",
+      "value": "Amaze FTP サーバー"
+    },
+    {
+      "name": "channel_name_normal",
+      "value": "Amaze 通知"
+    },
+    {
+      "name": "channels",
+      "value": "チャンネル"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "中国語"
+    },
+    {
+      "name": "choose_color",
+      "value": "色を選択"
+    },
+    {
+      "name": "choose_different_app",
+      "value": "別にAppを選ぶ"
+    },
+    {
+      "name": "choose_folder",
+      "value": "このフォルダーを選択"
+    },
+    {
+      "name": "circular_icons",
+      "value": "丸いアイコンを使用する"
+    },
+    {
+      "name": "circular_images",
+      "value": "画像やビデオに丸いアイコンを使用します"
+    },
+    {
+      "name": "clear",
+      "value": "クリア"
+    },
+    {
+      "name": "clear_open_file",
+      "value": "キャッシュ消去"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "パスをクリップボードにコピーしました"
+    },
+    {
+      "name": "close",
+      "value": "閉じる"
+    },
+    {
+      "name": "cloud_box",
+      "value": "Box"
+    },
+    {
+      "name": "cloud_connection",
+      "value": "クラウド接続"
+    },
+    {
+      "name": "cloud_connection_new",
+      "value": "新しいクラウド接続"
+    },
+    {
+      "name": "cloud_dropbox",
+      "value": "Dropbox"
+    },
+    {
+      "name": "cloud_error_failed_restart",
+      "value": "接続をロードできません。Amaze クラウドプラクインを一度起動してください。"
+    },
+    {
+      "name": "cloud_error_plugin",
+      "value": "Amaze クラウドプラクインがありません。Play ストアでダウンロードしてください。"
+    },
+    {
+      "name": "cloud_fail_authenticate",
+      "value": "認證失敗"
+    },
+    {
+      "name": "cloud_get",
+      "value": "クラウドプラグインを入手する"
+    },
+    {
+      "name": "cloud_onedrive",
+      "value": "OneDrive"
+    },
+    {
+      "name": "cloud_remove",
+      "value": "クラウド接続を削除する？"
+    },
+    {
+      "name": "cloud_share_copied",
+      "value": "共有リンクをクリップボードにコピーしました"
+    },
+    {
+      "name": "cloud_token_lost",
+      "value": "トークンを失われた。もう一度サインインしてください。"
+    },
+    {
+      "name": "codec",
+      "value": "コーデック"
+    },
+    {
+      "name": "color_summary",
+      "value": "様々な UI コンポーネントに色を設定します"
+    },
+    {
+      "name": "color_title",
+      "value": "色"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "色付きのナビゲーションバー"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "システムのナビゲーションバーがスキンで色付けされているかどうかにかかわらず"
+    },
+    {
+      "name": "colorize",
+      "value": "アイコンを色付け"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "固定のアイコン色を設定します。ディレクトリーアイコン色プリファレンスを上書きしません。"
+    },
+    {
+      "name": "comment",
+      "value": "コメント"
+    },
+    {
+      "name": "compress",
+      "value": "圧縮"
+    },
+    {
+      "name": "compress_file_suggest_zip_extension",
+      "value": "ファイル拡張子として \".zip\" を使用することをお勧めします。"
+    },
+    {
+      "name": "compressed",
+      "value": "圧縮済"
+    },
+    {
+      "name": "compressing",
+      "value": "圧縮中"
+    },
+    {
+      "name": "compression_complete",
+      "value": "圧縮完了"
+    },
+    {
+      "name": "connection_exists",
+      "value": "接続は既に存在します"
+    },
+    {
+      "name": "connection_name",
+      "value": "接続名"
+    },
+    {
+      "name": "container",
+      "value": "コンテナー"
+    },
+    {
+      "name": "contributors",
+      "value": "貢献者"
+    },
+    {
+      "name": "contributors_1_summary",
+      "value": "翻訳"
+    },
+    {
+      "name": "contributors_2_summary",
+      "value": "アイコンとバナー"
+    },
+    {
+      "name": "contributors_3_summary",
+      "value": "テーマ エンジン"
+    },
+    {
+      "name": "contributors_4_summary",
+      "value": "FABの陰影"
+    },
+    {
+      "name": "contributors_5_summary",
+      "value": "タブをスワイプするときの色の変化"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "FTP サーバー"
+    },
+    {
+      "name": "contributors_7_summary",
+      "value": "インタラクティブシェルを起動する"
+    },
+    {
+      "name": "copied",
+      "value": "コピー済"
+    },
+    {
+      "name": "copy",
+      "value": "コピー"
+    },
+    {
+      "name": "copy_complete",
+      "value": "コピー完了"
+    },
+    {
+      "name": "copy_error",
+      "value": "一部のファイルは失敗しました %s"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "フォーマットされたレポートをコピーする"
+    },
+    {
+      "name": "copy_low_memory",
+      "value": "メモリ不足。メモリを解放してください"
+    },
+    {
+      "name": "copying",
+      "value": "コピー中"
+    },
+    {
+      "name": "crash_report_copied",
+      "value": "クラッシュ報告がクリップボードにコピーしました"
+    },
+    {
+      "name": "create",
+      "value": "作成"
+    },
+    {
+      "name": "create_file_suggest_txt_extension",
+      "value": "ファイル拡張子として \".txt\" を使用することをお勧めします。"
+    },
+    {
+      "name": "create_hidden_file_warn",
+      "value": "作成されたファイルは、ファイルリストで非表示になります。"
+    },
+    {
+      "name": "created",
+      "value": "作成"
+    },
+    {
+      "name": "creatingfile",
+      "value": "ファイルの作成中"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "フォルダーの作成中"
+    },
+    {
+      "name": "creator",
+      "value": "作成者"
+    },
+    {
+      "name": "crypt_decrypt",
+      "value": "復号"
+    },
+    {
+      "name": "crypt_decrypted",
+      "value": "復号済"
+    },
+    {
+      "name": "crypt_decrypting",
+      "value": "復号しています"
+    },
+    {
+      "name": "crypt_decryption_fail",
+      "value": "復号に失敗しました"
+    },
+    {
+      "name": "crypt_decryption_fail_password",
+      "value": "パスワードが違いました！"
+    },
+    {
+      "name": "crypt_encrypt",
+      "value": "暗号化"
+    },
+    {
+      "name": "crypt_encrypted",
+      "value": "暗号化済"
+    },
+    {
+      "name": "crypt_encrypting",
+      "value": "暗号化しています"
+    },
+    {
+      "name": "crypt_encryption_fail",
+      "value": "暗号化に失敗しました"
+    },
+    {
+      "name": "crypt_fingerprint_authenticate",
+      "value": "センサーをタッチして続行する"
+    },
+    {
+      "name": "crypt_fingerprint_no_permission",
+      "value": "指紋の許可されていません"
+    },
+    {
+      "name": "crypt_fingerprint_no_security",
+      "value": "ロックスクリーンのセキュリティがありません"
+    },
+    {
+      "name": "crypt_fingerprint_not_enrolled",
+      "value": "指紋が登録されていません"
+    },
+    {
+      "name": "crypt_pref_fingerprint_summary",
+      "value": "指紋を使用して暗号化を認証する"
+    },
+    {
+      "name": "crypt_pref_fingerprint_title",
+      "value": "指紋"
+    },
+    {
+      "name": "crypt_pref_master_password_summary",
+      "value": "暗号化用のマスターパスワードを設定する。削除する場合は空のままにしてください。"
+    },
+    {
+      "name": "crypt_pref_master_password_title",
+      "value": "マスターパスワード"
+    },
+    {
+      "name": "crypt_warning_key",
+      "value": "システム設定からセキュリティパターンを変更すると、\nこのコンテンツを復号化できないことに注意してください。"
+    },
+    {
+      "name": "current_speed",
+      "value": "現在の速度"
+    },
+    {
+      "name": "custom",
+      "value": "カスタム"
+    },
+    {
+      "name": "customize",
+      "value": "カスタマイズ"
+    },
+    {
+      "name": "cut",
+      "value": "切り取り"
+    },
+    {
+      "name": "dark",
+      "value": "マテリアル ダーク"
+    },
+    {
+      "name": "database",
+      "value": "データベース"
+    },
+    {
+      "name": "databasereader",
+      "value": "データベースリーダー"
+    },
+    {
+      "name": "date",
+      "value": "日付"
+    },
+    {
+      "name": "date_modified",
+      "value": "データ更新"
+    },
+    {
+      "name": "date_taken",
+      "value": "撮影日"
+    },
+    {
+      "name": "daytime",
+      "value": "日中"
+    },
+    {
+      "name": "default_string",
+      "value": "デフォルト"
+    },
+    {
+      "name": "delbook",
+      "value": "ブックマークを削除する"
+    },
+    {
+      "name": "delete",
+      "value": "削除"
+    },
+    {
+      "name": "deleting",
+      "value": "削除中"
+    },
+    {
+      "name": "descending",
+      "value": "降順"
+    },
+    {
+      "name": "deselect_all",
+      "value": "すべての選択を解除"
+    },
+    {
+      "name": "details",
+      "value": "詳細"
+    },
+    {
+      "name": "developers",
+      "value": "デベロッパー"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "ディレクトリー"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "ファイル"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "次のファイルを削除してもよろしいですか?"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "確認"
+    },
+    {
+      "name": "dimensions",
+      "value": "寸法"
+    },
+    {
+      "name": "directory",
+      "value": "フォルダ"
+    },
+    {
+      "name": "directorysort",
+      "value": "ディレクトリー並び替えモード"
+    },
+    {
+      "name": "documents",
+      "value": "ドキュメント"
+    },
+    {
+      "name": "doforall",
+      "value": "すべてのアイテムに対して行う"
+    },
+    {
+      "name": "doit",
+      "value": "実行"
+    },
+    {
+      "name": "domain",
+      "value": "ドメイン"
+    },
+    {
+      "name": "donate",
+      "value": "寄付"
+    },
+    {
+      "name": "donation_thanks",
+      "value": "寄付をありがとうございます。これは私たちのモチベーションを維持します! (:"
+    },
+    {
+      "name": "done",
+      "value": "完了"
+    },
+    {
+      "name": "drawer_close",
+      "value": "ナビゲーションドロワーを閉じる"
+    },
+    {
+      "name": "drawer_open",
+      "value": "ナビゲーションドロワーを開く"
+    },
+    {
+      "name": "duration",
+      "value": "時間"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "オランダ語"
+    },
+    {
+      "name": "edit",
+      "value": "編集"
+    },
+    {
+      "name": "enable_marquee_filename",
+      "value": "ファイル名のマーキー効果を有効にする"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "Root モードを有効にする"
+    },
+    {
+      "name": "encrypt_file_must_end_with_aze",
+      "value": "暗号化されたファイルは、ファイル拡張子として \".aze\" を使用する必要があります。"
+    },
+    {
+      "name": "encrypt_file_save_as",
+      "value": "暗号化ファイルを保存……"
+    },
+    {
+      "name": "encrypt_folder_save_as",
+      "value": "暗号化フォルダを保存……"
+    },
+    {
+      "name": "encryption_fail_copy",
+      "value": "データベースの暗号化エントリを更新できませんでした"
+    },
+    {
+      "name": "entername",
+      "value": "名前を入力"
+    },
+    {
+      "name": "enterpath",
+      "value": "パスを入力"
+    },
+    {
+      "name": "enterzipname",
+      "value": "Zip 名を入力"
+    },
+    {
+      "name": "error",
+      "value": "エラー"
+    },
+    {
+      "name": "error_archive_password_incorrect",
+      "value": "アーカイブのパスワードが違います。"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "詳細："
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "エラー: ファイルが見つかりません"
+    },
+    {
+      "name": "error_file_too_large",
+      "value": "エラー：ファイルが大きすぎます"
+    },
+    {
+      "name": "error_io",
+      "value": "I/O エラー"
+    },
+    {
+      "name": "error_permission_denied",
+      "value": "許可が拒否されました"
+    },
+    {
+      "name": "error_report_button_telegram",
+      "value": "Telegramで報告"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "メールで報告"
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "GitHubで報告"
+    },
+    {
+      "name": "error_report_title",
+      "value": "エラー報告"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "報告する"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "すみません、何かが間違っていました。"
+    },
+    {
+      "name": "exit",
+      "value": "終了"
+    },
+    {
+      "name": "exposure_time",
+      "value": "露出時間"
+    },
+    {
+      "name": "extract",
+      "value": "抽出"
+    },
+    {
+      "name": "extract_complete",
+      "value": "抽出完了"
+    },
+    {
+      "name": "extracted",
+      "value": "抽出済"
+    },
+    {
+      "name": "extracting",
+      "value": "抽出中"
+    },
+    {
+      "name": "failed_cloud_api_key",
+      "value": "クラウドプラクイン認證失敗"
+    },
+    {
+      "name": "failed_cloud_new_connection",
+      "value": "クラウド接続を追加できません"
+    },
+    {
+      "name": "failed_install_apk",
+      "value": "インストールに失敗しました"
+    },
+    {
+      "name": "failed_no_connection",
+      "value": "ファイルをロードできません。ネットワーク接続を確認してください。"
+    },
+    {
+      "name": "failed_smb_decrypt_path",
+      "value": "SMB接続をロードできません"
+    },
+    {
+      "name": "feedback",
+      "value": "フィードバックを送信"
+    },
+    {
+      "name": "field_empty",
+      "value": "フィールドを空白にすることはできません"
+    },
+    {
+      "name": "file",
+      "value": "ファイル"
+    },
+    {
+      "name": "file_empty",
+      "value": "ファイルは空です"
+    },
+    {
+      "name": "file_read_only",
+      "value": "ファイルが読み取り専用として開かれた"
+    },
+    {
+      "name": "fileexist",
+      "value": "同じ名前のファイルがすでに存在します"
+    },
+    {
+      "name": "filename",
+      "value": "ファイル名"
+    },
+    {
+      "name": "files",
+      "value": "ファイル"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "トップのファイル"
+    },
+    {
+      "name": "find",
+      "value": "ページで検索"
+    },
+    {
+      "name": "flash_fired",
+      "value": "フラッシュ"
+    },
+    {
+      "name": "focal_length",
+      "value": "焦点距離"
+    },
+    {
+      "name": "folder",
+      "value": "フォルダー"
+    },
+    {
+      "name": "folderfilecount",
+      "value": "%1$d フォルダと %2$d ファイル"
+    },
+    {
+      "name": "folders",
+      "value": "フォルダー"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "トップのフォルダー"
+    },
+    {
+      "name": "format",
+      "value": "フォーマット"
+    },
+    {
+      "name": "frame_rate",
+      "value": "フレームレート"
+    },
+    {
+      "name": "free",
+      "value": "フリースペース"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "フランス語"
+    },
+    {
+      "name": "ftp",
+      "value": "FTP サーバー"
+    },
+    {
+      "name": "ftp_login",
+      "value": "ログイン"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "Wi-Fi に接続していることを確認してください"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "FTP サーバーは開始しています"
+    },
+    {
+      "name": "ftp_notif_starting_title",
+      "value": "FTP サーバー"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "停止"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "%s に"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "Amaze FTP サーバーは実行中"
+    },
+    {
+      "name": "ftp_path",
+      "value": "共有パス"
+    },
+    {
+      "name": "ftp_path_change_error_invalid",
+      "value": "無効なパス"
+    },
+    {
+      "name": "ftp_path_change_success",
+      "value": "FTP パスが正常に変更された"
+    },
+    {
+      "name": "ftp_path_hint",
+      "value": "共有するディレクトリのルートへのパス"
+    },
+    {
+      "name": "ftp_port",
+      "value": "ポート"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "選択されたポート番号が正しくありません"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "FTP ポートを正常に変更しました"
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "FTP ポートを選択"
+    },
+    {
+      "name": "ftp_seconds",
+      "value": "秒"
+    },
+    {
+      "name": "ftp_server_open_settings",
+      "value": "設定を開く"
+    },
+    {
+      "name": "ftp_server_prompt_connect_to_network",
+      "value": "ネットワークに接続し、またはAPを有効にする"
+    },
+    {
+      "name": "ftp_status_no_connection",
+      "value": "ネットワーク接続なし"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "実行していません"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "実行中"
+    },
+    {
+      "name": "ftp_status_secure_connection",
+      "value": "安全な接続"
+    },
+    {
+      "name": "ftp_status_title",
+      "value": "ステータス"
+    },
+    {
+      "name": "ftp_timeout",
+      "value": "アイドル・タイムアウト"
+    },
+    {
+      "name": "general",
+      "value": "全般"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "ドイツ語"
+    },
+    {
+      "name": "go",
+      "value": "開く"
+    },
+    {
+      "name": "goback",
+      "value": "戻る"
+    },
+    {
+      "name": "got_it",
+      "value": "分かりました！"
+    },
+    {
+      "name": "grant",
+      "value": "付与"
+    },
+    {
+      "name": "grant_apkinstall_permission",
+      "value": "アプリのインストールを続けるにはアプリのアクセス許可が必要です。"
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "アプリを続行するには、ストレージのアクセス許可が必要です。このダイアログをキャンセルすると、アプリを終了します。"
+    },
+    {
+      "name": "grantfailed",
+      "value": "アクセス許可が付与されていません"
+    },
+    {
+      "name": "grantper",
+      "value": "アクセス許可を付与する"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "ギリシャ語"
+    },
+    {
+      "name": "green",
+      "value": "緑色"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "グリッド表示のカラム数"
+    },
+    {
+      "name": "gridview",
+      "value": "グリッド表示"
+    },
+    {
+      "name": "hash_sha256",
+      "value": "SHAー256"
+    },
+    {
+      "name": "height",
+      "value": "高さ"
+    },
+    {
+      "name": "hidden",
+      "value": "隠しファイルおよびフォルダーを表示"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "隠しファイル"
+    },
+    {
+      "name": "hide",
+      "value": "非表示"
+    },
+    {
+      "name": "hide_media",
+      "value": "メディアブラウザーから非表示"
+    },
+    {
+      "name": "history",
+      "value": "履歴"
+    },
+    {
+      "name": "home",
+      "value": "ホーム"
+    },
+    {
+      "name": "icon",
+      "value": "アイコン"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "アイコンに色を設定します"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "アイコンの色"
+    },
+    {
+      "name": "image",
+      "value": "画像"
+    },
+    {
+      "name": "image_iso",
+      "value": "ISO スピードレート"
+    },
+    {
+      "name": "image_type",
+      "value": "イメージの種類"
+    },
+    {
+      "name": "images",
+      "value": "画像"
+    },
+    {
+      "name": "in_safe",
+      "value": "スペースが不足しています"
+    },
+    {
+      "name": "information",
+      "value": "情報"
+    },
+    {
+      "name": "install",
+      "value": "インストール"
+    },
+    {
+      "name": "intellihide_toolbar_summary",
+      "value": "スクロールしながらツールバーを非表示する"
+    },
+    {
+      "name": "intellihide_toolbar_title",
+      "value": "ツールバーを自動的に隠す"
+    },
+    {
+      "name": "intent_save_as",
+      "value": "別名で保存…"
+    },
+    {
+      "name": "invalid",
+      "value": "無効な %s"
+    },
+    {
+      "name": "invalid_name",
+      "value": "無効な名前"
+    },
+    {
+      "name": "ip",
+      "value": "アドレス"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "イタリア語"
+    },
+    {
+      "name": "item",
+      "value": "アイテム"
+    },
+    {
+      "name": "items",
+      "value": "アイテム"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "日本語"
+    },
+    {
+      "name": "just_once",
+      "value": "一回だけ"
+    },
+    {
+      "name": "keywords",
+      "value": "キーワード"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "韓国語"
+    },
+    {
+      "name": "lastModified",
+      "value": "最終更新"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "最終更新を表示"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "ファイルが最後に更新された日時を表示します"
+    },
+    {
+      "name": "legacy_listing_title",
+      "value": "Rootに古い設定を使用"
+    },
+    {
+      "name": "libraries",
+      "value": "ライブラリ"
+    },
+    {
+      "name": "license",
+      "value": "ライセンス"
+    },
+    {
+      "name": "light",
+      "value": "マテリアル ライト"
+    },
+    {
+      "name": "listview",
+      "value": "リスト表示"
+    },
+    {
+      "name": "loading",
+      "value": "読み込み中…"
+    },
+    {
+      "name": "local_inet_addr_error",
+      "value": "ローカルネット・アドレス"
+    },
+    {
+      "name": "location",
+      "value": "場所"
+    },
+    {
+      "name": "match_content",
+      "value": "一致コンテンツ"
+    },
+    {
+      "name": "match_content_summary",
+      "value": "設定した場合、正規表現はファイル名全体と照合されます、\nそれ以外の場合は、出現のたび検索します。"
+    },
+    {
+      "name": "md5",
+      "value": "MD5"
+    },
+    {
+      "name": "medium_text",
+      "value": "テキストサイズ中"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "その他"
+    },
+    {
+      "name": "modified",
+      "value": "更新"
+    },
+    {
+      "name": "monofont",
+      "value": "等幅フォント"
+    },
+    {
+      "name": "move",
+      "value": "移動する"
+    },
+    {
+      "name": "moved",
+      "value": "移動済"
+    },
+    {
+      "name": "moving",
+      "value": "移動中"
+    },
+    {
+      "name": "multiple_invalid_archive_entries",
+      "value": "アーカイブ内の一部のファイルは抽出できません。 アーカイブが破損しているか、悪意のあるソースからのものである可能性があります。"
+    },
+    {
+      "name": "name",
+      "value": "名前"
+    },
+    {
+      "name": "needs_access",
+      "value": "書き込みアクセス許可が必要です"
+    },
+    {
+      "name": "needs_access_summary",
+      "value": "ルートディレクトリーを選択してください \\\\t"
+    },
+    {
+      "name": "needs_access_summary1",
+      "value": "\\\\t操作するために書き込みアクセスを付与します"
+    },
+    {
+      "name": "newfile",
+      "value": "新しいファイル"
+    },
+    {
+      "name": "newfolder",
+      "value": "新しいフォルダー"
+    },
+    {
+      "name": "no",
+      "value": "いいえ"
+    },
+    {
+      "name": "no_app_found",
+      "value": "このファイルを開くアプリが見つかりません"
+    },
+    {
+      "name": "no_applications",
+      "value": "アプリケーションなし"
+    },
+    {
+      "name": "no_bitcoin_app",
+      "value": "ビットコインウォレットアプリをインストールしてください"
+    },
+    {
+      "name": "no_device_found",
+      "value": "デバイスが見つかりません"
+    },
+    {
+      "name": "no_file_error",
+      "value": "何か問題が発生しました。開くものがありません"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "ファイルを上書きしません"
+    },
+    {
+      "name": "no_files",
+      "value": "ファイルがありません"
+    },
+    {
+      "name": "no_items",
+      "value": "アイテムがありません"
+    },
+    {
+      "name": "no_name",
+      "value": "ファイル名がありません"
+    },
+    {
+      "name": "no_obtainable_info",
+      "value": "ファイル情報がありません"
+    },
+    {
+      "name": "none_on_top",
+      "value": "トップなし"
+    },
+    {
+      "name": "not_allowed",
+      "value": "許可されていません"
+    },
+    {
+      "name": "of",
+      "value": "/"
+    },
+    {
+      "name": "ok",
+      "value": "はい"
+    },
+    {
+      "name": "open",
+      "value": "開く"
+    },
+    {
+      "name": "open_as",
+      "value": "...として開く"
+    },
+    {
+      "name": "open_parent",
+      "value": "親ディレクトリーを開く"
+    },
+    {
+      "name": "open_with",
+      "value": "...で開く"
+    },
+    {
+      "name": "operation_fail_following",
+      "value": "次のファイルで操作が失敗しました"
+    },
+    {
+      "name": "operation_not_supported",
+      "value": "操作がサポートされていません"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "操作に失敗しました"
+    },
+    {
+      "name": "optimized",
+      "value": "最適化"
+    },
+    {
+      "name": "orange",
+      "value": "オレンジ"
+    },
+    {
+      "name": "otg_access",
+      "value": "OTG デバイスのルートを選択"
+    },
+    {
+      "name": "other",
+      "value": "その他"
+    },
+    {
+      "name": "out_of",
+      "value": "/"
+    },
+    {
+      "name": "overwrite",
+      "value": "上書き"
+    },
+    {
+      "name": "package_installer",
+      "value": "パッケージ インストーラ"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "これはパッケージインストーラです。どのようなアクションを実行したいですか?"
+    },
+    {
+      "name": "pages",
+      "value": "ページ数"
+    },
+    {
+      "name": "paper_size",
+      "value": "用紙サイズ"
+    },
+    {
+      "name": "password",
+      "value": "パスワード"
+    },
+    {
+      "name": "password_no_match",
+      "value": "パスワードが一致しません"
+    },
+    {
+      "name": "password_repeat",
+      "value": "パスワードの再入力"
+    },
+    {
+      "name": "password_unchanged",
+      "value": "（変更なし）"
+    },
+    {
+      "name": "paste",
+      "value": "貼り付け"
+    },
+    {
+      "name": "path",
+      "value": "パス"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "PayPal ID をクリップボードにコピーしました"
+    },
+    {
+      "name": "permission",
+      "value": "アクセス許可"
+    },
+    {
+      "name": "permission_execute",
+      "value": "実行"
+    },
+    {
+      "name": "permission_group",
+      "value": "グループ"
+    },
+    {
+      "name": "permission_other",
+      "value": "その他"
+    },
+    {
+      "name": "permission_owner",
+      "value": "オーナー"
+    },
+    {
+      "name": "permission_read",
+      "value": "読み取り"
+    },
+    {
+      "name": "permission_write",
+      "value": "書込み"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "ファイルを選択"
+    },
+    {
+      "name": "play",
+      "value": "Play ストア"
+    },
+    {
+      "name": "please_wait",
+      "value": "お待ちください"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "ポーランド語"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "ポルトガル語"
+    },
+    {
+      "name": "preference_newstack_summary",
+      "value": "別にタスクでファイルを開けます。オーバービュー画面でアクセスする。"
+    },
+    {
+      "name": "preference_newstack_title",
+      "value": "新しいタスクでファイルを開ける"
+    },
+    {
+      "name": "preselected_configs_title",
+      "value": "事前設定済みのカラー設定"
+    },
+    {
+      "name": "press_again",
+      "value": "もう一度押すと終了します"
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "左タブの大きな UI エレメントに色を設定します"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "プライマリー色 (左タブ)"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "右タブの大きな UI エレメントに色を設定します"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "プライマリー色 (右タブ)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "プロセスビューアー"
+    },
+    {
+      "name": "processed",
+      "value": "処理済"
+    },
+    {
+      "name": "processing",
+      "value": "処理中…"
+    },
+    {
+      "name": "processing_file",
+      "value": "ファイル処理中"
+    },
+    {
+      "name": "producer",
+      "value": "製作者"
+    },
+    {
+      "name": "properties",
+      "value": "プロパティ"
+    },
+    {
+      "name": "properties_copied_clipboard",
+      "value": "クリップボードにコピーする"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "現在のパスをこのタブのホームとして設定しますか?"
+    },
+    {
+      "name": "quick",
+      "value": "クイックアクセス"
+    },
+    {
+      "name": "random",
+      "value": "ランダム スキン"
+    },
+    {
+      "name": "random_summary",
+      "value": "起動時にランダムなプライマリー色を設定します"
+    },
+    {
+      "name": "rate",
+      "value": "アプリを評価"
+    },
+    {
+      "name": "recent",
+      "value": "最近使用したファイル"
+    },
+    {
+      "name": "regular_expression",
+      "value": "正規表現"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "BASH 形式の正規表現を使用して検索します"
+    },
+    {
+      "name": "rename",
+      "value": "名前を変更"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "ブックマークを更新"
+    },
+    {
+      "name": "renaming",
+      "value": "名前の変更中"
+    },
+    {
+      "name": "reopen_from_source",
+      "value": "できません。前回のアプリからもう一度開いてください"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "バグを報告したり、新しい機能をリクエストします"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "バグを報告"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "ルーマニア語"
+    },
+    {
+      "name": "root_directory",
+      "value": "ルート"
+    },
+    {
+      "name": "root_failure",
+      "value": "Root アクセスは許可されていません"
+    },
+    {
+      "name": "root_mode",
+      "value": "ルート エクスプ ローラー"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "Root 化したデバイスのみ。何を行うかを理解している場合にのみ、チェックしてください。"
+    },
+    {
+      "name": "root_pref",
+      "value": "アクセス許可を表示"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "ファイルとフォルダーのアクセス許可を表示します"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "ロシア語"
+    },
+    {
+      "name": "saf_otg_explanation",
+      "value": "セキュリティ上の理由から、Androidのファイルシステムに移動します。 左のリストからUSBデバイスを選択してください。"
+    },
+    {
+      "name": "sample_rate",
+      "value": "サンプルレート"
+    },
+    {
+      "name": "save",
+      "value": "保存"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "起動時に、それぞれのタブで最近表示したフォルダーが表示されます"
+    },
+    {
+      "name": "save_paths",
+      "value": "パスを保存する"
+    },
+    {
+      "name": "saved_multi_files",
+      "value": "%d ファイルを保存しました。"
+    },
+    {
+      "name": "saved_single_file",
+      "value": "'%s' としてファイルを保存しました。"
+    },
+    {
+      "name": "saving",
+      "value": "保存中"
+    },
+    {
+      "name": "scp_connection",
+      "value": "SCP/SFTP 接続"
+    },
+    {
+      "name": "scp_default_path",
+      "value": "既定のパス（オプション）"
+    },
+    {
+      "name": "scp_port",
+      "value": "ポート"
+    },
+    {
+      "name": "search",
+      "value": "検索"
+    },
+    {
+      "name": "search_hint",
+      "value": "検索する種類…"
+    },
+    {
+      "name": "search_results",
+      "value": "%s の検索結果"
+    },
+    {
+      "name": "searching",
+      "value": "%s を検索中"
+    },
+    {
+      "name": "searching_devices",
+      "value": "デバイスの検索中"
+    },
+    {
+      "name": "security",
+      "value": "セキュリティ"
+    },
+    {
+      "name": "select",
+      "value": "アイテムを選択"
+    },
+    {
+      "name": "select_all",
+      "value": "すべて選択"
+    },
+    {
+      "name": "select_color_config",
+      "value": "カラー設定を選びます"
+    },
+    {
+      "name": "select_intent",
+      "value": "選択"
+    },
+    {
+      "name": "select_save_location",
+      "value": "保存先を選ぶ"
+    },
+    {
+      "name": "send_email_to",
+      "value": "電子メールを送信する"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "セルビア語"
+    },
+    {
+      "name": "server_address",
+      "value": "サーバー IP アドレス"
+    },
+    {
+      "name": "service_timer",
+      "value": "経過時間"
+    },
+    {
+      "name": "set",
+      "value": "設定"
+    },
+    {
+      "name": "set_as_home",
+      "value": "ホームとして設定"
+    },
+    {
+      "name": "set_random",
+      "value": "アプリを再起動した後に変更が適用されます"
+    },
+    {
+      "name": "setting",
+      "value": "設定"
+    },
+    {
+      "name": "share",
+      "value": "共有"
+    },
+    {
+      "name": "share_limit",
+      "value": "100 ファイル以上を共有することはできません"
+    },
+    {
+      "name": "showHeaders",
+      "value": "ヘッダーを表示する"
+    },
+    {
+      "name": "show_bookmarks_pref",
+      "value": "ブックマーク"
+    },
+    {
+      "name": "show_dividers",
+      "value": "ディバイダーを表示"
+    },
+    {
+      "name": "show_quick_access_pref",
+      "value": "クイックアクセス"
+    },
+    {
+      "name": "show_quick_access_pref_title",
+      "value": "クイックアクセスを表示する"
+    },
+    {
+      "name": "sidebar_preferences",
+      "value": "サードバー"
+    },
+    {
+      "name": "sidebar_quick_access_title",
+      "value": "サードバー"
+    },
+    {
+      "name": "size",
+      "value": "フォルダのサイズ"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "サイズ"
+    },
+    {
+      "name": "size_pref",
+      "value": "サイズを表示"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "ファイルのサイズとフォルダーのアイテム数を表示します"
+    },
+    {
+      "name": "skip",
+      "value": "スキップ"
+    },
+    {
+      "name": "smb_connection",
+      "value": "SMB 接続"
+    },
+    {
+      "name": "smb_launch_error",
+      "value": "このファイルをストレージにコピーして開く必要があります"
+    },
+    {
+      "name": "smb_manual_enter_host",
+      "value": "ホスト名を手動で入力"
+    },
+    {
+      "name": "smb_server",
+      "value": "SMB サーバーホスト名"
+    },
+    {
+      "name": "smb_share",
+      "value": "共有する場所"
+    },
+    {
+      "name": "software",
+      "value": "ソフトウェア"
+    },
+    {
+      "name": "sort",
+      "value": "並び替え"
+    },
+    {
+      "name": "sort_by",
+      "value": "並び替え"
+    },
+    {
+      "name": "sort_name",
+      "value": "名前"
+    },
+    {
+      "name": "sort_only_this",
+      "value": "このフォルダのみ"
+    },
+    {
+      "name": "sort_size",
+      "value": "サイズ"
+    },
+    {
+      "name": "source_summary",
+      "value": "GitHubでソースコードを見る"
+    },
+    {
+      "name": "source_title",
+      "value": "ソースコード"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "スペイン語"
+    },
+    {
+      "name": "ssh_authentication_failure_key",
+      "value": "ログインに失敗しました：指定されたユーザー名と秘密鍵で認証できません。"
+    },
+    {
+      "name": "ssh_authentication_failure_password",
+      "value": "ログインに失敗しました：指定されたユーザー名とパスワードで認証できません。"
+    },
+    {
+      "name": "ssh_connect_failed",
+      "value": "%1$s:%2$d に接続できません：%3$s"
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_message",
+      "value": "誰かが変なことをしている可能性があります!\\n\\n誰かがあなたを盗聴している可能性があります (中間者攻撃)! ホスト鍵が変更された可能性もあります。 リモートホストから送信された公開鍵のフィンガープリントが、Amazeに保存されているものと一致しません。\\n\\nサーバーへの接続を続行するには、システム管理者に連絡するか、新しい接続を設定してください。"
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_prompt",
+      "value": "誰かが変なことをしている可能性があります!\\n\\n誰かがあなたを盗聴している可能性があります (中間者攻撃)! ホスト鍵が変更された可能性もあります。 リモートホストから送信された公開鍵のフィンガープリントが、Amazeに保存されているものと一致しません。\\n\\nホストのフィンガープリントを更新して続行するか、SSH接続設定の更新をキャンセルできます。"
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_title",
+      "value": "警告: リモートホストのIDが変更されました!"
+    },
+    {
+      "name": "ssh_host_key_verification_prompt",
+      "value": "ホスト '%1$s' の信頼性を確立できません。\\n\\n%2$s 鍵の指紋は %3$s です。\\n\\n\"はい\" をタップすると、IDを確認します。 それ以外の場合は、\"いいえ\" をタップしてください。"
+    },
+    {
+      "name": "ssh_host_key_verification_prompt_title",
+      "value": "ホストを確認"
+    },
+    {
+      "name": "ssh_key_invalid_passphrase",
+      "value": "無効な秘密鍵のパスフレーズ。"
+    },
+    {
+      "name": "ssh_key_prompt_passphrase",
+      "value": "鍵のパスフレーズを入力ください。"
+    },
+    {
+      "name": "ssh_pem_key_parse_error",
+      "value": "選択されたの PEMをロードできません：%s"
+    },
+    {
+      "name": "ssh_select_pem",
+      "value": "認證用プライベート・キーを選びます"
+    },
+    {
+      "name": "ssh_select_pem_button",
+      "value": "SSH秘密鍵"
+    },
+    {
+      "name": "start_ftp",
+      "value": "開始"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "停止"
+    },
+    {
+      "name": "stopping",
+      "value": "停止中"
+    },
+    {
+      "name": "storage_internal",
+      "value": "内部ストレージ"
+    },
+    {
+      "name": "storage_sd_card",
+      "value": "SD カード"
+    },
+    {
+      "name": "subject",
+      "value": "被写体"
+    },
+    {
+      "name": "support_development",
+      "value": "開発をサポート"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "タミル語"
+    },
+    {
+      "name": "text",
+      "value": "テキスト"
+    },
+    {
+      "name": "text_editor",
+      "value": "テキストエディタ設定"
+    },
+    {
+      "name": "textreader",
+      "value": "テキストリーダー"
+    },
+    {
+      "name": "theme",
+      "value": "テーマ"
+    },
+    {
+      "name": "thumb",
+      "value": "サムネイルを表示"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "アプリのサムネイルと画像を表示"
+    },
+    {
+      "name": "time_remaining",
+      "value": "残り時間"
+    },
+    {
+      "name": "title",
+      "value": "タイトル"
+    },
+    {
+      "name": "total",
+      "value": "合計："
+    },
+    {
+      "name": "transfer_rate",
+      "value": "転送レート"
+    },
+    {
+      "name": "translate_summary",
+      "value": "Amaze をお使いの言語に翻訳します"
+    },
+    {
+      "name": "translate_title",
+      "value": "翻訳"
+    },
+    {
+      "name": "translators",
+      "value": "翻訳者"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "トルコ語"
+    },
+    {
+      "name": "type",
+      "value": "種類"
+    },
+    {
+      "name": "typeable_paths_summary",
+      "value": "パス・バーを長押すとパスに入力する"
+    },
+    {
+      "name": "typeable_paths_title",
+      "value": "カスタム・パス"
+    },
+    {
+      "name": "ui",
+      "value": "インターフェース"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "ウクライナ語"
+    },
+    {
+      "name": "unin_system_apk",
+      "value": "これはシステムアプリです。削除するとシステムが不安定になる可能性があります。\\\\n続行しますか?"
+    },
+    {
+      "name": "uninstall",
+      "value": "アンインストール"
+    },
+    {
+      "name": "unknown",
+      "value": "不明"
+    },
+    {
+      "name": "unknown_error",
+      "value": "不具合が発生しました"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "変更を保存していません"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "未保存の変更があります。終了する前にそれらを保存しますか?"
+    },
+    {
+      "name": "update",
+      "value": "アップデート"
+    },
+    {
+      "name": "update_host_key",
+      "value": "ホスト鍵の更新"
+    },
+    {
+      "name": "used",
+      "value": "使用済みスペース"
+    },
+    {
+      "name": "used_by_others",
+      "value": "他人によって使用される"
+    },
+    {
+      "name": "username",
+      "value": "ユーザー名"
+    },
+    {
+      "name": "version",
+      "value": "バージョン"
+    },
+    {
+      "name": "video",
+      "value": "ビデオ"
+    },
+    {
+      "name": "videos",
+      "value": "ビデオ"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "ベトナム語"
+    },
+    {
+      "name": "view",
+      "value": "表示"
+    },
+    {
+      "name": "waiting_content",
+      "value": "操作が完了するのを待機しています"
+    },
+    {
+      "name": "waiting_title",
+      "value": "待機中"
+    },
+    {
+      "name": "want_help",
+      "value": "ヘルプが必要ですか?"
+    },
+    {
+      "name": "warning",
+      "value": "警告"
+    },
+    {
+      "name": "warning_confirm",
+      "value": "分かりました！"
+    },
+    {
+      "name": "warning_never_show",
+      "value": "再度表示しない"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "情報："
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "どうした？"
+    },
+    {
+      "name": "width",
+      "value": "幅"
+    },
+    {
+      "name": "written",
+      "value": "書き込み"
+    },
+    {
+      "name": "xda_summary",
+      "value": "Q&A, ヘルプ & トラブルシューティング"
+    },
+    {
+      "name": "xda_title",
+      "value": "XDA スレッド"
+    },
+    {
+      "name": "year",
+      "value": "リリース年"
+    },
+    {
+      "name": "yes",
+      "value": "はい"
+    },
+    {
+      "name": "your_comment",
+      "value": "コメント（英語でお願い）："
+    },
+    {
+      "name": "zip_viewer",
+      "value": "Zip ビューアー"
+    }
+  ]
+}

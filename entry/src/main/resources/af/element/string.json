@@ -1,0 +1,100 @@
+{
+  "string": [
+    {
+      "name": "cancel",
+      "value": "KANSELLEER"
+    },
+    {
+      "name": "color_title",
+      "value": "Kleur"
+    },
+    {
+      "name": "delete",
+      "value": "Vee uit"
+    },
+    {
+      "name": "details",
+      "value": "Besonderhede"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Bevestig"
+    },
+    {
+      "name": "duration",
+      "value": "Tydsduur"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Beligtingstyd"
+    },
+    {
+      "name": "focal_length",
+      "value": "Fokuslengte"
+    },
+    {
+      "name": "height",
+      "value": "Hoogte"
+    },
+    {
+      "name": "information",
+      "value": "Inligting"
+    },
+    {
+      "name": "no",
+      "value": "Nee"
+    },
+    {
+      "name": "password",
+      "value": "Wagwoord"
+    },
+    {
+      "name": "path",
+      "value": "Pad"
+    },
+    {
+      "name": "save",
+      "value": "Stoor"
+    },
+    {
+      "name": "share",
+      "value": "Deling"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Grootte"
+    },
+    {
+      "name": "skip",
+      "value": "Slaan oor"
+    },
+    {
+      "name": "sort_size",
+      "value": "Grootte"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Begin"
+    },
+    {
+      "name": "text",
+      "value": "Teks"
+    },
+    {
+      "name": "version",
+      "value": "Weergawe"
+    },
+    {
+      "name": "warning",
+      "value": "Waarskuwing"
+    },
+    {
+      "name": "width",
+      "value": "Wydte"
+    },
+    {
+      "name": "yes",
+      "value": "Ja"
+    }
+  ]
+}

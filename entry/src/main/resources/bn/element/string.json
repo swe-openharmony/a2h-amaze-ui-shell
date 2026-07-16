@@ -1,0 +1,1012 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "অ্যাপটি সম্বন্ধে"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "About Amaze File Manager"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "Set color to FAB and other small UI elements"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "Accent Color"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "Add Shortcut"
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "বুকমার্কে সংযুক্ত করুন"
+    },
+    {
+      "name": "advanced_search",
+      "value": "Advanced Search"
+    },
+    {
+      "name": "anonymous",
+      "value": "Anonymous"
+    },
+    {
+      "name": "apks",
+      "value": "Apks"
+    },
+    {
+      "name": "app_name",
+      "value": "এ্যামেজ ফাইল ম্যানেজার"
+    },
+    {
+      "name": "apps",
+      "value": "এ্যাপ ম্যানেজার"
+    },
+    {
+      "name": "archive",
+      "value": "Archive"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "Archive Extract Folder"
+    },
+    {
+      "name": "archive_summary",
+      "value": "Archive files will be extracted to this folder. Default value is the directory in which archive is present"
+    },
+    {
+      "name": "archive_text",
+      "value": "This is an archive. What action would you like to perform?"
+    },
+    {
+      "name": "ascending",
+      "value": "Ascending"
+    },
+    {
+      "name": "audio",
+      "value": "Audio"
+    },
+    {
+      "name": "authors",
+      "value": "Authors"
+    },
+    {
+      "name": "back_summary",
+      "value": "Enables custom back navigation at top of the list"
+    },
+    {
+      "name": "back_title",
+      "value": "Back navigation"
+    },
+    {
+      "name": "backup",
+      "value": "ব্যাকআপ করুন"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "Basque"
+    },
+    {
+      "name": "bluetooth",
+      "value": "Bluetooth"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "বুকমার্ক সংযুক্ত হয়েছে"
+    },
+    {
+      "name": "calculating",
+      "value": "calculating"
+    },
+    {
+      "name": "cancel",
+      "value": "বাতিল"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s cannot be empty"
+    },
+    {
+      "name": "changelog",
+      "value": "Changelog"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "Chinese"
+    },
+    {
+      "name": "choose_color",
+      "value": "Choose color"
+    },
+    {
+      "name": "circular_icons",
+      "value": "Use circular icons"
+    },
+    {
+      "name": "circular_images",
+      "value": "Use circular icons for images and videos"
+    },
+    {
+      "name": "clear",
+      "value": "Clear"
+    },
+    {
+      "name": "color_summary",
+      "value": "Set color to various UI components"
+    },
+    {
+      "name": "color_title",
+      "value": "Color"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "Colored Navigation bar"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "Whether or not the system navigation bar is colored with the skin"
+    },
+    {
+      "name": "colorize",
+      "value": "Colorize Icons"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "Sets static icon color. Doesn't override directory icon color preference."
+    },
+    {
+      "name": "compress",
+      "value": "কম্প্রেস"
+    },
+    {
+      "name": "connection_name",
+      "value": "Connection name"
+    },
+    {
+      "name": "contributors",
+      "value": "Contributors"
+    },
+    {
+      "name": "copy",
+      "value": "কপি"
+    },
+    {
+      "name": "copying",
+      "value": "কপি হচ্ছে"
+    },
+    {
+      "name": "create",
+      "value": "তৈরি করুন"
+    },
+    {
+      "name": "creatingfile",
+      "value": "Creating File"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "Creating Folder"
+    },
+    {
+      "name": "cut",
+      "value": "Cut"
+    },
+    {
+      "name": "dark",
+      "value": "ম্যাটেরিয়াল ডার্ক"
+    },
+    {
+      "name": "database",
+      "value": "Database"
+    },
+    {
+      "name": "databasereader",
+      "value": "Database Reader"
+    },
+    {
+      "name": "date",
+      "value": "তারিখ:"
+    },
+    {
+      "name": "daytime",
+      "value": "ডেটাইম"
+    },
+    {
+      "name": "default_string",
+      "value": "Default"
+    },
+    {
+      "name": "delete",
+      "value": "বাতিল"
+    },
+    {
+      "name": "deleting",
+      "value": "মুছে ফেলা হচ্ছে"
+    },
+    {
+      "name": "descending",
+      "value": "Descending"
+    },
+    {
+      "name": "details",
+      "value": "Details"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "অাপনি কি নির্ধারিত ফাইলগুলো মুছে ফেলার ব্যাপারে নিশ্চিত?"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "নিশ্চিত"
+    },
+    {
+      "name": "directorysort",
+      "value": "Directory Sort Mode"
+    },
+    {
+      "name": "documents",
+      "value": "Documents"
+    },
+    {
+      "name": "doforall",
+      "value": "Do for all items"
+    },
+    {
+      "name": "doit",
+      "value": "Do it"
+    },
+    {
+      "name": "domain",
+      "value": "Domain"
+    },
+    {
+      "name": "donate",
+      "value": "Donate"
+    },
+    {
+      "name": "done",
+      "value": "সম্পন্ন হয়েছে"
+    },
+    {
+      "name": "drawer_close",
+      "value": "নেভিগেশান ড্রয়ার বন্ধ করুন"
+    },
+    {
+      "name": "drawer_open",
+      "value": "নেভিগেশান ড্রয়ার খুলুন"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "Dutch"
+    },
+    {
+      "name": "edit",
+      "value": "Edit"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "Enable Root Mode"
+    },
+    {
+      "name": "entername",
+      "value": "নাম দিন"
+    },
+    {
+      "name": "enterpath",
+      "value": "পাথটি লিখুন"
+    },
+    {
+      "name": "enterzipname",
+      "value": "জিপের নামটি দিন"
+    },
+    {
+      "name": "error",
+      "value": "ইরোর"
+    },
+    {
+      "name": "exit",
+      "value": "Exit"
+    },
+    {
+      "name": "extract",
+      "value": "এ্যাক্সট্যাক্ট"
+    },
+    {
+      "name": "extracting",
+      "value": "এ্যাক্সট্যাক্ট করা হচ্ছে"
+    },
+    {
+      "name": "feedback",
+      "value": "Send Feedback"
+    },
+    {
+      "name": "file",
+      "value": "ফাইল"
+    },
+    {
+      "name": "file_empty",
+      "value": "ফাইলটি খালি"
+    },
+    {
+      "name": "fileexist",
+      "value": "একই নামে আরেকটি ফাইল আছে"
+    },
+    {
+      "name": "files",
+      "value": "Files"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "ফাইলগুলো সবার উপরে"
+    },
+    {
+      "name": "find",
+      "value": "Find in page"
+    },
+    {
+      "name": "folder",
+      "value": "ফোল্ডার"
+    },
+    {
+      "name": "folders",
+      "value": "Folders"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "ফোল্ডারগুলো সবার উপরে"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "French"
+    },
+    {
+      "name": "ftp",
+      "value": "এফটিপি সার্ভার"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "Make sure you're connected to Wi-Fi"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "FTP Server is starting"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "STOP"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "at %s"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "Amaze FTP Server running"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "Not Running"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "Running"
+    },
+    {
+      "name": "general",
+      "value": "General"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "German"
+    },
+    {
+      "name": "goback",
+      "value": "Go Back"
+    },
+    {
+      "name": "grant",
+      "value": "Grant"
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "App needs storage permission to continue. Canceling this dialog will exit the app."
+    },
+    {
+      "name": "grantfailed",
+      "value": "Permission not granted"
+    },
+    {
+      "name": "grantper",
+      "value": "Grant permission"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "Греческий"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "Number of columns in grid view"
+    },
+    {
+      "name": "gridview",
+      "value": "Grid View"
+    },
+    {
+      "name": "hidden",
+      "value": "Show Hidden Files and Folders"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "Hidden Files"
+    },
+    {
+      "name": "hide",
+      "value": "Hide"
+    },
+    {
+      "name": "history",
+      "value": "ইতিহাস"
+    },
+    {
+      "name": "home",
+      "value": "হোম"
+    },
+    {
+      "name": "icon",
+      "value": "আইকন"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "Set color to icons"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "Icon Color"
+    },
+    {
+      "name": "image",
+      "value": "Image"
+    },
+    {
+      "name": "images",
+      "value": "Images"
+    },
+    {
+      "name": "in_safe",
+      "value": "অপর্যাপ্ত জায়গা"
+    },
+    {
+      "name": "install",
+      "value": "Install"
+    },
+    {
+      "name": "invalid",
+      "value": "Invalid %s"
+    },
+    {
+      "name": "invalid_name",
+      "value": "Invalid Name"
+    },
+    {
+      "name": "ip",
+      "value": "Address"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "Italian"
+    },
+    {
+      "name": "item",
+      "value": "Item"
+    },
+    {
+      "name": "items",
+      "value": "Items"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "Korean"
+    },
+    {
+      "name": "lastModified",
+      "value": "সর্বশেষ পরিবর্তিত হয়েছে"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "Show Last Modified"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "Show the date and time when the file was modified last time"
+    },
+    {
+      "name": "light",
+      "value": "ম্যাটেরিয়াল লাইট"
+    },
+    {
+      "name": "listview",
+      "value": "List View"
+    },
+    {
+      "name": "loading",
+      "value": "লোড হচ্ছে..."
+    },
+    {
+      "name": "location",
+      "value": "সংরক্ষণস্হল:"
+    },
+    {
+      "name": "match_content",
+      "value": "Match content"
+    },
+    {
+      "name": "match_content_summary",
+      "value": "If set, regular expression will be matched with entire file name,\n\n        will look for occurrence otherwise."
+    },
+    {
+      "name": "md5",
+      "value": "md5:"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "Miscellaneous"
+    },
+    {
+      "name": "moving",
+      "value": "সরানো হচ্ছে"
+    },
+    {
+      "name": "name",
+      "value": "নাম:"
+    },
+    {
+      "name": "needs_access",
+      "value": "Write Access Required"
+    },
+    {
+      "name": "needs_access_summary",
+      "value": "Please choose the root directory of \\t"
+    },
+    {
+      "name": "needs_access_summary1",
+      "value": "\\tto grant write access to operate"
+    },
+    {
+      "name": "newfile",
+      "value": "New File"
+    },
+    {
+      "name": "newfolder",
+      "value": "নতুন ফোল্ডার"
+    },
+    {
+      "name": "no",
+      "value": "না"
+    },
+    {
+      "name": "no_app_found",
+      "value": "কোন অ্যাপ পাওয়া যায়নি ফাইলটি খোলার জন্য"
+    },
+    {
+      "name": "no_device_found",
+      "value": "No device found"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "No File Overwritten"
+    },
+    {
+      "name": "no_files",
+      "value": "No Files"
+    },
+    {
+      "name": "none_on_top",
+      "value": "কোনো কিছুই সবার উপরে না"
+    },
+    {
+      "name": "not_allowed",
+      "value": "Not Allowed"
+    },
+    {
+      "name": "ok",
+      "value": "OK"
+    },
+    {
+      "name": "open",
+      "value": "খুলুন"
+    },
+    {
+      "name": "open_as",
+      "value": "Open As"
+    },
+    {
+      "name": "open_parent",
+      "value": "প্যারেন্ট ডাইরেক্টরিটি খুলুন"
+    },
+    {
+      "name": "open_with",
+      "value": "ওপেন করুন"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "Operation Unsuccessful"
+    },
+    {
+      "name": "other",
+      "value": "Other"
+    },
+    {
+      "name": "overwrite",
+      "value": "Overwrite"
+    },
+    {
+      "name": "package_installer",
+      "value": "Package Installer"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "This is a package installer. What action would you like to perform?"
+    },
+    {
+      "name": "password",
+      "value": "Password"
+    },
+    {
+      "name": "paste",
+      "value": "পেস্ট"
+    },
+    {
+      "name": "path",
+      "value": "Path"
+    },
+    {
+      "name": "permission",
+      "value": "Permissions"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "একটি ফাইল নির্বাচন করুন"
+    },
+    {
+      "name": "play",
+      "value": "প্লে স্টোর"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "Polish"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "Portuguese"
+    },
+    {
+      "name": "press_again",
+      "value": "বের হওয়ার জন্য আবার চাপুন"
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "Set color to large UI elements for the left tab"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "Primary Color (Left Tab)"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "Set color to large UI elements for the right tab"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "Primary Color (Right Tab)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "Process Viewer"
+    },
+    {
+      "name": "properties",
+      "value": "বিস্তারিত"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "Do you want to set current path as home for this tab?"
+    },
+    {
+      "name": "quick",
+      "value": "Quick Access"
+    },
+    {
+      "name": "random",
+      "value": "Random Skin"
+    },
+    {
+      "name": "random_summary",
+      "value": "Sets random primary color at startup"
+    },
+    {
+      "name": "rate",
+      "value": "Rate the app"
+    },
+    {
+      "name": "recent",
+      "value": "Recent Files"
+    },
+    {
+      "name": "regular_expression",
+      "value": "Regular Expression"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "Search using a BASH style regular expression"
+    },
+    {
+      "name": "rename",
+      "value": "পুনরায় নামকরণ"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "Modify Bookmark"
+    },
+    {
+      "name": "renaming",
+      "value": "Renaming"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "Romanian"
+    },
+    {
+      "name": "root_directory",
+      "value": "Root"
+    },
+    {
+      "name": "root_failure",
+      "value": "রুট প্রবেশ গ্রহণযোগ্য নয়"
+    },
+    {
+      "name": "root_mode",
+      "value": "রুট এক্সপ্লোরার"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "For rooted device only. Check it only if you are sure about it."
+    },
+    {
+      "name": "root_pref",
+      "value": "Show Permissions"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "Show Permissions of Files and Folders"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "Russian"
+    },
+    {
+      "name": "save",
+      "value": "সংরক্ষণ করুন"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "When starting up,the most recently viewed folder for each tab will be displayed"
+    },
+    {
+      "name": "save_paths",
+      "value": "Remember paths"
+    },
+    {
+      "name": "saving",
+      "value": "Saving"
+    },
+    {
+      "name": "search",
+      "value": "Search"
+    },
+    {
+      "name": "search_hint",
+      "value": "Type to search…"
+    },
+    {
+      "name": "searching_devices",
+      "value": "Searching for devices"
+    },
+    {
+      "name": "select",
+      "value": "আইটেম সিলেক্ট করুন"
+    },
+    {
+      "name": "select_all",
+      "value": "সবগুলো নির্বাচন করুন"
+    },
+    {
+      "name": "select_intent",
+      "value": "Select"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "Serbian"
+    },
+    {
+      "name": "server_address",
+      "value": "Server IP Address"
+    },
+    {
+      "name": "set",
+      "value": "Set"
+    },
+    {
+      "name": "set_as_home",
+      "value": "হোম হিসাবে নির্ধারণ করুন"
+    },
+    {
+      "name": "set_random",
+      "value": "Changes will take place after you restart the app"
+    },
+    {
+      "name": "setting",
+      "value": "সেটিংস"
+    },
+    {
+      "name": "share",
+      "value": "শেয়ার"
+    },
+    {
+      "name": "show_dividers",
+      "value": "Show Dividers"
+    },
+    {
+      "name": "size_pref",
+      "value": "Show Sizes"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "Show size of files and number of items in folders"
+    },
+    {
+      "name": "skip",
+      "value": "Skip"
+    },
+    {
+      "name": "smb_connection",
+      "value": "SMB Connection"
+    },
+    {
+      "name": "sort",
+      "value": "Sort"
+    },
+    {
+      "name": "sort_by",
+      "value": "Sort By"
+    },
+    {
+      "name": "sort_name",
+      "value": "নাম"
+    },
+    {
+      "name": "sort_size",
+      "value": "আকার"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "Spanish"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Start"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "Stop"
+    },
+    {
+      "name": "stopping",
+      "value": "থামানো হচ্ছে"
+    },
+    {
+      "name": "text",
+      "value": "Text"
+    },
+    {
+      "name": "textreader",
+      "value": "Text Reader"
+    },
+    {
+      "name": "theme",
+      "value": "থিম"
+    },
+    {
+      "name": "thumb",
+      "value": "Show Thumbnails"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "Show Thumbnails of apps and images"
+    },
+    {
+      "name": "total",
+      "value": "Total:"
+    },
+    {
+      "name": "translators",
+      "value": "Translators"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "Turkish"
+    },
+    {
+      "name": "type",
+      "value": "Type"
+    },
+    {
+      "name": "ui",
+      "value": "Interface"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "Ukrainian"
+    },
+    {
+      "name": "unin_system_apk",
+      "value": "This is a system app, deleting it might lead to system un-stability.\\nProceed?"
+    },
+    {
+      "name": "uninstall",
+      "value": "আনইন্সটল"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "Unsaved Changes"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "You have unsaved changes, do you want to save them before exiting?"
+    },
+    {
+      "name": "username",
+      "value": "Username"
+    },
+    {
+      "name": "version",
+      "value": "Version"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "videos",
+      "value": "Videos"
+    },
+    {
+      "name": "view",
+      "value": "View"
+    },
+    {
+      "name": "want_help",
+      "value": "Need help?"
+    },
+    {
+      "name": "warning",
+      "value": "Warning"
+    },
+    {
+      "name": "xda_summary",
+      "value": "Q&A, Help & Troubleshooting"
+    },
+    {
+      "name": "xda_title",
+      "value": "XDA"
+    },
+    {
+      "name": "yes",
+      "value": "হ্যাঁ"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "Zip Viewer"
+    }
+  ]
+}

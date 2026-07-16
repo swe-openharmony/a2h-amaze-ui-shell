@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "color_title",
+      "value": "Түс"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Экспозиция убактысы"
+    },
+    {
+      "name": "focal_length",
+      "value": "Фокус аралыгы"
+    },
+    {
+      "name": "information",
+      "value": "Маалымат"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Өлчөмү"
+    },
+    {
+      "name": "sort_size",
+      "value": "Өлчөмү"
+    },
+    {
+      "name": "version",
+      "value": "Версиясы"
+    }
+  ]
+}

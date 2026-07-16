@@ -1,0 +1,80 @@
+{
+  "string": [
+    {
+      "name": "cancel",
+      "value": "ยกเลิก"
+    },
+    {
+      "name": "color_title",
+      "value": "สี"
+    },
+    {
+      "name": "delete",
+      "value": "ลบ"
+    },
+    {
+      "name": "details",
+      "value": "รายละเอียด"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "ยืนยัน"
+    },
+    {
+      "name": "duration",
+      "value": "ระยะเวลา"
+    },
+    {
+      "name": "exposure_time",
+      "value": "เวลาเปิดรับแสง"
+    },
+    {
+      "name": "focal_length",
+      "value": "ความยาวโฟกัส"
+    },
+    {
+      "name": "height",
+      "value": "ความสูง"
+    },
+    {
+      "name": "information",
+      "value": "ข้อมูล"
+    },
+    {
+      "name": "password",
+      "value": "รหัสผ่าน"
+    },
+    {
+      "name": "path",
+      "value": "เส้นทาง"
+    },
+    {
+      "name": "save",
+      "value": "บันทึก"
+    },
+    {
+      "name": "share",
+      "value": "แบ่งปัน"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "ขนาด"
+    },
+    {
+      "name": "sort_size",
+      "value": "ขนาด"
+    },
+    {
+      "name": "text",
+      "value": "ข้อความ"
+    },
+    {
+      "name": "version",
+      "value": "เวอร์ชัน"
+    },
+    {
+      "name": "width",
+      "value": "ความกว้าง"
+    }
+  ]
+}

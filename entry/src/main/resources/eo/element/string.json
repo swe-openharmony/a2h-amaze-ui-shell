@@ -1,0 +1,1764 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Pri"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "Pri dosieresplorilo Amaze"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "Agordi koloron por FAB kaj alia malgrandaj UI-eroj"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "Akcento koloro"
+    },
+    {
+      "name": "accessed",
+      "value": "Atinga dato"
+    },
+    {
+      "name": "add_item",
+      "value": "Aldoni ero"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "Aldoni ligilon"
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "Aldoni al legosignujo"
+    },
+    {
+      "name": "advanced",
+      "value": "Specialo"
+    },
+    {
+      "name": "advanced_search",
+      "value": "Speciala ŝerco"
+    },
+    {
+      "name": "album",
+      "value": "Albumo"
+    },
+    {
+      "name": "anonymous",
+      "value": "Sennoma"
+    },
+    {
+      "name": "aperture_value",
+      "value": "Malferma valoro"
+    },
+    {
+      "name": "apks",
+      "value": "Apk-oj"
+    },
+    {
+      "name": "app_name",
+      "value": "Dosieresplorilo Amaze"
+    },
+    {
+      "name": "apps",
+      "value": "Manaĝisto de aplikaĵo"
+    },
+    {
+      "name": "archive",
+      "value": "Arkivi"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "Dosierujo de arkiva malkompreso"
+    },
+    {
+      "name": "archive_summary",
+      "value": "Arkivaj dosieroj estos malkompresita en ĉi tion dosuerujon. Defaŭlta valuo estas dosierujo en kiu la arkivaĵo estas."
+    },
+    {
+      "name": "archive_text",
+      "value": "Ĉi tio estas an arkivaĵo. Kio vi volas fari?"
+    },
+    {
+      "name": "artist",
+      "value": "Artisto"
+    },
+    {
+      "name": "ascending",
+      "value": "Kreskanta"
+    },
+    {
+      "name": "audio",
+      "value": "Sono"
+    },
+    {
+      "name": "authenticate_password",
+      "value": "Enigi pasvorto"
+    },
+    {
+      "name": "author",
+      "value": "Aŭtoro"
+    },
+    {
+      "name": "authors",
+      "value": "Aŭtoroj"
+    },
+    {
+      "name": "back_summary",
+      "value": "Ebligi propran antaŭan navigacion en supre listo"
+    },
+    {
+      "name": "back_title",
+      "value": "Antaŭa navigacio"
+    },
+    {
+      "name": "backup",
+      "value": "Savkopio"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "Euska"
+    },
+    {
+      "name": "bitrate",
+      "value": "Bita takso"
+    },
+    {
+      "name": "bluetooth",
+      "value": "Bludenta"
+    },
+    {
+      "name": "bookmark_lost",
+      "value": "Legosigno ne trovita, rekreinta…"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "Legosignoj aldonita"
+    },
+    {
+      "name": "byte_singular",
+      "value": "bitoko"
+    },
+    {
+      "name": "bytes",
+      "value": "bitokoj"
+    },
+    {
+      "name": "calculating",
+      "value": "kalkulante"
+    },
+    {
+      "name": "camera_brand",
+      "value": "Marka ĉambro"
+    },
+    {
+      "name": "camera_model",
+      "value": "Modela ĉambro"
+    },
+    {
+      "name": "cancel",
+      "value": "NULIGI"
+    },
+    {
+      "name": "cancelled",
+      "value": "Nuligita"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s ne povas estas malplena"
+    },
+    {
+      "name": "change",
+      "value": "Ŝanĝi"
+    },
+    {
+      "name": "changelog",
+      "value": "Changelog"
+    },
+    {
+      "name": "channels",
+      "value": "Fluejo"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "Ĉina"
+    },
+    {
+      "name": "choose_color",
+      "value": "Elekti koloron"
+    },
+    {
+      "name": "circular_icons",
+      "value": "Uzi cirklan legosignojn"
+    },
+    {
+      "name": "circular_images",
+      "value": "Uzi cirklan legosignojn por bildoj kaj videoj"
+    },
+    {
+      "name": "clear",
+      "value": "Vakigi"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "Dosierindiko kopiita al poŝo"
+    },
+    {
+      "name": "cloud_box",
+      "value": "Box"
+    },
+    {
+      "name": "cloud_connection",
+      "value": "Nuba konekto"
+    },
+    {
+      "name": "cloud_connection_new",
+      "value": "Nova nuba konekto"
+    },
+    {
+      "name": "cloud_dropbox",
+      "value": "Dropbox"
+    },
+    {
+      "name": "cloud_error_failed_restart",
+      "value": "Ŝargo de la konekto malsukcesis.\n        Bonvolu, malfermi Amaze Cloud."
+    },
+    {
+      "name": "cloud_error_plugin",
+      "value": "Amaze Cloud plugin ne estas instalita. Bonvolu, download el Play Store."
+    },
+    {
+      "name": "cloud_fail_authenticate",
+      "value": "Aŭtentikontrolo malsukcesis"
+    },
+    {
+      "name": "cloud_get",
+      "value": "Get nuba aldonaĵo"
+    },
+    {
+      "name": "cloud_onedrive",
+      "value": "OneDrive"
+    },
+    {
+      "name": "cloud_remove",
+      "value": "Ĉu vi volas removi nuba konekto?"
+    },
+    {
+      "name": "cloud_share_copied",
+      "value": "Dividebla ligilo estas kopiinta al poŝo"
+    },
+    {
+      "name": "cloud_token_lost",
+      "value": "Token estas perdita, bonvolu ensaluti denove"
+    },
+    {
+      "name": "codec",
+      "value": "Kodeko"
+    },
+    {
+      "name": "color_summary",
+      "value": "Agordi koloron de multe UI-komponanto"
+    },
+    {
+      "name": "color_title",
+      "value": "Koloro"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "Kolorita navigacia breto"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "Whether or not the system navigation bar is colored with the skin"
+    },
+    {
+      "name": "colorize",
+      "value": "Kolori piktogramon"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "Agordi statikan piktograman koloron. Ĝi ne nuligi la agordon de dosieruja piktograma koloro."
+    },
+    {
+      "name": "comment",
+      "value": "Komento"
+    },
+    {
+      "name": "compress",
+      "value": "Kompresi"
+    },
+    {
+      "name": "compressing",
+      "value": "Kompresanta"
+    },
+    {
+      "name": "compression_complete",
+      "value": "Farita kompreso"
+    },
+    {
+      "name": "connection_exists",
+      "value": "Konekto jam ekzistas"
+    },
+    {
+      "name": "connection_name",
+      "value": "Konokta nomo"
+    },
+    {
+      "name": "container",
+      "value": "Ujo"
+    },
+    {
+      "name": "contributors",
+      "value": "Kontributistoj"
+    },
+    {
+      "name": "contributors_1_summary",
+      "value": "Traduko"
+    },
+    {
+      "name": "contributors_2_summary",
+      "value": "Piktogramoj kaj reklamrubando"
+    },
+    {
+      "name": "contributors_3_summary",
+      "value": "Motoro temo"
+    },
+    {
+      "name": "contributors_4_summary",
+      "value": "Ombro malsur FAB"
+    },
+    {
+      "name": "contributors_5_summary",
+      "value": "Transpasa koloro kial ŝanĝante langetoj"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "FTP-servilo"
+    },
+    {
+      "name": "contributors_7_summary",
+      "value": "Plenumi interreagema ŝelo"
+    },
+    {
+      "name": "copied",
+      "value": "kopiita"
+    },
+    {
+      "name": "copy",
+      "value": "Kopii"
+    },
+    {
+      "name": "copy_complete",
+      "value": "Farita kopio"
+    },
+    {
+      "name": "copy_error",
+      "value": "Iom dosieroj ne estis %s sukcese"
+    },
+    {
+      "name": "copy_low_memory",
+      "value": "La aplikaĵo estas sen memoro, bonvolu liberi iom da akvo"
+    },
+    {
+      "name": "copying",
+      "value": "Kopianta"
+    },
+    {
+      "name": "create",
+      "value": "KREI"
+    },
+    {
+      "name": "created",
+      "value": "Kreita dato"
+    },
+    {
+      "name": "creatingfile",
+      "value": "Kreanta dosieron"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "Kreanta dosierujon"
+    },
+    {
+      "name": "creator",
+      "value": "Kreinto"
+    },
+    {
+      "name": "crypt_decrypt",
+      "value": "Malĉifri"
+    },
+    {
+      "name": "crypt_decrypted",
+      "value": "Malĉifrita"
+    },
+    {
+      "name": "crypt_decrypting",
+      "value": "Malĉifro"
+    },
+    {
+      "name": "crypt_decryption_fail",
+      "value": "Deĉifro malsukcesis"
+    },
+    {
+      "name": "crypt_decryption_fail_password",
+      "value": "Malĝusta pasvorto!"
+    },
+    {
+      "name": "crypt_encrypt",
+      "value": "Ĉifri"
+    },
+    {
+      "name": "crypt_encrypted",
+      "value": "Ĉifrita"
+    },
+    {
+      "name": "crypt_encrypting",
+      "value": "Ĉifro"
+    },
+    {
+      "name": "crypt_encryption_fail",
+      "value": "Ĉifro malsukcesis"
+    },
+    {
+      "name": "crypt_fingerprint_authenticate",
+      "value": "Tuŝi sensilo por daŭrigi"
+    },
+    {
+      "name": "crypt_fingerprint_no_permission",
+      "value": "Ne ekzistas permesojn de fingrokuro"
+    },
+    {
+      "name": "crypt_fingerprint_no_security",
+      "value": "No lockscreen security found"
+    },
+    {
+      "name": "crypt_fingerprint_not_enrolled",
+      "value": "No fingerprint enrolled"
+    },
+    {
+      "name": "crypt_pref_fingerprint_summary",
+      "value": "Uzi fingrokuro por aŭtentokontroli ĉifron"
+    },
+    {
+      "name": "crypt_pref_fingerprint_title",
+      "value": "Fingrokuro"
+    },
+    {
+      "name": "crypt_pref_master_password_summary",
+      "value": "Agordi ĉefa pasvorto por ĉifri.\n        Foriri malplena por forigi."
+    },
+    {
+      "name": "crypt_pref_master_password_title",
+      "value": "Ĉefa pasvorto"
+    },
+    {
+      "name": "crypt_warning_key",
+      "value": "Vi estas konsilita, kiam vi ŝanĝi vian sekurita skemo el\n        Agordosistemo, vi ne povos deĉifri ĉi tion datumon."
+    },
+    {
+      "name": "current_speed",
+      "value": "Aktuala rapido"
+    },
+    {
+      "name": "cut",
+      "value": "Eltondi"
+    },
+    {
+      "name": "dark",
+      "value": "Material Dark"
+    },
+    {
+      "name": "database",
+      "value": "Datumbazilo"
+    },
+    {
+      "name": "databasereader",
+      "value": "Datumbaza legilo"
+    },
+    {
+      "name": "date",
+      "value": "Dato"
+    },
+    {
+      "name": "date_modified",
+      "value": "Modifa dato"
+    },
+    {
+      "name": "date_taken",
+      "value": "Dato de prenito"
+    },
+    {
+      "name": "daytime",
+      "value": "Daytime"
+    },
+    {
+      "name": "default_string",
+      "value": "Defaŭlta"
+    },
+    {
+      "name": "delbook",
+      "value": "Forigi legosignon"
+    },
+    {
+      "name": "delete",
+      "value": "Forigi"
+    },
+    {
+      "name": "deleting",
+      "value": "Foriganta"
+    },
+    {
+      "name": "descending",
+      "value": "Malkreskanta"
+    },
+    {
+      "name": "deselect_all",
+      "value": "Elekti neniun"
+    },
+    {
+      "name": "details",
+      "value": "Detalaro"
+    },
+    {
+      "name": "developers",
+      "value": "Programistoj"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "Dosierujoj"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "Dosieroj"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "Forigi la subajn erojn forigos ilin permanente de via poŝkomputilo kaj ili ne povos esti rekuperita."
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Forigi erojn permanente?"
+    },
+    {
+      "name": "dimensions",
+      "value": "Grandoj"
+    },
+    {
+      "name": "directory",
+      "value": "Dosierujo"
+    },
+    {
+      "name": "directorysort",
+      "value": "Dosiera ordiga modo"
+    },
+    {
+      "name": "documents",
+      "value": "Dokumentoj"
+    },
+    {
+      "name": "doforall",
+      "value": "Fari por ĉi tion erojn"
+    },
+    {
+      "name": "doit",
+      "value": "Faru ĝin"
+    },
+    {
+      "name": "domain",
+      "value": "Domajno"
+    },
+    {
+      "name": "donate",
+      "value": "Doni"
+    },
+    {
+      "name": "done",
+      "value": "Farita"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Fermi navigacipanelon"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Malfermi navigacipanelon"
+    },
+    {
+      "name": "duration",
+      "value": "Daŭro"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "Nederlanda"
+    },
+    {
+      "name": "edit",
+      "value": "Redakti"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "Ebligi ĉefuzantan privilegien modon"
+    },
+    {
+      "name": "entername",
+      "value": "Enigi la nomon"
+    },
+    {
+      "name": "enterpath",
+      "value": "Enigi la dosierindikon"
+    },
+    {
+      "name": "enterzipname",
+      "value": "Enigi Zip-an dosiernomon"
+    },
+    {
+      "name": "error",
+      "value": "Eraro"
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "Eraro: La dosiero ne ekzistas"
+    },
+    {
+      "name": "error_io",
+      "value": "I/O Eraro"
+    },
+    {
+      "name": "exit",
+      "value": "Eliri"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Tempo de elmontro"
+    },
+    {
+      "name": "extract",
+      "value": "Malkompresi"
+    },
+    {
+      "name": "extract_complete",
+      "value": "Farita malkompreso"
+    },
+    {
+      "name": "extracting",
+      "value": "Malkompresanta"
+    },
+    {
+      "name": "failed_cloud_api_key",
+      "value": "Aŭtentokontrolo de la nuba aldonaĵo malsukcesis"
+    },
+    {
+      "name": "failed_cloud_new_connection",
+      "value": "Aldono de la novo nubo-konekto malsukcesis"
+    },
+    {
+      "name": "failed_smb_decrypt_path",
+      "value": "Ŝargo de la SMB-konekto malsukcesis"
+    },
+    {
+      "name": "feedback",
+      "value": "Sendi Feedback-on"
+    },
+    {
+      "name": "field_empty",
+      "value": "Kampo ne povas esti malplena"
+    },
+    {
+      "name": "file",
+      "value": "Dosiero"
+    },
+    {
+      "name": "file_empty",
+      "value": "La dosiero estas malplena"
+    },
+    {
+      "name": "fileexist",
+      "value": "Jam ekzistas dosiero kun sama nomo"
+    },
+    {
+      "name": "files",
+      "value": "Dosieroj"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "Dosieroj unua"
+    },
+    {
+      "name": "find",
+      "value": "Trovi en la paĝo"
+    },
+    {
+      "name": "flash_fired",
+      "value": "Ekbrilo"
+    },
+    {
+      "name": "focal_length",
+      "value": "Focusa longo"
+    },
+    {
+      "name": "folder",
+      "value": "Dosierujo"
+    },
+    {
+      "name": "folderfilecount",
+      "value": "%1$d dosierujoj kaj %2$d dosieroj"
+    },
+    {
+      "name": "folders",
+      "value": "Dosierujoj"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "Dosierujoj unue"
+    },
+    {
+      "name": "format",
+      "value": "Formato"
+    },
+    {
+      "name": "frame_rate",
+      "value": "Kadra takso"
+    },
+    {
+      "name": "free",
+      "value": "libera spaco"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "Franca"
+    },
+    {
+      "name": "ftp",
+      "value": "FTP-servilo"
+    },
+    {
+      "name": "ftp_login",
+      "value": "Ensaluto"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "konfirmi vi estas konektita al Wi-Fi"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "FTP-a servilo estas aktivanta"
+    },
+    {
+      "name": "ftp_notif_starting_title",
+      "value": "FTP-servilo"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "HALTI"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "en %s"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "Amaze FTP-a Servilo estas aktiva"
+    },
+    {
+      "name": "ftp_path",
+      "value": "Dividita dosierindiko"
+    },
+    {
+      "name": "ftp_path_change_error_invalid",
+      "value": "Malvalida dosierindiko"
+    },
+    {
+      "name": "ftp_path_change_success",
+      "value": "FTP-dosierindiko estis ŝanĝita sukcesa"
+    },
+    {
+      "name": "ftp_path_hint",
+      "value": "Dosierindiko al la radiko por dividi"
+    },
+    {
+      "name": "ftp_port",
+      "value": "Pordo"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "Malvalida porda nombro elektita"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "La ŝanĝo de la FTP-a porda sukcesas"
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "FTP-a porto"
+    },
+    {
+      "name": "ftp_seconds",
+      "value": "Sekondoj"
+    },
+    {
+      "name": "ftp_status_no_connection",
+      "value": "Nenio konekto"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "Ne aktiva"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "Aktiva"
+    },
+    {
+      "name": "ftp_status_secure_connection",
+      "value": "Sekura konekto"
+    },
+    {
+      "name": "ftp_status_title",
+      "value": "Statuso"
+    },
+    {
+      "name": "ftp_timeout",
+      "value": "Tempolimo de senokupo"
+    },
+    {
+      "name": "general",
+      "value": "Ĝenerala"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "Germana"
+    },
+    {
+      "name": "go",
+      "value": "Iri"
+    },
+    {
+      "name": "goback",
+      "value": "Reiri"
+    },
+    {
+      "name": "got_it",
+      "value": "Ĉu vi!"
+    },
+    {
+      "name": "grant",
+      "value": "Ricevi"
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "Aplikaĵo bezonas memoran permesilon por daŭrigi. Nuligi ĉi tion dialogujon eliros la aplikaĵo."
+    },
+    {
+      "name": "grantfailed",
+      "value": "Permesilo ne estas ricevita"
+    },
+    {
+      "name": "grantper",
+      "value": "Ricevi permesilo"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "Greka"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "Nombro de kolumnoj en krada vido"
+    },
+    {
+      "name": "gridview",
+      "value": "Krada vido"
+    },
+    {
+      "name": "hash_sha256",
+      "value": "SHA-256"
+    },
+    {
+      "name": "height",
+      "value": "Alteco"
+    },
+    {
+      "name": "hidden",
+      "value": "Montri kaŝajn dosierojn kaj dosierujojn"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "Kaŝaj dosieroj"
+    },
+    {
+      "name": "hide",
+      "value": "Kaŝi"
+    },
+    {
+      "name": "history",
+      "value": "Historio"
+    },
+    {
+      "name": "home",
+      "value": "Ĉefpaĝo"
+    },
+    {
+      "name": "icon",
+      "value": "piktogramo"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "Agordi koloron por piktogramoj"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "Piktograma piktogramo"
+    },
+    {
+      "name": "image",
+      "value": "Bildo"
+    },
+    {
+      "name": "image_iso",
+      "value": "Takso de rapido ISO"
+    },
+    {
+      "name": "image_type",
+      "value": "Bilda tipo"
+    },
+    {
+      "name": "images",
+      "value": "Bildoj"
+    },
+    {
+      "name": "in_safe",
+      "value": "Ne suficeca spaco"
+    },
+    {
+      "name": "information",
+      "value": "Informo"
+    },
+    {
+      "name": "install",
+      "value": "Instali"
+    },
+    {
+      "name": "intellihide_toolbar_summary",
+      "value": "Aŭtomata kaŝi breto kiam movanta la telefono"
+    },
+    {
+      "name": "intellihide_toolbar_title",
+      "value": "Intellihide-a agobreto"
+    },
+    {
+      "name": "intent_save_as",
+      "value": "Savi kiel…"
+    },
+    {
+      "name": "invalid",
+      "value": "Malvalida %s"
+    },
+    {
+      "name": "invalid_name",
+      "value": "Malvalida nomo"
+    },
+    {
+      "name": "ip",
+      "value": "Adreso"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "Itala"
+    },
+    {
+      "name": "item",
+      "value": "ero"
+    },
+    {
+      "name": "items",
+      "value": "eroj"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "Japana"
+    },
+    {
+      "name": "keywords",
+      "value": "Ŝlosivortoj"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "Korea"
+    },
+    {
+      "name": "lastModified",
+      "value": "Lasta modifita"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "Montri lastan modifon"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "Montri daton kaj tempon kiam la dosiero estis modifita lasta fojo"
+    },
+    {
+      "name": "light",
+      "value": "Material Light"
+    },
+    {
+      "name": "listview",
+      "value": "Lista vido"
+    },
+    {
+      "name": "loading",
+      "value": "Ŝarganta…"
+    },
+    {
+      "name": "local_inet_addr_error",
+      "value": "Eraro dum haviganta loka inet-adreso"
+    },
+    {
+      "name": "location",
+      "value": "Loko"
+    },
+    {
+      "name": "match_content",
+      "value": "Kongrui kontenton"
+    },
+    {
+      "name": "match_content_summary",
+      "value": "Se ĝi estas agordita, regula esprimo serĉos kongruita kun ĉio dosiernomo,\n        alie, ĝi nur serĉos okazojn."
+    },
+    {
+      "name": "md5",
+      "value": "MD5"
+    },
+    {
+      "name": "medium_text",
+      "value": "Meza teksto"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "Diverso"
+    },
+    {
+      "name": "modified",
+      "value": "Modifa dato"
+    },
+    {
+      "name": "monofont",
+      "value": "Egalpaŝa tiparo"
+    },
+    {
+      "name": "moved",
+      "value": "movita"
+    },
+    {
+      "name": "moving",
+      "value": "Movanta"
+    },
+    {
+      "name": "name",
+      "value": "Dosiernomo"
+    },
+    {
+      "name": "needs_access",
+      "value": "Skriba atingo bezonas"
+    },
+    {
+      "name": "needs_access_summary",
+      "value": "Bonvolu elekti la radikdosierujon de \\t"
+    },
+    {
+      "name": "needs_access_summary1",
+      "value": "\\tpor ricevi skriba atingo pro labori"
+    },
+    {
+      "name": "newfile",
+      "value": "Nova dosiero"
+    },
+    {
+      "name": "newfolder",
+      "value": "Nova dosierujo"
+    },
+    {
+      "name": "no",
+      "value": "Ne"
+    },
+    {
+      "name": "no_app_found",
+      "value": "Nenio aplikaĵo existas por malfermi ĉi tiun dosieron"
+    },
+    {
+      "name": "no_applications",
+      "value": "Nenio aplikaĵoj"
+    },
+    {
+      "name": "no_bitcoin_app",
+      "value": "Bonvolu, instali bitcoin-monujo"
+    },
+    {
+      "name": "no_device_found",
+      "value": "Aparato ne estis trovita"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "Neniom dosiero estis anstataŭigita"
+    },
+    {
+      "name": "no_files",
+      "value": "Neniom dosiero"
+    },
+    {
+      "name": "no_items",
+      "value": "Nenio eroj"
+    },
+    {
+      "name": "no_name",
+      "value": "La dosiero devas havi nomon"
+    },
+    {
+      "name": "none_on_top",
+      "value": "Neniom unua"
+    },
+    {
+      "name": "not_allowed",
+      "value": "Ne permesita"
+    },
+    {
+      "name": "not_found_enabled_webview",
+      "value": "Neniu navigilo troviĝis havebla"
+    },
+    {
+      "name": "of",
+      "value": "da"
+    },
+    {
+      "name": "ok",
+      "value": "Bone"
+    },
+    {
+      "name": "open",
+      "value": "Malfermi"
+    },
+    {
+      "name": "open_as",
+      "value": "Malfermi kiel"
+    },
+    {
+      "name": "open_parent",
+      "value": "Malfermi superan dosierujon"
+    },
+    {
+      "name": "open_with",
+      "value": "Malfermi kun"
+    },
+    {
+      "name": "operation_fail_following",
+      "value": "La operacio malsukcesis por sekvaj dosieroj"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "Operacio malsukcesita"
+    },
+    {
+      "name": "optimized",
+      "value": "Optimigita"
+    },
+    {
+      "name": "otg_access",
+      "value": "Elekti la radikdosierujon de OTG device"
+    },
+    {
+      "name": "other",
+      "value": "Alia"
+    },
+    {
+      "name": "out_of",
+      "value": "da"
+    },
+    {
+      "name": "overwrite",
+      "value": "Anstataŭigi"
+    },
+    {
+      "name": "package_installer",
+      "value": "Instalpakaĵo"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "Ĉi tio estas a instalpakaĵo. Kio vi volas fari?"
+    },
+    {
+      "name": "pages",
+      "value": "Nombro de paĝoj"
+    },
+    {
+      "name": "paper_size",
+      "value": "Grando de papero"
+    },
+    {
+      "name": "password",
+      "value": "Pasvorto"
+    },
+    {
+      "name": "paste",
+      "value": "Alglui"
+    },
+    {
+      "name": "path",
+      "value": "Dosierindiko"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "PayPal ID kopiita al poŝo"
+    },
+    {
+      "name": "permission",
+      "value": "Permesoj"
+    },
+    {
+      "name": "permission_execute",
+      "value": "Plenumi"
+    },
+    {
+      "name": "permission_group",
+      "value": "Grupo"
+    },
+    {
+      "name": "permission_other",
+      "value": "Alio"
+    },
+    {
+      "name": "permission_owner",
+      "value": "Posedanto"
+    },
+    {
+      "name": "permission_read",
+      "value": "Legi"
+    },
+    {
+      "name": "permission_write",
+      "value": "Skribi"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "Elektaĵi dosieron"
+    },
+    {
+      "name": "play",
+      "value": "Play Store"
+    },
+    {
+      "name": "please_wait",
+      "value": "Bonvolu atendi"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "Pola"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "Portugala"
+    },
+    {
+      "name": "preference_newstack_summary",
+      "value": "Ĝi ebligi vin malfermi dosierojn en malkuna taskoj. Atingi ilin el sistema freŝa ekrano."
+    },
+    {
+      "name": "preference_newstack_title",
+      "value": "Malfermi dosierojn kiel nova tasko"
+    },
+    {
+      "name": "press_again",
+      "value": "Tuŝu denove pro eliri"
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "Agordi koloron por granda UI-eroj por la dekstra langeto"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "Ĉefa koloro (maldekstra langeto)"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "Agordi koloron al largaj UI-a eroj por la dekstra langeto"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "Ĉefa koloro (deksstra langeto)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "Taska vidilo"
+    },
+    {
+      "name": "processing_file",
+      "value": "Prilaborante dosiero"
+    },
+    {
+      "name": "producer",
+      "value": "Produktanto"
+    },
+    {
+      "name": "properties",
+      "value": "Ecujo"
+    },
+    {
+      "name": "properties_copied_clipboard",
+      "value": "kopiita al poŝo"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "Ĉu vi volas agordi la aktualna doiserindikon kiel ĉefpaĝo por ĉi tio langeto?"
+    },
+    {
+      "name": "quick",
+      "value": "Rapida atingo"
+    },
+    {
+      "name": "random",
+      "value": "Aleatora temo"
+    },
+    {
+      "name": "random_summary",
+      "value": "Agordi aleatoran ĉefkoloron kiam aplikaĵo ekas"
+    },
+    {
+      "name": "rate",
+      "value": "Taksi la aplikaĵon"
+    },
+    {
+      "name": "recent",
+      "value": "Lastaj dosieroj"
+    },
+    {
+      "name": "regular_expression",
+      "value": "Regula esprimo"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "Serĉo uzantan Baŝan regulan esprimon"
+    },
+    {
+      "name": "rename",
+      "value": "Alinomi"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "Modifi legosignon"
+    },
+    {
+      "name": "renaming",
+      "value": "Renomanta"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "Raporti cimojn aŭ peti novan funkcion"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "Raporti cimon"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "Rumana"
+    },
+    {
+      "name": "root_directory",
+      "value": "Ĉefuzanta privilegia dosierujo"
+    },
+    {
+      "name": "root_failure",
+      "value": "Ĉefuzanta privilegio ne esti ricevinta"
+    },
+    {
+      "name": "root_mode",
+      "value": "Esplorilo kun ĉefuzanta privilegio"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "Por aparatoj kun ĉefuzantaj privilegioj nur. Ŝalti ĝin se vi estas certa pri ĝi."
+    },
+    {
+      "name": "root_pref",
+      "value": "Montri permesojn"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "Montri permesojn de dosieroj kaj dosierujoj"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "Rusa"
+    },
+    {
+      "name": "sample_rate",
+      "value": "Specimenado"
+    },
+    {
+      "name": "save",
+      "value": "Konservi"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "Kiam la aplikaĵo komencas, la plej freŝa vidita dosierujo en ĉiu langeto estos montrita"
+    },
+    {
+      "name": "save_paths",
+      "value": "Memori dosierindikoj"
+    },
+    {
+      "name": "saving",
+      "value": "Konservanta"
+    },
+    {
+      "name": "scp_port",
+      "value": "Pordo"
+    },
+    {
+      "name": "search",
+      "value": "Serĉi"
+    },
+    {
+      "name": "search_hint",
+      "value": "Enigi por ŝerci…"
+    },
+    {
+      "name": "search_results",
+      "value": "Resulto de la ŝerco de %s"
+    },
+    {
+      "name": "searching",
+      "value": "Serĉanta %s"
+    },
+    {
+      "name": "searching_devices",
+      "value": "Serĉanta aparatojn"
+    },
+    {
+      "name": "security",
+      "value": "Sekureco"
+    },
+    {
+      "name": "select",
+      "value": "Elekti ero"
+    },
+    {
+      "name": "select_all",
+      "value": "Elekti ĉiujn"
+    },
+    {
+      "name": "select_intent",
+      "value": "Elekti"
+    },
+    {
+      "name": "send_email_to",
+      "value": "Sendi retmesaĝo al"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "Serba"
+    },
+    {
+      "name": "server_address",
+      "value": "Servila IP-a adreso"
+    },
+    {
+      "name": "service_timer",
+      "value": "Pasita tempo"
+    },
+    {
+      "name": "set",
+      "value": "Agordi"
+    },
+    {
+      "name": "set_as_home",
+      "value": "Agordi kiel ĉefpaĝo"
+    },
+    {
+      "name": "set_random",
+      "value": "Ŝanĝoj faros poste vi rekomenci la aplikaĵon"
+    },
+    {
+      "name": "setting",
+      "value": "Agordoj"
+    },
+    {
+      "name": "share",
+      "value": "Kunhavigi"
+    },
+    {
+      "name": "share_limit",
+      "value": "Ne povas kunhavigin pli da 100 dosieroj"
+    },
+    {
+      "name": "showHeaders",
+      "value": "Montri kaplinio"
+    },
+    {
+      "name": "show_dividers",
+      "value": "Montri dividilojn"
+    },
+    {
+      "name": "show_quick_access_pref",
+      "value": "Rapida alirujo"
+    },
+    {
+      "name": "show_quick_access_pref_title",
+      "value": "Montri rapidan alirujon"
+    },
+    {
+      "name": "sidebar_preferences",
+      "value": "Ekstrapanelo"
+    },
+    {
+      "name": "sidebar_quick_access_title",
+      "value": "Rapida alirujo de la ekstrapanelo"
+    },
+    {
+      "name": "size",
+      "value": "grando de la dosierujo"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Grando"
+    },
+    {
+      "name": "size_pref",
+      "value": "Montri grandojn"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "Montri grandon de dosiero kaj nombron de eroj en dosierujo"
+    },
+    {
+      "name": "skip",
+      "value": "Salti"
+    },
+    {
+      "name": "smb_connection",
+      "value": "SMB-a konekto"
+    },
+    {
+      "name": "smb_launch_error",
+      "value": "Vi bezonos kopii ĉi tion dosieron al memorio por malfermi ĝin"
+    },
+    {
+      "name": "software",
+      "value": "Aplikaĵo"
+    },
+    {
+      "name": "sort",
+      "value": "Ordigi"
+    },
+    {
+      "name": "sort_by",
+      "value": "Ordigi pro"
+    },
+    {
+      "name": "sort_name",
+      "value": "Nomo"
+    },
+    {
+      "name": "sort_size",
+      "value": "Grando"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "Hispana"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Malhalti"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "Halti"
+    },
+    {
+      "name": "stopping",
+      "value": "Haltiganta"
+    },
+    {
+      "name": "subject",
+      "value": "Temo"
+    },
+    {
+      "name": "support_development",
+      "value": "Subteni programaron"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "Tamila"
+    },
+    {
+      "name": "text",
+      "value": "Teksto"
+    },
+    {
+      "name": "text_editor",
+      "value": "Agordoj de la tekstredaktilo"
+    },
+    {
+      "name": "textreader",
+      "value": "Teksta legilo"
+    },
+    {
+      "name": "theme",
+      "value": "Temo"
+    },
+    {
+      "name": "thumb",
+      "value": "Montri bildetojn"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "Montri bildetojn de aplikaĵoj kaj bildoj"
+    },
+    {
+      "name": "title",
+      "value": "Titolo"
+    },
+    {
+      "name": "total",
+      "value": "Tuto:"
+    },
+    {
+      "name": "translate_summary",
+      "value": "Traduki Amaze en via lingvo"
+    },
+    {
+      "name": "translate_title",
+      "value": "Traduki"
+    },
+    {
+      "name": "translators",
+      "value": "Tradukistoj"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "Turka"
+    },
+    {
+      "name": "type",
+      "value": "Tipo"
+    },
+    {
+      "name": "typeable_paths_summary",
+      "value": "Longa preŝo al dosieruja breto enigas a propra dosierujo"
+    },
+    {
+      "name": "typeable_paths_title",
+      "value": "Kutimaj dosierindikoj"
+    },
+    {
+      "name": "ui",
+      "value": "Interfaco"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "Ukraina"
+    },
+    {
+      "name": "unin_system_apk",
+      "value": "Ĉi tio estas a sistema aplikaĵo, forigante ĝin povus lasi vian sistemon malstabilita.\\nFari?"
+    },
+    {
+      "name": "uninstall",
+      "value": "Malinstali"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Ho, io malsukcesis!"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "Malkonservita ŝanĝoj"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "Vi havas malkonservitajn ŝanĝojn, ĉu vi volas konservi ilin antaŭ eliri?"
+    },
+    {
+      "name": "used",
+      "value": "uzita spaco"
+    },
+    {
+      "name": "used_by_others",
+      "value": "uzita pro aliaj"
+    },
+    {
+      "name": "username",
+      "value": "Uzantnomo"
+    },
+    {
+      "name": "version",
+      "value": "Versio"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "videos",
+      "value": "Videoj"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "Vjetnama"
+    },
+    {
+      "name": "view",
+      "value": "Vidi"
+    },
+    {
+      "name": "waiting_content",
+      "value": "Atendanta por fari la operacion"
+    },
+    {
+      "name": "waiting_title",
+      "value": "Atendanta"
+    },
+    {
+      "name": "want_help",
+      "value": "Ĉu vi bezonas helpon?"
+    },
+    {
+      "name": "warning",
+      "value": "Avertu"
+    },
+    {
+      "name": "warning_confirm",
+      "value": "Ĉu vi!"
+    },
+    {
+      "name": "warning_never_show",
+      "value": "Ne informi denove"
+    },
+    {
+      "name": "width",
+      "value": "Larĝeco"
+    },
+    {
+      "name": "written",
+      "value": "Skribitaj"
+    },
+    {
+      "name": "xda_summary",
+      "value": "Demandoj&respondoj, Helpo & Solvo de problemoj"
+    },
+    {
+      "name": "xda_title",
+      "value": "XDA-a fadeno"
+    },
+    {
+      "name": "year",
+      "value": "Jaro"
+    },
+    {
+      "name": "yes",
+      "value": "Jes"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "Zip vidilo"
+    }
+  ]
+}

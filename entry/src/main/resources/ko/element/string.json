@@ -1,0 +1,1432 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "정보"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "Amaze File Manager에 대한 정보"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "플로팅 버튼 또는 기타 작은 항목의 색상을 설정합니다."
+    },
+    {
+      "name": "accent_color_title",
+      "value": "강조 색상"
+    },
+    {
+      "name": "accessed",
+      "value": "접속됨"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "바로가기 추가"
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "북마크에 추가"
+    },
+    {
+      "name": "advanced",
+      "value": "고급"
+    },
+    {
+      "name": "advanced_search",
+      "value": "고급 검"
+    },
+    {
+      "name": "album",
+      "value": "앨범"
+    },
+    {
+      "name": "anonymous",
+      "value": "익명"
+    },
+    {
+      "name": "aperture_value",
+      "value": "조리개 값"
+    },
+    {
+      "name": "app_name",
+      "value": "Amaze File Manager"
+    },
+    {
+      "name": "apps",
+      "value": "애플리케이션 매니저"
+    },
+    {
+      "name": "archive",
+      "value": "압축 파일"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "압축 해제 경로"
+    },
+    {
+      "name": "archive_summary",
+      "value": "선택한 폴더에 압축을 해제합니다. 기본 경로는 압축 파일의 경로와 같습니다."
+    },
+    {
+      "name": "archive_text",
+      "value": "이 파일은 압축 파일입니다. 무엇을 하시겠습니까?"
+    },
+    {
+      "name": "artist",
+      "value": "음악가"
+    },
+    {
+      "name": "ascending",
+      "value": "오름차순"
+    },
+    {
+      "name": "audio",
+      "value": "소리"
+    },
+    {
+      "name": "authenticate_password",
+      "value": "비밀번호 입력"
+    },
+    {
+      "name": "author",
+      "value": "작가"
+    },
+    {
+      "name": "authors",
+      "value": "제작자"
+    },
+    {
+      "name": "back_summary",
+      "value": "상단에 상위 폴더로 이동할 수 있는 버튼을 만들어줍니다."
+    },
+    {
+      "name": "back_title",
+      "value": "상위 폴더로 이동"
+    },
+    {
+      "name": "backup",
+      "value": "백업"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "바스크어"
+    },
+    {
+      "name": "bitrate",
+      "value": "비트 전송률"
+    },
+    {
+      "name": "blue",
+      "value": "파랑"
+    },
+    {
+      "name": "bluetooth",
+      "value": "블루투스"
+    },
+    {
+      "name": "bookmark_lost",
+      "value": "북마크를 찾을 수 없어 재생성 합니다"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "북마크에 추가되었습니다."
+    },
+    {
+      "name": "calculating",
+      "value": "계산중"
+    },
+    {
+      "name": "camera_brand",
+      "value": "카메라 제조업체"
+    },
+    {
+      "name": "camera_model",
+      "value": "카메라 모델"
+    },
+    {
+      "name": "cancel",
+      "value": "취소"
+    },
+    {
+      "name": "cancelled",
+      "value": "취소 됨"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s 를 비울 수 없습니다"
+    },
+    {
+      "name": "changelog",
+      "value": "변경사항"
+    },
+    {
+      "name": "channels",
+      "value": "채널"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "중국어"
+    },
+    {
+      "name": "choose_color",
+      "value": "색상을 선택해 주세요."
+    },
+    {
+      "name": "circular_icons",
+      "value": "동그란 아이콘 사용"
+    },
+    {
+      "name": "circular_images",
+      "value": "파일의 아이콘을 동그랗게 설정합니다."
+    },
+    {
+      "name": "clear",
+      "value": "삭제"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "클립보드에 복사되었습니다."
+    },
+    {
+      "name": "close",
+      "value": "닫기"
+    },
+    {
+      "name": "cloud_connection",
+      "value": "클라우드 연결"
+    },
+    {
+      "name": "cloud_connection_new",
+      "value": "새로운 클라우드 연결"
+    },
+    {
+      "name": "codec",
+      "value": "코덱"
+    },
+    {
+      "name": "color_summary",
+      "value": "다양한 항목의 색상을 설정합니다."
+    },
+    {
+      "name": "color_title",
+      "value": "색상"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "네비게이션 바 색상화"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "네비게이션 바와 스킨의 색상과 같도록 설정합니다."
+    },
+    {
+      "name": "colorize",
+      "value": "아이콘 색상화"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "아이콘에 색상을 입힙니다."
+    },
+    {
+      "name": "comment",
+      "value": "코멘트"
+    },
+    {
+      "name": "compress",
+      "value": "압축"
+    },
+    {
+      "name": "compressing",
+      "value": "압축 중"
+    },
+    {
+      "name": "compression_complete",
+      "value": "압축 완료"
+    },
+    {
+      "name": "connection_name",
+      "value": "접속명"
+    },
+    {
+      "name": "container",
+      "value": "컨테이너"
+    },
+    {
+      "name": "contributors",
+      "value": "기부해 주신 분들"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "FTP 서버"
+    },
+    {
+      "name": "copied",
+      "value": "복사됨"
+    },
+    {
+      "name": "copy",
+      "value": "복사"
+    },
+    {
+      "name": "copy_complete",
+      "value": "복사 완료"
+    },
+    {
+      "name": "copying",
+      "value": "복사하는 중입니다"
+    },
+    {
+      "name": "create",
+      "value": "생성"
+    },
+    {
+      "name": "created",
+      "value": "생성됨"
+    },
+    {
+      "name": "creatingfile",
+      "value": "파일 만들기"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "폴더 만들기"
+    },
+    {
+      "name": "creator",
+      "value": "만든 이"
+    },
+    {
+      "name": "crypt_decrypt",
+      "value": "암호화해제"
+    },
+    {
+      "name": "crypt_decryption_fail",
+      "value": "암호화해제 실패"
+    },
+    {
+      "name": "crypt_encrypt",
+      "value": "암호화설정"
+    },
+    {
+      "name": "crypt_encryption_fail",
+      "value": "암호화설정 실패"
+    },
+    {
+      "name": "crypt_pref_fingerprint_summary",
+      "value": "지문을 사용하여 암호화 인증"
+    },
+    {
+      "name": "crypt_pref_fingerprint_title",
+      "value": "지문"
+    },
+    {
+      "name": "crypt_pref_master_password_summary",
+      "value": "암호화를위한 마스터 비밀번호를 설정하십시오.\n         제거하려면 비워 두십시오."
+    },
+    {
+      "name": "crypt_pref_master_password_title",
+      "value": "Master 비밀번호"
+    },
+    {
+      "name": "crypt_warning_key",
+      "value": "시스템 설정에서\n  보안 패턴을 변경하면 이 콘텐츠의 암호를 해독할 수 없습니다."
+    },
+    {
+      "name": "current_speed",
+      "value": "현재 속도"
+    },
+    {
+      "name": "cut",
+      "value": "잘라내기"
+    },
+    {
+      "name": "dark",
+      "value": "어두운"
+    },
+    {
+      "name": "database",
+      "value": "데이터베이스"
+    },
+    {
+      "name": "databasereader",
+      "value": "데이터베이스 리더"
+    },
+    {
+      "name": "date",
+      "value": "생성일:"
+    },
+    {
+      "name": "date_modified",
+      "value": "수정한 날짜"
+    },
+    {
+      "name": "date_taken",
+      "value": "찍은 날짜"
+    },
+    {
+      "name": "daytime",
+      "value": "시간에 따라"
+    },
+    {
+      "name": "default_string",
+      "value": "기본"
+    },
+    {
+      "name": "delbook",
+      "value": "북마크 삭제"
+    },
+    {
+      "name": "delete",
+      "value": "삭제"
+    },
+    {
+      "name": "deleting",
+      "value": "삭제하는 중입니다"
+    },
+    {
+      "name": "descending",
+      "value": "내림차순"
+    },
+    {
+      "name": "details",
+      "value": "자세히"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "폴더"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "파일"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "다음의 파일을 정말로 삭제하시겠습니까?"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "확인"
+    },
+    {
+      "name": "directorysort",
+      "value": "디렉토리 정렬"
+    },
+    {
+      "name": "documents",
+      "value": "문서"
+    },
+    {
+      "name": "doforall",
+      "value": "모든 항목에 적용"
+    },
+    {
+      "name": "domain",
+      "value": "도메인"
+    },
+    {
+      "name": "donate",
+      "value": "기부"
+    },
+    {
+      "name": "done",
+      "value": "완료되었습니다."
+    },
+    {
+      "name": "drawer_close",
+      "value": "네비게이션 창 닫기"
+    },
+    {
+      "name": "drawer_open",
+      "value": "네비게이션 창 열기"
+    },
+    {
+      "name": "duration",
+      "value": "길이"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "네덜란드어"
+    },
+    {
+      "name": "edit",
+      "value": "수정"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "루트 모드 활성화"
+    },
+    {
+      "name": "encrypt_file_save_as",
+      "value": "암호화 된 파일을 다른 이름으로 저장"
+    },
+    {
+      "name": "encrypt_folder_save_as",
+      "value": "암호화 된 폴더를 다른 이름으로 저장"
+    },
+    {
+      "name": "entername",
+      "value": "이름을 입력해 주세요."
+    },
+    {
+      "name": "enterpath",
+      "value": "경로를 입력해 주세요"
+    },
+    {
+      "name": "enterzipname",
+      "value": "압축 파일의 이름을 입력해 주세요."
+    },
+    {
+      "name": "error",
+      "value": "오류"
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "오류: 파일을 찾을 수 없습니다"
+    },
+    {
+      "name": "error_io",
+      "value": "I/O 오류"
+    },
+    {
+      "name": "exit",
+      "value": "나가기"
+    },
+    {
+      "name": "exposure_time",
+      "value": "노출 시간"
+    },
+    {
+      "name": "extract",
+      "value": "압축 해제"
+    },
+    {
+      "name": "extract_complete",
+      "value": "압축 해제 완료"
+    },
+    {
+      "name": "extracting",
+      "value": "압축을 해제하는 중입니다."
+    },
+    {
+      "name": "feedback",
+      "value": "피드백 보내기"
+    },
+    {
+      "name": "field_empty",
+      "value": "입력란은 비어있을 수 없습니다."
+    },
+    {
+      "name": "file",
+      "value": "파일"
+    },
+    {
+      "name": "file_empty",
+      "value": "파일이 비어있습니다"
+    },
+    {
+      "name": "fileexist",
+      "value": "경로 내에 같은 이름의 파일이 존재합니다."
+    },
+    {
+      "name": "files",
+      "value": "파일"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "파일 우선"
+    },
+    {
+      "name": "find",
+      "value": "페이지에서 찾기"
+    },
+    {
+      "name": "flash_fired",
+      "value": "플래시 모드"
+    },
+    {
+      "name": "focal_length",
+      "value": "초점 거리"
+    },
+    {
+      "name": "folder",
+      "value": "폴더"
+    },
+    {
+      "name": "folders",
+      "value": "폴더"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "폴더 우선"
+    },
+    {
+      "name": "format",
+      "value": "포맷"
+    },
+    {
+      "name": "frame_rate",
+      "value": "프레임 속도"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "프랑스어"
+    },
+    {
+      "name": "ftp",
+      "value": "FTP 서버"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "FTP 서버를 시작합니다"
+    },
+    {
+      "name": "ftp_notif_starting_title",
+      "value": "FTP 서버"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "중지"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "%s에서"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "Amaze FTP 서버 실행 중"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "잘못된 포트 번호가 선택되었습니다."
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "FTP 포트가 성공적으로 변경되었습니다."
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "FTP 포트"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "비실행 중"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "실행 중"
+    },
+    {
+      "name": "general",
+      "value": "기본"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "독일어"
+    },
+    {
+      "name": "goback",
+      "value": "뒤로가기"
+    },
+    {
+      "name": "got_it",
+      "value": "확인"
+    },
+    {
+      "name": "grant",
+      "value": "권한"
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "계속하려면 저장 권한이 필요합니다. 취소 시 앱을 종료합니다."
+    },
+    {
+      "name": "grantfailed",
+      "value": "권한이 부여되지 않았습니다"
+    },
+    {
+      "name": "grantper",
+      "value": "권한 요청"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "그리스어"
+    },
+    {
+      "name": "green",
+      "value": "초록"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "격자 보기의 가로줄 개수"
+    },
+    {
+      "name": "gridview",
+      "value": "격자 보기"
+    },
+    {
+      "name": "height",
+      "value": "높이"
+    },
+    {
+      "name": "hidden",
+      "value": "숨겨진 파일과 폴더 보기"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "숨겨진 파일"
+    },
+    {
+      "name": "hide",
+      "value": "숨기기"
+    },
+    {
+      "name": "history",
+      "value": "기록"
+    },
+    {
+      "name": "home",
+      "value": "홈"
+    },
+    {
+      "name": "icon",
+      "value": "아이콘"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "아이콘의 색상을 설정합니다."
+    },
+    {
+      "name": "icon_color_title",
+      "value": "아이콘 색상"
+    },
+    {
+      "name": "image",
+      "value": "사진"
+    },
+    {
+      "name": "image_iso",
+      "value": "ISO 감도"
+    },
+    {
+      "name": "image_type",
+      "value": "이미지 유형"
+    },
+    {
+      "name": "images",
+      "value": "사진"
+    },
+    {
+      "name": "in_safe",
+      "value": "공간이 충분하지 않습니다."
+    },
+    {
+      "name": "information",
+      "value": "정보"
+    },
+    {
+      "name": "install",
+      "value": "설치"
+    },
+    {
+      "name": "intellihide_toolbar_summary",
+      "value": "스크롤하는 동안 자동으로 툴바 숨기기"
+    },
+    {
+      "name": "intellihide_toolbar_title",
+      "value": "Intellihide 툴바"
+    },
+    {
+      "name": "invalid",
+      "value": "올바르지 않은 %s"
+    },
+    {
+      "name": "invalid_name",
+      "value": "올바르지 않은 이름"
+    },
+    {
+      "name": "ip",
+      "value": "주소"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "이탈리아어"
+    },
+    {
+      "name": "item",
+      "value": "아이템"
+    },
+    {
+      "name": "items",
+      "value": "항목"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "일본어"
+    },
+    {
+      "name": "keywords",
+      "value": "키워드"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "한국어"
+    },
+    {
+      "name": "lastModified",
+      "value": "최종 수정일"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "최종 수정일 보기"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "파일의 최종 수정일을 보여줍니다."
+    },
+    {
+      "name": "light",
+      "value": "밝은"
+    },
+    {
+      "name": "listview",
+      "value": "목록 보기"
+    },
+    {
+      "name": "loading",
+      "value": "로딩하는 중입니다..."
+    },
+    {
+      "name": "location",
+      "value": "경로:"
+    },
+    {
+      "name": "match_content",
+      "value": "매치된 내용"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "기타"
+    },
+    {
+      "name": "modified",
+      "value": "수정됨"
+    },
+    {
+      "name": "moved",
+      "value": "이동됨"
+    },
+    {
+      "name": "moving",
+      "value": "이동하는 중입니다"
+    },
+    {
+      "name": "name",
+      "value": "이름:"
+    },
+    {
+      "name": "needs_access",
+      "value": "쓰기 권한이 플요합니다"
+    },
+    {
+      "name": "needs_access_summary",
+      "value": "쓰기 권한을 얻으려면"
+    },
+    {
+      "name": "needs_access_summary1",
+      "value": "/tto 폴더를 선택해 주세요."
+    },
+    {
+      "name": "newfile",
+      "value": "새 파일"
+    },
+    {
+      "name": "newfolder",
+      "value": "새 폴더"
+    },
+    {
+      "name": "no",
+      "value": "아니오"
+    },
+    {
+      "name": "no_app_found",
+      "value": "이 파일을 열 수 있는 애플리케이션을 찾지 못 했습니다."
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "파일이 덮어쓰여지지 않았습니다."
+    },
+    {
+      "name": "no_files",
+      "value": "빈 파일"
+    },
+    {
+      "name": "none_on_top",
+      "value": "우선시하지 않음"
+    },
+    {
+      "name": "not_allowed",
+      "value": "허용되지 않았습니다."
+    },
+    {
+      "name": "ok",
+      "value": "확인"
+    },
+    {
+      "name": "open",
+      "value": "열기"
+    },
+    {
+      "name": "open_as",
+      "value": "다음으로 열기"
+    },
+    {
+      "name": "open_parent",
+      "value": "상위 디렉토리 열기"
+    },
+    {
+      "name": "open_with",
+      "value": "다음으로 열기"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "작업 실패"
+    },
+    {
+      "name": "orange",
+      "value": "주황"
+    },
+    {
+      "name": "other",
+      "value": "기타"
+    },
+    {
+      "name": "overwrite",
+      "value": "덮어쓰기"
+    },
+    {
+      "name": "package_installer",
+      "value": "애플리케이션 설치 관리자"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "이 파일은 설치가 가능한 파일입니다. 무엇을 하시겠습니까?"
+    },
+    {
+      "name": "pages",
+      "value": "페이지 수"
+    },
+    {
+      "name": "password",
+      "value": "비밀번호"
+    },
+    {
+      "name": "password_repeat",
+      "value": "비밀번호 확인"
+    },
+    {
+      "name": "paste",
+      "value": "붙여넣기"
+    },
+    {
+      "name": "path",
+      "value": "경로"
+    },
+    {
+      "name": "permission",
+      "value": "권한"
+    },
+    {
+      "name": "permission_execute",
+      "value": "실행"
+    },
+    {
+      "name": "permission_group",
+      "value": "그룹"
+    },
+    {
+      "name": "permission_other",
+      "value": "추가 사항"
+    },
+    {
+      "name": "permission_owner",
+      "value": "소유자"
+    },
+    {
+      "name": "permission_read",
+      "value": "읽음"
+    },
+    {
+      "name": "permission_write",
+      "value": "쓰기"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "파일을 선택해 주세요."
+    },
+    {
+      "name": "play",
+      "value": "플레이 스토어"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "폴란드어"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "포르투갈어"
+    },
+    {
+      "name": "preference_newstack_summary",
+      "value": "현재 화면에서 별도의 작업 파일을 열 수 있습니다."
+    },
+    {
+      "name": "preference_newstack_title",
+      "value": "새 작업으로 파일 열기"
+    },
+    {
+      "name": "press_again",
+      "value": "한번 더 누르시면 종료됩니다."
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "대표적인 UI의 색상을 설정합니다."
+    },
+    {
+      "name": "primary_color_title",
+      "value": "대표 색상"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "오른쪽 탭의 큰 UI 요소에 색을 설정"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "기본 색상 (오른쪽 탭)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "프로세스 뷰어"
+    },
+    {
+      "name": "processing_file",
+      "value": "처리 중인 파일"
+    },
+    {
+      "name": "properties",
+      "value": "상세정보"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "이 탭의 현재 경로를 홈으로 설정 하시겠습니까?"
+    },
+    {
+      "name": "random",
+      "value": "무작위 스킨"
+    },
+    {
+      "name": "random_summary",
+      "value": "스킨을 무작위로 설정합니다."
+    },
+    {
+      "name": "rate",
+      "value": "애플리케이션 평가하기"
+    },
+    {
+      "name": "recent",
+      "value": "최근 열어본 파일"
+    },
+    {
+      "name": "regular_expression",
+      "value": "정규식"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "BASH 스타일의 정규식을 사용해 검색"
+    },
+    {
+      "name": "rename",
+      "value": "이름 변경"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "북마크 수정"
+    },
+    {
+      "name": "renaming",
+      "value": "이름 바꾸기"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "버그 리포트 또는 새로운 기능 요청"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "버그 리포트"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "루마니아어"
+    },
+    {
+      "name": "root_directory",
+      "value": "최상위 폴더"
+    },
+    {
+      "name": "root_failure",
+      "value": "루트 액세스가 유효하지 않습니다."
+    },
+    {
+      "name": "root_mode",
+      "value": "루트 탐색기"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "루팅된 기기만 사용 가능합니다."
+    },
+    {
+      "name": "root_pref",
+      "value": "권한 보기"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "파일이나 폴더의 권한을 보여줍니다."
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "러시아어"
+    },
+    {
+      "name": "sample_rate",
+      "value": "샘플 속도"
+    },
+    {
+      "name": "save",
+      "value": "저장"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "애플리케이션을 최근 경로에서 시작합니다."
+    },
+    {
+      "name": "save_paths",
+      "value": "경로 기억"
+    },
+    {
+      "name": "saving",
+      "value": "저장하는 중입니다."
+    },
+    {
+      "name": "search",
+      "value": "검색"
+    },
+    {
+      "name": "search_hint",
+      "value": "검색어를 입력하세요"
+    },
+    {
+      "name": "searching_devices",
+      "value": "기기를 찾는 중"
+    },
+    {
+      "name": "security",
+      "value": "보안"
+    },
+    {
+      "name": "select",
+      "value": "항목 선택"
+    },
+    {
+      "name": "select_all",
+      "value": "모두 선택"
+    },
+    {
+      "name": "select_color_config",
+      "value": "컬러 설정을 선택"
+    },
+    {
+      "name": "select_intent",
+      "value": "선택"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "세르비아어"
+    },
+    {
+      "name": "server_address",
+      "value": "서버 IP 주소"
+    },
+    {
+      "name": "set",
+      "value": "설정"
+    },
+    {
+      "name": "set_as_home",
+      "value": "홈 폴더로 설정"
+    },
+    {
+      "name": "set_random",
+      "value": "애플리케이션이 다시 시작된 후 적용됩니다."
+    },
+    {
+      "name": "setting",
+      "value": "설정"
+    },
+    {
+      "name": "share",
+      "value": "공유"
+    },
+    {
+      "name": "share_limit",
+      "value": "100 개 이상의 파일은 공유할 수 없습니다"
+    },
+    {
+      "name": "showHeaders",
+      "value": "Headers 보기"
+    },
+    {
+      "name": "show_bookmarks_pref",
+      "value": "북마크"
+    },
+    {
+      "name": "show_dividers",
+      "value": "항목 사이에 칸막이 사용"
+    },
+    {
+      "name": "show_quick_access_pref",
+      "value": "Quick accesses"
+    },
+    {
+      "name": "show_quick_access_pref_title",
+      "value": "Quick accesses 보기"
+    },
+    {
+      "name": "sidebar_preferences",
+      "value": "사이드바"
+    },
+    {
+      "name": "sidebar_quick_access_title",
+      "value": "사이드바 quick access"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "크기"
+    },
+    {
+      "name": "size_pref",
+      "value": "자세히 보기"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "폴더 안의 파일 크기와 개수를 보여줍니다."
+    },
+    {
+      "name": "skip",
+      "value": "건너뛰기"
+    },
+    {
+      "name": "smb_connection",
+      "value": "SMB 연결"
+    },
+    {
+      "name": "smb_launch_error",
+      "value": "이 파일을 열기 위해서는 저장소에 복사해야 합니다"
+    },
+    {
+      "name": "software",
+      "value": "프로그램 이름"
+    },
+    {
+      "name": "sort",
+      "value": "정렬"
+    },
+    {
+      "name": "sort_by",
+      "value": "정렬"
+    },
+    {
+      "name": "sort_name",
+      "value": "이름"
+    },
+    {
+      "name": "sort_size",
+      "value": "크기"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "스페인어"
+    },
+    {
+      "name": "start_ftp",
+      "value": "시작"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "중지"
+    },
+    {
+      "name": "stopping",
+      "value": "취소하는 중입니다."
+    },
+    {
+      "name": "subject",
+      "value": "제목"
+    },
+    {
+      "name": "support_development",
+      "value": "개발 지원"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "타밀어"
+    },
+    {
+      "name": "text",
+      "value": "텍스트"
+    },
+    {
+      "name": "textreader",
+      "value": "텍스트 리더"
+    },
+    {
+      "name": "theme",
+      "value": "테마"
+    },
+    {
+      "name": "thumb",
+      "value": "섬네일 보기"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "애플리케이션과 사진의 섬네일을 보여줍니다."
+    },
+    {
+      "name": "title",
+      "value": "제목"
+    },
+    {
+      "name": "translate_summary",
+      "value": "Amaze 의 현지화(번역)를 도와주세요"
+    },
+    {
+      "name": "translate_title",
+      "value": "번역"
+    },
+    {
+      "name": "translators",
+      "value": "번역에 도움을 주신 분들"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "터키어"
+    },
+    {
+      "name": "type",
+      "value": "종류"
+    },
+    {
+      "name": "typeable_paths_summary",
+      "value": "경로 바를 길게 누르면 맞춤 경로를 입력 할 수 있습니다."
+    },
+    {
+      "name": "typeable_paths_title",
+      "value": "Custom 경로"
+    },
+    {
+      "name": "ui",
+      "value": "인터페이스"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "우크라이나어"
+    },
+    {
+      "name": "unin_system_apk",
+      "value": "시스템 파일을 삭제하면 시스템이 불안정해질 수도 있습니다. / 삭제 하시겠습니까?"
+    },
+    {
+      "name": "uninstall",
+      "value": "삭제"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "저장되지 않은 변경사항"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "저장되지 않은 변경사항이 있습니다. 나가기 전에 저장하시겠습니까?"
+    },
+    {
+      "name": "username",
+      "value": "사용자 이름"
+    },
+    {
+      "name": "version",
+      "value": "버전"
+    },
+    {
+      "name": "video",
+      "value": "동영상"
+    },
+    {
+      "name": "videos",
+      "value": "동영상"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "베트남어"
+    },
+    {
+      "name": "view",
+      "value": "보기"
+    },
+    {
+      "name": "waiting_content",
+      "value": "작업이 완료될 때 까지 대기합니다"
+    },
+    {
+      "name": "waiting_title",
+      "value": "대기 중"
+    },
+    {
+      "name": "want_help",
+      "value": "도움이 필요하세요?"
+    },
+    {
+      "name": "warning",
+      "value": "경고"
+    },
+    {
+      "name": "warning_confirm",
+      "value": "확인"
+    },
+    {
+      "name": "warning_never_show",
+      "value": "다시 알리지 않음"
+    },
+    {
+      "name": "width",
+      "value": "너비"
+    },
+    {
+      "name": "xda_summary",
+      "value": "질문과 답변, 문제 해결 방법"
+    },
+    {
+      "name": "xda_title",
+      "value": "XDA"
+    },
+    {
+      "name": "year",
+      "value": "연도"
+    },
+    {
+      "name": "yes",
+      "value": "예"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "압축 파일 뷰어"
+    }
+  ]
+}

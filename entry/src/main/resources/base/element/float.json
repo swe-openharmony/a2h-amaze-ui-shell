@@ -1,0 +1,216 @@
+{
+  "float": [
+    {
+      "name": "check_icon_margin_bottom_right",
+      "value": "10vp"
+    },
+    {
+      "name": "check_icon_padding",
+      "value": "4vp"
+    },
+    {
+      "name": "check_icon_size_grid",
+      "value": "40vp"
+    },
+    {
+      "name": "dialogPreferredPadding",
+      "value": "24vp"
+    },
+    {
+      "name": "dialog_category",
+      "value": "14fp"
+    },
+    {
+      "name": "dialog_list",
+      "value": "16fp"
+    },
+    {
+      "name": "drag_icon_size",
+      "value": "144vp"
+    },
+    {
+      "name": "drawer_width",
+      "value": "304vp"
+    },
+    {
+      "name": "eight_dp",
+      "value": "8vp"
+    },
+    {
+      "name": "eighteen_sp",
+      "value": "18fp"
+    },
+    {
+      "name": "fab_height",
+      "value": "56vp"
+    },
+    {
+      "name": "fab_margin",
+      "value": "16vp"
+    },
+    {
+      "name": "fastscroller_track_height",
+      "value": "70vp"
+    },
+    {
+      "name": "fastscroller_track_padding",
+      "value": "3vp"
+    },
+    {
+      "name": "height_divider",
+      "value": "1vp"
+    },
+    {
+      "name": "icon_margin_top",
+      "value": "16vp"
+    },
+    {
+      "name": "icon_width",
+      "value": "72vp"
+    },
+    {
+      "name": "list_header_height",
+      "value": "48vp"
+    },
+    {
+      "name": "list_header_textsize",
+      "value": "16fp"
+    },
+    {
+      "name": "material_generic",
+      "value": "16vp"
+    },
+    {
+      "name": "material_generic_card_elevation",
+      "value": "4vp"
+    },
+    {
+      "name": "material_generic_large",
+      "value": "72vp"
+    },
+    {
+      "name": "material_generic_list_item",
+      "value": "72vp"
+    },
+    {
+      "name": "material_generic_medium",
+      "value": "32vp"
+    },
+    {
+      "name": "material_generic_title",
+      "value": "16fp"
+    },
+    {
+      "name": "material_generic_title_summary",
+      "value": "12fp"
+    },
+    {
+      "name": "material_sheet_height",
+      "value": "500vp"
+    },
+    {
+      "name": "material_sheet_listview_height",
+      "value": "300vp"
+    },
+    {
+      "name": "material_sheet_peek_height",
+      "value": "400vp"
+    },
+    {
+      "name": "material_sheet_row_height_content",
+      "value": "48vp"
+    },
+    {
+      "name": "material_sheet_row_height_title",
+      "value": "56vp"
+    },
+    {
+      "name": "md_content_padding_bottom",
+      "value": "8vp"
+    },
+    {
+      "name": "md_content_padding_top",
+      "value": "8vp"
+    },
+    {
+      "name": "md_content_textsize",
+      "value": "16fp"
+    },
+    {
+      "name": "md_dialog_frame_margin",
+      "value": "24vp"
+    },
+    {
+      "name": "minimal_icon_parent_width",
+      "value": "56vp"
+    },
+    {
+      "name": "minimal_icon_size",
+      "value": "40vp"
+    },
+    {
+      "name": "minimal_material_padding",
+      "value": "16vp"
+    },
+    {
+      "name": "minimal_row_height",
+      "value": "100vp"
+    },
+    {
+      "name": "minimal_row_size",
+      "value": "72vp"
+    },
+    {
+      "name": "padding_normal",
+      "value": "16vp"
+    },
+    {
+      "name": "page_text_font_size",
+      "value": "50fp"
+    },
+    {
+      "name": "search_view_back_margin_left_right",
+      "value": "16vp"
+    },
+    {
+      "name": "search_view_info_margin_left_right",
+      "value": "16vp"
+    },
+    {
+      "name": "search_view_margin",
+      "value": "10vp"
+    },
+    {
+      "name": "sixty_four",
+      "value": "64vp"
+    },
+    {
+      "name": "spacebetweenitems_properties_dialog",
+      "value": "10vp"
+    },
+    {
+      "name": "text_size_22sp",
+      "value": "22fp"
+    },
+    {
+      "name": "tick_icon_size",
+      "value": "20vp"
+    },
+    {
+      "name": "twenty_four_sp",
+      "value": "24fp"
+    },
+    {
+      "name": "zero_dp",
+      "value": "0vp"
+    },
+    {
+      "name": "activity_horizontal_margin",
+      "value": "16vp"
+    },
+    {
+      "name": "activity_vertical_margin",
+      "value": "16vp"
+    }
+  ]
+}

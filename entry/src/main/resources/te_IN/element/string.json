@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "color_title",
+      "value": "రంగు"
+    },
+    {
+      "name": "exposure_time",
+      "value": "ఎక్స్‌పోజర్ సమయం"
+    },
+    {
+      "name": "focal_length",
+      "value": "కేంద్రాంతరము"
+    },
+    {
+      "name": "information",
+      "value": "సమాచారం"
+    },
+    {
+      "name": "password",
+      "value": "పాస్‌వర్డ్"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "పరిమాణం"
+    },
+    {
+      "name": "sort_size",
+      "value": "పరిమాణం"
+    },
+    {
+      "name": "text",
+      "value": "పాఠం"
+    },
+    {
+      "name": "version",
+      "value": "సంస్కరణ"
+    }
+  ]
+}

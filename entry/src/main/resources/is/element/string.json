@@ -1,0 +1,2120 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "Um hugbúnaðinn"
+    },
+    {
+      "name": "about_amaze",
+      "value": "Skráastjóri með Material-hönnun fyrir Android"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "Um Amaze skráastjórann"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "Stilla lit á FAB-aðgerðahnapp og aðra smærri viðmótshluta"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "Áherslulitur"
+    },
+    {
+      "name": "accessed",
+      "value": "Síðast notað"
+    },
+    {
+      "name": "add_item",
+      "value": "Bæta við atriði"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "Bæta við flýtileið"
+    },
+    {
+      "name": "add_shortcut_not_supported_by_launcher",
+      "value": "Gerð flýtileiða er ekki studd í ræsinum þínum"
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "Bæta við bókamerki"
+    },
+    {
+      "name": "advanced",
+      "value": "Ítarlegt"
+    },
+    {
+      "name": "advanced_search",
+      "value": "Ítarleg leit"
+    },
+    {
+      "name": "album",
+      "value": "Hljómplata"
+    },
+    {
+      "name": "always",
+      "value": "Alltaf"
+    },
+    {
+      "name": "anonymous",
+      "value": "Nafnlaus notandi"
+    },
+    {
+      "name": "aperture_value",
+      "value": "Gildi ljósops"
+    },
+    {
+      "name": "apks",
+      "value": "APK-pakkar"
+    },
+    {
+      "name": "app_name",
+      "value": "Amaze skráastjóri"
+    },
+    {
+      "name": "apps",
+      "value": "Smáforritastjórnun"
+    },
+    {
+      "name": "archive",
+      "value": "Safnskrá"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "Mappa undir afþjöppun safnskrár"
+    },
+    {
+      "name": "archive_password_prompt",
+      "value": "Settu inn lykilorð safnskrárinnar:"
+    },
+    {
+      "name": "archive_summary",
+      "value": "Safnskrár verða afþjappaðar í þessa möppu. Sjálfgefið er að það sé mappan þar sem safnskráin er staðsett."
+    },
+    {
+      "name": "archive_text",
+      "value": "Þetta er safnskrá. Hvaða aðgerð viltu framkvæma?"
+    },
+    {
+      "name": "archive_unsupported_or_corrupt",
+      "value": "Gat ekki opnað safnskrána \"%s\". Annað hvort er ekki hægt að opna hana, eða þá að safnskráin er skemmd."
+    },
+    {
+      "name": "artist",
+      "value": "Flytjandi"
+    },
+    {
+      "name": "ascending",
+      "value": "Hækkandi"
+    },
+    {
+      "name": "audio",
+      "value": "Hljóð"
+    },
+    {
+      "name": "authenticate_password",
+      "value": "Settu inn lykilorð"
+    },
+    {
+      "name": "author",
+      "value": "Höfundur"
+    },
+    {
+      "name": "authors",
+      "value": "Höfundar"
+    },
+    {
+      "name": "back_summary",
+      "value": "Virkjar sérsniðið flakk til baka efst í listanum"
+    },
+    {
+      "name": "back_title",
+      "value": "Flakk til baka"
+    },
+    {
+      "name": "backup",
+      "value": "Öryggisafrit"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "Baskneska"
+    },
+    {
+      "name": "bitrate",
+      "value": "Bitahraði"
+    },
+    {
+      "name": "black",
+      "value": "Svart (fyrir OLED)"
+    },
+    {
+      "name": "blue",
+      "value": "Blátt"
+    },
+    {
+      "name": "bluetooth",
+      "value": "Bluetooth"
+    },
+    {
+      "name": "bookmark_exists",
+      "value": "Bókamerki er þegar til"
+    },
+    {
+      "name": "bookmark_lost",
+      "value": "Bókamerki fannst ekki, útbý aftur…"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "Bókamerki bætt við"
+    },
+    {
+      "name": "byte_singular",
+      "value": "bæti"
+    },
+    {
+      "name": "bytes",
+      "value": "bæti"
+    },
+    {
+      "name": "calculating",
+      "value": "reikna"
+    },
+    {
+      "name": "camera_brand",
+      "value": "Tegund myndavélar"
+    },
+    {
+      "name": "camera_model",
+      "value": "Gerð myndavélar"
+    },
+    {
+      "name": "cancel",
+      "value": "HÆTTA VIÐ"
+    },
+    {
+      "name": "cancel_recommended",
+      "value": "Hætta við (mælt með þessu)"
+    },
+    {
+      "name": "cancelled",
+      "value": "Hætt við"
+    },
+    {
+      "name": "cannot_extract_archive",
+      "value": "Gat ekki afþjappað safnskrána \"%s\": %s"
+    },
+    {
+      "name": "cannot_overwrite",
+      "value": "Get ekki yfirskrifað þessa skrá."
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s má ekki vera tómt"
+    },
+    {
+      "name": "change",
+      "value": "Breyta"
+    },
+    {
+      "name": "changelog",
+      "value": "Breytingaskrá"
+    },
+    {
+      "name": "channel_description_ftp",
+      "value": "Tilkynningar frá FTP-þjóni Amaze skráastjórans"
+    },
+    {
+      "name": "channel_description_normal",
+      "value": "Tilkynningar frá Amaze skráastjóranum"
+    },
+    {
+      "name": "channel_name_ftp",
+      "value": "Amaze FTP-þjónn"
+    },
+    {
+      "name": "channel_name_normal",
+      "value": "Amaze tilkynningar"
+    },
+    {
+      "name": "channels",
+      "value": "Rásir"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "Kínverska"
+    },
+    {
+      "name": "choose_color",
+      "value": "Veldu lit"
+    },
+    {
+      "name": "choose_folder",
+      "value": "Velja þessa möppu"
+    },
+    {
+      "name": "circular_icons",
+      "value": "Nota hringlaga táknmyndir"
+    },
+    {
+      "name": "circular_images",
+      "value": "Nota hringlaga táknmyndir fyrir myndir og myndskeið"
+    },
+    {
+      "name": "clear",
+      "value": "Hreinsa"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "Slóð afrituð á klippispjald"
+    },
+    {
+      "name": "close",
+      "value": "Loka"
+    },
+    {
+      "name": "cloud_box",
+      "value": "Box"
+    },
+    {
+      "name": "cloud_connection",
+      "value": "Skýjatenging"
+    },
+    {
+      "name": "cloud_connection_new",
+      "value": "Ný tenging við tölvuský"
+    },
+    {
+      "name": "cloud_dropbox",
+      "value": "Dropbox"
+    },
+    {
+      "name": "cloud_error_failed_restart",
+      "value": "Mistókst að hlaða inn tengingunni.\n        Opnaðu Amaze-skýið einu sinni."
+    },
+    {
+      "name": "cloud_error_plugin",
+      "value": "Amaze skýjaviðbótin (cloud plugin) fannst ekki. Náðu í hana úr Play Store safninu."
+    },
+    {
+      "name": "cloud_fail_authenticate",
+      "value": "Tókst ekki að auðkenna"
+    },
+    {
+      "name": "cloud_get",
+      "value": "Ná í Cloud-plugin skýjaviðbót"
+    },
+    {
+      "name": "cloud_onedrive",
+      "value": "OneDrive"
+    },
+    {
+      "name": "cloud_remove",
+      "value": "Ertu viss um að þú viljir fjarlægja skýjatenginguna?"
+    },
+    {
+      "name": "cloud_share_copied",
+      "value": "Deilitengill afritaður á klippispjald"
+    },
+    {
+      "name": "cloud_token_lost",
+      "value": "Tapaði teikni, skráðu þig aftur inn"
+    },
+    {
+      "name": "codec",
+      "value": "Kóðunarlykill"
+    },
+    {
+      "name": "color_summary",
+      "value": "Stilla lit á ýmsa viðmótshluta"
+    },
+    {
+      "name": "color_title",
+      "value": "Litur"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "Lituð flakkstika"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "Hvort flakkstika kerfisins taki lit frá skinni"
+    },
+    {
+      "name": "colorize",
+      "value": "Lita táknmyndir"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "Stillir lit á fastri táknmynd. Er ekki rétthærra en litastillingar fyrir möppur."
+    },
+    {
+      "name": "comment",
+      "value": "Athugasemd"
+    },
+    {
+      "name": "compress",
+      "value": "Þjappa"
+    },
+    {
+      "name": "compress_file_suggest_zip_extension",
+      "value": "Mælt er með því að nota \".zip\" sem skráarendingu."
+    },
+    {
+      "name": "compressed",
+      "value": "Þjöppuð"
+    },
+    {
+      "name": "compressing",
+      "value": "Þjappa"
+    },
+    {
+      "name": "compression_complete",
+      "value": "Þjöppun lokið"
+    },
+    {
+      "name": "connection_exists",
+      "value": "Tenging er þegar til staðar"
+    },
+    {
+      "name": "connection_name",
+      "value": "Heiti tengingar"
+    },
+    {
+      "name": "container",
+      "value": "Gagnagámur"
+    },
+    {
+      "name": "contributors",
+      "value": "Þáttakendur"
+    },
+    {
+      "name": "contributors_1_summary",
+      "value": "Þýðing"
+    },
+    {
+      "name": "contributors_2_summary",
+      "value": "Táknmynd og borðar"
+    },
+    {
+      "name": "contributors_3_summary",
+      "value": "Þemakerfi"
+    },
+    {
+      "name": "contributors_4_summary",
+      "value": "Skuggi aftan við FAB-aðgerðahnappa"
+    },
+    {
+      "name": "contributors_5_summary",
+      "value": "Litabreyting við að fletta (strjúka) flipum"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "FTP-þjónn"
+    },
+    {
+      "name": "contributors_7_summary",
+      "value": "Ræsi upp gagnvirka skel"
+    },
+    {
+      "name": "copied",
+      "value": "afrita"
+    },
+    {
+      "name": "copy",
+      "value": "Afrita"
+    },
+    {
+      "name": "copy_complete",
+      "value": "Afritun lokið"
+    },
+    {
+      "name": "copy_error",
+      "value": "Sumar skrár tókst ekki að %s"
+    },
+    {
+      "name": "copy_low_memory",
+      "value": "Er að klára allt laust minni, hreinsaðu út úr vinnsluminninu"
+    },
+    {
+      "name": "copying",
+      "value": "Afrita"
+    },
+    {
+      "name": "create",
+      "value": "BÚA TIL"
+    },
+    {
+      "name": "create_bookmark",
+      "value": "Búa til bókamerki"
+    },
+    {
+      "name": "create_file_suggest_txt_extension",
+      "value": "Mælt er með því að nota \".txt\" sem skráarendingu."
+    },
+    {
+      "name": "create_hidden_file_warn",
+      "value": "Nýgerða skráin verður falin í skráalistanum."
+    },
+    {
+      "name": "created",
+      "value": "Búið til"
+    },
+    {
+      "name": "creatingfile",
+      "value": "Bý til skrá"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "Bý til möppu"
+    },
+    {
+      "name": "creator",
+      "value": "Gert af"
+    },
+    {
+      "name": "crypt_decrypt",
+      "value": "Afkóða"
+    },
+    {
+      "name": "crypt_decrypted",
+      "value": "Afkóðuð"
+    },
+    {
+      "name": "crypt_decrypting",
+      "value": "Afkóða"
+    },
+    {
+      "name": "crypt_decryption_fail",
+      "value": "Mistókst að afkóða"
+    },
+    {
+      "name": "crypt_decryption_fail_password",
+      "value": "Rangt lykilorð!"
+    },
+    {
+      "name": "crypt_encrypt",
+      "value": "Dulrita"
+    },
+    {
+      "name": "crypt_encrypted",
+      "value": "Dulrituð"
+    },
+    {
+      "name": "crypt_encrypting",
+      "value": "Dulrita"
+    },
+    {
+      "name": "crypt_encryption_fail",
+      "value": "Mistókst að dulrita"
+    },
+    {
+      "name": "crypt_fingerprint_authenticate",
+      "value": "Snertu skynjara til að halda áfram"
+    },
+    {
+      "name": "crypt_fingerprint_no_permission",
+      "value": "Heimildir vantar fyrir fingrafaralestur"
+    },
+    {
+      "name": "crypt_fingerprint_no_security",
+      "value": "Ekkert öryggi fannst fyrir skjálæsingu"
+    },
+    {
+      "name": "crypt_fingerprint_not_enrolled",
+      "value": "Ekkert fingrafar virkt"
+    },
+    {
+      "name": "crypt_pref_fingerprint_summary",
+      "value": "Nota fingrafar til að auðkenna fyrir dulritun"
+    },
+    {
+      "name": "crypt_pref_fingerprint_title",
+      "value": "Fingrafar"
+    },
+    {
+      "name": "crypt_pref_master_password_summary",
+      "value": "Stilltu aðallykilorð fyrir dulritun.\n        Hafðu autt til að fjarlægja aðallykilorð."
+    },
+    {
+      "name": "crypt_pref_master_password_title",
+      "value": "Aðal-lykilorð"
+    },
+    {
+      "name": "crypt_warning_key",
+      "value": "Hafðu í huga að ef þú breytir öryggisstillingum úr\n        kerfisstillingunum, þá muntu ekki geta afkóðað þetta efni."
+    },
+    {
+      "name": "current_speed",
+      "value": "Núverandi hraði"
+    },
+    {
+      "name": "custom",
+      "value": "Sérsniðið"
+    },
+    {
+      "name": "customize",
+      "value": "Sérsníða"
+    },
+    {
+      "name": "cut",
+      "value": "Klippa"
+    },
+    {
+      "name": "dark",
+      "value": "Dökkt Material-þema"
+    },
+    {
+      "name": "database",
+      "value": "Gagnagrunnur"
+    },
+    {
+      "name": "databasereader",
+      "value": "Gagnagrunnslesari"
+    },
+    {
+      "name": "date",
+      "value": "Dagsetning"
+    },
+    {
+      "name": "date_modified",
+      "value": "Breytt þann"
+    },
+    {
+      "name": "date_taken",
+      "value": "Tökudagur"
+    },
+    {
+      "name": "daytime",
+      "value": "Dagsbirta"
+    },
+    {
+      "name": "default_string",
+      "value": "Sjálfgefið"
+    },
+    {
+      "name": "delbook",
+      "value": "Eyða bókamerki"
+    },
+    {
+      "name": "delete",
+      "value": "Eyða"
+    },
+    {
+      "name": "deleting",
+      "value": "Eyði"
+    },
+    {
+      "name": "descending",
+      "value": "Lækkandi"
+    },
+    {
+      "name": "deselect_all",
+      "value": "Afvelja allt"
+    },
+    {
+      "name": "details",
+      "value": "Nánar"
+    },
+    {
+      "name": "developers",
+      "value": "Forritarar"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "Möppur"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "Skrár"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "Ef atriðunum hér fyrir neðan er eytt, eru þau fjarlægð endanlega af tækinu og er ekki hægt að endurheimta þau."
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "Eyða atriðum varanlega?"
+    },
+    {
+      "name": "dimensions",
+      "value": "Stærðir"
+    },
+    {
+      "name": "directory",
+      "value": "Mappa"
+    },
+    {
+      "name": "directorysort",
+      "value": "Röðun á möppum"
+    },
+    {
+      "name": "disable",
+      "value": "Gera óvirkt"
+    },
+    {
+      "name": "documents",
+      "value": "Skjöl"
+    },
+    {
+      "name": "doforall",
+      "value": "Gera fyrir öll atriði"
+    },
+    {
+      "name": "doit",
+      "value": "Gera það"
+    },
+    {
+      "name": "domain",
+      "value": "Lén"
+    },
+    {
+      "name": "donate",
+      "value": "Styrkja"
+    },
+    {
+      "name": "donation_thanks",
+      "value": "Takk kærlega fyrir framlagið, þetta heldur okkur við efnið! (:"
+    },
+    {
+      "name": "done",
+      "value": "Lokið"
+    },
+    {
+      "name": "drag_to_select",
+      "value": "Snertu og dragðu til að velja skrár"
+    },
+    {
+      "name": "drawer_close",
+      "value": "Loka leiðsagnarsleða"
+    },
+    {
+      "name": "drawer_open",
+      "value": "Opna leiðsagnarsleða"
+    },
+    {
+      "name": "duration",
+      "value": "Tímalengd"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "Hollenska"
+    },
+    {
+      "name": "edit",
+      "value": "Breyta"
+    },
+    {
+      "name": "edit_bookmark",
+      "value": "Breyta bókamerki"
+    },
+    {
+      "name": "enable_marquee_filename",
+      "value": "Virkja áherslubrellu fyrir skráaheiti"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "Virkja kerfisstjóraham"
+    },
+    {
+      "name": "encrypt_file_must_end_with_aze",
+      "value": "Dulritaðar skrár verða að nota \".aze\" sem skráarendingu."
+    },
+    {
+      "name": "encrypt_file_save_as",
+      "value": "Vista dulritaða skrá sem…"
+    },
+    {
+      "name": "encrypt_folder_save_as",
+      "value": "Vista dulritaða möppu sem…"
+    },
+    {
+      "name": "encryption_fail_copy",
+      "value": "Mistókst að uppfæra dulritunarfærslu í gagnagrunni"
+    },
+    {
+      "name": "entername",
+      "value": "Settu inn nafn"
+    },
+    {
+      "name": "enterpath",
+      "value": "Settu inn slóð"
+    },
+    {
+      "name": "enterzipname",
+      "value": "Settu inn nafn á ZIP-skrá"
+    },
+    {
+      "name": "error",
+      "value": "Villa"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Nánar:"
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "Villa: Skrá finnst ekki"
+    },
+    {
+      "name": "error_io",
+      "value": "I/O villa"
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Tilkynna á GitHub"
+    },
+    {
+      "name": "exit",
+      "value": "Fara út"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Lýsingartími"
+    },
+    {
+      "name": "extract",
+      "value": "Afþjappa"
+    },
+    {
+      "name": "extract_complete",
+      "value": "Afþjöppun lokið"
+    },
+    {
+      "name": "extracted",
+      "value": "Afþjöppuð"
+    },
+    {
+      "name": "extracting",
+      "value": "Afþjappa"
+    },
+    {
+      "name": "failed_cloud_api_key",
+      "value": "Tókst ekki að auðkenna með skýjaviðbótinni"
+    },
+    {
+      "name": "failed_cloud_new_connection",
+      "value": "Mistókst að bæta við nýrri skýjatengingu"
+    },
+    {
+      "name": "failed_install_apk",
+      "value": "Mistókst að setja upp"
+    },
+    {
+      "name": "failed_no_connection",
+      "value": "Gat ekki hlaðið inn skrám. Athugaðu hvort allt sé í lagi með nettenginguna."
+    },
+    {
+      "name": "failed_smb_decrypt_path",
+      "value": "Mistókst að hlaða inn SMB-tengingu"
+    },
+    {
+      "name": "feedback",
+      "value": "Sendu umsögn"
+    },
+    {
+      "name": "field_empty",
+      "value": "Reitur má ekki vera auður"
+    },
+    {
+      "name": "file",
+      "value": "Skrá"
+    },
+    {
+      "name": "file_empty",
+      "value": "Skráin er tóm"
+    },
+    {
+      "name": "file_read_only",
+      "value": "Skráin sem var opnuð er aðeins til lestrar."
+    },
+    {
+      "name": "fileexist",
+      "value": "Skrá með sama heiti er þegar til"
+    },
+    {
+      "name": "filename",
+      "value": "Skráarheiti"
+    },
+    {
+      "name": "files",
+      "value": "Skrár"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "Skrár efst"
+    },
+    {
+      "name": "find",
+      "value": "Finna á síðu"
+    },
+    {
+      "name": "flash_fired",
+      "value": "Flass notað"
+    },
+    {
+      "name": "focal_length",
+      "value": "Brennivídd"
+    },
+    {
+      "name": "folder",
+      "value": "Mappa"
+    },
+    {
+      "name": "folderfilecount",
+      "value": "%1$d möppur og %2$d skrár"
+    },
+    {
+      "name": "folders",
+      "value": "Möppur"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "Möppur efst"
+    },
+    {
+      "name": "format",
+      "value": "Snið"
+    },
+    {
+      "name": "frame_rate",
+      "value": "Rammatíðni"
+    },
+    {
+      "name": "free",
+      "value": "laust geymslupláss"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "Franska"
+    },
+    {
+      "name": "ftp",
+      "value": "FTP-þjónn"
+    },
+    {
+      "name": "ftp_login",
+      "value": "Innskráning"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "Gakktu úr skugga um að þú sért tengdur við þráðlaust Wi-Fi-net"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "FTP-þjónn er að ræsast"
+    },
+    {
+      "name": "ftp_notif_starting_title",
+      "value": "FTP-þjónn"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "STÖÐVA"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "á %s"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "Amaze FTP-þjónn er í gangi"
+    },
+    {
+      "name": "ftp_path",
+      "value": "Deild slóð"
+    },
+    {
+      "name": "ftp_path_change_error_invalid",
+      "value": "Ógild slóð"
+    },
+    {
+      "name": "ftp_path_change_success",
+      "value": "Tókst að breyta FTP-slóð"
+    },
+    {
+      "name": "ftp_path_hint",
+      "value": "Slóð að rótarmöppu sem á að deila"
+    },
+    {
+      "name": "ftp_port",
+      "value": "Gátt"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "Ógilt númer á gátt var valið"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "Tókst að breyta FTP-gátt"
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "FTP-gátt"
+    },
+    {
+      "name": "ftp_seconds",
+      "value": "Sekúndur"
+    },
+    {
+      "name": "ftp_server_open_settings",
+      "value": "Opna stillingar"
+    },
+    {
+      "name": "ftp_status_no_connection",
+      "value": "Engin tenging"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "Ekki í gangi"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "Í gangi"
+    },
+    {
+      "name": "ftp_status_secure_connection",
+      "value": "Örugg tenging"
+    },
+    {
+      "name": "ftp_status_title",
+      "value": "Staða"
+    },
+    {
+      "name": "ftp_timeout",
+      "value": "Tímamörk við aðgerðaleysi"
+    },
+    {
+      "name": "general",
+      "value": "Almennt"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "Þýska"
+    },
+    {
+      "name": "go",
+      "value": "Fara"
+    },
+    {
+      "name": "goback",
+      "value": "Fara til baka"
+    },
+    {
+      "name": "got_it",
+      "value": "Náði því!"
+    },
+    {
+      "name": "grant",
+      "value": "Veita"
+    },
+    {
+      "name": "grant_apkinstall_permission",
+      "value": "Forritið þarf heimild svo að uppsetning geti haldið áfram."
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "Forritið þarf heimild til að nota geymslurými svo að uppsetning geti haldið áfram. Ef þessum glugga er lokað hættir forritið."
+    },
+    {
+      "name": "grantfailed",
+      "value": "Heimild ekki veitt"
+    },
+    {
+      "name": "grantper",
+      "value": "Veita heimild"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "Gríska"
+    },
+    {
+      "name": "green",
+      "value": "Grænt"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "Fjöldi dálka í reitasýn"
+    },
+    {
+      "name": "gridview",
+      "value": "Reitasýn"
+    },
+    {
+      "name": "hash_sha256",
+      "value": "SHA-256"
+    },
+    {
+      "name": "height",
+      "value": "Hæð"
+    },
+    {
+      "name": "hidden",
+      "value": "Sýna faldar skrár og möppur"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "Faldar skrár"
+    },
+    {
+      "name": "hide",
+      "value": "Fela"
+    },
+    {
+      "name": "hide_media",
+      "value": "Fela fyrir margmiðlunarvöfrum"
+    },
+    {
+      "name": "history",
+      "value": "Aðgerðaferill"
+    },
+    {
+      "name": "home",
+      "value": "Heim"
+    },
+    {
+      "name": "icon",
+      "value": "táknmynd"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "Stilla lit á táknmyndir"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "Litur táknmyndar"
+    },
+    {
+      "name": "image",
+      "value": "Mynd"
+    },
+    {
+      "name": "image_iso",
+      "value": "ISO hraði"
+    },
+    {
+      "name": "image_type",
+      "value": "Gerð myndar"
+    },
+    {
+      "name": "images",
+      "value": "Myndir"
+    },
+    {
+      "name": "in_safe",
+      "value": "Ekki nægilegt diskpláss"
+    },
+    {
+      "name": "information",
+      "value": "Upplýsingar"
+    },
+    {
+      "name": "install",
+      "value": "Setja upp"
+    },
+    {
+      "name": "intellihide_toolbar_summary",
+      "value": "Fela verkfærastiku sjálfvirkt við skrun"
+    },
+    {
+      "name": "intellihide_toolbar_title",
+      "value": "Fela snjallt verkfærastiku"
+    },
+    {
+      "name": "intent_save_as",
+      "value": "Vista sem…"
+    },
+    {
+      "name": "invalid",
+      "value": "Ógilt %s"
+    },
+    {
+      "name": "invalid_name",
+      "value": "Ógilt heiti"
+    },
+    {
+      "name": "ip",
+      "value": "Vistfang"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "Ítalska"
+    },
+    {
+      "name": "item",
+      "value": "atriði"
+    },
+    {
+      "name": "items",
+      "value": "atriði"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "Japanska"
+    },
+    {
+      "name": "just_once",
+      "value": "Bara einu sinni"
+    },
+    {
+      "name": "keywords",
+      "value": "Stikkorð"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "Kóreska"
+    },
+    {
+      "name": "lastModified",
+      "value": "Síðast breytt"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "Sýna síðustu breytingadagsetningu og tíma"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "Sýna dagsetningu og tíma þegar skránni var síðast breytt"
+    },
+    {
+      "name": "libraries",
+      "value": "Aðgerðasöfn"
+    },
+    {
+      "name": "license",
+      "value": "Notkunarleyfi"
+    },
+    {
+      "name": "light",
+      "value": "Ljóst Material-þema"
+    },
+    {
+      "name": "listview",
+      "value": "Listasýn"
+    },
+    {
+      "name": "loading",
+      "value": "Hleð inn…"
+    },
+    {
+      "name": "local_inet_addr_error",
+      "value": "Villa við að ná í inet-vistfang"
+    },
+    {
+      "name": "location",
+      "value": "Staðsetning"
+    },
+    {
+      "name": "match_content",
+      "value": "Samsvara innihaldi"
+    },
+    {
+      "name": "match_content_summary",
+      "value": "Ef þetta er valið, verður reglulega segðin mátuð við allt skráarheitið,\n        annars er leitað að tilfellum þar sem hún kemur fyrir."
+    },
+    {
+      "name": "md5",
+      "value": "MD5"
+    },
+    {
+      "name": "medium_text",
+      "value": "Texti miðils"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "Ýmislegt"
+    },
+    {
+      "name": "modified",
+      "value": "Breytt"
+    },
+    {
+      "name": "monofont",
+      "value": "Jafnbreitt letur"
+    },
+    {
+      "name": "move",
+      "value": "Færa"
+    },
+    {
+      "name": "moved",
+      "value": "færa"
+    },
+    {
+      "name": "moving",
+      "value": "Færi"
+    },
+    {
+      "name": "multiple_invalid_archive_entries",
+      "value": "Ekki var hægt að afþjappa allar skrár í safnskránni; hún gæti verið skemmd eða af vafasömum uppruna."
+    },
+    {
+      "name": "name",
+      "value": "Heiti"
+    },
+    {
+      "name": "needs_access",
+      "value": "Skrifaðgangur nauðsynlegur"
+    },
+    {
+      "name": "needs_access_summary",
+      "value": "Veldu rótarmöppu fyrir \\t"
+    },
+    {
+      "name": "needs_access_summary1",
+      "value": "\\ttil að veita skrifaðgang fyrir vinnslu"
+    },
+    {
+      "name": "newfile",
+      "value": "Ný skrá"
+    },
+    {
+      "name": "newfolder",
+      "value": "Ný mappa"
+    },
+    {
+      "name": "no",
+      "value": "Nei"
+    },
+    {
+      "name": "no_app_found",
+      "value": "Ekkert forrit fannst til að opna þessa skrá"
+    },
+    {
+      "name": "no_applications",
+      "value": "Engin forrit"
+    },
+    {
+      "name": "no_bitcoin_app",
+      "value": "Endilega settu upp rafmyntaveski"
+    },
+    {
+      "name": "no_device_found",
+      "value": "Ekkert tæki fannst"
+    },
+    {
+      "name": "no_file_error",
+      "value": "Eitthvað fór úrskeiðis, hér er ekkert sem hægt er að opna"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "Engin skrá yfirskrifuð"
+    },
+    {
+      "name": "no_files",
+      "value": "Engar skrár"
+    },
+    {
+      "name": "no_items",
+      "value": "Engin atriði"
+    },
+    {
+      "name": "no_name",
+      "value": "Skrá ætti að heita eitthvað"
+    },
+    {
+      "name": "no_obtainable_info",
+      "value": "Það eru engar upplýsingar um þessa skrá"
+    },
+    {
+      "name": "none_on_top",
+      "value": "Ekkert efst"
+    },
+    {
+      "name": "not_allowed",
+      "value": "Ekki leyft"
+    },
+    {
+      "name": "of",
+      "value": "af"
+    },
+    {
+      "name": "ok",
+      "value": "Í lagi"
+    },
+    {
+      "name": "open",
+      "value": "Opna"
+    },
+    {
+      "name": "open_as",
+      "value": "Opna sem"
+    },
+    {
+      "name": "open_parent",
+      "value": "Opna yfirmöppu"
+    },
+    {
+      "name": "open_with",
+      "value": "Opna með"
+    },
+    {
+      "name": "operation_fail_following",
+      "value": "Aðgerð tókst ekki fyrir eftirfarandi skrár"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "Aðgerð tókst ekki"
+    },
+    {
+      "name": "optimized",
+      "value": "Bestað"
+    },
+    {
+      "name": "orange",
+      "value": "Appelsínu"
+    },
+    {
+      "name": "otg_access",
+      "value": "Veldu rót OTG tækis"
+    },
+    {
+      "name": "other",
+      "value": "Annað"
+    },
+    {
+      "name": "out_of",
+      "value": "af alls"
+    },
+    {
+      "name": "overwrite",
+      "value": "Skrifa yfir"
+    },
+    {
+      "name": "package_installer",
+      "value": "Pakkauppsetningarforrit"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "Þetta er pakkauppsetningarforrit. Hvaða aðgerð viltu framkvæma?"
+    },
+    {
+      "name": "pages",
+      "value": "Fjöldi síðna"
+    },
+    {
+      "name": "paper_size",
+      "value": "Pappírsstærð"
+    },
+    {
+      "name": "password",
+      "value": "Lykilorð"
+    },
+    {
+      "name": "password_no_match",
+      "value": "Lykilorðin stemma ekki"
+    },
+    {
+      "name": "password_repeat",
+      "value": "Endurtaktu lykilorð"
+    },
+    {
+      "name": "password_unchanged",
+      "value": "(óbreytt)"
+    },
+    {
+      "name": "paste",
+      "value": "Líma"
+    },
+    {
+      "name": "path",
+      "value": "Slóð"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "Paypal auðkenni afritað á klippispjald"
+    },
+    {
+      "name": "permission",
+      "value": "Heimildir"
+    },
+    {
+      "name": "permission_execute",
+      "value": "Keyra"
+    },
+    {
+      "name": "permission_group",
+      "value": "Hópur"
+    },
+    {
+      "name": "permission_other",
+      "value": "Aðrir"
+    },
+    {
+      "name": "permission_owner",
+      "value": "Eigandi"
+    },
+    {
+      "name": "permission_read",
+      "value": "Lesa"
+    },
+    {
+      "name": "permission_write",
+      "value": "Skrifa"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "Veldu skrá"
+    },
+    {
+      "name": "play",
+      "value": "Play Store"
+    },
+    {
+      "name": "please_wait",
+      "value": "Bíddu aðeins"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "Pólska"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "Portúgalska"
+    },
+    {
+      "name": "preference_newstack_summary",
+      "value": "Gerir þér kleift að opna skrár sem aðskilin verk. Þannig er hægt að komast í þau af kerfisskjánum yfir nýleg verk."
+    },
+    {
+      "name": "preference_newstack_title",
+      "value": "Opna skrár sem nýtt verk"
+    },
+    {
+      "name": "preselected_configs_title",
+      "value": "Forvaldar uppsetningar"
+    },
+    {
+      "name": "press_again",
+      "value": "Ýttu aftur til að hætta"
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "Stilla lit á stærri viðmótshluta flipans til vinstri"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "Aðallitur (vinstri flipi)"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "Stilla lit á stærri viðmótshluta flipans til hægri"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "Aðallitur (hægri flipi)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "Skoðun vinnsluferla"
+    },
+    {
+      "name": "processed",
+      "value": "Meðhöndluð"
+    },
+    {
+      "name": "processing",
+      "value": "Í vinnslu…"
+    },
+    {
+      "name": "processing_file",
+      "value": "Vinn með skrá"
+    },
+    {
+      "name": "producer",
+      "value": "Framleiðandi"
+    },
+    {
+      "name": "properties",
+      "value": "Eiginleikar"
+    },
+    {
+      "name": "properties_copied_clipboard",
+      "value": "afritað á klippispjald"
+    },
+    {
+      "name": "question_delete_bookmark",
+      "value": "Eyða bókamerki?"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "Viltu setja þessa slóð sem upphafsstað fyrir þennan flipa?"
+    },
+    {
+      "name": "quick",
+      "value": "Flýtiaðgangur"
+    },
+    {
+      "name": "random",
+      "value": "Tilviljanakennt skinn"
+    },
+    {
+      "name": "random_summary",
+      "value": "Setur tilviljanakenndan aðallit í ræsingu"
+    },
+    {
+      "name": "rate",
+      "value": "Gefðu forritinu einkunn"
+    },
+    {
+      "name": "recent",
+      "value": "Nýlegar skrár"
+    },
+    {
+      "name": "regular_expression",
+      "value": "Regluleg segð"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "Leita með reglulegri segð í BASH-stíl"
+    },
+    {
+      "name": "rename",
+      "value": "Endurnefna"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "Breyta bókamerki"
+    },
+    {
+      "name": "renaming",
+      "value": "Endurnefni"
+    },
+    {
+      "name": "reopen_from_source",
+      "value": "Tekst ekki, opnaðu aftur úr síðast notaða forriti"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "Tilkynna villur eða biðja um nýja eiginleika"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "Tilkynna villur"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "Rúmenska"
+    },
+    {
+      "name": "root_directory",
+      "value": "Rót (root)"
+    },
+    {
+      "name": "root_failure",
+      "value": "Rótaraðgangur ekki veittur"
+    },
+    {
+      "name": "root_mode",
+      "value": "Kerfisstjóravafur (root)"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "Einungis fyrir tæki með rótaraðgangi (rooted). Hakaðu einungis við þetta ef þú ert alveg viss."
+    },
+    {
+      "name": "root_pref",
+      "value": "Sýna aðgangsheimildir"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "Sýna heimildir á skrám og möppum"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "Rússneska"
+    },
+    {
+      "name": "saf_otg_explanation",
+      "value": "Af öryggisástæðum ferðu núna á skráakerfi Android. Veldu USB-tækið úr listanum til vinstri."
+    },
+    {
+      "name": "sample_rate",
+      "value": "Safntíðni"
+    },
+    {
+      "name": "save",
+      "value": "Vista"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "Við ræsingu eru síðast skoðuðu möppur hvers flipa birtar"
+    },
+    {
+      "name": "save_paths",
+      "value": "Muna slóðir"
+    },
+    {
+      "name": "saved_multi_files",
+      "value": "%d skrár vistaðar."
+    },
+    {
+      "name": "saved_single_file",
+      "value": "Skrá vistuð sem '%s'."
+    },
+    {
+      "name": "saving",
+      "value": "Vista"
+    },
+    {
+      "name": "scp_connection",
+      "value": "SCP/SFTP tenging"
+    },
+    {
+      "name": "scp_port",
+      "value": "Gátt"
+    },
+    {
+      "name": "search",
+      "value": "Leita"
+    },
+    {
+      "name": "search_hint",
+      "value": "Skrifaðu til að leita..."
+    },
+    {
+      "name": "search_results",
+      "value": "Leitarniðurstöður fyrir %s"
+    },
+    {
+      "name": "searching",
+      "value": "Leita að %s"
+    },
+    {
+      "name": "searching_devices",
+      "value": "Leita að tækjum..."
+    },
+    {
+      "name": "security",
+      "value": "Öryggi"
+    },
+    {
+      "name": "select",
+      "value": "Veldu atriði"
+    },
+    {
+      "name": "select_all",
+      "value": "Velja allt"
+    },
+    {
+      "name": "select_color_config",
+      "value": "Veldu litauppsetningu"
+    },
+    {
+      "name": "select_intent",
+      "value": "Veldu"
+    },
+    {
+      "name": "send_email_to",
+      "value": "Senda tölvupóst til"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "Serbneska"
+    },
+    {
+      "name": "server_address",
+      "value": "IP-vistfang þjóns"
+    },
+    {
+      "name": "service_timer",
+      "value": "Tími liðinn"
+    },
+    {
+      "name": "set",
+      "value": "Setja"
+    },
+    {
+      "name": "set_as_home",
+      "value": "Stilla sem upphafsstöðu"
+    },
+    {
+      "name": "set_random",
+      "value": "Breytingar munu taka gildi eftir að forritið hefur verið endurræst"
+    },
+    {
+      "name": "setting",
+      "value": "Stillingar"
+    },
+    {
+      "name": "share",
+      "value": "Deila"
+    },
+    {
+      "name": "share_limit",
+      "value": "Get ekki deilt fleiri en 100 skrám"
+    },
+    {
+      "name": "showHeaders",
+      "value": "Sýna hausa"
+    },
+    {
+      "name": "show_bookmarks_pref",
+      "value": "Bókamerki"
+    },
+    {
+      "name": "show_bookmarks_pref_title",
+      "value": "Sýna bókamerki"
+    },
+    {
+      "name": "show_dividers",
+      "value": "Sýna aðgreina"
+    },
+    {
+      "name": "show_quick_access_pref",
+      "value": "Flýtiaðgangar"
+    },
+    {
+      "name": "show_quick_access_pref_title",
+      "value": "Sýna flýtiaðganga"
+    },
+    {
+      "name": "sidebar_preferences",
+      "value": "Hliðarspjald"
+    },
+    {
+      "name": "sidebar_quick_access_title",
+      "value": "Flýtiaðgangur á hliðarspjaldi"
+    },
+    {
+      "name": "size",
+      "value": "stærð möppu"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "Stærð"
+    },
+    {
+      "name": "size_pref",
+      "value": "Sýna stærð"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "Sýna stærð á skrám og fjölda atriða í möppum"
+    },
+    {
+      "name": "skip",
+      "value": "Sleppa"
+    },
+    {
+      "name": "smb_connection",
+      "value": "SMB-tenging"
+    },
+    {
+      "name": "smb_launch_error",
+      "value": "Þú þarft að afrita þetta yfir í geymslurými til að opna það"
+    },
+    {
+      "name": "software",
+      "value": "Hugbúnaður"
+    },
+    {
+      "name": "sort",
+      "value": "Röðun"
+    },
+    {
+      "name": "sort_by",
+      "value": "Raða eftir"
+    },
+    {
+      "name": "sort_name",
+      "value": "Heiti"
+    },
+    {
+      "name": "sort_only_this",
+      "value": "Aðeins þessi mappa"
+    },
+    {
+      "name": "sort_size",
+      "value": "Stærð"
+    },
+    {
+      "name": "source_summary",
+      "value": "Skoðaðu grunnkóðann okkar á GitHub"
+    },
+    {
+      "name": "source_title",
+      "value": "Grunnkóði"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "Spænska"
+    },
+    {
+      "name": "ssh_authentication_failure_key",
+      "value": "Innskráning mistókst: get ekki skráð inn með uppgefnu notandanafni og einkalykli."
+    },
+    {
+      "name": "ssh_authentication_failure_password",
+      "value": "Innskráning mistókst: get ekki skráð inn með uppgefnu notandanafni og lykilorði."
+    },
+    {
+      "name": "ssh_connect_failed",
+      "value": "Ekki tókst að tengjast %1$s:%2$d: %3$s"
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_message",
+      "value": "ÞAÐ ER HUGSANLEGT AÐ EINHVER SÉ AÐ GERA EITTHVAÐ Í LEYNI!\\n\\nEinhver gæti verið að njósna um þig akkúrat núna (maður-á-milli árás)! Það er líka mögulegt að dulritunarlykli á hýsilvélinni hafi verið breytt. Fingrafar dreifilykilsins sem fjartengda vélin sendi samsvarar ekki því sem Amaze geymir.\\n\\nHafðu samband við kerfisstjórann þinn eða útbúðu nýja tengingu áður en þú heldur áfram að tengjast þjóninum."
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_prompt",
+      "value": "ÞAÐ ER HUGSANLEGT AÐ EINHVER SÉ AÐ GERA EITTHVAÐ Í LEYNI!\\n\\nEinhver gæti verið að njósna um þig akkúrat núna (maður-á-milli árás)! Það er líka mögulegt að dulritunarlykli á hýsilvélinni hafi verið breytt. Fingrafar dreifilykilsins sem fjartengda vélin sendi samsvarar ekki því sem Amaze geymir.\\n\\nÞú getur haldið áfram að uppfæra fingrafar hýsilvélar eða hætt við að uppfæra stillingar SSH-tengingarinnar."
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_title",
+      "value": "AÐVÖRUN: AUÐKENNING HÝSILVÉLAR HEFUR BREYST!"
+    },
+    {
+      "name": "ssh_host_key_verification_prompt",
+      "value": "Ekki var hægt að sannvotta auðkenni '%1$s'.\\n\\nFingrafar %2$s dulritunarlykilsins er %3$s.\\n\\nÝttu á \"Já\" til að staðfesta auðkenni; annars skaltu ýta á \"Nei\"."
+    },
+    {
+      "name": "ssh_host_key_verification_prompt_title",
+      "value": "Sannreyna hýsiþjón"
+    },
+    {
+      "name": "ssh_key_invalid_passphrase",
+      "value": "Ógild aðgangssetning dulritunarlykils"
+    },
+    {
+      "name": "ssh_key_prompt_passphrase",
+      "value": "Settu inn aðgangssetningu dulritunarlykilsins."
+    },
+    {
+      "name": "ssh_pem_key_parse_error",
+      "value": "Gat ekki lesið valinn PEM-einkalykil: %s"
+    },
+    {
+      "name": "ssh_select_pem",
+      "value": "Veldu einkalykil fyrir auðkenningu"
+    },
+    {
+      "name": "ssh_select_pem_button",
+      "value": "SSH-einkalykill"
+    },
+    {
+      "name": "start_ftp",
+      "value": "Byrja"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "Stöðva"
+    },
+    {
+      "name": "stopping",
+      "value": "Stöðva"
+    },
+    {
+      "name": "storage_internal",
+      "value": "Innbyggð gagnageymsla"
+    },
+    {
+      "name": "storage_sd_card",
+      "value": "SD-minniskort"
+    },
+    {
+      "name": "subject",
+      "value": "Viðfangsefni"
+    },
+    {
+      "name": "support_development",
+      "value": "Styðja áframhaldandi þróun"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "Tamílska"
+    },
+    {
+      "name": "text",
+      "value": "Texti"
+    },
+    {
+      "name": "text_editor",
+      "value": "Stillingar textaritils"
+    },
+    {
+      "name": "textreader",
+      "value": "Textalesari"
+    },
+    {
+      "name": "theme",
+      "value": "Þema"
+    },
+    {
+      "name": "thumb",
+      "value": "Birta smámyndir"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "Birta smámyndir forrita og mynda"
+    },
+    {
+      "name": "time_remaining",
+      "value": "Tími eftir"
+    },
+    {
+      "name": "title",
+      "value": "Titill"
+    },
+    {
+      "name": "total",
+      "value": "Alls:"
+    },
+    {
+      "name": "transfer_rate",
+      "value": "Flutningshraði"
+    },
+    {
+      "name": "translate_summary",
+      "value": "Þýða Amaze á tungumálið þitt"
+    },
+    {
+      "name": "translate_title",
+      "value": "Þýða"
+    },
+    {
+      "name": "translators",
+      "value": "Þýðendur"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "Tyrkneska"
+    },
+    {
+      "name": "type",
+      "value": "Tegund"
+    },
+    {
+      "name": "typeable_paths_summary",
+      "value": "Ýttu lengi á slóðastikuna til að skrifa sérsniðna slóð"
+    },
+    {
+      "name": "typeable_paths_title",
+      "value": "Sérsniðnar slóðir"
+    },
+    {
+      "name": "ui",
+      "value": "Viðmót"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "Úkraínska"
+    },
+    {
+      "name": "unin_system_apk",
+      "value": "Þetta er kerfisforrit, ef því er eytt gæti kerfið orðið óstöðugt.\\nHalda áfram?"
+    },
+    {
+      "name": "uninstall",
+      "value": "Taka út"
+    },
+    {
+      "name": "unknown",
+      "value": "óþekkt"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Úbbs, eitthvað fór úrskeiðis!"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "Óvistaðar breytingar"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "Það eru óvistaðar breytingar, viltu vista þær áður en þú hættir?"
+    },
+    {
+      "name": "update",
+      "value": "UPPFÆRA"
+    },
+    {
+      "name": "update_host_key",
+      "value": "Uppfæra lykil hýsilvélar"
+    },
+    {
+      "name": "used",
+      "value": "notað geymslupláss"
+    },
+    {
+      "name": "used_by_others",
+      "value": "notað af öðrum"
+    },
+    {
+      "name": "username",
+      "value": "Notandanafn"
+    },
+    {
+      "name": "version",
+      "value": "Útgáfa"
+    },
+    {
+      "name": "video",
+      "value": "Myndskeið"
+    },
+    {
+      "name": "videos",
+      "value": "Myndskeið"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "Víetnamska"
+    },
+    {
+      "name": "view",
+      "value": "Skoða"
+    },
+    {
+      "name": "waiting_content",
+      "value": "Bíð eftir að aðgerðinni ljúki"
+    },
+    {
+      "name": "waiting_title",
+      "value": "Bíð"
+    },
+    {
+      "name": "want_help",
+      "value": "<u>Þarftu hjálp?</u>"
+    },
+    {
+      "name": "warning",
+      "value": "Aðvörun"
+    },
+    {
+      "name": "warning_confirm",
+      "value": "Náði því!"
+    },
+    {
+      "name": "warning_never_show",
+      "value": "Ekki birta þetta aftur"
+    },
+    {
+      "name": "width",
+      "value": "Breidd"
+    },
+    {
+      "name": "written",
+      "value": "Skrifað"
+    },
+    {
+      "name": "xda_summary",
+      "value": "Spurningar, hjálp og vandamálalausnir"
+    },
+    {
+      "name": "xda_title",
+      "value": "Spjallþráður á XDA"
+    },
+    {
+      "name": "year",
+      "value": "Ár"
+    },
+    {
+      "name": "yes",
+      "value": "Já"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "ZIP-lesari"
+    }
+  ]
+}

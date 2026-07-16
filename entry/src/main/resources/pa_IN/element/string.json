@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "color_title",
+      "value": "ਰੰਗ"
+    },
+    {
+      "name": "exposure_time",
+      "value": "ਐਕਸਪੋਜ਼ਰ ਸਮਾਂ"
+    },
+    {
+      "name": "focal_length",
+      "value": "ਫੋਕਲ ਲੰਮਾਈ"
+    },
+    {
+      "name": "information",
+      "value": "ਜਾਣਕਾਰੀ"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "ਆਕਾਰ"
+    },
+    {
+      "name": "sort_size",
+      "value": "ਆਕਾਰ"
+    },
+    {
+      "name": "version",
+      "value": "ਵਰਜਨ"
+    }
+  ]
+}

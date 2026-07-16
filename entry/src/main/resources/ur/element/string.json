@@ -1,0 +1,2712 @@
+{
+  "string": [
+    {
+      "name": "about",
+      "value": "کے بارے میں"
+    },
+    {
+      "name": "about_amaze",
+      "value": "Material design file manager for Android"
+    },
+    {
+      "name": "about_amaze_file_manager_label",
+      "value": "امیز فائل مینیجر کے بارے میں"
+    },
+    {
+      "name": "accent_color_summary",
+      "value": "FAB اور دیگر چھوٹے UI عناصر پر رنگ سیٹ کریں"
+    },
+    {
+      "name": "accent_color_title",
+      "value": "Accent Color"
+    },
+    {
+      "name": "accessed",
+      "value": "رسائی حاصل کی"
+    },
+    {
+      "name": "add_item",
+      "value": "Add Item"
+    },
+    {
+      "name": "add_shortcut",
+      "value": "شارٹ کٹ شامل کریں"
+    },
+    {
+      "name": "add_shortcut_not_supported_by_launcher",
+      "value": "Shortcuts creation is not supported by your launcher."
+    },
+    {
+      "name": "add_to_bookmarks",
+      "value": "بک مارکس میں شامل کریں"
+    },
+    {
+      "name": "advanced",
+      "value": "Advanced"
+    },
+    {
+      "name": "advanced_search",
+      "value": "اعلی درجے کی تلاش"
+    },
+    {
+      "name": "album",
+      "value": "Album"
+    },
+    {
+      "name": "always",
+      "value": "Always"
+    },
+    {
+      "name": "amaze_audio_player",
+      "value": "Amaze Music Player"
+    },
+    {
+      "name": "amaze_utils_installed_alias",
+      "value": "Thank you for installing Amaze File Utilities. You're being redirected to the app."
+    },
+    {
+      "name": "analyse_storage",
+      "value": "Analyse Storage"
+    },
+    {
+      "name": "android_data_prompt_saf_access_title",
+      "value": "Grant SAF access"
+    },
+    {
+      "name": "anonymous",
+      "value": "گمنام"
+    },
+    {
+      "name": "aperture_value",
+      "value": "Aperture Value"
+    },
+    {
+      "name": "apks",
+      "value": "APKs"
+    },
+    {
+      "name": "app_name",
+      "value": "امیز فائل مینیجر"
+    },
+    {
+      "name": "app_ui_crash",
+      "value": "App/UI crashed"
+    },
+    {
+      "name": "appearance",
+      "value": "Appearance"
+    },
+    {
+      "name": "appearance_summary",
+      "value": "Customize the theme, colors and appearance of the file manager"
+    },
+    {
+      "name": "apps",
+      "value": "ایپ مینیجر"
+    },
+    {
+      "name": "archive",
+      "value": "محفوظ شدہ دستاویزات"
+    },
+    {
+      "name": "archive_extract_folder",
+      "value": "آرکائیو ایکسٹریکٹ فولڈر"
+    },
+    {
+      "name": "archive_password_prompt",
+      "value": "Please enter archive password:"
+    },
+    {
+      "name": "archive_summary",
+      "value": "آرکائیو فائلوں کو اس فولڈر میں نکالا جائے گا۔ ڈیفالٹ ویلیو وہ ڈائریکٹری ہے جس میں آرکائیو موجود ہے"
+    },
+    {
+      "name": "archive_text",
+      "value": "یہ ایک آرکائیو ہے۔ آپ کون سا عمل کرنا چاہیں گے؟"
+    },
+    {
+      "name": "archive_unsupported_or_corrupt",
+      "value": "Cannot open archive \"%s\". Either we cannot open the archive, or the archive was damaged."
+    },
+    {
+      "name": "artist",
+      "value": "فنکار"
+    },
+    {
+      "name": "ascending",
+      "value": "صعودی"
+    },
+    {
+      "name": "audio",
+      "value": "آڈیو"
+    },
+    {
+      "name": "authenticate_password",
+      "value": "Enter password"
+    },
+    {
+      "name": "author",
+      "value": "Author"
+    },
+    {
+      "name": "authors",
+      "value": "مصنفین"
+    },
+    {
+      "name": "back_summary",
+      "value": "فہرست کے اوپری حصے میں حسب ضرورت بیک نیویگیشن کو فعال کرتا ہے"
+    },
+    {
+      "name": "back_title",
+      "value": "پیچھے کی نیویگیشن"
+    },
+    {
+      "name": "backup",
+      "value": "بیک اپ"
+    },
+    {
+      "name": "backup_summary",
+      "value": "Export/Import Amaze settings"
+    },
+    {
+      "name": "basque_translation_title",
+      "value": "باسکی"
+    },
+    {
+      "name": "behavior",
+      "value": "Behavior"
+    },
+    {
+      "name": "behavior_summary",
+      "value": "Modify behaviors such as advanced search and whether to open files as a new task"
+    },
+    {
+      "name": "bitrate",
+      "value": "Bitrate"
+    },
+    {
+      "name": "black",
+      "value": "سیاہ (OLED کے لیے)"
+    },
+    {
+      "name": "blue",
+      "value": "Blue"
+    },
+    {
+      "name": "bluetooth",
+      "value": "بلوٹوتھ"
+    },
+    {
+      "name": "bookmark_exists",
+      "value": "Bookmark exists"
+    },
+    {
+      "name": "bookmark_lost",
+      "value": "بک مارک نہیں ملا، دوبارہ بنا رہا ہے…"
+    },
+    {
+      "name": "bookmarks_added",
+      "value": "بُک مارکس شامل کیے گئے"
+    },
+    {
+      "name": "byte_singular",
+      "value": "byte"
+    },
+    {
+      "name": "bytes",
+      "value": "bytes"
+    },
+    {
+      "name": "calculating",
+      "value": "حساب لگانا"
+    },
+    {
+      "name": "camera_brand",
+      "value": "Camera Brand"
+    },
+    {
+      "name": "camera_model",
+      "value": "Camera Model"
+    },
+    {
+      "name": "cancel",
+      "value": "منسوخ کریں"
+    },
+    {
+      "name": "cancel_recommended",
+      "value": "Cancel (Recommended)"
+    },
+    {
+      "name": "cancelled",
+      "value": "Cancelled"
+    },
+    {
+      "name": "cannot_delete_file",
+      "value": "Cannot delete file"
+    },
+    {
+      "name": "cannot_delete_file_with_reason",
+      "value": "Cannot delete file - %s"
+    },
+    {
+      "name": "cannot_extract_archive",
+      "value": "Cannot extract archive \"%s\": %s"
+    },
+    {
+      "name": "cannot_overwrite",
+      "value": "Cannot overwrite file."
+    },
+    {
+      "name": "cannot_read_directory",
+      "value": "Cannot read directory %s - %s"
+    },
+    {
+      "name": "cannot_rename_file",
+      "value": "Cannot rename file %s - %s"
+    },
+    {
+      "name": "cant_be_empty",
+      "value": "%s خالی نہیں ہو سکتا"
+    },
+    {
+      "name": "change",
+      "value": "Change"
+    },
+    {
+      "name": "changelog",
+      "value": "چینج لاگ"
+    },
+    {
+      "name": "channel_description_ftp",
+      "value": "Amaze File Manager FTP Server's Notifications"
+    },
+    {
+      "name": "channel_description_normal",
+      "value": "Amaze File Manager's Notifications"
+    },
+    {
+      "name": "channel_name_ftp",
+      "value": "Amaze FTP Server"
+    },
+    {
+      "name": "channel_name_normal",
+      "value": "Amaze Notifications"
+    },
+    {
+      "name": "channels",
+      "value": "Channels"
+    },
+    {
+      "name": "checking_conflicts",
+      "value": "Checking for conflicts"
+    },
+    {
+      "name": "chinese_translation_title",
+      "value": "چینی"
+    },
+    {
+      "name": "choose_color",
+      "value": "رنگ کا انتخاب کریں"
+    },
+    {
+      "name": "choose_different_app",
+      "value": "Choose different application"
+    },
+    {
+      "name": "choose_folder",
+      "value": "Choose This Folder"
+    },
+    {
+      "name": "choose_operation",
+      "value": "Choose operation to perform"
+    },
+    {
+      "name": "circular_icons",
+      "value": "سرکلر شبیہیں استعمال کریں"
+    },
+    {
+      "name": "circular_images",
+      "value": "تصاویر اور ویڈیوز کے لیے سرکلر شبیہیں استعمال کریں"
+    },
+    {
+      "name": "clear",
+      "value": "صاف"
+    },
+    {
+      "name": "clear_open_file",
+      "value": "Clear cache"
+    },
+    {
+      "name": "clear_open_file_summary",
+      "value": "Clears selected default file opening apps"
+    },
+    {
+      "name": "clipboard_path_copy",
+      "value": "Path copied to clipboard"
+    },
+    {
+      "name": "close",
+      "value": "Close"
+    },
+    {
+      "name": "cloud_box",
+      "value": "Box"
+    },
+    {
+      "name": "cloud_connection",
+      "value": "Cloud Connection"
+    },
+    {
+      "name": "cloud_connection_credentials_cleared",
+      "value": "Cloud Connection credentials cleared"
+    },
+    {
+      "name": "cloud_connection_credentials_cleared_msg",
+      "value": "Unfortunately, we were unable to migrate your cloud connection credentials to the new database schema, and we had to remove them from the app. Please create the cloud connection again."
+    },
+    {
+      "name": "cloud_connection_new",
+      "value": "New Cloud Connection"
+    },
+    {
+      "name": "cloud_drive",
+      "value": "Google Drive™"
+    },
+    {
+      "name": "cloud_drive_tooltip",
+      "value": "Create a Google Drive™ connection for managing files from within Amaze File Manager."
+    },
+    {
+      "name": "cloud_dropbox",
+      "value": "Dropbox"
+    },
+    {
+      "name": "cloud_error_failed_restart",
+      "value": "Failed to load the connection.\\n        Please open Amaze Cloud once."
+    },
+    {
+      "name": "cloud_error_fdroid",
+      "value": "Amaze Cloud Plugin not supported with F-Droid version. Please use Play Store version of Amaze."
+    },
+    {
+      "name": "cloud_error_plugin",
+      "value": "Amaze Cloud plugin not found. Please download from Play Store."
+    },
+    {
+      "name": "cloud_fail_authenticate",
+      "value": "Failed to authenticate"
+    },
+    {
+      "name": "cloud_get",
+      "value": "Get Cloud plugin"
+    },
+    {
+      "name": "cloud_onedrive",
+      "value": "OneDrive"
+    },
+    {
+      "name": "cloud_remove",
+      "value": "Do you want to remove the cloud connection\\?"
+    },
+    {
+      "name": "cloud_share_copied",
+      "value": "Sharable link copied to clipboard"
+    },
+    {
+      "name": "cloud_token_lost",
+      "value": "Token lost, please sign-in again"
+    },
+    {
+      "name": "codec",
+      "value": "Codec"
+    },
+    {
+      "name": "color_summary",
+      "value": "مختلف UI اجزاء پر رنگ سیٹ کریں"
+    },
+    {
+      "name": "color_title",
+      "value": "رنگ"
+    },
+    {
+      "name": "colored_navigation",
+      "value": "رنگین نیویگیشن بار"
+    },
+    {
+      "name": "colored_navigvation_sum",
+      "value": "سسٹم نیویگیشن بار جلد کے ساتھ رنگین ہے یا نہیں"
+    },
+    {
+      "name": "colorize",
+      "value": "شبیہیں کو رنگین کریں"
+    },
+    {
+      "name": "colorize_summary",
+      "value": "جامد آئیکن کا رنگ سیٹ کرتا ہے۔ ڈائرکٹری آئیکن رنگ کی ترجیح کو اوور رائیڈ نہیں کرتا ہے۔"
+    },
+    {
+      "name": "comment",
+      "value": "Comment"
+    },
+    {
+      "name": "complete_paste_warning",
+      "value": "Please complete paste operation first"
+    },
+    {
+      "name": "compress",
+      "value": "کمپریس"
+    },
+    {
+      "name": "compress_file_suggest_zip_extension",
+      "value": "It's recommended to use \".zip\" as the file extension."
+    },
+    {
+      "name": "compressed",
+      "value": "Compressed"
+    },
+    {
+      "name": "compressed_explorer_fragment_error_open_uri",
+      "value": "Error opening URI \"%s\" for reading."
+    },
+    {
+      "name": "compressing",
+      "value": "Compressing"
+    },
+    {
+      "name": "compression_complete",
+      "value": "Compression Complete"
+    },
+    {
+      "name": "confirmation",
+      "value": "Confirmation"
+    },
+    {
+      "name": "connection_exists",
+      "value": "Connection already exists"
+    },
+    {
+      "name": "connection_name",
+      "value": "کنکشن کا نام"
+    },
+    {
+      "name": "container",
+      "value": "Container"
+    },
+    {
+      "name": "contributors",
+      "value": "تعاون کرنے والے"
+    },
+    {
+      "name": "contributors_1_summary",
+      "value": "Translation"
+    },
+    {
+      "name": "contributors_2_summary",
+      "value": "Icon and banners"
+    },
+    {
+      "name": "contributors_3_summary",
+      "value": "Theme Engine"
+    },
+    {
+      "name": "contributors_4_summary",
+      "value": "Shade behind FAB"
+    },
+    {
+      "name": "contributors_5_summary",
+      "value": "Color transition when swiping tabs"
+    },
+    {
+      "name": "contributors_6_summary",
+      "value": "ایف ٹی پی سرور"
+    },
+    {
+      "name": "contributors_7_summary",
+      "value": "Firing up an interactive shell"
+    },
+    {
+      "name": "copied",
+      "value": "copied"
+    },
+    {
+      "name": "copy",
+      "value": "کاپی"
+    },
+    {
+      "name": "copy_complete",
+      "value": "Copy Complete"
+    },
+    {
+      "name": "copy_error",
+      "value": "Some files weren't successfully %s"
+    },
+    {
+      "name": "copy_for_github",
+      "value": "Copy formatted report"
+    },
+    {
+      "name": "copy_low_memory",
+      "value": "Running out of memory, please clear some RAM"
+    },
+    {
+      "name": "copying",
+      "value": "نقل کرنا"
+    },
+    {
+      "name": "copyingapks",
+      "value": "%s میں APK 1%d فائلوں کو کاپی کیا جا رہا ہے"
+    },
+    {
+      "name": "crash_report_copied",
+      "value": "Crash report copied to clipboard"
+    },
+    {
+      "name": "create",
+      "value": "تخلیق کریں"
+    },
+    {
+      "name": "create_bookmark",
+      "value": "Create bookmark"
+    },
+    {
+      "name": "create_file_suggest_txt_extension",
+      "value": "It's recommended to use \".txt\" as the file extension."
+    },
+    {
+      "name": "create_hidden_file_warn",
+      "value": "The created file will be hidden in the file list."
+    },
+    {
+      "name": "created",
+      "value": "Created"
+    },
+    {
+      "name": "creatingfile",
+      "value": "فائل بنانا"
+    },
+    {
+      "name": "creatingfolder",
+      "value": "فولڈر بنانا"
+    },
+    {
+      "name": "creator",
+      "value": "Creator"
+    },
+    {
+      "name": "crypt_decrypt",
+      "value": "Decrypt"
+    },
+    {
+      "name": "crypt_decrypted",
+      "value": "Decrypted"
+    },
+    {
+      "name": "crypt_decrypting",
+      "value": "Decrypting"
+    },
+    {
+      "name": "crypt_decryption_fail",
+      "value": "Failed to decrypt"
+    },
+    {
+      "name": "crypt_decryption_fail_password",
+      "value": "Wrong password!"
+    },
+    {
+      "name": "crypt_encrypt",
+      "value": "Encrypt"
+    },
+    {
+      "name": "crypt_encrypted",
+      "value": "Encrypted"
+    },
+    {
+      "name": "crypt_encrypting",
+      "value": "Encrypting"
+    },
+    {
+      "name": "crypt_encryption_fail",
+      "value": "Failed to encrypt"
+    },
+    {
+      "name": "crypt_fingerprint_authenticate",
+      "value": "Touch sensor to continue"
+    },
+    {
+      "name": "crypt_fingerprint_no_permission",
+      "value": "Fingerprint permissions missing"
+    },
+    {
+      "name": "crypt_fingerprint_no_security",
+      "value": "No lockscreen security found"
+    },
+    {
+      "name": "crypt_fingerprint_not_enrolled",
+      "value": "No fingerprint enrolled"
+    },
+    {
+      "name": "crypt_pref_fingerprint_summary",
+      "value": "Use fingerprint to authenticate encryption"
+    },
+    {
+      "name": "crypt_pref_fingerprint_title",
+      "value": "Fingerprint"
+    },
+    {
+      "name": "crypt_pref_master_password_summary",
+      "value": "Set a master password for encryption.\\n        Leave empty to remove."
+    },
+    {
+      "name": "crypt_pref_master_password_title",
+      "value": "Master Password"
+    },
+    {
+      "name": "crypt_warning_key",
+      "value": "Be advised, when you change your security pattern from\\n        System settings, you won't be able to decrypt this content."
+    },
+    {
+      "name": "current_speed",
+      "value": "Current Speed"
+    },
+    {
+      "name": "custom",
+      "value": "Custom"
+    },
+    {
+      "name": "customize",
+      "value": "Customize"
+    },
+    {
+      "name": "cut",
+      "value": "کاٹنا"
+    },
+    {
+      "name": "dark",
+      "value": "مٹیریل ڈارک"
+    },
+    {
+      "name": "database",
+      "value": "ڈیٹا بیس"
+    },
+    {
+      "name": "databasereader",
+      "value": "ڈیٹا بیس ریڈر"
+    },
+    {
+      "name": "date",
+      "value": "تاریخ"
+    },
+    {
+      "name": "date_modified",
+      "value": "Date Modified"
+    },
+    {
+      "name": "date_taken",
+      "value": "Date Taken"
+    },
+    {
+      "name": "daytime",
+      "value": "دن کا وقت"
+    },
+    {
+      "name": "default_string",
+      "value": "طے شدہ"
+    },
+    {
+      "name": "delbook",
+      "value": "بک مارک کو حذف کریں"
+    },
+    {
+      "name": "delete",
+      "value": "حذف کریں"
+    },
+    {
+      "name": "delete_permanently_checkbox",
+      "value": "Delete Permanently"
+    },
+    {
+      "name": "deleting",
+      "value": "حذف کرنا"
+    },
+    {
+      "name": "descending",
+      "value": "نزول"
+    },
+    {
+      "name": "deselect_all",
+      "value": "Deselect All"
+    },
+    {
+      "name": "details",
+      "value": "تفصیلات"
+    },
+    {
+      "name": "developers",
+      "value": "Developers"
+    },
+    {
+      "name": "dialog_delete_category_directories",
+      "value": "ڈائریکٹریز"
+    },
+    {
+      "name": "dialog_delete_category_files",
+      "value": "فائلیں"
+    },
+    {
+      "name": "dialog_delete_disclaimer",
+      "value": "نیچے دیے گئے آئٹمز کو حذف کرنے سے وہ آپ کے آلے سے مستقل طور پر ہٹ جائیں گے اور انہیں بازیافت نہیں کیا جا سکتا"
+    },
+    {
+      "name": "dialog_delete_temporarily_disclaimer",
+      "value": "کیا آپ واقعی درج ذیل آئٹمز کو حذف کرنا چاہتے ہیں؟"
+    },
+    {
+      "name": "dialog_delete_title",
+      "value": "آئٹمز کو مستقل طور پر حذف کریں؟"
+    },
+    {
+      "name": "dialog_restore_disclaimer",
+      "value": "کیا آپ واقعی درج ذیل آئٹمز کو بحال کرنا چاہتے ہیں؟"
+    },
+    {
+      "name": "dimensions",
+      "value": "Dimensions"
+    },
+    {
+      "name": "directory",
+      "value": "Directory"
+    },
+    {
+      "name": "directorysort",
+      "value": "ڈائریکٹری ترتیب موڈ"
+    },
+    {
+      "name": "disable",
+      "value": "Disable"
+    },
+    {
+      "name": "disableIpcSignature",
+      "value": "Disable IPC signing check (For legacy SMBv1 servers - UNSAFE!)"
+    },
+    {
+      "name": "disable_player_intent_filters",
+      "value": "Disable player intent filters"
+    },
+    {
+      "name": "disable_player_intent_filters_summary",
+      "value": "Disables Amaze inbuilt media players from file chooser"
+    },
+    {
+      "name": "documents",
+      "value": "دستاویزات"
+    },
+    {
+      "name": "docx_viewer",
+      "value": "Amaze Document Viewer"
+    },
+    {
+      "name": "doforall",
+      "value": "تمام اشیاء کے لئے کرو"
+    },
+    {
+      "name": "doit",
+      "value": "کرو"
+    },
+    {
+      "name": "domain",
+      "value": "ڈومین"
+    },
+    {
+      "name": "donate",
+      "value": "عطیہ کریں"
+    },
+    {
+      "name": "donation_thanks",
+      "value": "Thank you for the donation, this keeps us motivated! (:"
+    },
+    {
+      "name": "done",
+      "value": "ہو گیا"
+    },
+    {
+      "name": "download",
+      "value": "Download"
+    },
+    {
+      "name": "drag_and_drop_preference",
+      "value": "Select drag and drop preference (Experimental)"
+    },
+    {
+      "name": "drag_to_move_copy",
+      "value": "Touch and drag to move or copy files"
+    },
+    {
+      "name": "drag_to_select",
+      "value": "Touch and drag to select files"
+    },
+    {
+      "name": "drawer_close",
+      "value": "نیویگیشن دراز بند کریں"
+    },
+    {
+      "name": "drawer_open",
+      "value": "نیویگیشن دراز کھولیں"
+    },
+    {
+      "name": "duration",
+      "value": "Duration"
+    },
+    {
+      "name": "dutch_translation_title",
+      "value": "ڈچ"
+    },
+    {
+      "name": "edit",
+      "value": "ترمیم کریں"
+    },
+    {
+      "name": "edit_bookmark",
+      "value": "Edit bookmark"
+    },
+    {
+      "name": "enable_marquee_filename",
+      "value": "Enable marquee effect for file names"
+    },
+    {
+      "name": "enablerootmde",
+      "value": "روٹ موڈ کو فعال کریں"
+    },
+    {
+      "name": "encrypt_file_must_end_with_aes",
+      "value": "Encrypted files must use \".aes\" as the file extension."
+    },
+    {
+      "name": "encrypt_file_must_end_with_aze",
+      "value": "Encrypted files must use \".aze\" as the file extension."
+    },
+    {
+      "name": "encrypt_file_save_as",
+      "value": "Save Encrypted File As…"
+    },
+    {
+      "name": "encrypt_folder_save_as",
+      "value": "Save Encrypted Folder As…"
+    },
+    {
+      "name": "encrypt_option_use_aze",
+      "value": "Use Amaze Encryption Format"
+    },
+    {
+      "name": "encryption_fail_copy",
+      "value": "Failed to update encryption entry in database"
+    },
+    {
+      "name": "entername",
+      "value": "نام درج کریں"
+    },
+    {
+      "name": "enterpath",
+      "value": "راستہ داخل کریں"
+    },
+    {
+      "name": "enterzipname",
+      "value": "زپ کا نام درج کریں"
+    },
+    {
+      "name": "error",
+      "value": "خرابی"
+    },
+    {
+      "name": "error_listfile_smb",
+      "value": "Error listing files at %s: %s"
+    },
+    {
+      "name": "error_listfile_smb_noipcshare",
+      "value": "Error listing files at %s - probably the SMB server does not allow anonymous access to the IPC$ share. You may try specifying the share name directly in connection settings."
+    },
+    {
+      "name": "error_listfile_smb_title",
+      "value": "Unable to load SMB file list"
+    },
+    {
+      "name": "error_archive_cannot_extract",
+      "value": "Cannot extract archive entry \"%s\" to \"%s\"."
+    },
+    {
+      "name": "error_archive_password_incorrect",
+      "value": "Wrong archive password."
+    },
+    {
+      "name": "error_bad_archive_without_info",
+      "value": "\"%s\" is a corrupted archive."
+    },
+    {
+      "name": "error_cannot_find_way_open",
+      "value": "Could not find way to open the file"
+    },
+    {
+      "name": "error_cannot_get_package_info",
+      "value": "Unable to get package info from file \"%s\". Either the specified file is not an APK, or the package file is corrupt."
+    },
+    {
+      "name": "error_cant_decompress_that_file",
+      "value": "Cannot process the requested archive"
+    },
+    {
+      "name": "error_details_headline",
+      "value": "Details:"
+    },
+    {
+      "name": "error_empty_archive",
+      "value": "\"%s\" is an empty archive."
+    },
+    {
+      "name": "error_fetching_google_play_product_list",
+      "value": "Error fetching product list from Google Play."
+    },
+    {
+      "name": "error_file_not_found",
+      "value": "Error: File Not Found"
+    },
+    {
+      "name": "error_file_too_large",
+      "value": "Error: File Too Large"
+    },
+    {
+      "name": "error_google_play_cannot_update_myself",
+      "value": "Per Google Play policy mandates, apps are not allowed to update itself on its own. Please update app from Google Play."
+    },
+    {
+      "name": "error_io",
+      "value": "I/O Error"
+    },
+    {
+      "name": "error_permission_denied",
+      "value": "Permission denied"
+    },
+    {
+      "name": "error_report_button_telegram",
+      "value": "Report this error via telegram"
+    },
+    {
+      "name": "error_report_button_text",
+      "value": "Report this error via e-mail"
+    },
+    {
+      "name": "error_report_open_github_notice",
+      "value": "Please check whether an issue discussing your crash already exists."
+    },
+    {
+      "name": "error_report_open_issue_button_text",
+      "value": "Report on GitHub"
+    },
+    {
+      "name": "error_report_title",
+      "value": "Error report"
+    },
+    {
+      "name": "error_snackbar_action",
+      "value": "Report"
+    },
+    {
+      "name": "error_snackbar_message",
+      "value": "Sorry, something went wrong."
+    },
+    {
+      "name": "error_unsupported_or_null_uri",
+      "value": "Invalid, unsupported, or no URI was provided"
+    },
+    {
+      "name": "error_unsupported_v5_rar",
+      "value": "RAR archive \"%s\" is unsupported RAR v5 archive."
+    },
+    {
+      "name": "exit",
+      "value": "باہر نکلیں"
+    },
+    {
+      "name": "exporting_failed",
+      "value": "Exporting failed: could not write the backup file"
+    },
+    {
+      "name": "exposure_time",
+      "value": "Exposure Time"
+    },
+    {
+      "name": "extract",
+      "value": "نکالنا"
+    },
+    {
+      "name": "extract_complete",
+      "value": "Extraction complete"
+    },
+    {
+      "name": "extracted",
+      "value": "Extracted"
+    },
+    {
+      "name": "extracting",
+      "value": "نکالنا"
+    },
+    {
+      "name": "failed_cloud_api_key",
+      "value": "Failed to authenticate Cloud plug-in"
+    },
+    {
+      "name": "failed_cloud_new_connection",
+      "value": "Failed to add new Cloud connection"
+    },
+    {
+      "name": "failed_install_apk",
+      "value": "Failed to install"
+    },
+    {
+      "name": "failed_no_connection",
+      "value": "Failed to load files. Please check your connection."
+    },
+    {
+      "name": "failed_smb_decrypt_path",
+      "value": "Failed to load SMB connection"
+    },
+    {
+      "name": "feedback",
+      "value": "تاثرات بھیجیں"
+    },
+    {
+      "name": "field_empty",
+      "value": "Field can't be empty"
+    },
+    {
+      "name": "file",
+      "value": "فائل"
+    },
+    {
+      "name": "file_empty",
+      "value": "فائل خالی ہے"
+    },
+    {
+      "name": "file_read_only",
+      "value": "The file opened is a read-only."
+    },
+    {
+      "name": "file_too_long",
+      "value": "The file is too long and cannot be edited, however you can read the first %d characters"
+    },
+    {
+      "name": "fileexist",
+      "value": "اسی نام کی فائل پہلے سے موجود ہے"
+    },
+    {
+      "name": "filename",
+      "value": "Filename"
+    },
+    {
+      "name": "files",
+      "value": "فائلیں"
+    },
+    {
+      "name": "filesOnTop",
+      "value": "فائلیں اوپر"
+    },
+    {
+      "name": "find",
+      "value": "صفحہ میں تلاش کریں"
+    },
+    {
+      "name": "flash_fired",
+      "value": "Flash Fired"
+    },
+    {
+      "name": "focal_length",
+      "value": "Focal Length"
+    },
+    {
+      "name": "folder",
+      "value": "فولڈر"
+    },
+    {
+      "name": "folderfilecount",
+      "value": "%1$dفولڈرز اور %2$d فائلیں"
+    },
+    {
+      "name": "folders",
+      "value": "فولڈرز"
+    },
+    {
+      "name": "foldersOnTop",
+      "value": "اوپر فولڈرز"
+    },
+    {
+      "name": "follow_battery_saver_desc",
+      "value": "اگر منتخب ہو اور بیٹری سیور موڈ آن ہو تو تھیم ڈارک تھیم میں بدل جاتی ہے"
+    },
+    {
+      "name": "follow_battery_saver_title",
+      "value": "بیٹری سیور کی پیروی کریں"
+    },
+    {
+      "name": "format",
+      "value": "Format"
+    },
+    {
+      "name": "frame_rate",
+      "value": "Frame Rate"
+    },
+    {
+      "name": "free",
+      "value": "خالی جگہ"
+    },
+    {
+      "name": "french_translation_title",
+      "value": "فرانسیسی"
+    },
+    {
+      "name": "ftp",
+      "value": "ایف ٹی پی سرور"
+    },
+    {
+      "name": "ftp_connection",
+      "value": "FTP Connection"
+    },
+    {
+      "name": "ftp_login",
+      "value": "Login"
+    },
+    {
+      "name": "ftp_no_wifi",
+      "value": "یقینی بنائیں کہ آپ Wi-Fi سے جڑے ہوئے ہیں"
+    },
+    {
+      "name": "ftp_notif_starting",
+      "value": "FTP سرور شروع ہو رہا ہے"
+    },
+    {
+      "name": "ftp_notif_starting_title",
+      "value": "ایف ٹی پی سرور"
+    },
+    {
+      "name": "ftp_notif_stop_server",
+      "value": "سٹاپ"
+    },
+    {
+      "name": "ftp_notif_text",
+      "value": "پر%s"
+    },
+    {
+      "name": "ftp_notif_title",
+      "value": "ایمیز ایف ٹی پی سرور چل رہا ہے"
+    },
+    {
+      "name": "ftp_path",
+      "value": "Shared Path"
+    },
+    {
+      "name": "ftp_path_change_error_invalid",
+      "value": "Invalid path"
+    },
+    {
+      "name": "ftp_path_change_success",
+      "value": "FTP path changed successfully"
+    },
+    {
+      "name": "ftp_path_hint",
+      "value": "Path to the root of directory to share"
+    },
+    {
+      "name": "ftp_port",
+      "value": "Port"
+    },
+    {
+      "name": "ftp_port_change_error_invalid",
+      "value": "غلط پورٹ نمبر منتخب کیا گیا"
+    },
+    {
+      "name": "ftp_port_change_success",
+      "value": "FTP پورٹ کامیابی کے ساتھ تبدیل ہو گیا"
+    },
+    {
+      "name": "ftp_port_edit_menu_title",
+      "value": "ایف ٹی پی پورٹ"
+    },
+    {
+      "name": "ftp_preference_saf_filesystem",
+      "value": "Enable this for support for using device external storage on newer Android versions"
+    },
+    {
+      "name": "ftp_preference_saf_filesystem_title",
+      "value": "Use legacy filesystem"
+    },
+    {
+      "name": "ftp_prompt_accept_first_start_saf_access_title",
+      "value": "Grant SAF access for FTP server"
+    },
+    {
+      "name": "ftp_prompt_restart_server",
+      "value": "You will need to restart the FTP server for changes to take effect."
+    },
+    {
+      "name": "ftp_readonly",
+      "value": "Read-only access"
+    },
+    {
+      "name": "ftp_seconds",
+      "value": "Seconds"
+    },
+    {
+      "name": "ftp_server_fallback_path_reset_prompt",
+      "value": "FTP server shared path had been reset to internal storage as you are switching back to legacy filesystem implementation. Please select a new path using the menu on the top right as necessary."
+    },
+    {
+      "name": "ftp_server_open_settings",
+      "value": "Open settings"
+    },
+    {
+      "name": "ftp_server_prompt_connect_to_network",
+      "value": "Connect to a network or enable AP"
+    },
+    {
+      "name": "ftp_server_reset_notify",
+      "value": "FTP server shared path had been reset to internal storage"
+    },
+    {
+      "name": "ftp_server_root_unavailable",
+      "value": "You are choosing a path which requires root access. Please enable root explorer in settings if your device is rooted."
+    },
+    {
+      "name": "ftp_status_no_connection",
+      "value": "No Connection"
+    },
+    {
+      "name": "ftp_status_not_running",
+      "value": "نہیں چل رہا ہے"
+    },
+    {
+      "name": "ftp_status_running",
+      "value": "چل رہا ہے"
+    },
+    {
+      "name": "ftp_status_secure_connection",
+      "value": "Secure Connection"
+    },
+    {
+      "name": "ftp_status_title",
+      "value": "Status"
+    },
+    {
+      "name": "ftp_timeout",
+      "value": "Idle timeout"
+    },
+    {
+      "name": "ftps_connection",
+      "value": "FTP over SSL Connection"
+    },
+    {
+      "name": "general",
+      "value": "جنرل"
+    },
+    {
+      "name": "german_translation_title",
+      "value": "جرمن"
+    },
+    {
+      "name": "go",
+      "value": "Go"
+    },
+    {
+      "name": "goback",
+      "value": "واپس جاؤ"
+    },
+    {
+      "name": "got_it",
+      "value": "Got it!"
+    },
+    {
+      "name": "grant",
+      "value": "گرانٹ"
+    },
+    {
+      "name": "grant_apkinstall_permission",
+      "value": "App needs permission to install apps continue."
+    },
+    {
+      "name": "grant_notification_permission",
+      "value": "Amaze needs notification permission to display file operation progress, as well as a handy panel to start/stop the FTP server."
+    },
+    {
+      "name": "grant_storage_permission",
+      "value": "ایپ کو جاری رکھنے کے لیے اسٹوریج کی اجازت درکار ہے۔ اس ڈائیلاگ کو منسوخ کرنا ایپ سے باہر ہو جائے گا"
+    },
+    {
+      "name": "grantfailed",
+      "value": "اجازت نہیں دی گئی"
+    },
+    {
+      "name": "grantper",
+      "value": "اجازت دیں"
+    },
+    {
+      "name": "greek_translation_title",
+      "value": "یونانی"
+    },
+    {
+      "name": "green",
+      "value": "Green"
+    },
+    {
+      "name": "gridcolumnno",
+      "value": "گرڈ ویو میں کالموں کی تعداد"
+    },
+    {
+      "name": "gridview",
+      "value": "گرڈ ویو"
+    },
+    {
+      "name": "hash_sha256",
+      "value": "SHA-256"
+    },
+    {
+      "name": "height",
+      "value": "Height"
+    },
+    {
+      "name": "hidden",
+      "value": "پوشیدہ فائلیں اور فولڈر دکھائیں"
+    },
+    {
+      "name": "hiddenfiles",
+      "value": "پوشیدہ فائلیں"
+    },
+    {
+      "name": "hide",
+      "value": "چھپائیں"
+    },
+    {
+      "name": "hide_media",
+      "value": "Hide from media browsers"
+    },
+    {
+      "name": "history",
+      "value": "تاریخ"
+    },
+    {
+      "name": "home",
+      "value": "گھر"
+    },
+    {
+      "name": "icon",
+      "value": "آئیکن"
+    },
+    {
+      "name": "icon_color_summary",
+      "value": "شبیہیں پر رنگ سیٹ کریں"
+    },
+    {
+      "name": "icon_color_title",
+      "value": "آئیکن کا رنگ"
+    },
+    {
+      "name": "image",
+      "value": "تصویر"
+    },
+    {
+      "name": "image_iso",
+      "value": "ISO Speed Rating"
+    },
+    {
+      "name": "image_type",
+      "value": "Image Type"
+    },
+    {
+      "name": "image_viewer",
+      "value": "Amaze Image Viewer"
+    },
+    {
+      "name": "images",
+      "value": "امیجز"
+    },
+    {
+      "name": "import_failed_for",
+      "value": "Import failed for:"
+    },
+    {
+      "name": "importing_completed",
+      "value": "Importing completed"
+    },
+    {
+      "name": "importing_failed",
+      "value": "Importing failed: could not read the backup file"
+    },
+    {
+      "name": "in_safe",
+      "value": "ناکافی جگہ"
+    },
+    {
+      "name": "information",
+      "value": "معلومات"
+    },
+    {
+      "name": "install",
+      "value": "انسٹال کریں"
+    },
+    {
+      "name": "intellihide_toolbar_summary",
+      "value": "Automatically hide toolbar while scrolling"
+    },
+    {
+      "name": "intellihide_toolbar_title",
+      "value": "Intellihide Toolbar"
+    },
+    {
+      "name": "intent_save_as",
+      "value": "Save as…"
+    },
+    {
+      "name": "invalid",
+      "value": "غلط%s"
+    },
+    {
+      "name": "invalid_backup_file",
+      "value": "Invalid backup file"
+    },
+    {
+      "name": "invalid_name",
+      "value": "غلط نام"
+    },
+    {
+      "name": "ip",
+      "value": "پتہ"
+    },
+    {
+      "name": "italian_translation_title",
+      "value": "اطالوی"
+    },
+    {
+      "name": "item",
+      "value": "item"
+    },
+    {
+      "name": "items",
+      "value": "items"
+    },
+    {
+      "name": "japanese_translation_title",
+      "value": "جاپانی"
+    },
+    {
+      "name": "just_once",
+      "value": "Just Once"
+    },
+    {
+      "name": "keywords",
+      "value": "Keywords"
+    },
+    {
+      "name": "korean_translation_title",
+      "value": "کورین"
+    },
+    {
+      "name": "lastModified",
+      "value": "آخری بار ترمیم کی گئی"
+    },
+    {
+      "name": "lastModifiedPref",
+      "value": "آخری ترمیم شدہ تاریخ اور وقت دکھائیں"
+    },
+    {
+      "name": "lastModifiedSummary",
+      "value": "آخری ترمیم کی تاریخ اور وقت دکھائیں"
+    },
+    {
+      "name": "legacy_listing_summary",
+      "value": "If enabled, uses legacy method to list files"
+    },
+    {
+      "name": "legacy_listing_title",
+      "value": "Use legacy listing for root"
+    },
+    {
+      "name": "libraries",
+      "value": "Libraries"
+    },
+    {
+      "name": "license",
+      "value": "License"
+    },
+    {
+      "name": "light",
+      "value": "مٹیریل لائٹ"
+    },
+    {
+      "name": "listview",
+      "value": "فہرست دیکھیں"
+    },
+    {
+      "name": "loading",
+      "value": "لوڈ ہو رہا ہے…"
+    },
+    {
+      "name": "local_inet_addr_error",
+      "value": "Error getting local inet address"
+    },
+    {
+      "name": "location",
+      "value": "مقام"
+    },
+    {
+      "name": "match_content",
+      "value": "مشمولات"
+    },
+    {
+      "name": "match_content_summary",
+      "value": "اگر سیٹ کیا جائے تو ریگولر ایکسپریشن کو پورے فائل کے نام کے ساتھ ملایا جائے گا،\\nدوسری صورت میں واقعہ کی تلاش کریں گے."
+    },
+    {
+      "name": "md5",
+      "value": "MD5"
+    },
+    {
+      "name": "medium_text",
+      "value": "Medium Text"
+    },
+    {
+      "name": "miscellaneous",
+      "value": "متفرق"
+    },
+    {
+      "name": "modified",
+      "value": "ترمیم شدہ"
+    },
+    {
+      "name": "monofont",
+      "value": "Monospace Font"
+    },
+    {
+      "name": "move",
+      "value": "Move"
+    },
+    {
+      "name": "moved",
+      "value": "moved"
+    },
+    {
+      "name": "moving",
+      "value": "حرکت پذیر"
+    },
+    {
+      "name": "multiple_invalid_archive_entries",
+      "value": "Some files in the archive cannot be extracted; archive may be damaged or came from malicious source."
+    },
+    {
+      "name": "name",
+      "value": "نام"
+    },
+    {
+      "name": "needs_access",
+      "value": "تحریری رسائی درکار ہے"
+    },
+    {
+      "name": "newfile",
+      "value": "نئی فائل"
+    },
+    {
+      "name": "newfolder",
+      "value": "نیا فولڈر"
+    },
+    {
+      "name": "no",
+      "value": "نہیں"
+    },
+    {
+      "name": "no_app_found",
+      "value": "اس فائل کو کھولنے کے لیے کوئی ایپ نہیں ملی"
+    },
+    {
+      "name": "no_app_found_intent",
+      "value": "No app found to handle this intent. Do you have DocumentsUI installed\\?"
+    },
+    {
+      "name": "no_applications",
+      "value": "No applications"
+    },
+    {
+      "name": "no_bitcoin_app",
+      "value": "Please install a Bitcoin Wallet app"
+    },
+    {
+      "name": "no_device_found",
+      "value": "کوئی آلات نہیں ملے"
+    },
+    {
+      "name": "no_file_error",
+      "value": "Something went wrong, there's nothing to open"
+    },
+    {
+      "name": "no_file_overwrite",
+      "value": "کوئی فائل اوور رائٹ نہیں ہے"
+    },
+    {
+      "name": "no_files",
+      "value": "کوئی فائل نہیں"
+    },
+    {
+      "name": "no_items",
+      "value": "No items"
+    },
+    {
+      "name": "no_name",
+      "value": "File should have a name"
+    },
+    {
+      "name": "no_obtainable_info",
+      "value": "There's no info about this file"
+    },
+    {
+      "name": "none_on_top",
+      "value": "اوپر کوئی نہیں"
+    },
+    {
+      "name": "not_allowed",
+      "value": "اجازت نہیں ہے"
+    },
+    {
+      "name": "not_finding_what_you_re_looking_for",
+      "value": "Not finding what you're looking for\\?"
+    },
+    {
+      "name": "not_found_enabled_webview",
+      "value": "No available browser"
+    },
+    {
+      "name": "of",
+      "value": "of"
+    },
+    {
+      "name": "ok",
+      "value": "ٹھیک ہے"
+    },
+    {
+      "name": "open",
+      "value": "کھولیں"
+    },
+    {
+      "name": "open_as",
+      "value": "اس طرح کھولیں"
+    },
+    {
+      "name": "open_parent",
+      "value": "Open Parent Directory"
+    },
+    {
+      "name": "open_with",
+      "value": "کے ساتھ کھولیں"
+    },
+    {
+      "name": "open_with_amaze",
+      "value": "Open with Amaze"
+    },
+    {
+      "name": "operation_fail_following",
+      "value": "Operation failed for following files"
+    },
+    {
+      "name": "operation_not_supported",
+      "value": "آپریشن تعاون یافتہ نہیں ہے"
+    },
+    {
+      "name": "operation_unsuccesful",
+      "value": "آپریشن ناکام"
+    },
+    {
+      "name": "optimized",
+      "value": "Optimized"
+    },
+    {
+      "name": "orange",
+      "value": "Orange"
+    },
+    {
+      "name": "otg_access",
+      "value": "OTG ڈیوائس کی جڑ کو منتخب کریں"
+    },
+    {
+      "name": "other",
+      "value": "دیگر"
+    },
+    {
+      "name": "out_of",
+      "value": "out of"
+    },
+    {
+      "name": "overwrite",
+      "value": "اوور رائٹ کریں"
+    },
+    {
+      "name": "package_installer",
+      "value": "پیکیج انسٹالر"
+    },
+    {
+      "name": "package_installer_text",
+      "value": "یہ ایک پیکیج انسٹالر ہے۔ آپ کون سا عمل کرنا چاہیں گے؟"
+    },
+    {
+      "name": "pages",
+      "value": "Number of Pages"
+    },
+    {
+      "name": "paper_size",
+      "value": "Paper Size"
+    },
+    {
+      "name": "password",
+      "value": "پاس ورڈ"
+    },
+    {
+      "name": "password_no_match",
+      "value": "Password doesn't match"
+    },
+    {
+      "name": "password_repeat",
+      "value": "Repeat password"
+    },
+    {
+      "name": "password_unchanged",
+      "value": "(unchanged)"
+    },
+    {
+      "name": "paste",
+      "value": "چسپاں کریں"
+    },
+    {
+      "name": "path",
+      "value": "راستہ"
+    },
+    {
+      "name": "paypal_copy_message",
+      "value": "PayPal ID کلپ بورڈ پر کاپی ہو گئی"
+    },
+    {
+      "name": "pdf_viewer",
+      "value": "Amaze Document Viewer"
+    },
+    {
+      "name": "permission",
+      "value": "اجازتیں"
+    },
+    {
+      "name": "permission_execute",
+      "value": "Execute"
+    },
+    {
+      "name": "permission_group",
+      "value": "Group"
+    },
+    {
+      "name": "permission_other",
+      "value": "دیگر"
+    },
+    {
+      "name": "permission_owner",
+      "value": "Owner"
+    },
+    {
+      "name": "permission_read",
+      "value": "Read"
+    },
+    {
+      "name": "permission_write",
+      "value": "Write"
+    },
+    {
+      "name": "pick_a_file",
+      "value": "ایک فائل چنیں"
+    },
+    {
+      "name": "pick_files",
+      "value": "ایک یا زیادہ فائلیں چنیں"
+    },
+    {
+      "name": "play",
+      "value": "پلے اسٹور"
+    },
+    {
+      "name": "please_wait",
+      "value": "Please Wait"
+    },
+    {
+      "name": "polish_translation_title",
+      "value": "پولش"
+    },
+    {
+      "name": "portuguese_translation_title",
+      "value": "پرتگالی"
+    },
+    {
+      "name": "pref_export",
+      "value": "Export"
+    },
+    {
+      "name": "pref_export_summary",
+      "value": "Export settings"
+    },
+    {
+      "name": "pref_import",
+      "value": "Import"
+    },
+    {
+      "name": "pref_import_summary",
+      "value": "Import settings"
+    },
+    {
+      "name": "preference_delete_confirmation",
+      "value": "Delete confirmation"
+    },
+    {
+      "name": "preference_delete_confirmation_summary",
+      "value": "Ask for confirmation before deleting files. Disabling this is highly discouraged!"
+    },
+    {
+      "name": "preference_language_dialog_title",
+      "value": "Select Language"
+    },
+    {
+      "name": "preference_language_system_default",
+      "value": "System Default"
+    },
+    {
+      "name": "preference_language_title",
+      "value": "App Language"
+    },
+    {
+      "name": "preference_newstack_summary",
+      "value": "Allows you to open files in separate tasks. Access them from system recents screen."
+    },
+    {
+      "name": "preference_newstack_title",
+      "value": "Open files as new task"
+    },
+    {
+      "name": "preselected_configs_title",
+      "value": "Preselected configs"
+    },
+    {
+      "name": "press_again",
+      "value": "باہر نکلنے کے لیے دوبارہ دبائیں"
+    },
+    {
+      "name": "primary_color_summary",
+      "value": "بائیں ٹیب کے لیے بڑے UI عناصر پر رنگ سیٹ کریں"
+    },
+    {
+      "name": "primary_color_title",
+      "value": "بنیادی رنگ (بائیں ٹیب)"
+    },
+    {
+      "name": "primary_two_summary",
+      "value": "دائیں ٹیب کے لیے بڑے UI عناصر پر رنگ سیٹ کریں"
+    },
+    {
+      "name": "primary_two_title",
+      "value": "بنیادی رنگ (دائیں ٹیب)"
+    },
+    {
+      "name": "process_viewer",
+      "value": "عمل دیکھنے والا"
+    },
+    {
+      "name": "processed",
+      "value": "Processed"
+    },
+    {
+      "name": "processing",
+      "value": "Processing…"
+    },
+    {
+      "name": "processing_file",
+      "value": "Processing file"
+    },
+    {
+      "name": "producer",
+      "value": "Producer"
+    },
+    {
+      "name": "properties",
+      "value": "پراپرٹیز"
+    },
+    {
+      "name": "properties_copied_clipboard",
+      "value": "copied to clipboard"
+    },
+    {
+      "name": "protocol_ftps",
+      "value": "Secure FTP"
+    },
+    {
+      "name": "question_delete_bookmark",
+      "value": "Delete bookmark\\?"
+    },
+    {
+      "name": "question_set_path_as_home",
+      "value": "کیا آپ اس ٹیب کے لیے موجودہ راستے کو گھر کے طور پر سیٹ کرنا چاہتے ہیں؟"
+    },
+    {
+      "name": "quick",
+      "value": "فوری رسائی"
+    },
+    {
+      "name": "quick_desc",
+      "value": "Files recently accessed through Amaze"
+    },
+    {
+      "name": "random",
+      "value": "Random Skin"
+    },
+    {
+      "name": "random_summary",
+      "value": "آغاز پر بے ترتیب بنیادی رنگ سیٹ کرتا ہے"
+    },
+    {
+      "name": "rate",
+      "value": "ایپ کی درجہ بندی کریں"
+    },
+    {
+      "name": "recent",
+      "value": "حالیہ فائلیں"
+    },
+    {
+      "name": "recent_desc",
+      "value": "Recently created or modified files"
+    },
+    {
+      "name": "regular_expression",
+      "value": "باقاعدہ اظہار"
+    },
+    {
+      "name": "regular_expression_summary",
+      "value": "BASH طرز کے ریگولر ایکسپریشن کا استعمال کرتے ہوئے تلاش کریں"
+    },
+    {
+      "name": "remember",
+      "value": "Remember for next time"
+    },
+    {
+      "name": "rename",
+      "value": "نام تبدیل کریں"
+    },
+    {
+      "name": "rename_bookmark",
+      "value": "بک مارک میں ترمیم کریں"
+    },
+    {
+      "name": "renaming",
+      "value": "نام بدلنا"
+    },
+    {
+      "name": "reopen_from_source",
+      "value": "Can't, please reopen from last app"
+    },
+    {
+      "name": "report_bugs_summary",
+      "value": "کیڑے کی اطلاع دیں یا نئی خصوصیت کی درخواست کریں"
+    },
+    {
+      "name": "report_bugs_title",
+      "value": "کیڑے کی اطلاع دیں"
+    },
+    {
+      "name": "restore",
+      "value": "Restore"
+    },
+    {
+      "name": "restore_files",
+      "value": "Restore Files"
+    },
+    {
+      "name": "restoring",
+      "value": "Restoring…"
+    },
+    {
+      "name": "results",
+      "value": "Results"
+    },
+    {
+      "name": "romanian_translation_title",
+      "value": "رومانیہ"
+    },
+    {
+      "name": "root_directory",
+      "value": "روٹ"
+    },
+    {
+      "name": "root_failure",
+      "value": "روٹ تک رسائی نہیں دی گئی"
+    },
+    {
+      "name": "root_mode",
+      "value": "روٹ ایکسپلورر"
+    },
+    {
+      "name": "root_mode_summary",
+      "value": "صرف روٹ والے ڈیوائس کے لیے۔ اسے صرف اس صورت میں چیک کریں جب آپ کو اس کے بارے میں یقین ہو"
+    },
+    {
+      "name": "root_pref",
+      "value": "اجازتیں دکھائیں"
+    },
+    {
+      "name": "root_pref_summary",
+      "value": "فائلوں اور فولڈرز کی اجازت دکھائیں"
+    },
+    {
+      "name": "russian_translation_title",
+      "value": "روسی"
+    },
+    {
+      "name": "saf_otg_explanation",
+      "value": "You'll now go to Android's filesystem for security reasons. Please select the USB device from the list on the left."
+    },
+    {
+      "name": "same_dir_move_error",
+      "value": "Destination and source folder shouldn't match to move."
+    },
+    {
+      "name": "same_dir_overwrite_error",
+      "value": "Destination and source folder shouldn't match to overwrite."
+    },
+    {
+      "name": "sample_rate",
+      "value": "Sample Rate"
+    },
+    {
+      "name": "save",
+      "value": "محفوظ کریں"
+    },
+    {
+      "name": "save_path_summary",
+      "value": "شروع ہونے پر، ہر ٹیب کے لیے حال ہی میں دیکھا گیا فولڈر ظاہر ہوگا"
+    },
+    {
+      "name": "save_paths",
+      "value": "راستے یاد رکھیں"
+    },
+    {
+      "name": "saved_multi_files",
+      "value": "%d files saved."
+    },
+    {
+      "name": "saved_single_file",
+      "value": "File saved as '%s'."
+    },
+    {
+      "name": "saving",
+      "value": "محفوظ کرنا"
+    },
+    {
+      "name": "scp_connection",
+      "value": "SCP/SFTP Connection"
+    },
+    {
+      "name": "scp_default_path",
+      "value": "Default Path (Optional)"
+    },
+    {
+      "name": "scp_port",
+      "value": "Port"
+    },
+    {
+      "name": "search",
+      "value": "تلاش کریں"
+    },
+    {
+      "name": "search_hint",
+      "value": "تلاش کرنے کے لیے ٹائپ کریں…"
+    },
+    {
+      "name": "search_recent",
+      "value": "Recent"
+    },
+    {
+      "name": "search_results",
+      "value": "کے تلاش کے نتائج %s"
+    },
+    {
+      "name": "searching",
+      "value": "تلاش کر رہا ہے%s"
+    },
+    {
+      "name": "searching_devices",
+      "value": "آلات کی تلاش"
+    },
+    {
+      "name": "security",
+      "value": "Security"
+    },
+    {
+      "name": "security_error",
+      "value": "File could not be opened using this app"
+    },
+    {
+      "name": "security_summary",
+      "value": "Set up password and encryption"
+    },
+    {
+      "name": "select",
+      "value": "آئٹم کو منتخب کریں"
+    },
+    {
+      "name": "select_all",
+      "value": "سبھی کو منتخب کریں"
+    },
+    {
+      "name": "select_by_date",
+      "value": "Select by date"
+    },
+    {
+      "name": "select_by_type",
+      "value": "Select by type"
+    },
+    {
+      "name": "select_color_config",
+      "value": "Select color config"
+    },
+    {
+      "name": "select_fill",
+      "value": "Select fill"
+    },
+    {
+      "name": "select_intent",
+      "value": "منتخب کریں"
+    },
+    {
+      "name": "select_inverse",
+      "value": "Select Inverse"
+    },
+    {
+      "name": "select_save_location",
+      "value": "Select location to save"
+    },
+    {
+      "name": "select_similar",
+      "value": "Select similar"
+    },
+    {
+      "name": "send_email_to",
+      "value": "Send an e-mail to"
+    },
+    {
+      "name": "serbian_translation_title",
+      "value": "سربیائی"
+    },
+    {
+      "name": "server_address",
+      "value": "سرور IP ایڈریس"
+    },
+    {
+      "name": "service_timer",
+      "value": "Time elapsed"
+    },
+    {
+      "name": "set",
+      "value": "سیٹ"
+    },
+    {
+      "name": "set_as_home",
+      "value": "گھر کے طور پر سیٹ کریں"
+    },
+    {
+      "name": "set_random",
+      "value": "آپ کے ایپ کو دوبارہ شروع کرنے کے بعد تبدیلیاں رونما ہوں گی"
+    },
+    {
+      "name": "setting",
+      "value": "ترتیبات"
+    },
+    {
+      "name": "share",
+      "value": "شیئر کریں"
+    },
+    {
+      "name": "share_limit",
+      "value": "100 سے زیادہ فائلیں شیئر نہیں کر سکتے"
+    },
+    {
+      "name": "share_logs",
+      "value": "Share logs"
+    },
+    {
+      "name": "share_logs_summary",
+      "value": "Share captured logs via email / telegram"
+    },
+    {
+      "name": "showHeaders",
+      "value": "Show Headers"
+    },
+    {
+      "name": "show_bookmarks_pref",
+      "value": "Bookmarks"
+    },
+    {
+      "name": "show_bookmarks_pref_title",
+      "value": "Show bookmarks"
+    },
+    {
+      "name": "show_dividers",
+      "value": "تقسیم کرنے والے دکھائیں"
+    },
+    {
+      "name": "show_quick_access_pref",
+      "value": "Quick accesses"
+    },
+    {
+      "name": "show_quick_access_pref_title",
+      "value": "Show quick accesses"
+    },
+    {
+      "name": "show_system_apps",
+      "value": "Show system apps"
+    },
+    {
+      "name": "sidebar_bookmarks_title",
+      "value": "Sidebar bookmarks"
+    },
+    {
+      "name": "sidebar_preferences",
+      "value": "Sidebar"
+    },
+    {
+      "name": "sidebar_quick_access_title",
+      "value": "Sidebar quick access"
+    },
+    {
+      "name": "signin_with_google_title",
+      "value": "Authenticate to use Google Drive™"
+    },
+    {
+      "name": "size",
+      "value": "فولڈر کا سائز"
+    },
+    {
+      "name": "size_capitalized",
+      "value": "سائز"
+    },
+    {
+      "name": "size_pref",
+      "value": "سائز دکھائیں"
+    },
+    {
+      "name": "size_pref_summary",
+      "value": "فولڈرز میں فائلوں کا سائز اور آئٹمز کی تعداد دکھائیں"
+    },
+    {
+      "name": "skip",
+      "value": "چھوڑیں"
+    },
+    {
+      "name": "smb_connection",
+      "value": "ایس ایم بی کنکشن"
+    },
+    {
+      "name": "smb_launch_error",
+      "value": "You will need to copy this file to storage to open it"
+    },
+    {
+      "name": "smb_share",
+      "value": "راستہ بانٹیں"
+    },
+    {
+      "name": "software",
+      "value": "Software"
+    },
+    {
+      "name": "some_files_failed_invalid_operation",
+      "value": "Some files failed due to invalid operation"
+    },
+    {
+      "name": "sorry_string",
+      "value": "Sorry, that should not have happened."
+    },
+    {
+      "name": "sort",
+      "value": "چھانٹنا"
+    },
+    {
+      "name": "sort_by",
+      "value": "ترتیب دیں"
+    },
+    {
+      "name": "sort_by_colon",
+      "value": "ترتیب دیں:"
+    },
+    {
+      "name": "sort_name",
+      "value": "نام"
+    },
+    {
+      "name": "sort_only_this",
+      "value": "صرف یہ فولڈر"
+    },
+    {
+      "name": "sort_relevance",
+      "value": "مطابقت"
+    },
+    {
+      "name": "sort_size",
+      "value": "سائز"
+    },
+    {
+      "name": "source_summary",
+      "value": "GitHub پر ہمارا سورس کوڈ دیکھیں"
+    },
+    {
+      "name": "source_title",
+      "value": "ماخذ کوڈ"
+    },
+    {
+      "name": "spanish_translation_title",
+      "value": "ہسپانوی"
+    },
+    {
+      "name": "ssh_authentication_failure_key",
+      "value": "Logon failure: Unable to authenticate with supplied username and private key."
+    },
+    {
+      "name": "ssh_authentication_failure_password",
+      "value": "Logon failure: Unable to authenticate with supplied username and password."
+    },
+    {
+      "name": "ssh_connect_failed",
+      "value": "Unable to connect to %1$s:%2$d: %3$s"
+    },
+    {
+      "name": "ssh_connect_failed_host_key_changed_title",
+      "value": "WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!"
+    },
+    {
+      "name": "ssh_host_key_verification_prompt_title",
+      "value": "Verify Host"
+    },
+    {
+      "name": "ssh_key_invalid_passphrase",
+      "value": "Invalid key passphrase."
+    },
+    {
+      "name": "ssh_key_no_decoder_decrypt",
+      "value": "No valid decoder to decrypt PEM."
+    },
+    {
+      "name": "ssh_key_prompt_passphrase",
+      "value": "Please enter key passphrase."
+    },
+    {
+      "name": "ssh_pem_key_parse_error",
+      "value": "Unable to read selected PEM: %s"
+    },
+    {
+      "name": "ssh_select_pem",
+      "value": "Select private key for authentication"
+    },
+    {
+      "name": "ssh_select_pem_button",
+      "value": "SSH Private Key"
+    },
+    {
+      "name": "start_ftp",
+      "value": "شروع کریں"
+    },
+    {
+      "name": "stop_ftp",
+      "value": "رک جاؤ"
+    },
+    {
+      "name": "stopping",
+      "value": "روکنا"
+    },
+    {
+      "name": "storage_internal",
+      "value": "Internal Storage"
+    },
+    {
+      "name": "storage_sd_card",
+      "value": "SD card"
+    },
+    {
+      "name": "subject",
+      "value": "Subject"
+    },
+    {
+      "name": "support_development",
+      "value": "سپورٹ ڈویلپمنٹ"
+    },
+    {
+      "name": "system",
+      "value": "سسٹم (سسٹم تھیم کی پیروی کریں)"
+    },
+    {
+      "name": "system_apps",
+      "value": "System apps"
+    },
+    {
+      "name": "tamil_translation_title",
+      "value": "تامل"
+    },
+    {
+      "name": "text",
+      "value": "متن"
+    },
+    {
+      "name": "text_editor",
+      "value": "Text editor settings"
+    },
+    {
+      "name": "textreader",
+      "value": "ٹیکسٹ ریڈر"
+    },
+    {
+      "name": "theme",
+      "value": "تھیم"
+    },
+    {
+      "name": "thumb",
+      "value": "تھمب نیلز دکھائیں"
+    },
+    {
+      "name": "thumb_summary",
+      "value": "یپس اور امیجز کے تھمب نیلز دکھائیں"
+    },
+    {
+      "name": "time_remaining",
+      "value": "Time remaining"
+    },
+    {
+      "name": "title",
+      "value": "عنوان"
+    },
+    {
+      "name": "total",
+      "value": "کل:"
+    },
+    {
+      "name": "transfer_rate",
+      "value": "Transfer rate"
+    },
+    {
+      "name": "translate_summary",
+      "value": "Amaze کا اپنی زبان میں ترجمہ کریں"
+    },
+    {
+      "name": "translate_title",
+      "value": "ترجمہ کریں"
+    },
+    {
+      "name": "translators",
+      "value": "مترجم"
+    },
+    {
+      "name": "trash_bin",
+      "value": "Trash Bin"
+    },
+    {
+      "name": "trash_bin_cleanup_interval_summary",
+      "value": "Trigger auto-cleanup interval (hours)"
+    },
+    {
+      "name": "trash_bin_cleanup_interval_title",
+      "value": "Cleanup interval"
+    },
+    {
+      "name": "trash_bin_retention_bytes_summary",
+      "value": "Maximum data (in MBs) trash bin can store"
+    },
+    {
+      "name": "trash_bin_retention_bytes_title",
+      "value": "Retention by data size"
+    },
+    {
+      "name": "trash_bin_retention_days_summary",
+      "value": "Maximum days for which trash bin can store a file"
+    },
+    {
+      "name": "trash_bin_retention_days_title",
+      "value": "Retention by days"
+    },
+    {
+      "name": "trash_bin_retention_num_of_files_summary",
+      "value": "Maximum files trash bin can store"
+    },
+    {
+      "name": "trash_bin_retention_num_of_files_title",
+      "value": "Retention by number of files"
+    },
+    {
+      "name": "try_deep_search",
+      "value": "Try Deep Search!"
+    },
+    {
+      "name": "try_indexed_search",
+      "value": "Try Indexed Search!"
+    },
+    {
+      "name": "turkish_translation_title",
+      "value": "ترکی"
+    },
+    {
+      "name": "type",
+      "value": "قسم"
+    },
+    {
+      "name": "typeable_paths_summary",
+      "value": "Long press path bar to type a custom path"
+    },
+    {
+      "name": "typeable_paths_title",
+      "value": "Custom paths"
+    },
+    {
+      "name": "ui",
+      "value": "انٹرفیس"
+    },
+    {
+      "name": "ui_summary",
+      "value": "Control what information to show, customize the sidebar, and toggle UI preferences"
+    },
+    {
+      "name": "ukrainian_translation_title",
+      "value": "یوکرینی"
+    },
+    {
+      "name": "unavailable",
+      "value": "Unavailable"
+    },
+    {
+      "name": "uninstall",
+      "value": "ان انسٹال کریں"
+    },
+    {
+      "name": "unknown",
+      "value": "unknown"
+    },
+    {
+      "name": "unknown_error",
+      "value": "Oops, something went wrong!"
+    },
+    {
+      "name": "unsaved_changes",
+      "value": "غیر محفوظ شدہ تبدیلیاں"
+    },
+    {
+      "name": "unsaved_changes_description",
+      "value": "آپ کے پاس غیر محفوظ شدہ تبدیلیاں ہیں، کیا آپ باہر نکلنے سے پہلے انہیں محفوظ کرنا چاہتے ہیں؟"
+    },
+    {
+      "name": "update",
+      "value": "UPDATE"
+    },
+    {
+      "name": "update_host_key",
+      "value": "Update Host Key"
+    },
+    {
+      "name": "used",
+      "value": "استعمال شدہ جگہ"
+    },
+    {
+      "name": "used_by_others",
+      "value": "دوسروں کی طرف سے استعمال کیا جاتا ہے"
+    },
+    {
+      "name": "user_apps",
+      "value": "User apps"
+    },
+    {
+      "name": "username",
+      "value": "صارف نام"
+    },
+    {
+      "name": "version",
+      "value": "ورژن"
+    },
+    {
+      "name": "video",
+      "value": "ویڈیو"
+    },
+    {
+      "name": "video_player",
+      "value": "Amaze Video Player"
+    },
+    {
+      "name": "videos",
+      "value": "ویڈیوز"
+    },
+    {
+      "name": "vietnamese_translation_title",
+      "value": "ویتنامی"
+    },
+    {
+      "name": "view",
+      "value": "دیکھیں"
+    },
+    {
+      "name": "waiting_content",
+      "value": "Waiting for operation to complete"
+    },
+    {
+      "name": "waiting_title",
+      "value": "Waiting"
+    },
+    {
+      "name": "want_help",
+      "value": "مدد کی ضرورت ہے"
+    },
+    {
+      "name": "warning",
+      "value": "وارننگ"
+    },
+    {
+      "name": "warning_confirm",
+      "value": "Got it!"
+    },
+    {
+      "name": "warning_never_show",
+      "value": "Don't inform again"
+    },
+    {
+      "name": "what_device_headline",
+      "value": "Info:"
+    },
+    {
+      "name": "what_happened_headline",
+      "value": "What happened:"
+    },
+    {
+      "name": "width",
+      "value": "Width"
+    },
+    {
+      "name": "wifip2p",
+      "value": "Wi-Fi P2P"
+    },
+    {
+      "name": "written",
+      "value": "Written"
+    },
+    {
+      "name": "xda_title",
+      "value": "ایکس ڈی اے تھریڈ"
+    },
+    {
+      "name": "year",
+      "value": "Year"
+    },
+    {
+      "name": "yes",
+      "value": "جی ہاں"
+    },
+    {
+      "name": "your_comment",
+      "value": "Your comment (in English):"
+    },
+    {
+      "name": "zip_viewer",
+      "value": "زپ ناظر"
+    }
+  ]
+}
